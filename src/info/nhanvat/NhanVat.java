@@ -7,8 +7,6 @@ public abstract class NhanVat {
     protected String ten;
     protected String sinh;
     protected String mat;
-
-
     protected String chucVu;
 
     public NhanVat() {
@@ -29,24 +27,12 @@ public abstract class NhanVat {
         return ten;
     }
 
-    public void setTen(String ten) {
-        this.ten = ten;
-    }
-
     public String getSinh() {
         return sinh;
     }
 
-    public void setSinh(String sinh) {
-        this.sinh = sinh;
-    }
-
     public String getMat() {
         return mat;
-    }
-
-    public void setMat(String mat) {
-        this.mat = mat;
     }
 
     public void sync(NhanVat obj) throws IllegalAccessException {

@@ -44,78 +44,70 @@ public class Vua extends NhanVat {
 
             Elements info = doc.select("table.infobox tbody tr");
             if (info.size() != 0) {
-                if (vua.getTen() == null && doc.selectFirst(".mw-page-title-main") != null) {
-                    vua.setTen(doc.selectFirst(".mw-page-title-main").text());
+                if (vua.ten == null && doc.selectFirst(".mw-page-title-main") != null) {
+                    vua.ten = doc.selectFirst(".mw-page-title-main").text();
                 }
                 for (Element row : info) {
-                    if (vua.getTenDayDu() == null && row.selectFirst(".nickname") != null) {
-                        vua.setTenDayDu(row.selectFirst(".nickname").text());
+                    if (vua.tenDayDu == null && row.selectFirst(".nickname") != null) {
+                        vua.tenDayDu = row.selectFirst(".nickname").text();
                     }
-                    if (vua.getSinh() == null && row.selectFirst("th:contains(Sinh)") != null) {
-                        vua.setSinh(row.selectFirst("td").text());
+                    if (vua.sinh == null && row.selectFirst("th:contains(Sinh)") != null) {
+                        vua.sinh = row.selectFirst("td").text();
                     }
-                    if (vua.getMat() == null && row.selectFirst("th:contains(Mất)") != null) {
-                        vua.setMat(row.selectFirst("td").text());
+                    if (vua.mat == null && row.selectFirst("th:contains(Mất)") != null) {
+                        vua.mat = row.selectFirst("td").text();
                     }
 
                 }
-                m.put(vua.getTen(), vua);
+                m.put(vua.ten, vua);
             }
         }
         return m;
+    }
+
+    public static Vua mergeRule(Object oldVal, Object newVal) {
+        Vua v1 = (Vua) oldVal;
+        Vua v2 = (Vua) newVal;
+        if (v1.chucVu == null || v1.chucVu.equals("?")) {
+            v1.chucVu = v2.chucVu;
+        }
+        if (v1.sinh == null || v1.sinh.equals("?")) {
+            v1.sinh = v2.sinh;
+        }
+        if (v1.mat == null || v1.mat.equals("?")) {
+            v1.mat = v2.mat;
+        }
+        if (v1.trieuDai == null || v1.trieuDai.equals("?")) {
+            v1.trieuDai = v2.trieuDai;
+        }
+        if (v1.tenDayDu == null || v1.tenDayDu.equals("?")) {
+            v1.tenDayDu = v2.tenDayDu;
+        }
+        return v1;
     }
 
     public String getTenDayDu() {
         return tenDayDu;
     }
 
-    public void setTenDayDu(String tenDayDu) {
-        this.tenDayDu = tenDayDu;
-    }
-
     public String getTheThiep() {
         return theThiep;
-    }
-
-    public void setTheThiep(String theThiep) {
-        this.theThiep = theThiep;
     }
 
     public String getThanPhu() {
         return thanPhu;
     }
 
-    public void setThanPhu(String thanPhu) {
-        this.thanPhu = thanPhu;
-    }
-
     public String getThanMau() {
         return thanMau;
-    }
-
-    public void setThanMau(String thanMau) {
-        this.thanMau = thanMau;
     }
 
     public String getTrieuDai() {
         return trieuDai;
     }
 
-    public void setTrieuDai(String trieuDai) {
-        this.trieuDai = trieuDai;
-    }
-
-    public void sync(Vua obj) throws IllegalAccessException {
-        super.sync(obj);
-        this.trieuDai = (this.trieuDai == null) ? obj.trieuDai : this.trieuDai;
-        this.tenDayDu = (this.tenDayDu == null) ? obj.tenDayDu : this.tenDayDu;
-        this.theThiep = (this.theThiep == null) ? obj.theThiep : this.theThiep;
-        this.thanPhu = (this.ten == null) ? obj.thanPhu : this.thanPhu;
-        this.thanMau = (this.thanMau == null) ? obj.thanMau : this.thanMau;
-    }
-
     public void print() {
-        System.out.println(this.getTen() + "-" + this.getTenDayDu() + "-" + this.getSinh() + "-" + this.getMat());
+        System.out.println(this.ten + "-" + this.tenDayDu + "-" + this.sinh + "-" + this.mat);
     }
 
 }

@@ -24,58 +24,24 @@ import java.util.Map;
 public class DataCrawler {
 
     public static void main(String[] args) throws IOException, FileNotFoundException, IllegalAccessException {
-        final HistoricalCharater_Links hcs = new HistoricalCharater_Links();
-        final King_Links kings = new King_Links();
-        final President_Links presidents = new President_Links();
 
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-
-        // 5' to get all links 5*291 links
-//		hcs.setLinks(
-//				"https://nguoikesu.com/nhan-vat?start=0",
-//				"https://nguoikesu.com"
-//		);
-//		hcs.printList(hcs.getLinks());
-//		JSONArray json_hcs = new JSONArray();
-//		for(String link : hcs.getLinks()){
-//			Map m = new LinkedHashMap();
-//			m.put("link",link);
-//			json_hcs.add(m);
-//		}
-
-        kings.setLinks(
-                "https://vi.wikipedia.org/wiki/Vua_Việt_Nam",
-                "https://vi.wikipedia.org"
-        );
-        Map json_vua = Vua.getInfoFromWiki(kings.getLinks());
-//		kings.printList(kings.getLinks());
-//        JSONArray json_kings = new JSONArray();
-//        for (String link : kings.getLinks()) {
-//            Map m = new LinkedHashMap();
-//            m.put("link", link);
-//            json_kings.add(m);
-//        }
+        Map m = Vua.getInfoFromWiki(Nhanvat_Links.getVua_wiki());
+//        Vua vua1 = new Vua("Duy Anh", "Vua", null, "2100", "Vuong", "?", null, null, null);
+//        Vua vua2 = new Vua("Duy Anh", "Vua", "2002", "2100", "Vuong", "Nhimcoii", null, null, null);
+//        Vua vua3 = new Vua("Nhimcoii", "Vua", "2002", "2100", "Vuong", "Nhimcoii", null, null, null);
+//        Map m1 = new LinkedHashMap();
+//        Map m2 = new LinkedHashMap();
 //
-//        presidents.setLinks(
-//                "https://vi.wikipedia.org/wiki/Danh_sách_Chủ_tịch_nước_Việt_Nam",
-//                "https://vi.wikipedia.org"
-//        );
-//		presidents.printList(presidents.getLinks());
-//        JSONArray json_presidents = new JSONArray();
-//        for (String link : presidents.getLinks()) {
-//            Map m = new LinkedHashMap();
-//            m.put("link", link);
-//            json_presidents.add(m);
-//        }
-//		file.put("Presidents",json_presidents);
-//        file.put("Vua", json_vua);
-//		file.put("Historical Characters",json_hcs);
-        Writer writer = Files.newBufferedWriter(Paths.get("Links.json"));
-
-        // convert book object to JSON file
-        gson.toJson(json_vua, writer);
-
-        // close writer
+//        m1.put(vua1.getTen(), vua1);
+//        m1.put(vua3.getTen(), vua3);
+//        m2.put(vua2.getTen(), vua2);
+//
+//        m2.forEach((key, value) -> m1.merge(key, value, (oldVal, newVal) -> {
+//            return Vua.mergeRule(oldVal, newVal);
+//        }));
+        Writer writer = Files.newBufferedWriter(Paths.get("NhanVat.json"));
+        gson.toJson(m, writer);
         writer.close();
     }
 }
