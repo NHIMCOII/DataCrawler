@@ -2,7 +2,7 @@ package dataCrawler.jsonParser;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import info.nhanvat.Vua;
+import dataCrawler.info.nhanvat.Vua;
 
 import java.io.IOException;
 import java.io.Writer;

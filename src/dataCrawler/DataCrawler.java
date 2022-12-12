@@ -5,20 +5,12 @@ import java.io.IOException;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import dataCrawler.links.*;
-import info.nhanvat.Vua;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
+import dataCrawler.info.nhanvat.Vua;
 
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class DataCrawler {

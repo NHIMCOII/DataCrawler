@@ -79,7 +79,7 @@ public class Nhanvat_Links {
 
         String url = "https://nguoikesu.com/nhan-vat?start=0";
 
-// 		Append info from all pages
+// 		Append dataCrawler.info from all pages
 //		5 characters each page & 291 pages
         for (int i = 0; i < 5 * 291; i += 5) {
             Document subDoc = Jsoup.connect(url)

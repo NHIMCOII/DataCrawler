@@ -1,6 +1,4 @@
-package info.nhanvat;
-
-import org.json.simple.JSONObject;
+package dataCrawler.info.nhanvat;
 
 
 public abstract class NhanVat {
