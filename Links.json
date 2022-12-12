@@ -1,0 +1,688 @@
+{
+  "Kinh Dương vương": {
+    "tenDayDu": "Lộc Tục (祿續)",
+    "ten": "Kinh Dương vương",
+    "sinh": "15 tháng 8 năm 2919 TCN",
+    "mat": "18 tháng 1 năm 2792 TCN (127 tuổi)"
+  },
+  "Lạc Long Quân": {
+    "tenDayDu": "Sùng Lãm (崇纜)",
+    "ten": "Lạc Long Quân",
+    "sinh": "2825 TCN Xích Quỷ",
+    "mat": "2524 TCN (300-301 tuổi) Không rõ"
+  },
+  "Hùng Vương thứ I": {
+    "ten": "Hùng Vương thứ I"
+  },
+  "Hùng Vương thứ VI": {
+    "ten": "Hùng Vương thứ VI"
+  },
+  "Lang Liêu": {
+    "ten": "Lang Liêu"
+  },
+  "Hùng Vương thứ XVI": {
+    "ten": "Hùng Vương thứ XVI"
+  },
+  "Hùng Vương thứ XVII": {
+    "ten": "Hùng Vương thứ XVII"
+  },
+  "Hùng Vương thứ XVIII": {
+    "ten": "Hùng Vương thứ XVIII",
+    "mat": "257 TCN hoặc 208 TCN Văn Lang"
+  },
+  "An Dương Vương": {
+    "tenDayDu": "Thục Phán",
+    "ten": "An Dương Vương",
+    "mat": "179 TCN[1]"
+  },
+  "Triệu Vũ Vương": {
+    "tenDayDu": "Triệu Đà (趙佗)",
+    "ten": "Triệu Vũ Vương",
+    "sinh": "257 TCN hoặc 235 TCN huyện Chân Định (真定), quận Hằng Sơn (恒山), nay là tỉnh Hà Bắc, Trung Quốc",
+    "mat": "137 TCN (99 hoặc 120 tuổi) Phiên Ngung (nay là thành phố Quảng Châu, tỉnh Quảng Đông, Trung Quốc)"
+  },
+  "Triệu Văn Vương": {
+    "tenDayDu": "Triệu Mạt Triệu Muội (趙眜) Triệu Hồ (趙胡)",
+    "ten": "Triệu Văn Vương",
+    "sinh": "175 TCN",
+    "mat": "124 TCN Nam Việt"
+  },
+  "Triệu Minh Vương": {
+    "tenDayDu": "Triệu Anh Tề (趙嬰齊)",
+    "ten": "Triệu Minh Vương",
+    "mat": "113 TCN Nam Việt"
+  },
+  "Triệu Ai Vương": {
+    "tenDayDu": "Triệu Hưng (趙興)",
+    "ten": "Triệu Ai Vương",
+    "sinh": "?",
+    "mat": "112 TCN Nam Việt"
+  },
+  "Triệu Dương Vương": {
+    "tenDayDu": "Triệu Kiến Đức (趙建德)",
+    "ten": "Triệu Dương Vương",
+    "sinh": "?",
+    "mat": "111 TCN Nam Việt"
+  },
+  "Hai Bà Trưng": {
+    "tenDayDu": "Trưng Trắc (徵側)",
+    "ten": "Hai Bà Trưng",
+    "sinh": "13 tháng 9 năm 14",
+    "mat": "5 tháng 3 năm 43 (29 tuổi)"
+  },
+  "Lý Nam Đế": {
+    "tenDayDu": "Lý Bí hoặc Lý Bôn (李賁)",
+    "ten": "Lý Nam Đế",
+    "sinh": "(503-10-17)17 tháng 10, 503 Giao Châu",
+    "mat": "13 tháng 4, 548(548-04-13) (44 tuổi) Vạn Xuân"
+  },
+  "Triệu Việt Vương": {
+    "tenDayDu": "Triệu Quang Phục (趙光復)",
+    "ten": "Triệu Việt Vương",
+    "sinh": "26 tháng 01 năm 524 Chu Diên, Giao Châu",
+    "mat": "571 Vạn Xuân"
+  },
+  "Lý Thiên Bảo": {
+    "tenDayDu": "Lý Thiên Bảo",
+    "ten": "Lý Thiên Bảo",
+    "sinh": "499?",
+    "mat": "555 động Dã Năng"
+  },
+  "Hậu Lý Nam Đế": {
+    "tenDayDu": "Lý Phật Tử (李佛子)",
+    "ten": "Hậu Lý Nam Đế",
+    "sinh": "518",
+    "mat": "602 Tây An"
+  },
+  "Lý Sư Lợi": {
+    "ten": "Lý Sư Lợi",
+    "mat": "603 Trung Quốc"
+  },
+  "Mai Hắc Đế": {
+    "tenDayDu": "Mai Thúc Loan Mai Thúc Yên Mai Lập Thành",
+    "ten": "Mai Hắc Đế",
+    "sinh": "670 làng Ngọc Trừng, xã Đông Liệt, huyện Sa Nam, châu Hoan (nay là xã Nam Thái, huyện Nam Đàn, tỉnh Nghệ An)",
+    "mat": "19 tháng 10, 723 núi Đụn (xã Vân Diên, huyện Nam Đàn, tỉnh Nghệ An)"
+  },
+  "Mai Thúc Huy": {
+    "tenDayDu": "Mai Thúc Huy (梅叔輝)",
+    "ten": "Mai Thúc Huy",
+    "mat": "723"
+  },
+  "Mai Kỳ Sơn": {
+    "tenDayDu": "Mai Kỳ Sơn (梅奇山)",
+    "ten": "Mai Kỳ Sơn",
+    "mat": "7 tháng 12 năm 723"
+  },
+  "Ngô Quyền": {
+    "tenDayDu": "Ngô Quyền (吳權)",
+    "ten": "Ngô Quyền",
+    "sinh": "17 tháng 4 năm 898 Đường Lâm, Tĩnh Hải quân",
+    "mat": "14 tháng 2 năm 944 (45 tuổi) Tĩnh Hải quân"
+  },
+  "Dương Tam Kha": {
+    "tenDayDu": "Dương Tam Kha (楊三哥) Dương Chủ Tướng (楊主將) Dương Thiệu Hồng (楊紹洪)",
+    "ten": "Dương Tam Kha",
+    "sinh": "?",
+    "mat": "10 tháng 8 năm 980"
+  },
+  "Ngô Xương Ngập": {
+    "tenDayDu": "Ngô Xương Ngập (吳昌岌)",
+    "ten": "Ngô Xương Ngập",
+    "mat": "954"
+  },
+  "Ngô Xương Văn": {
+    "tenDayDu": "Ngô Xương Văn (吳昌文)",
+    "ten": "Ngô Xương Văn",
+    "sinh": "12 tháng 9, 934",
+    "mat": "965 (30-31 tuổi)"
+  },
+  "Ngô Xương Xí": {
+    "tenDayDu": "Ngô Xương Xí (吳昌熾)",
+    "ten": "Ngô Xương Xí"
+  },
+  "Đinh Tiên Hoàng": {
+    "tenDayDu": "Đinh Bộ Lĩnh (丁部領) Đinh Hoàn (丁桓)",
+    "ten": "Đinh Tiên Hoàng",
+    "sinh": "22 tháng 3 năm 924 Gia Viễn, Ninh Bình, Tĩnh Hải quân",
+    "mat": "Tháng 10 năm 979 Hoa Lư, Ninh Bình, Đại Cồ Việt"
+  },
+  "Đinh Phế Đế": {
+    "tenDayDu": "Đinh Toàn (丁璿) Đinh Tuệ (丁穗)",
+    "ten": "Đinh Phế Đế",
+    "sinh": "974",
+    "mat": "1001 (27 tuổi)"
+  },
+  "Lê Đại Hành": {
+    "tenDayDu": "Lê Hoàn (黎桓)",
+    "ten": "Lê Đại Hành",
+    "sinh": "10 tháng 8, 941 Tĩnh Hải quân",
+    "mat": "18 tháng 4, 1005(1005-04-18) (63 tuổi) Hoa Lư, Đại Cồ Việt"
+  },
+  "Lê Trung Tông (Tiền Lê)": {
+    "tenDayDu": "Lê Long Việt (黎龍鉞)",
+    "ten": "Lê Trung Tông (Tiền Lê)",
+    "sinh": "983 Hoa Lư",
+    "mat": "1005 (21–22 tuổi) Đại Cồ Việt"
+  },
+  "Lê Long Đĩnh": {
+    "tenDayDu": "Lê Long Đĩnh (黎龍鋌) Lê Chí Trung (黎至忠)",
+    "ten": "Lê Long Đĩnh",
+    "sinh": "15 tháng 11, 986 Kinh đô Hoa Lư",
+    "mat": "19 tháng 11, 1009(1009-11-19) (23 tuổi) Đại Cồ Việt"
+  },
+  "Lý Thái Tổ": {
+    "tenDayDu": "Lý Công Uẩn (李公蘊)",
+    "ten": "Lý Thái Tổ",
+    "sinh": "8 tháng 3 năm 974 Từ Sơn, Bắc Ninh , Đại Cồ Việt",
+    "mat": "31 tháng 3, 1028(1028-03-31) (54 tuổi) Điện Long An, Thăng Long, Đại Cồ Việt"
+  },
+  "Lý Thái Tông": {
+    "tenDayDu": "Lý Phật Mã (李佛瑪) Lý Đức Chính (李德政)",
+    "ten": "Lý Thái Tông",
+    "sinh": "29 tháng 7, 1000 Hoa Lư, Đại Cồ Việt",
+    "mat": "3 tháng 11, 1054(1054-11-03) (54 tuổi) Điện Trường Xuân, Thăng Long, Đại Cồ Việt"
+  },
+  "Lý Thánh Tông": {
+    "tenDayDu": "Lý Nhật Tôn (李日尊)",
+    "ten": "Lý Thánh Tông",
+    "sinh": "30 tháng 3 năm 1023",
+    "mat": "1 tháng 2, 1072(1072-02-01) (48 tuổi)"
+  },
+  "Lý Nhân Tông": {
+    "tenDayDu": "Lý Càn Đức (李乾德)",
+    "ten": "Lý Nhân Tông",
+    "sinh": "22 tháng 2, 1066 Cung Động Tiên, Thăng Long",
+    "mat": "15 tháng 1, 1128(1128-01-15) (61 tuổi) Điện Vĩnh Quang, Thăng Long"
+  },
+  "Lý Thần Tông": {
+    "tenDayDu": "Lý Dương Hoán (李陽煥)",
+    "ten": "Lý Thần Tông",
+    "sinh": "1116 Thăng Long",
+    "mat": "31 tháng 10 năm 1138 Điện Vĩnh Quang, Thăng Long"
+  },
+  "Lý Anh Tông": {
+    "tenDayDu": "Lý Thiên Tộ (李天祚)",
+    "ten": "Lý Anh Tông",
+    "sinh": "tháng 4 năm 1136 Thăng Long",
+    "mat": "14 tháng 8 năm 1175 Thăng Long, Đại Việt"
+  },
+  "Lý Cao Tông": {
+    "tenDayDu": "Lý Long Cán (hay Trát[1])",
+    "ten": "Lý Cao Tông",
+    "sinh": "(1173-07-06)6 tháng 7, 1173",
+    "mat": "15 tháng 11, 1210(1210-11-15) (37 tuổi)"
+  },
+  "Lý Thẩm": {
+    "tenDayDu": "Lý Thẩm",
+    "ten": "Lý Thẩm",
+    "mat": "Việt Nam"
+  },
+  "Lý Huệ Tông": {
+    "tenDayDu": "Lý (Hạo) Sảm[1]",
+    "ten": "Lý Huệ Tông",
+    "sinh": "tháng 7 năm 1194 Thăng Long",
+    "mat": "3 tháng 9, 1226(1226-09-03) (31–32 tuổi) Chùa Chân Giáo, Thăng Long, Đại Việt"
+  },
+  "Lý Nguyên Hoàng": {
+    "tenDayDu": "Không rõ",
+    "ten": "Lý Nguyên Hoàng",
+    "sinh": "Không biết Việt Nam",
+    "mat": "1221 Việt Nam"
+  },
+  "Lý Chiêu Hoàng": {
+    "tenDayDu": "Lý Phật Kim (李佛金) Lý Thiên Hinh (李天馨)",
+    "ten": "Lý Chiêu Hoàng",
+    "sinh": "Tháng 9 năm Mậu Dần (1218) Thăng Long (?)",
+    "mat": "Tháng 3 năm Mậu Dần (1278) (61 tuổi) Cổ Pháp (?)"
+  },
+  "Trần Thái Tông": {
+    "ten": "Trần Thái Tông",
+    "sinh": "(1218-07-09)9 tháng 7, 1218 Hương Tức Mặc, Đại Việt",
+    "mat": "5 tháng 5, 1277(1277-05-05) (58 tuổi) Điện Vạn Thọ, Thăng Long, Đại Việt"
+  },
+  "Trần Thánh Tông": {
+    "tenDayDu": "Trần Hoảng (陳晃) Trần Uy Hoảng (陳威晃) Trần Quang Bính (陳光昺) Trần Nhật Huyên (陳日烜)",
+    "ten": "Trần Thánh Tông",
+    "sinh": "(1240-10-12)12 tháng 10 năm 1240 Thăng Long, Đại Việt",
+    "mat": "3 tháng 7 năm 1290(1290-07-03) (49 tuổi) Cung Nhân Thọ, Thăng Long, Đại Việt"
+  },
+  "Trần Nhân Tông": {
+    "tenDayDu": "Trần Khâm (陳昑)",
+    "ten": "Trần Nhân Tông",
+    "sinh": "(1258-12-07)7 tháng 12 năm 1258 Thăng Long, Đại Việt",
+    "mat": "16 tháng 12 năm 1308(1308-12-16) (50 tuổi) Am Ngọa Núi, núi Yên Tử"
+  },
+  "Trần Anh Tông": {
+    "tenDayDu": "Trần Thuyên (陳烇)",
+    "ten": "Trần Anh Tông",
+    "sinh": "25 tháng 10 năm 1276",
+    "mat": "21 tháng 4 năm 1320 (44 tuổi) Cung Trùng Quang, Thiên Trường, Đại Việt"
+  },
+  "Trần Minh Tông": {
+    "tenDayDu": "Trần Mạnh (陳奣) Trần Thánh Sinh (陳聖生)",
+    "ten": "Trần Minh Tông",
+    "sinh": "(1300-10-04)4 tháng 10, 1300 Thăng Long, Đại Việt",
+    "mat": "10 tháng 3, 1357(1357-03-10) (56 tuổi) Cung Bảo Nguyên, Thăng Long, Đại Việt"
+  },
+  "Trần Hiến Tông": {
+    "tenDayDu": "Trần Vượng (陳旺)",
+    "ten": "Trần Hiến Tông",
+    "sinh": "17 tháng 5, 1319",
+    "mat": "11 tháng 6, 1341(1341-06-11) (22 tuổi) Quang Triều cung, Thăng Long"
+  },
+  "Trần Dụ Tông": {
+    "tenDayDu": "Trần Hạo (陳暭) Trần Nhật Khuê (陳日煃)",
+    "ten": "Trần Dụ Tông",
+    "sinh": "22 tháng 11 năm 1336",
+    "mat": "25 tháng 5, 1369(1369-05-25) (32 tuổi) Quang Triều cung, Thăng Long"
+  },
+  "Dương Nhật Lễ": {
+    "tenDayDu": "Trần Nhật Lễ (陳日煃) Trần Nhật Kiên (陳日熞)",
+    "ten": "Dương Nhật Lễ",
+    "sinh": "?",
+    "mat": "7 tháng 12, năm 1370 Phường Giang Khẩu, Thăng Long"
+  },
+  "Trần Nghệ Tông": {
+    "tenDayDu": "Trần Phủ (陳暊) Trần Thúc Minh (陳叔明)",
+    "ten": "Trần Nghệ Tông",
+    "sinh": "20 tháng 12 năm 1321",
+    "mat": "6 tháng 1, 1395(1395-01-06) (73 tuổi) Thăng Long"
+  },
+  "Trần Duệ Tông": {
+    "tenDayDu": "Trần Kính (陳曔) Trần Đoan (陳煓) Trần Nhật Đoan (陳日煓)",
+    "ten": "Trần Duệ Tông",
+    "sinh": "30 tháng 6, 1337",
+    "mat": "4 tháng 3, 1377(1377-03-04) (39 tuổi) Chiêm Thành"
+  },
+  "Trần Phế Đế (Đại Việt)": {
+    "tenDayDu": "Trần Hiện (陳晛) Trần Nhật Vĩ (陳日煒)",
+    "ten": "Trần Phế Đế (Đại Việt)",
+    "sinh": "6 tháng 3, 1361 Thăng Long",
+    "mat": "6 tháng 12, 1388(1388-12-06) (27 tuổi) Thăng Long"
+  },
+  "Trần Thuận Tông": {
+    "tenDayDu": "Trần Ngung (陳顒) Trần Nhật Hỗn (陳日焜)",
+    "ten": "Trần Thuận Tông",
+    "sinh": "1377",
+    "mat": "30 tháng 4, 1400(1400-04-30) (22–23 tuổi)"
+  },
+  "Trần Thiếu Đế": {
+    "tenDayDu": "Trần An (陳)",
+    "ten": "Trần Thiếu Đế",
+    "sinh": "1396",
+    "mat": "?"
+  },
+  "Hồ Quý Ly": {
+    "tenDayDu": "Lê Quý Ly (黎季犛) Hồ Quý Ly (胡季犛) Hồ Nhất Nguyên (胡一元)",
+    "ten": "Hồ Quý Ly",
+    "sinh": "1336 Thanh Hóa, Đại Việt thời Nhà Trần",
+    "mat": "28 tháng 9, 1407(1407-09-28) (70–71 tuổi) Quảng Tây, Đại Minh"
+  },
+  "Hồ Hán Thương": {
+    "ten": "Hồ Hán Thương",
+    "sinh": "? Thanh Hóa ?, Việt Nam",
+    "mat": "1407 Quảng Tây, Trung Quốc"
+  },
+  "Giản Định Đế": {
+    "tenDayDu": "Trần Ngỗi (陳頠)",
+    "ten": "Giản Định Đế",
+    "sinh": "1375",
+    "mat": "1410"
+  },
+  "Trùng Quang Đế": {
+    "tenDayDu": "Trần Quý Khoáng",
+    "ten": "Trùng Quang Đế",
+    "mat": "14 tháng 4 năm 1414"
+  },
+  "Trần Cảo (vua)": {
+    "tenDayDu": "Hồ Ông (胡翁)",
+    "ten": "Trần Cảo (vua)",
+    "mat": "1428"
+  },
+  "Lê Thái Tổ": {
+    "tenDayDu": "Lê Lợi (黎利)",
+    "ten": "Lê Thái Tổ",
+    "sinh": "10 tháng 9, 1385 Lam Sơn, Thanh Hóa",
+    "mat": "5 tháng 10, 1433(1433-10-05) (48 tuổi) Đông Kinh, Đại Việt"
+  },
+  "Lê Thái Tông": {
+    "tenDayDu": "Lê Nguyên Long (黎元龍)",
+    "ten": "Lê Thái Tông",
+    "sinh": "(1423-12-22)22 tháng 12, 1423 Lam Sơn, huyện Thọ Xuân, Thanh Hóa",
+    "mat": "7 tháng 9, 1442(1442-09-07) (18 tuổi) Lệ Chi viên, huyện Gia Định[2]"
+  },
+  "Lê Nhân Tông": {
+    "tenDayDu": "Lê Bang Cơ (黎邦基)",
+    "ten": "Lê Nhân Tông",
+    "sinh": "(1441-05-28)28 tháng 5, 1441[1] Đông Kinh, Đại Việt",
+    "mat": "25 tháng 10, 1459(1459-10-25) (18 tuổi) Đông Kinh, Đại Việt"
+  },
+  "Lê Nghi Dân": {
+    "tenDayDu": "Lê Nghi Dân (黎宜民)",
+    "ten": "Lê Nghi Dân",
+    "sinh": "tháng 6, 1439[1]",
+    "mat": "6 tháng 6, 1460(1460-06-06) (20–21 tuổi)[2] Đông Kinh, Đại Việt"
+  },
+  "Lê Thánh Tông": {
+    "tenDayDu": "Lê Tư Thành (黎思誠) Lê Hạo (黎灝)",
+    "ten": "Lê Thánh Tông",
+    "sinh": "(1442-08-25)25 tháng 8, 1442 Chùa Huy Văn, Đại Việt",
+    "mat": "3 tháng 3, 1497(1497-03-03) (54 tuổi) Điện Bảo Quang, Đông Kinh, Đại Việt"
+  },
+  "Lê Hiến Tông": {
+    "tenDayDu": "Lê Tranh (黎鏳) Lê Sanh (黎檉) Lê Huy (黎暉)",
+    "ten": "Lê Hiến Tông",
+    "sinh": "(1461-09-06)6 tháng 9, 1461 Đông Kinh, Đại Việt",
+    "mat": "24 tháng 6, 1504(1504-06-24) (42 tuổi) Điện Đồ Trị, Đông Kinh, Đại Việt"
+  },
+  "Lê Túc Tông": {
+    "tenDayDu": "Lê Thuần (黎㵮)",
+    "ten": "Lê Túc Tông",
+    "sinh": "(1488-09-06)6 tháng 9, 1488 Đông Kinh, Đại Việt",
+    "mat": "12 tháng 1, 1505(1505-01-12) (16 tuổi) Điện Hoàng Cực, Đông Kinh, Đại Việt"
+  },
+  "Lê Uy Mục": {
+    "tenDayDu": "Lê Tuấn (黎濬) Lê Huyên (黎諠) Lê Nghị (黎誼)",
+    "ten": "Lê Uy Mục",
+    "sinh": "5 tháng 5, 1488 Đông Kinh",
+    "mat": "1 tháng 12, 1509(1509-12-01) (21 tuổi) Cửa Lệ Cảnh, Đông Kinh"
+  },
+  "Lê Tương Dực": {
+    "tenDayDu": "Lê Oanh (黎瀠) Lê Trừu (黎晭)",
+    "ten": "Lê Tương Dực",
+    "sinh": "16 tháng 7, 1495",
+    "mat": "8 tháng 5, 1516(1516-05-08) (20 tuổi) hồ Chu Tước, phường Bích Câu, Đông Kinh"
+  },
+  "Lê Quang Trị": {
+    "tenDayDu": "Lê Quang Trị (黎光治)",
+    "ten": "Lê Quang Trị",
+    "sinh": "1509",
+    "mat": "1516 (6–7 tuổi) Tây Đô, Thanh Hóa"
+  },
+  "Lê Chiêu Tông": {
+    "tenDayDu": "Lê Y (黎椅)",
+    "ten": "Lê Chiêu Tông",
+    "sinh": "(1506-11-18)18 tháng 11, 1506 Đông Kinh",
+    "mat": "19 tháng 1, 1527(1527-01-19) (20 tuổi) phường Đông Hà (Hàng Chiếu), Đông Kinh, Đại Việt"
+  },
+  "Lê Bảng": {
+    "tenDayDu": "Lê Bảng",
+    "ten": "Lê Bảng"
+  },
+  "Lê Do": {
+    "tenDayDu": "Lê Do",
+    "ten": "Lê Do",
+    "mat": "1519"
+  },
+  "Lê Cung Hoàng": {
+    "tenDayDu": "Lê Xuân (黎椿)",
+    "ten": "Lê Cung Hoàng",
+    "sinh": "(1507-07-26)26 tháng 7, 1507 Đông Kinh",
+    "mat": "15 tháng 6, 1527(1527-06-15) (19 tuổi) Tây cung, Đông Kinh, Đại Việt"
+  },
+  "Mạc Đăng Dung": {
+    "tenDayDu": "Mạc Đăng Dung (莫登庸)",
+    "ten": "Mạc Đăng Dung",
+    "sinh": "(1483-12-22)22 tháng 12, 1483 (niên hiệu Hồng Đức thời Lê sơ) làng Cổ Trai, huyện Nghi Dương, phủ Kinh Môn, trấn Hải Dương (nay thuộc thôn Cổ Trai, xã Ngũ Đoan, huyện Kiến Thụy, Hải Phòng)",
+    "mat": "11 tháng 9, 1541(1541-09-11) (57 tuổi) (niên hiệu Quảng Hòa thời Mạc) Dương Kinh, Đại Việt (nay thuộc xã Ngũ Đoan, huyện Kiến Thụy, Hải Phòng)"
+  },
+  "Mạc Thái Tông": {
+    "tenDayDu": "Mạc Đăng Doanh (莫登瀛)",
+    "ten": "Mạc Thái Tông",
+    "sinh": "1500, Đại Việt",
+    "mat": "25 tháng 1, 1540[1] 3 tháng 3, 1540[2] (40 tuổi) Nhà Mạc, Đại Việt"
+  },
+  "Mạc Hiến Tông": {
+    "tenDayDu": "Mạc Phúc Hải (莫福海) Mạc Đức Nguyên",
+    "ten": "Mạc Hiến Tông",
+    "sinh": "1517",
+    "mat": "1546 Thăng Long, Đại Việt"
+  },
+  "Mạc Chính Trung": {
+    "tenDayDu": "Mạc Chính Trung",
+    "ten": "Mạc Chính Trung",
+    "sinh": "Việt Nam",
+    "mat": "Nhà Minh"
+  },
+  "Mạc Tuyên Tông": {
+    "tenDayDu": "Mạc Phúc Nguyên",
+    "ten": "Mạc Tuyên Tông",
+    "sinh": "1535 Hoàng thành Thăng Long, Đại Việt",
+    "mat": "(1564-02-18)18 tháng 2, 1564 Thăng Long, Đại Việt"
+  },
+  "Mạc Mậu Hợp": {
+    "tenDayDu": "Mạc Mậu Hợp (莫茂洽)",
+    "ten": "Mạc Mậu Hợp",
+    "sinh": "1560",
+    "mat": "Tháng 1, 1593 (33 tuổi) Đại Việt"
+  },
+  "Mạc Toàn": {
+    "tenDayDu": "Mạc Toàn",
+    "ten": "Mạc Toàn",
+    "sinh": "1580 Hoàng thành Thăng Long",
+    "mat": "1593 Bến Thảo Tân, Thăng Long"
+  },
+  "Mạc Kính Chỉ": {
+    "tenDayDu": "Mạc Kính Chỉ (莫敬止)",
+    "ten": "Mạc Kính Chỉ",
+    "mat": "1593"
+  },
+  "Mạc Kính Cung": {
+    "tenDayDu": "Mạc Kính Cung (莫敬恭)",
+    "ten": "Mạc Kính Cung",
+    "mat": "1625 Thăng Long, Đại Việt"
+  },
+  "Mạc Kính Khoan": {
+    "tenDayDu": "Mạc Kính Khoan (莫敬寬)",
+    "ten": "Mạc Kính Khoan",
+    "sinh": "?",
+    "mat": "1638 Cao Bình, Đại Việt"
+  },
+  "Mạc Kính Vũ": {
+    "tenDayDu": "Mạc Kính Vũ Mạc Kính Hoàn",
+    "ten": "Mạc Kính Vũ"
+  },
+  "Mạc Kính Hẻ": {
+    "tenDayDu": "Mạc Kính Hẻ Mạc Kính Thụy Mạc Nguyên Thanh",
+    "ten": "Mạc Kính Hẻ"
+  },
+  "Mạc Kính Quang": {
+    "tenDayDu": "Mạc Kính Quang Mạc Kính Tiêu Mạc Kính Hoảng",
+    "ten": "Mạc Kính Quang",
+    "sinh": "?",
+    "mat": "1683"
+  },
+  "Lê Trang Tông": {
+    "tenDayDu": "Lê Ninh (黎寧)",
+    "ten": "Lê Trang Tông",
+    "sinh": "1515",
+    "mat": "9 tháng 3, 1548 Thanh Hóa, Đại Việt"
+  },
+  "Lê Trung Tông (Hậu Lê)": {
+    "tenDayDu": "Lê Huyên (黎暄)",
+    "ten": "Lê Trung Tông (Hậu Lê)",
+    "sinh": "1535",
+    "mat": "24 tháng 1, 1556 Tây Đô, Thanh Hóa"
+  },
+  "Lê Anh Tông": {
+    "tenDayDu": "Lê Duy Bang (黎維邦)",
+    "ten": "Lê Anh Tông",
+    "sinh": "1532",
+    "mat": "22 tháng 1, 1573 Đại Việt"
+  },
+  "Lê Thế Tông": {
+    "tenDayDu": "Lê Duy Đàm (黎維潭)",
+    "ten": "Lê Thế Tông",
+    "sinh": "1567",
+    "mat": "12 tháng 10, 1599 Hoa Nhạc lăng (華岳陵)"
+  },
+  "Lê Kính Tông": {
+    "tenDayDu": "Lê Duy Tân (黎維新)",
+    "ten": "Lê Kính Tông",
+    "sinh": "1588",
+    "mat": "23 tháng 6, 1619 Đông Kinh, Đại Việt"
+  },
+  "Lê Thần Tông": {
+    "tenDayDu": "Lê Duy Kỳ (黎維祺)",
+    "ten": "Lê Thần Tông",
+    "sinh": "1607 Đông Kinh, Việt Nam",
+    "mat": "2 tháng 11, 1662 Đông Kinh, Đại Việt"
+  },
+  "Lê Chân Tông": {
+    "tenDayDu": "Lê Duy Hựu",
+    "ten": "Lê Chân Tông",
+    "sinh": "1630 Tử Cấm Thành, Thăng Long.",
+    "mat": "2 tháng 10, 1649 Đông Kinh, Đại Việt"
+  },
+  "Lê Huyền Tông": {
+    "tenDayDu": "Lê Duy Vũ (黎維禑)",
+    "ten": "Lê Huyền Tông",
+    "sinh": "1654",
+    "mat": "16 tháng 11, 1671 Đông Kinh, Đại Việt"
+  },
+  "Lê Gia Tông": {
+    "tenDayDu": "Lê Duy Cối (黎維禬) Lê Duy Khoái (黎維𥘺)",
+    "ten": "Lê Gia Tông",
+    "sinh": "1661",
+    "mat": "27 tháng 4, 1675 Đông Kinh, Đại Việt"
+  },
+  "Lê Hy Tông": {
+    "tenDayDu": "Lê Duy Cáp (黎維祫) Lê Duy Hiệp",
+    "ten": "Lê Hy Tông",
+    "sinh": "1663",
+    "mat": "1716 Đông Kinh, Đại Việt"
+  },
+  "Lê Dụ Tông": {
+    "tenDayDu": "Lê Duy Đường",
+    "ten": "Lê Dụ Tông",
+    "sinh": "1679",
+    "mat": "27 tháng 2, 1731"
+  },
+  "Lê Duy Phường": {
+    "tenDayDu": "Lê Duy Phường",
+    "ten": "Lê Duy Phường",
+    "sinh": "1709 Tử Cấm Thành, Thăng Long",
+    "mat": "1735"
+  },
+  "Lê Thuần Tông": {
+    "tenDayDu": "Lê Duy Tường",
+    "ten": "Lê Thuần Tông",
+    "sinh": "16 tháng 3, 1699 Tử Cấm Thành, Thăng Long",
+    "mat": "5 tháng 6, 1735 Tử Cấm Thành, Thăng Long"
+  },
+  "Lê Ý Tông": {
+    "tenDayDu": "Lê Duy Thận (黎維祳) Lê Duy Chẩn",
+    "ten": "Lê Ý Tông",
+    "sinh": "29 tháng 3, 1719",
+    "mat": "10 tháng 8, 1759 Đông Kinh, Đại Việt"
+  },
+  "Lê Hiển Tông": {
+    "tenDayDu": "Lê Duy Diêu (黎維祧)",
+    "ten": "Lê Hiển Tông",
+    "sinh": "20 tháng 5, 1717",
+    "mat": "10 tháng 8, 1786(69 tuổi) Đông Kinh, Đại Việt"
+  },
+  "Lê Chiêu Thống": {
+    "tenDayDu": "Lê Duy Khiêm (黎維謙) Lê Duy Kỳ (黎維祁)",
+    "ten": "Lê Chiêu Thống",
+    "sinh": "1765 Đông Kinh,Đại Việt",
+    "mat": "1793 Yên Kinh, Trung Hoa"
+  },
+  "Nguyễn Nhạc": {
+    "tenDayDu": "Hồ Nhạc (胡岳) Nguyễn Nhạc (阮岳) Nguyễn Văn Nhạc (阮文岳)",
+    "ten": "Nguyễn Nhạc",
+    "sinh": "1743 Bình Định, Đàng Trong, Đại Việt",
+    "mat": "1793 50 tuổi Qui Nhơn, Đại Việt"
+  },
+  "Quang Trung": {
+    "tenDayDu": "Hồ Thơm (胡𦹳) Nguyễn Huệ (阮惠) Nguyễn Văn Huệ (阮文惠) Nguyễn Quang Bình (阮光平)",
+    "ten": "Quang Trung",
+    "sinh": "1753 Bình Định, Đàng Trong, Đại Việt",
+    "mat": "16 tháng 9, 1792(1792-09-16) (38–39 tuổi) Phú Xuân, Đại Việt"
+  },
+  "Nguyễn Quang Toản": {
+    "tenDayDu": "Nguyễn Quang Toản (阮光纘)",
+    "ten": "Nguyễn Quang Toản",
+    "sinh": "1783",
+    "mat": "1802 (18–19 tuổi) Phú Xuân, Huế"
+  },
+  "Gia Long": {
+    "tenDayDu": "Nguyễn Phúc Ánh (阮福暎)",
+    "ten": "Gia Long",
+    "sinh": "(1762-02-08)8 tháng 2, 1762 Phú Xuân, Đàng Trong, Đại Việt",
+    "mat": "3 tháng 2, 1820(1820-02-03) (57 tuổi) Hoàng thành Huế"
+  },
+  "Minh Mạng": {
+    "tenDayDu": "Nguyễn Phúc Đảm (阮福膽) Nguyễn Phúc Kiểu (阮福晈)",
+    "ten": "Minh Mạng",
+    "sinh": "(1791-05-25)25 tháng 5 năm 1791 Gia Định, Đại Việt",
+    "mat": "20 tháng 1 năm 1841(1841-01-20) (49 tuổi) Huế, Đại Nam"
+  },
+  "Thiệu Trị": {
+    "tenDayDu": "Nguyễn Phúc Miên Tông (阮福綿宗) Nguyễn Phúc Tuyền (阮福暶) Nguyễn Phúc Dung (阮福曧)",
+    "ten": "Thiệu Trị",
+    "sinh": "16 tháng 6 năm 1807 Huế, Đại Nam",
+    "mat": "4 tháng 11, 1847(1847-11-04) (40 tuổi) Huế, Đại Nam"
+  },
+  "Tự Đức": {
+    "tenDayDu": "Nguyễn Phúc Hồng Nhậm (阮福洪任) Nguyễn Phúc Thì (阮福時)",
+    "ten": "Tự Đức",
+    "sinh": "22 tháng 9 năm 1829 Huế, Đại Nam",
+    "mat": "19 tháng 7, 1883(1883-07-19) (53 tuổi) Huế, Đại Nam"
+  },
+  "Dục Đức": {
+    "tenDayDu": "Nguyễn Phúc Ưng Ái Nguyễn Phúc Ưng Chân (阮福膺禛)",
+    "ten": "Dục Đức",
+    "sinh": "23 tháng 2 năm 1852 Huế, Đại Nam",
+    "mat": "6 tháng 10 năm 1883 Huế, Đại Nam"
+  },
+  "Hiệp Hòa": {
+    "tenDayDu": "Nguyễn Phúc Hồng Dật 阮福洪佚",
+    "ten": "Hiệp Hòa",
+    "sinh": "24 tháng 9 âm lịch, tức 1 tháng 11 năm 1847 [1]",
+    "mat": "30 tháng 10 âm lịch, tức 29 tháng 11 năm 1883 Huế, Đại Nam"
+  },
+  "Kiến Phúc": {
+    "tenDayDu": "Nguyễn Phúc Ưng Đăng (阮福膺登)",
+    "ten": "Kiến Phúc",
+    "sinh": "12 tháng 2 năm 1869 Huế, Đại Nam",
+    "mat": "31 tháng 7 năm 1884 Huế, Đại Nam"
+  },
+  "Hàm Nghi": {
+    "tenDayDu": "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh",
+    "ten": "Hàm Nghi",
+    "sinh": "3 tháng 8 năm 1871 Huế, Đại Nam",
+    "mat": "14 tháng 1 năm 1944 (72 tuổi) Alger, Algérie, Pháp"
+  },
+  "Đồng Khánh": {
+    "tenDayDu": "Nguyễn Phúc Ưng Kỷ (阮福膺祺)",
+    "ten": "Đồng Khánh",
+    "sinh": "19 tháng 2 năm 1864 Huế, Đại Nam",
+    "mat": "28 tháng 1 năm 1889 (24 tuổi) Huế, Đại Nam, Liên bang Đông Dương"
+  },
+  "Thành Thái": {
+    "tenDayDu": "Nguyễn Phúc Bửu Lân (阮福寶嶙)",
+    "ten": "Thành Thái",
+    "sinh": "14 tháng 3 năm 1879 Huế, Đại Nam",
+    "mat": "20 tháng 3, 1954(1954-03-20) (75 tuổi) Sài Gòn, Quốc gia Việt Nam"
+  },
+  "Duy Tân": {
+    "tenDayDu": "Nguyễn Phúc Vĩnh San (阮福永珊)",
+    "ten": "Duy Tân",
+    "sinh": "19 tháng 9 năm 1900 Huế, Đại Nam, Liên bang Đông Dương",
+    "mat": "26 tháng 12 năm 1945 (45 tuổi) Châu Phi Xích Đạo thuộc Pháp (nay là Cộng hòa Trung Phi)"
+  },
+  "Khải Định": {
+    "tenDayDu": "Nguyễn Phúc Bửu Đảo (阮福寶嶹) Nguyễn Phúc Tuấn (阮福晙)",
+    "ten": "Khải Định",
+    "sinh": "8 tháng 10 năm 1885 Huế, Đại Nam",
+    "mat": "6 tháng 11 năm 1925 (40 tuổi) Huế, Đại Nam, Liên bang Đông Dương"
+  },
+  "Bảo Đại": {
+    "tenDayDu": "Nguyễn Phúc Vĩnh Thụy (阮福永瑞)",
+    "ten": "Bảo Đại",
+    "sinh": "(1913-10-22)22 tháng 10, 1913 Huế, Đại Nam, Liên bang Đông Dương",
+    "mat": "31 tháng 7, 1997(1997-07-31) (83 tuổi) Val-de-Grâce, Paris, Pháp"
+  }
+}
