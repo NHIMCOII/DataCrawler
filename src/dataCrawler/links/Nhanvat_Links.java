@@ -81,7 +81,7 @@ public class Nhanvat_Links {
 
 // 		Append dataCrawler.info from all pages
 //		5 characters each page & 291 pages
-        for (int i = 0; i < 5 * 291; i += 5) {
+        for (int i = 0; i < 291; i += 5) {
             Document subDoc = Jsoup.connect(url)
                     .ignoreContentType(true)
                     .timeout(0)

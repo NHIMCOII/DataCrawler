@@ -7,8 +7,8 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.TreeMap;
 
 
 public class Vua extends NhanVat {
@@ -34,14 +34,14 @@ public class Vua extends NhanVat {
     public static Map getInfoFromWiki(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
-        Map m = new LinkedHashMap();
+        Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
         for (String url : urls) {
             final Document doc = Jsoup.connect(url)
                     .ignoreContentType(true)
                     .timeout(0)
                     .get();
             Vua vua = new Vua();
-
+            vua.addLink(url);
             Elements info = doc.select("table.infobox tbody tr");
             if (info.size() != 0) {
                 if (vua.ten == null && doc.selectFirst(".mw-page-title-main") != null) {
@@ -66,17 +66,8 @@ public class Vua extends NhanVat {
     }
 
     public static Vua mergeRule(Object oldVal, Object newVal) {
-        Vua v1 = (Vua) oldVal;
         Vua v2 = (Vua) newVal;
-        if (v1.chucVu == null || v1.chucVu.equals("?")) {
-            v1.chucVu = v2.chucVu;
-        }
-        if (v1.sinh == null || v1.sinh.equals("?")) {
-            v1.sinh = v2.sinh;
-        }
-        if (v1.mat == null || v1.mat.equals("?")) {
-            v1.mat = v2.mat;
-        }
+        Vua v1 = (Vua) NhanVat.mergeRule(oldVal, newVal);
         if (v1.trieuDai == null || v1.trieuDai.equals("?")) {
             v1.trieuDai = v2.trieuDai;
         }
