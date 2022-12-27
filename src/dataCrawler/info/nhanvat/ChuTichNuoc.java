@@ -1,59 +1,56 @@
 package dataCrawler.info.nhanvat;
 
-import java.util.ArrayList;
 
 public class ChuTichNuoc extends NhanVat{
 	
 
-	protected String nhiem_ky;
-	protected String tien_nhiem;
-	protected String ke_nhiem;
-    protected String pho_chu_tich;
+	protected String nhiemKy;
+	protected String tienNhiem;
+	protected String keNhiem;
+    protected String phoChuTich;
     
     
     
 	public ChuTichNuoc() {
 		// TODO Auto-generated constructor stub
 	}
-	
-	public ChuTichNuoc(String nhiem_ky, String tien_nhiem, String ke_nhiem, String pho_chu_tich) {
+	public ChuTichNuoc(String nhiemKy, String tienNhiem, String keNhiem, String phoChuTich) {
 		super();
-		this.nhiem_ky = nhiem_ky;
-		this.tien_nhiem = tien_nhiem;
-		this.ke_nhiem = ke_nhiem;
-		this.pho_chu_tich = pho_chu_tich;
+		this.nhiemKy = nhiemKy;
+		this.tienNhiem = tienNhiem;
+		this.keNhiem = keNhiem;
+		this.phoChuTich = phoChuTich;
 	}
 	
 	
-
-	public String getNhiem_ky() {
-		return nhiem_ky;
+	public String getNhiemKy() {
+		return nhiemKy;
 	}
-	public String getTien_nhiem() {
-		return tien_nhiem;
+	public String getTienNhiem() {
+		return tienNhiem;
 	}
-	public String getKe_nhiem() {
-		return ke_nhiem;
+	public String getKeNhiem() {
+		return keNhiem;
 	}
-	public String getPho_chu_tich() {
-		return pho_chu_tich;
+	public String getPhoChuTich() {
+		return phoChuTich;
 	}
 	
 	
 	public static ChuTichNuoc mergeRule(Object oldVal, Object newVal) {
 		ChuTichNuoc v1 = (ChuTichNuoc) oldVal;
 		ChuTichNuoc v2 = (ChuTichNuoc) newVal;
-		if (v1.nhiem_ky == null || v1.nhiem_ky.equals("?")) {
-            v1.nhiem_ky = v2.nhiem_ky;
+		if (v1.nhiemKy == null || v1.nhiemKy.equals("?")) {
+            v1.nhiemKy = v2.nhiemKy;
         }
-		if (v1.tien_nhiem == null || v1.tien_nhiem.equals("?")) {
-            v1.tien_nhiem = v2.tien_nhiem;
+		if (v1.tienNhiem == null || v1.tienNhiem.equals("?")) {
+            v1.tienNhiem = v2.tienNhiem;
         }
-		if (v1.ke_nhiem == null || v1.ke_nhiem.equals("?")) {
-            v1.ke_nhiem = v2.ke_nhiem;
+		if (v1.keNhiem == null || v1.keNhiem.equals("?")) {
+            v1.keNhiem = v2.keNhiem;
         }
-		if (v1.pho_chu_tich == null || v1.pho_chu_tich.equals("?")) {
-            v1.pho_chu_tich = v2.pho_chu_tich;
+		if (v1.phoChuTich == null || v1.phoChuTich.equals("?")) {
+            v1.phoChuTich = v2.phoChuTich;
         }
 		return v1;
 	}

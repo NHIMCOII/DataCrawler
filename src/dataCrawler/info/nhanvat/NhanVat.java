@@ -7,18 +7,23 @@ import java.util.ArrayList;
 public class NhanVat {
 
 
+
 	protected String ten;
-    protected String ten_khac;		//ten huy
-    protected String trieu_dai;
+    protected String tenKhac;		//ten huy
+    protected String trieuDai;
     protected String sinh;
     protected String mat;
-    protected String an_tang;
-    protected String chuc_vu;
+    protected String anTang;
+    protected String chucVu;
     protected String bo;			//than phu
     protected String me;			//than mau
     protected String chong;			//
     protected String vo;			//the thiep
     protected String con;			//hau due
+	protected String cuocDoi;
+	protected String suNghiep;
+	protected ArrayList<String> taiLieuThamKhao = new ArrayList<>();
+	protected ArrayList<String> nhanVatCungThoiKy = new ArrayList<>();
     protected ArrayList<String> links = new ArrayList<>();
 
 
@@ -26,32 +31,86 @@ public class NhanVat {
     public NhanVat() {
     }
 
-    public NhanVat(String ten, String ten_khac, String trieu_dai, String sinh, String mat, String an_tang,
-			String chuc_vu, String bo, String me, String chong, String vo, String con) {
+    public NhanVat(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
+			String bo, String me, String chong, String vo, String con, String cuocDoi, String suNghiep) {
 		this.ten = ten;
-		this.ten_khac = ten_khac;
-		this.trieu_dai = trieu_dai;
+		this.tenKhac = tenKhac;
+		this.trieuDai = trieuDai;
 		this.sinh = sinh;
 		this.mat = mat;
-		this.an_tang = an_tang;
-		this.chuc_vu = chuc_vu;
+		this.anTang = anTang;
+		this.chucVu = chucVu;
 		this.bo = bo;
 		this.me = me;
 		this.chong = chong;
 		this.vo = vo;
 		this.con = con;
+		this.cuocDoi = cuocDoi;
+		this.suNghiep = suNghiep;
 	}
-
+    
+    
+    public String getTen() {
+		return ten;
+	}
+	public String getTenKhac() {
+		return tenKhac;
+	}
+	public String getTrieuDai() {
+		return trieuDai;
+	}
+	public String getSinh() {
+		return sinh;
+	}
+	public String getMat() {
+		return mat;
+	}
+	public String getAnTang() {
+		return anTang;
+	}
+	public String getChucVu() {
+		return chucVu;
+	}
+	public String getBo() {
+		return bo;
+	}
+	public String getMe() {
+		return me;
+	}
+	public String getChong() {
+		return chong;
+	}
+	public String getVo() {
+		return vo;
+	}
+	public String getCon() {
+		return con;
+	}
+	public String getCuocDoi() {
+		return cuocDoi;
+	}
+	public String getSuNghiep() {
+		return suNghiep;
+	}
+	public ArrayList<String> getTaiLieuThamKhao() {
+		return taiLieuThamKhao;
+	}
+	public ArrayList<String> getNhanVatCungThoiKy() {
+		return nhanVatCungThoiKy;
+	}
+	public ArrayList<String> getLinks() {
+		return links;
+	}
     
     
     public static NhanVat mergeRule(Object oldVal, Object newVal) {
         NhanVat v1 = (NhanVat) oldVal;
         NhanVat v2 = (NhanVat) newVal;
-        if (v1.ten_khac == null || v1.ten_khac.equals("?")) {
-            v1.ten_khac = v2.ten_khac;
+        if (v1.tenKhac == null || v1.tenKhac.equals("?")) {
+            v1.tenKhac = v2.tenKhac;
         }
-        if (v1.trieu_dai == null || v1.trieu_dai.equals("?")) {
-            v1.trieu_dai = v2.trieu_dai;
+        if (v1.trieuDai == null || v1.trieuDai.equals("?")) {
+            v1.trieuDai = v2.trieuDai;
         }
         if (v1.sinh == null || v1.sinh.equals("?")) {
             v1.sinh = v2.sinh;
@@ -59,11 +118,11 @@ public class NhanVat {
         if (v1.mat == null || v1.mat.equals("?")) {
             v1.mat = v2.mat;
         }
-        if (v1.an_tang == null || v1.an_tang.equals("?")) {
-            v1.an_tang = v2.an_tang;
+        if (v1.anTang == null || v1.anTang.equals("?")) {
+            v1.anTang = v2.anTang;
         }
-        if (v1.chuc_vu == null || v1.chuc_vu.equals("?")) {
-            v1.chuc_vu = v2.chuc_vu;
+        if (v1.chucVu == null || v1.chucVu.equals("?")) {
+            v1.chucVu = v2.chucVu;
         }
         if (v1.bo == null || v1.bo.equals("?")) {
             v1.bo = v2.bo;
@@ -80,43 +139,13 @@ public class NhanVat {
         if (v1.con == null || v1.con.equals("?")) {
             v1.con = v2.con;
         }
+        if (v1.cuocDoi == null || v1.cuocDoi.equals("?")) {
+            v1.cuocDoi = v2.cuocDoi;
+        }
+        if (v1.suNghiep == null || v1.suNghiep.equals("?")) {
+            v1.suNghiep = v2.suNghiep;
+        }
         return v1;
-    }
-
-    
-    public String getTen() {
-		return ten;
-	}
-	public String getTen_khac() {
-		return ten_khac;
-	}
-	public String getTrieu_dai() {
-		return trieu_dai;
-	}
-	public String getSinh() {
-		return sinh;
-	}
-	public String getMat() {
-		return mat;
-	}
-	public String getChuc_vu() {
-		return chuc_vu;
-	}
-	public String getBo() {
-		return bo;
-	}
-	public String getMe() {
-		return me;
-	}
-	public String getChong() {
-		return chong;
-	}
-	public String getVo() {
-		return vo;
-	}
-    
-    public ArrayList<String> getLinks() {
-        return links;
     }
 
     public void addLink(String link) {

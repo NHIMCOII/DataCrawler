@@ -2,69 +2,99 @@ package dataCrawler.info.diadiem;
 
 import java.util.ArrayList;
 
+
 public class DiaDiem {
 
 
 	protected String ten;
-	protected String vi_tri;
-	protected String nien_dai;
-	protected String mo_ta;
-	protected String dien_tich;
-	protected String vung_dem;
-	protected String toa_do;
-	protected String dien_bien_lich_su;
-	protected String tai_lieu_tham_khao;
-	protected ArrayList<String> su_kien = new ArrayList<>();
+	protected String viTri;
+	protected String nienDai;
+	protected String moTa;
+	protected String dienTich;
+	protected String vungDem;
+	protected String toaDo;
+	protected String dienBienLichSu;
+	protected ArrayList<String> taiLieuThamKhao = new ArrayList<>();
+	protected ArrayList<String> suKien = new ArrayList<>();
 	
 	
 	public DiaDiem() {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public DiaDiem(String ten, String vi_tri, String nien_dai, String mo_ta, String dien_tich, String vung_dem,
-			String toa_do, String dien_bien_lich_su, String tai_lieu_tham_khao, ArrayList<String> su_kien) {
-		super();
+	public DiaDiem(String ten, String viTri, String nienDai, String moTa, String dienTich, String vungDem, String toaDo,
+			String dienBienLichSu) {
 		this.ten = ten;
-		this.vi_tri = vi_tri;
-		this.nien_dai = nien_dai;
-		this.mo_ta = mo_ta;
-		this.dien_tich = dien_tich;
-		this.vung_dem = vung_dem;
-		this.toa_do = toa_do;
-		this.dien_bien_lich_su = dien_bien_lich_su;
-		this.tai_lieu_tham_khao = tai_lieu_tham_khao;
-		this.su_kien = su_kien;
+		this.viTri = viTri;
+		this.nienDai = nienDai;
+		this.moTa = moTa;
+		this.dienTich = dienTich;
+		this.vungDem = vungDem;
+		this.toaDo = toaDo;
+		this.dienBienLichSu = dienBienLichSu;
 	}
+	
 	
 	
 	public String getTen() {
 		return ten;
 	}
-	public String getVi_tri() {
-		return vi_tri;
+	public String getViTri() {
+		return viTri;
 	}
-	public String getNien_dai() {
-		return nien_dai;
+	public String getNienDai() {
+		return nienDai;
 	}
-	public String getMo_ta() {
-		return mo_ta;
+	public String getMoTa() {
+		return moTa;
 	}
-	public String getDien_tich() {
-		return dien_tich;
+	public String getDienTich() {
+		return dienTich;
 	}
-	public String getVung_dem() {
-		return vung_dem;
+	public String getVungDem() {
+		return vungDem;
 	}
-	public String getToa_do() {
-		return toa_do;
+	public String getToaDo() {
+		return toaDo;
 	}
-	public String getDien_bien_lich_su() {
-		return dien_bien_lich_su;
+	public String getDienBienLichSu() {
+		return dienBienLichSu;
 	}
-	public String getTai_lieu_tham_khao() {
-		return tai_lieu_tham_khao;
+	public ArrayList<String> getTaiLieuThamKhao() {
+		return taiLieuThamKhao;
 	}
-	public ArrayList<String> getSu_kien() {
-		return su_kien;
+	public ArrayList<String> getSuKien() {
+		return suKien;
 	}
+	
+	
+	public static DiaDiem mergeRule(Object oldVal, Object newVal) {
+		DiaDiem v1 = (DiaDiem) oldVal;
+		DiaDiem v2 = (DiaDiem) newVal;
+        if (v1.ten == null || v1.ten.equals("?")) {
+            v1.ten = v2.ten;
+        }
+        if (v1.viTri == null || v1.viTri.equals("?")) {
+            v1.viTri = v2.viTri;
+        }
+        if (v1.nienDai == null || v1.nienDai.equals("?")) {
+            v1.nienDai = v2.nienDai;
+        }
+        if (v1.moTa == null || v1.moTa.equals("?")) {
+            v1.moTa = v2.moTa;
+        }
+        if (v1.dienTich == null || v1.dienTich.equals("?")) {
+            v1.dienTich = v2.dienTich;
+        }
+        if (v1.vungDem == null || v1.vungDem.equals("?")) {
+            v1.vungDem = v2.vungDem;
+        }
+        if (v1.toaDo == null || v1.toaDo.equals("?")) {
+            v1.toaDo = v2.toaDo;
+        }
+        if (v1.dienBienLichSu == null || v1.dienBienLichSu.equals("?")) {
+            v1.dienBienLichSu = v2.dienBienLichSu;
+        }
+        return v1;
+    }
 }

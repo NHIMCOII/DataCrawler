@@ -12,62 +12,60 @@ import java.util.TreeMap;*/
 
 
 public class Vua extends NhanVat {
-    
-	
-	protected String tri_vi; //tai_vi
-	protected String tien_nhiem;
-	protected String ke_nhiem;
-	protected String nien_hieu;
-	protected String ton_hieu;
-	protected String thuy_hieu;
-	protected String mieu_hieu;
-	protected String tuoc_hieu;
+
+
+
+	protected String triVi; //tai_vi
+	protected String tienNhiem;
+	protected String keNhiem;
+	protected String nienHieu;
+	protected String tonHieu;
+	protected String thuyHieu;
+	protected String mieuHieu;
+	protected String tuocHieu;
 
     
 	public Vua() {
         super();
     }
-	public Vua(String tri_vi, String tien_nhiem, String ke_nhiem, String nien_hieu, String ton_hieu, String thuy_hieu,
-			String mieu_hieu, String tuoc_hieu) {
+	public Vua(String triVi, String tienNhiem, String keNhiem, String nienHieu, String tonHieu, String thuyHieu,
+			String mieuHieu, String tuocHieu) {
 		super();
-		this.tri_vi = tri_vi;
-		this.tien_nhiem = tien_nhiem;
-		this.ke_nhiem = ke_nhiem;
-		this.nien_hieu = nien_hieu;
-		this.ton_hieu = ton_hieu;
-		this.thuy_hieu = thuy_hieu;
-		this.mieu_hieu = mieu_hieu;
-		this.tuoc_hieu = tuoc_hieu;
+		this.triVi = triVi;
+		this.tienNhiem = tienNhiem;
+		this.keNhiem = keNhiem;
+		this.nienHieu = nienHieu;
+		this.tonHieu = tonHieu;
+		this.thuyHieu = thuyHieu;
+		this.mieuHieu = mieuHieu;
+		this.tuocHieu = tuocHieu;
 	}
 	
     
-    
-    public String getTri_vi() {
-		return tri_vi;
+	public String getTriVi() {
+		return triVi;
 	}
-	public String getTien_nhiem() {
-		return tien_nhiem;
+	public String getTienNhiem() {
+		return tienNhiem;
 	}
-	public String getKe_nhiem() {
-		return ke_nhiem;
+	public String getKeNhiem() {
+		return keNhiem;
 	}
-	public String getNien_hieu() {
-		return nien_hieu;
+	public String getNienHieu() {
+		return nienHieu;
 	}
-	public String getTon_hieu() {
-		return ton_hieu;
+	public String getTonHieu() {
+		return tonHieu;
 	}
-	public String getThuy_hieu() {
-		return thuy_hieu;
+	public String getThuyHieu() {
+		return thuyHieu;
 	}
-	public String getMieu_hieu() {
-		return mieu_hieu;
+	public String getMieuHieu() {
+		return mieuHieu;
 	}
-	public String getTuoc_hieu() {
-		return tuoc_hieu;
+	public String getTuocHieu() {
+		return tuocHieu;
 	}
-    
-
     /*public static Map getInfoFromWiki(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
@@ -105,29 +103,29 @@ public class Vua extends NhanVat {
     public static Vua mergeRule(Object oldVal, Object newVal) {
         Vua v2 = (Vua) newVal;
         Vua v1 = (Vua) NhanVat.mergeRule(oldVal, newVal);
-        if (v1.tri_vi == null || v1.tri_vi.equals("?")) {
-            v1.tri_vi = v2.tri_vi;
+        if (v1.triVi == null || v1.triVi.equals("?")) {
+            v1.triVi = v2.triVi;
         }
-        if (v1.tien_nhiem == null || v1.tien_nhiem.equals("?")) {
-            v1.tien_nhiem = v2.tien_nhiem;
+        if (v1.tienNhiem == null || v1.tienNhiem.equals("?")) {
+            v1.tienNhiem = v2.tienNhiem;
         }
-        if (v1.ke_nhiem == null || v1.ke_nhiem.equals("?")) {
-            v1.ke_nhiem = v2.ke_nhiem;
+        if (v1.keNhiem == null || v1.keNhiem.equals("?")) {
+            v1.keNhiem = v2.keNhiem;
         }
-        if (v1.nien_hieu == null || v1.nien_hieu.equals("?")) {
-            v1.nien_hieu = v2.nien_hieu;
+        if (v1.nienHieu == null || v1.nienHieu.equals("?")) {
+            v1.nienHieu = v2.nienHieu;
         }
-        if (v1.ton_hieu == null || v1.ton_hieu.equals("?")) {
-            v1.ton_hieu = v2.ton_hieu;
+        if (v1.tonHieu == null || v1.tonHieu.equals("?")) {
+            v1.tonHieu = v2.tonHieu;
         }
-        if (v1.thuy_hieu == null || v1.thuy_hieu.equals("?")) {
-            v1.thuy_hieu = v2.thuy_hieu;
+        if (v1.thuyHieu == null || v1.thuyHieu.equals("?")) {
+            v1.thuyHieu = v2.thuyHieu;
         }
-        if (v1.mieu_hieu == null || v1.mieu_hieu.equals("?")) {
-            v1.mieu_hieu = v2.mieu_hieu;
+        if (v1.mieuHieu == null || v1.mieuHieu.equals("?")) {
+            v1.mieuHieu = v2.mieuHieu;
         }
-        if (v1.tuoc_hieu == null || v1.tuoc_hieu.equals("?")) {
-            v1.tuoc_hieu = v2.tuoc_hieu;
+        if (v1.tuocHieu == null || v1.tuocHieu.equals("?")) {
+            v1.tuocHieu = v2.tuocHieu;
         }
         return v1;
     }
