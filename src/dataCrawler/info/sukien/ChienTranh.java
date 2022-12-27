@@ -1,8 +1,6 @@
 package dataCrawler.info.sukien;
 
-import dataCrawler.info.nhanvat.ChuTichNuoc;
-
-public class ChienTranh {
+public class ChienTranh extends SuKien{
 
 
 	protected String ten;
