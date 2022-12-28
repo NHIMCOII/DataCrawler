@@ -14,7 +14,7 @@ public class DiaDiem {
 	protected String vungDem;
 	protected String toaDo;
 	protected String dienBienLichSu;
-	protected ArrayList<String> taiLieuThamKhao = new ArrayList<>();
+	protected ArrayList<String> links = new ArrayList<>();
 	protected ArrayList<String> suKien = new ArrayList<>();
 	
 	
@@ -60,8 +60,8 @@ public class DiaDiem {
 	public String getDienBienLichSu() {
 		return dienBienLichSu;
 	}
-	public ArrayList<String> getTaiLieuThamKhao() {
-		return taiLieuThamKhao;
+	public ArrayList<String> getLinks() {
+		return links;
 	}
 	public ArrayList<String> getSuKien() {
 		return suKien;
@@ -97,4 +97,18 @@ public class DiaDiem {
         }
         return v1;
     }
+	
+    public void addLink(String link) {
+        if (links.contains(link)) {
+            return;
+        }
+        links.add(link);
+    }
+	public void addSuKien(String sukien) {
+        if (suKien.contains(sukien)) {
+            return;
+        }
+        suKien.add(sukien);
+    }
+
 }

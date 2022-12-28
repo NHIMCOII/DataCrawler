@@ -1,28 +1,30 @@
 package dataCrawler.info.sukien;
 
+import java.util.ArrayList;
+
 public class ChienTranh extends SuKien{
 
 
-	protected String ten;
+	protected String cuocChien;
 	protected String thoiGian;
 	protected String diaDiem;
 	protected String ketQua;
-	
+
 		
 	public ChienTranh() {
 		// TODO Auto-generated constructor stub
 	}
-	public ChienTranh(String ten, String thoiGian, String diaDiem, String ketQua) {
-		super();
-		this.ten = ten;
+	public ChienTranh(String ten, String dienBien, String cuocChien, String thoiGian, String diaDiem, String ketQua) {
+		super(ten, dienBien);
+		this.cuocChien = cuocChien;
 		this.thoiGian = thoiGian;
 		this.diaDiem = diaDiem;
 		this.ketQua = ketQua;
 	}
 
 
-	public String getTen() {
-		return ten;
+	public String getCuocChien() {
+		return cuocChien;
 	}
 	public String getThoiGian() {
 		return thoiGian;
@@ -38,11 +40,11 @@ public class ChienTranh extends SuKien{
 	public static ChienTranh mergeRule(Object oldVal, Object newVal) {
 		ChienTranh v1 = (ChienTranh) oldVal;
 		ChienTranh v2 = (ChienTranh) newVal;
-		if (v1.ten == null || v1.ten.equals("?")) {
-            v1.ten = v2.ten;
+		if (v1.cuocChien == null || v1.ten.equals("?")) {
+            v1.cuocChien = v2.cuocChien;
         }
 		if (v1.thoiGian == null || v1.thoiGian.equals("?")) {
-            v1.ten = v2.ten;
+            v1.thoiGian = v2.thoiGian;
         }
 		if (v1.diaDiem == null || v1.diaDiem.equals("?")) {
             v1.diaDiem = v2.diaDiem;
@@ -52,4 +54,5 @@ public class ChienTranh extends SuKien{
         }
 		return v1;
 	}
+
 }

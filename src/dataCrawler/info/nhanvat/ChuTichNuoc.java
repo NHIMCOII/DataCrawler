@@ -14,8 +14,9 @@ public class ChuTichNuoc extends NhanVat{
 	public ChuTichNuoc() {
 		// TODO Auto-generated constructor stub
 	}
-	public ChuTichNuoc(String nhiemKy, String tienNhiem, String keNhiem, String phoChuTich) {
-		super();
+	public ChuTichNuoc(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
+			String bo, String me, String chong, String vo, String con, String cuocDoi, String suNghiep, String nhiemKy, String tienNhiem, String keNhiem, String phoChuTich) {
+		super(ten, tenKhac, trieuDai,  sinh,  mat,  anTang,  chucVu,  bo,  me,  chong,  vo,  con,  cuocDoi, suNghiep);
 		this.nhiemKy = nhiemKy;
 		this.tienNhiem = tienNhiem;
 		this.keNhiem = keNhiem;

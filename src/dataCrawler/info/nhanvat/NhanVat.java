@@ -22,9 +22,8 @@ public class NhanVat {
     protected String con;			//hau due
 	protected String cuocDoi;
 	protected String suNghiep;
-	protected ArrayList<String> taiLieuThamKhao = new ArrayList<>();
+	protected ArrayList<String> links = new ArrayList<>();
 	protected ArrayList<String> nhanVatCungThoiKy = new ArrayList<>();
-    protected ArrayList<String> links = new ArrayList<>();
 
 
     
@@ -92,16 +91,13 @@ public class NhanVat {
 	public String getSuNghiep() {
 		return suNghiep;
 	}
-	public ArrayList<String> getTaiLieuThamKhao() {
-		return taiLieuThamKhao;
+	public ArrayList<String> getLinks() {
+		return links;
 	}
 	public ArrayList<String> getNhanVatCungThoiKy() {
 		return nhanVatCungThoiKy;
 	}
-	public ArrayList<String> getLinks() {
-		return links;
-	}
-    
+
     
     public static NhanVat mergeRule(Object oldVal, Object newVal) {
         NhanVat v1 = (NhanVat) oldVal;
@@ -154,6 +150,11 @@ public class NhanVat {
         }
         links.add(link);
     }
-
-
+    
+    public void addNhanVatCungThoiKy(String nhanvat) {
+        if (nhanVatCungThoiKy.contains(nhanvat)) {
+            return;
+        }
+        nhanVatCungThoiKy.add(nhanvat);
+    }
 }

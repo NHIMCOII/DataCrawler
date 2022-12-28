@@ -28,9 +28,10 @@ public class Vua extends NhanVat {
 	public Vua() {
         super();
     }
-	public Vua(String triVi, String tienNhiem, String keNhiem, String nienHieu, String tonHieu, String thuyHieu,
+	public Vua(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
+			String bo, String me, String chong, String vo, String con, String cuocDoi, String suNghiep, String triVi, String tienNhiem, String keNhiem, String nienHieu, String tonHieu, String thuyHieu,
 			String mieuHieu, String tuocHieu) {
-		super();
+		super(ten, tenKhac, trieuDai,  sinh,  mat,  anTang,  chucVu,  bo,  me,  chong,  vo,  con,  cuocDoi, suNghiep);
 		this.triVi = triVi;
 		this.tienNhiem = tienNhiem;
 		this.keNhiem = keNhiem;

@@ -7,10 +7,10 @@ public class SuKien {
 
 	protected String ten;
 	protected String dienBien;
-	protected ArrayList<String> taiLieuThamKhao = new ArrayList<>();
+	protected ArrayList<String> links = new ArrayList<>();
 	protected ArrayList<String> diaDiemLienQuan = new ArrayList<>();
-	protected ArrayList<String> nhanVat = new ArrayList<>();
-
+	protected ArrayList<String> nhanVatLienQuan = new ArrayList<>();
+	
 	
 	public SuKien() {
 		// TODO Auto-generated constructor stub
@@ -28,14 +28,14 @@ public class SuKien {
 	public String getDienBien() {
 		return dienBien;
 	}
-	public ArrayList<String> getTaiLieuThamKhao() {
-		return taiLieuThamKhao;
+	public ArrayList<String> getLinks() {
+		return links;
 	}
 	public ArrayList<String> getDiaDiemLienQuan() {
 		return diaDiemLienQuan;
 	}
-	public ArrayList<String> getNhanVat() {
-		return nhanVat;
+	public ArrayList<String> getNhanVatLienQuan() {
+		return nhanVatLienQuan;
 	}	
 
 	
@@ -49,5 +49,24 @@ public class SuKien {
             v1.dienBien = v2.dienBien;
         }
         return v1;
+    }
+	
+    public void addLink(String link) {
+        if (links.contains(link)) {
+            return;
+        }
+        links.add(link);
+    }
+	public void addDiaDiemLienQuan(String diadiem) {
+        if (diaDiemLienQuan.contains(diadiem)) {
+            return;
+        }
+        diaDiemLienQuan.add(diadiem);
+    }
+	public void addnNhanVatLienQuan(String nhanvat) {
+        if (nhanVatLienQuan.contains(nhanvat)) {
+            return;
+        }
+        nhanVatLienQuan.add(nhanvat);
     }
 }
