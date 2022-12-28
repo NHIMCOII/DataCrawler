@@ -38,8 +38,8 @@ public class ChienTranh extends SuKien{
 
 
 	public static ChienTranh mergeRule(Object oldVal, Object newVal) {
-		ChienTranh v1 = (ChienTranh) oldVal;
 		ChienTranh v2 = (ChienTranh) newVal;
+		ChienTranh v1 = (ChienTranh) SuKien.mergeRule(oldVal, newVal);
 		if (v1.cuocChien == null || v1.ten.equals("?")) {
             v1.cuocChien = v2.cuocChien;
         }

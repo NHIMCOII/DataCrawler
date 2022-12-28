@@ -34,8 +34,8 @@ public class DiTich extends DiaDiem {
 
 	
 	public static DiTich mergeRule(Object oldVal, Object newVal) {
-		DiTich v1 = (DiTich) oldVal;
 		DiTich v2 = (DiTich) newVal;
+		DiTich v1 = (DiTich) DiaDiem.mergeRule(oldVal, newVal);
 		if (v1.tenDiTich == null || v1.tenDiTich.equals("?")) {
             v1.tenDiTich = v2.tenDiTich;
         }

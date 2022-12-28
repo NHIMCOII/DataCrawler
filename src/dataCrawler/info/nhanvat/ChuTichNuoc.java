@@ -39,8 +39,8 @@ public class ChuTichNuoc extends NhanVat{
 	
 	
 	public static ChuTichNuoc mergeRule(Object oldVal, Object newVal) {
-		ChuTichNuoc v1 = (ChuTichNuoc) oldVal;
 		ChuTichNuoc v2 = (ChuTichNuoc) newVal;
+		ChuTichNuoc v1 = (ChuTichNuoc) NhanVat.mergeRule(oldVal, newVal);
 		if (v1.nhiemKy == null || v1.nhiemKy.equals("?")) {
             v1.nhiemKy = v2.nhiemKy;
         }
