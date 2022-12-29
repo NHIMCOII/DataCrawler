@@ -4,26 +4,30 @@ import java.util.ArrayList;
 
 public class SuKien {
 
-
+	
 	protected String ten;
+	protected String thoiGian;
 	protected String dienBien;
 	protected ArrayList<String> links = new ArrayList<>();
-	protected ArrayList<String> diaDiemLienQuan = new ArrayList<>();
-	protected ArrayList<String> nhanVatLienQuan = new ArrayList<>();
+	protected ArrayList<String> diaDiem = new ArrayList<>();
+	protected ArrayList<String> nhanVat = new ArrayList<>();
 	
 	
 	public SuKien() {
 		// TODO Auto-generated constructor stub
 	}
-	public SuKien(String ten, String dienBien) {
+	public SuKien(String ten, String thoiGian, String dienBien) {
 		this.ten = ten;
+		this.thoiGian = thoiGian;
 		this.dienBien = dienBien;
 	}
-	
 
 
 	public String getTen() {
 		return ten;
+	}
+	public String getThoiGian() {
+		return thoiGian;
 	}
 	public String getDienBien() {
 		return dienBien;
@@ -31,13 +35,13 @@ public class SuKien {
 	public ArrayList<String> getLinks() {
 		return links;
 	}
-	public ArrayList<String> getDiaDiemLienQuan() {
-		return diaDiemLienQuan;
+	public ArrayList<String> getDiaDiem() {
+		return diaDiem;
 	}
-	public ArrayList<String> getNhanVatLienQuan() {
-		return nhanVatLienQuan;
-	}	
-
+	public ArrayList<String> getNhanVat() {
+		return nhanVat;
+	}
+	
 	
 	public static SuKien mergeRule(Object oldVal, Object newVal) {
 		SuKien v1 = (SuKien) oldVal;
@@ -45,11 +49,15 @@ public class SuKien {
 		if (v1.ten == null || v1.ten.equals("?")) {
             v1.ten = v2.ten;
         }
+		if (v1.thoiGian == null || v1.thoiGian.equals("?")) {
+            v1.thoiGian = v2.thoiGian;
+        }
         if (v1.dienBien == null || v1.dienBien.equals("?")) {
             v1.dienBien = v2.dienBien;
         }
         return v1;
     }
+	
 	
     public void addLink(String link) {
         if (links.contains(link)) {
@@ -57,16 +65,16 @@ public class SuKien {
         }
         links.add(link);
     }
-	public void addDiaDiemLienQuan(String diadiem) {
-        if (diaDiemLienQuan.contains(diadiem)) {
+	public void addDiaDiem(String diadiem) {
+        if (diaDiem.contains(diadiem)) {
             return;
         }
-        diaDiemLienQuan.add(diadiem);
+        diaDiem.add(diadiem);
     }
-	public void addnNhanVatLienQuan(String nhanvat) {
-        if (nhanVatLienQuan.contains(nhanvat)) {
+	public void addNhanVat(String nhanvat) {
+        if (nhanVat.contains(nhanvat)) {
             return;
         }
-        nhanVatLienQuan.add(nhanvat);
+        nhanVat.add(nhanvat);
     }
 }

@@ -14,7 +14,6 @@ import java.util.TreeMap;*/
 public class Vua extends NhanVat {
 
 
-
 	protected String triVi; //tai_vi
 	protected String tienNhiem;
 	protected String keNhiem;
@@ -28,6 +27,7 @@ public class Vua extends NhanVat {
 	public Vua() {
         super();
     }
+	
 	public Vua(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
 			String bo, String me, String chong, String vo, String con, String cuocDoi, String suNghiep, String triVi, String tienNhiem, String keNhiem, String nienHieu, String tonHieu, String thuyHieu,
 			String mieuHieu, String tuocHieu) {

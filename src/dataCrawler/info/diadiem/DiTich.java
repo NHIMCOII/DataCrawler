@@ -1,49 +1,55 @@
 package dataCrawler.info.diadiem;
 
-import java.util.ArrayList;
 
 public class DiTich extends DiaDiem {
 
 
-	protected String tenDiTich;
+	protected String diTich;
+	protected String viTri;
 	protected String loai;
-	protected String nam;
+	protected String namCongNhan;
 
 	
 	public DiTich() {
 		// TODO Auto-generated constructor stub
 	}
-	public DiTich(String ten, String viTri, String nienDai, String moTa, String dienTich, String vungDem, String toaDo,
-			String dienBienLichSu, String tenDiTich, String loai, String nam) {
-		super(ten, viTri, nienDai, moTa, dienTich, vungDem, toaDo, dienBienLichSu);
-		this.tenDiTich = tenDiTich;
+	public DiTich(String ten, String dienBienLichSu, String khuVuc, String namThanhLap, String dienTich, String diTich, String viTri, String loai, String namCongNhan) {
+		super(ten, dienBienLichSu, khuVuc, namThanhLap, dienTich);
+		this.diTich = diTich;
+		this.viTri = viTri;
 		this.loai = loai;
-		this.nam = nam;
-	}	
+		this.namCongNhan = namCongNhan;
+	}
 	
 	
-	public String getTenDiTich() {
-		return tenDiTich;
+	public String getDiTich() {
+		return diTich;
+	}
+	public String getViTri() {
+		return viTri;
 	}
 	public String getLoai() {
 		return loai;
 	}
-	public String getNam() {
-		return nam;
+	public String getNamCongNhan() {
+		return namCongNhan;
 	}
-
+	
 	
 	public static DiTich mergeRule(Object oldVal, Object newVal) {
 		DiTich v2 = (DiTich) newVal;
 		DiTich v1 = (DiTich) DiaDiem.mergeRule(oldVal, newVal);
-		if (v1.tenDiTich == null || v1.tenDiTich.equals("?")) {
-            v1.tenDiTich = v2.tenDiTich;
+		if (v1.diTich == null || v1.diTich.equals("?")) {
+            v1.diTich = v2.diTich;
+        }
+		if (v1.viTri == null || v1.viTri.equals("?")) {
+            v1.viTri = v2.viTri;
         }
 		if (v1.loai == null || v1.loai.equals("?")) {
             v1.loai = v2.loai;
         }
-		if (v1.nam == null || v1.nam.equals("?")) {
-            v1.nam = v2.nam;
+		if (v1.namCongNhan == null || v1.namCongNhan.equals("?")) {
+            v1.namCongNhan = v2.namCongNhan;
         }
 		return v1;
 	}
