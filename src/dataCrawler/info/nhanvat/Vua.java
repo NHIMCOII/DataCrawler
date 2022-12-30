@@ -1,6 +1,6 @@
 package dataCrawler.info.nhanvat;
 
-import org.jsoup.Jsoup;
+/*import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -8,30 +8,66 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Map;
-import java.util.TreeMap;
+import java.util.TreeMap;*/
 
 
 public class Vua extends NhanVat {
-    private String tenDayDu;
-    private String trieuDai;
-    private String theThiep;
-    private String thanPhu;
-    private String thanMau;
 
-    public Vua() {
+
+	protected String triVi; //tai_vi
+	protected String tienNhiem;
+	protected String keNhiem;
+	protected String nienHieu;
+	protected String tonHieu;
+	protected String thuyHieu;
+	protected String mieuHieu;
+	protected String tuocHieu;
+
+    
+	public Vua() {
         super();
     }
-
-    public Vua(String ten, String chucVu, String sinh, String mat, String trieuDai, String tenDayDu, String theThiep, String thanPhu, String thanMau) {
-        super(ten, chucVu, sinh, mat);
-        this.trieuDai = trieuDai;
-        this.tenDayDu = tenDayDu;
-        this.theThiep = theThiep;
-        this.thanPhu = thanPhu;
-        this.thanMau = thanMau;
-    }
-
-    public static Map getInfoFromWiki(ArrayList<String> urls) throws IOException {
+	
+	public Vua(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
+			String bo, String me, String chong, String vo, String con, String cuocDoi, String suNghiep, String triVi, String tienNhiem, String keNhiem, String nienHieu, String tonHieu, String thuyHieu,
+			String mieuHieu, String tuocHieu) {
+		super(ten, tenKhac, trieuDai,  sinh,  mat,  anTang,  chucVu,  bo,  me,  chong,  vo,  con,  cuocDoi, suNghiep);
+		this.triVi = triVi;
+		this.tienNhiem = tienNhiem;
+		this.keNhiem = keNhiem;
+		this.nienHieu = nienHieu;
+		this.tonHieu = tonHieu;
+		this.thuyHieu = thuyHieu;
+		this.mieuHieu = mieuHieu;
+		this.tuocHieu = tuocHieu;
+	}
+	
+    
+	public String getTriVi() {
+		return triVi;
+	}
+	public String getTienNhiem() {
+		return tienNhiem;
+	}
+	public String getKeNhiem() {
+		return keNhiem;
+	}
+	public String getNienHieu() {
+		return nienHieu;
+	}
+	public String getTonHieu() {
+		return tonHieu;
+	}
+	public String getThuyHieu() {
+		return thuyHieu;
+	}
+	public String getMieuHieu() {
+		return mieuHieu;
+	}
+	public String getTuocHieu() {
+		return tuocHieu;
+	}
+    /*public static Map getInfoFromWiki(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
         Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
@@ -63,42 +99,40 @@ public class Vua extends NhanVat {
             }
         }
         return m;
-    }
+    }*/
 
     public static Vua mergeRule(Object oldVal, Object newVal) {
         Vua v2 = (Vua) newVal;
         Vua v1 = (Vua) NhanVat.mergeRule(oldVal, newVal);
-        if (v1.trieuDai == null || v1.trieuDai.equals("?")) {
-            v1.trieuDai = v2.trieuDai;
+        if (v1.triVi == null || v1.triVi.equals("?")) {
+            v1.triVi = v2.triVi;
         }
-        if (v1.tenDayDu == null || v1.tenDayDu.equals("?")) {
-            v1.tenDayDu = v2.tenDayDu;
+        if (v1.tienNhiem == null || v1.tienNhiem.equals("?")) {
+            v1.tienNhiem = v2.tienNhiem;
+        }
+        if (v1.keNhiem == null || v1.keNhiem.equals("?")) {
+            v1.keNhiem = v2.keNhiem;
+        }
+        if (v1.nienHieu == null || v1.nienHieu.equals("?")) {
+            v1.nienHieu = v2.nienHieu;
+        }
+        if (v1.tonHieu == null || v1.tonHieu.equals("?")) {
+            v1.tonHieu = v2.tonHieu;
+        }
+        if (v1.thuyHieu == null || v1.thuyHieu.equals("?")) {
+            v1.thuyHieu = v2.thuyHieu;
+        }
+        if (v1.mieuHieu == null || v1.mieuHieu.equals("?")) {
+            v1.mieuHieu = v2.mieuHieu;
+        }
+        if (v1.tuocHieu == null || v1.tuocHieu.equals("?")) {
+            v1.tuocHieu = v2.tuocHieu;
         }
         return v1;
     }
 
-    public String getTenDayDu() {
-        return tenDayDu;
-    }
-
-    public String getTheThiep() {
-        return theThiep;
-    }
-
-    public String getThanPhu() {
-        return thanPhu;
-    }
-
-    public String getThanMau() {
-        return thanMau;
-    }
-
-    public String getTrieuDai() {
-        return trieuDai;
-    }
-
-    public void print() {
+    /*public void print() {
         System.out.println(this.ten + "-" + this.tenDayDu + "-" + this.sinh + "-" + this.mat);
-    }
+    }*/
 
 }
