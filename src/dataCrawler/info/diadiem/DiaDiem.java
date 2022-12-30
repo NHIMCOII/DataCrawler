@@ -4,10 +4,8 @@ import java.util.ArrayList;
 
 
 public class DiaDiem {
-
-
 	protected String ten;
-	protected String dienBienLichSu;
+	protected String lichSu;
 	protected String khuVuc;
 	protected String namThanhLap;
 	protected String dienTich;
@@ -19,20 +17,19 @@ public class DiaDiem {
 	public DiaDiem() {
 		// TODO Auto-generated constructor stub
 	}
-	public DiaDiem(String ten, String dienBienLichSu, String khuVuc, String namThanhLap, String dienTich) {
+	public DiaDiem(String ten, String lichSu, String khuVuc, String namThanhLap, String dienTich) {
 		this.ten = ten;
-		this.dienBienLichSu = dienBienLichSu;
+		this.lichSu = lichSu;
 		this.khuVuc = khuVuc;
 		this.namThanhLap = namThanhLap;
 		this.dienTich = dienTich;
 	}
-	
-	
+
 	public String getTen() {
 		return ten;
 	}
-	public String getDienBienLichSu() {
-		return dienBienLichSu;
+	public String getLichSu() {
+		return lichSu;
 	}
 	public String getKhuVuc() {
 		return khuVuc;
@@ -53,16 +50,14 @@ public class DiaDiem {
 		return nhanVat;
 	}
 	
-	
-	
 	public static DiaDiem mergeRule(Object oldVal, Object newVal) {
 		DiaDiem v1 = (DiaDiem) oldVal;
 		DiaDiem v2 = (DiaDiem) newVal;
         if (v1.ten == null || v1.ten.equals("?")) {
             v1.ten = v2.ten;
         }
-        if (v1.dienBienLichSu == null || v1.dienBienLichSu.equals("?")) {
-            v1.dienBienLichSu = v2.dienBienLichSu;
+        if (v1.lichSu == null || v1.lichSu.equals("?")) {
+            v1.lichSu = v2.lichSu;
         }
         if (v1.khuVuc == null || v1.khuVuc.equals("?")) {
             v1.khuVuc = v2.khuVuc;

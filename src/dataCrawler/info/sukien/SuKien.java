@@ -3,8 +3,6 @@ package dataCrawler.info.sukien;
 import java.util.ArrayList;
 
 public class SuKien {
-
-	
 	protected String ten;
 	protected String thoiGian;
 	protected String dienBien;
@@ -21,7 +19,6 @@ public class SuKien {
 		this.thoiGian = thoiGian;
 		this.dienBien = dienBien;
 	}
-
 
 	public String getTen() {
 		return ten;
@@ -57,7 +54,6 @@ public class SuKien {
         }
         return v1;
     }
-	
 	
     public void addLink(String link) {
         if (links.contains(link)) {
