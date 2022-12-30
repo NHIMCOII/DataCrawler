@@ -1,6 +1,15 @@
 package dataCrawler.info.diadiem;
 
+import dataCrawler.links.Diadiem_Links;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Map;
+import java.util.TreeMap;
 
 
 public class DiaDiem {
@@ -12,7 +21,6 @@ public class DiaDiem {
 	protected ArrayList<String> links = new ArrayList<>();
 	protected ArrayList<String> suKien = new ArrayList<>();
 	protected ArrayList<String> nhanVat = new ArrayList<>();
-	
 	
 	public DiaDiem() {
 		// TODO Auto-generated constructor stub
@@ -48,6 +56,69 @@ public class DiaDiem {
 	}
 	public ArrayList<String> getNhanVat() {
 		return nhanVat;
+	}
+
+	public static Map getInfo_TVLS(ArrayList<String> urls) throws IOException {
+		System.setProperty("http.proxyhost", "127.0.0.1");
+		System.setProperty("http.proxyport", "8080");
+		Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+		for (String url : urls) {
+			final Document doc = Jsoup.connect(url)
+					.ignoreContentType(true)
+					.timeout(0)
+					.get();
+			DiaDiem diadiem = new DiaDiem();
+			Elements info = doc.select("div[class=col-12 col-md-8]");
+			if(info.size() != 0) {
+				Elements headers = doc.getElementsByClass("header-edge");
+				for(Element header: headers) {
+					if(diadiem.lichSu == null && header.text().equals("Diễn biễn lịch sử ")) {
+						diadiem.lichSu = header.parent().parent().select("div[class=card-body]").text();
+					}
+					if(header.text().equals("Tài liệu tham khảo")) {
+						Elements links = header.parent().parent()
+								.select("a");
+						for(Element link: links) {
+							diadiem.addLink(link.attr("href"));
+						}
+					}
+					if(header.text().equals("Sự kiện liên quan")) {
+						Elements links = header.parents().parents()
+								.select("div[class=card]");
+						for(Element link: links) {
+							int index = link.select("h4[class=card-title]").text().indexOf("(");
+							if (index > 0) {
+								diadiem.addSuKien(link.select("h4[class=card-title]")
+										.text()
+										.substring(0, index));
+							} else {
+								diadiem.addSuKien(link.select("h4[class=card-title]").text());
+							}
+						}
+					}
+					if(header.text().equals("Nhân vật liên quan")) {
+						Elements links = header.parents().parents()
+								.select("div[class=card]");
+						for(Element link: links) {
+							int index = link.select("h4[class=card-title]").text().indexOf("(");
+							if (index > 0) {
+								diadiem.addNhanVat(link.select("h4[class=card-title]")
+										.text()
+										.substring(0, index));
+							} else {
+								diadiem.addNhanVat(link.select("h4[class=card-title]").text());
+							}
+						}
+					}
+					if(diadiem.ten == null && !header.text().equals("")) {
+						diadiem.ten = header.text();
+					}
+				}
+				m.put(diadiem.ten, diadiem);
+			}
+		}
+		return m;
 	}
 	
 	public static DiaDiem mergeRule(Object oldVal, Object newVal) {
