@@ -11,8 +11,9 @@ public class Nhanvat_Links {
     private static ArrayList<String> vua_wiki = new ArrayList<>();
     private static ArrayList<String> chuTichNuoc_wiki = new ArrayList<>();
     private static ArrayList<String> nhanVat_nguoikesu = new ArrayList<>();
+    private static ArrayList<String> nhanVat_thuvienlichsu = new ArrayList<>();
 
-    Nhanvat_Links() {
+    public Nhanvat_Links() {
     }
 
     public static ArrayList<String> getVua_wiki() throws IOException {
@@ -33,6 +34,12 @@ public class Nhanvat_Links {
         return nhanVat_nguoikesu;
     }
 
+    public static ArrayList<String> getNhanVat_thuvienlichsu() throws IOException {
+        Nhanvat_Links.setNhanVat_thuvienlichsu();
+//        printLinks(nhanVat_thuvienlichsu);
+        return nhanVat_nguoikesu;
+    }
+
 
     private static void setVua_wiki() throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
@@ -47,7 +54,9 @@ public class Nhanvat_Links {
 
         for (Element table : doc.select("table")) {
             if (!table.select("tr th:nth-of-type(2):containsOwn(Vua)").text().equals("")
-                    || !table.select("tr th:nth-of-type(2):containsOwn(Hoàng Đế)").text().equals("")) {
+                    || !table.select("tr th:nth-of-type(2):containsOwn(Hoàng Đế)").text().equals("")
+                    || !table.select("tr th:nth-of-type(2):containsOwn(Chúa)").text().equals("")
+                    || !table.select("tr th:nth-of-type(2):containsOwn(Tước hiệu)").text().equals("")) {
                 for (Element link : table.select("tr td:nth-of-type(2) a[href^=/]")) {
                     vua_wiki.add("https://vi.wikipedia.org" + link.attr("href"));
                 }
@@ -82,13 +91,30 @@ public class Nhanvat_Links {
 // 		Append dataCrawler.info from all pages
 //		5 characters each page & 291 pages
         for (int i = 0; i < 291; i += 5) {
-            Document subDoc = Jsoup.connect(url)
+            Document doc = Jsoup.connect(url)
                     .ignoreContentType(true)
                     .timeout(0)
                     .get();
             url = url.replace(Integer.toString(i), Integer.toString(i + 5));
-            for (Element x : subDoc.select("h2 a")) {
+            for (Element x : doc.select("h2 a")) {
                 nhanVat_nguoikesu.add("https://nguoikesu.com" + x.attr("href"));
+            }
+        }
+    }
+
+    private static void setNhanVat_thuvienlichsu() throws IOException {
+        System.setProperty("http.proxyhost", "127.0.0.1");
+        System.setProperty("http.proxyport", "8080");
+
+        String url = "https://thuvienlichsu.com/nhan-vat?page=1";
+        for (int i = 1; i < 42; i++) {
+            Document doc = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            url = url.replace(Integer.toString(i), Integer.toString(i + 1));
+            for (Element x : doc.select("div.col-md-4 a")) {
+                nhanVat_thuvienlichsu.add("https://thuvienlichsu.com" + x.attr("href"));
             }
         }
     }
