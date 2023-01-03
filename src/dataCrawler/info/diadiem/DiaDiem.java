@@ -18,9 +18,9 @@ public class DiaDiem {
 	protected String khuVuc;
 	protected String namThanhLap;
 	protected String dienTich;
-	protected ArrayList<String> links = new ArrayList<>();
-	protected ArrayList<String> suKien = new ArrayList<>();
-	protected ArrayList<String> nhanVat = new ArrayList<>();
+	protected ArrayList<String> links;
+	protected ArrayList<String> suKien;
+	protected ArrayList<String> nhanVat;
 	
 	public DiaDiem() {
 		// TODO Auto-generated constructor stub
@@ -77,6 +77,7 @@ public class DiaDiem {
 						diadiem.lichSu = header.parent().parent().select("div[class=card-body]").text();
 					}
 					if(header.text().equals("Tài liệu tham khảo")) {
+						diadiem.links = new ArrayList<>();
 						Elements links = header.parent().parent()
 								.select("a");
 						for(Element link: links) {
@@ -86,6 +87,7 @@ public class DiaDiem {
 					if(header.text().equals("Sự kiện liên quan")) {
 						Elements links = header.parents().parents()
 								.select("div[class=card]");
+						diadiem.suKien = new ArrayList<>();
 						for(Element link: links) {
 							int index = link.select("h4[class=card-title]").text().indexOf("(");
 							if (index > 0) {
@@ -100,6 +102,7 @@ public class DiaDiem {
 					if(header.text().equals("Nhân vật liên quan")) {
 						Elements links = header.parents().parents()
 								.select("div[class=card]");
+						diadiem.nhanVat = new ArrayList<>();
 						for(Element link: links) {
 							int index = link.select("h4[class=card-title]").text().indexOf("(");
 							if (index > 0) {
@@ -115,7 +118,48 @@ public class DiaDiem {
 						diadiem.ten = header.text();
 					}
 				}
-				m.put(diadiem.ten, diadiem);
+				m.put(Diadiem_Links.removeAccent(diadiem.ten.trim().toLowerCase()), diadiem);
+			}
+		}
+		return m;
+	}
+
+	public static Map getInfo_Wiki() throws IOException {
+		System.setProperty("http.proxyhost", "127.0.0.1");
+		System.setProperty("http.proxyport", "8080");
+		Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+		String url = "https://vi.wikipedia.org/wiki/T%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam";
+		Document document = Jsoup.connect(url)
+				.ignoreContentType(true)
+				.timeout(0)
+				.get();
+		Element table = document.selectFirst("table[class=wikitable sortable mw-collapsible]");
+		if (table != null) {
+			Elements trs = table.select("tbody tr");
+			for (int i = 1; i <= 63; i++) {
+				if (trs.get(i) == null) {
+					continue;
+				}
+				DiaDiem diadiem = new DiaDiem();
+				Elements tds = trs.get(i).select("td");
+				if (diadiem.ten == null && tds.get(1) != null) {
+					diadiem.ten = tds.get(1).select("center").text();
+				}
+				if (diadiem.ten == null && tds.get(3) != null) {
+					if (tds.get(3).selectFirst("a") != null) {
+						diadiem.khuVuc = tds.get(3).selectFirst("a").text();
+					} else {
+						diadiem.khuVuc = tds.get(3).text();
+					}
+				}
+				if (diadiem.namThanhLap == null && tds.get(4) != null) {
+					diadiem.namThanhLap = tds.get(4).select("center").text();
+				}
+				if (diadiem.dienTich == null && tds.get(6) != null) {
+					diadiem.dienTich = tds.get(6).select("center").text();
+				}
+				m.put(Diadiem_Links.removeAccent(diadiem.ten.trim().toLowerCase()), diadiem);
 			}
 		}
 		return m;

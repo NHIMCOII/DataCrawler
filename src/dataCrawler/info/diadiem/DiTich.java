@@ -1,6 +1,9 @@
 package dataCrawler.info.diadiem;
 
 
+import java.util.Map;
+import java.util.TreeMap;
+
 public class DiTich extends DiaDiem {
 	protected String viTri;
 	protected String loai;
@@ -26,6 +29,16 @@ public class DiTich extends DiaDiem {
 	}
 	public String getNamCongNhan() {
 		return namCongNhan;
+	}
+
+	public static Map getInfo_Wiki() {
+		System.setProperty("http.proxyhost", "127.0.0.1");
+		System.setProperty("http.proxyport", "8080");
+		Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+		String url = "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_di_s%E1%BA%A3n_" +
+				"th%E1%BA%BF_gi%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam";
+		return m;
 	}
 	
 	public static DiTich mergeRule(Object oldVal, Object newVal) {

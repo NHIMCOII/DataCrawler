@@ -1,7 +1,9 @@
 package dataCrawler.links;
 
+import dataCrawler.info.diadiem.DiaDiem;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
@@ -10,15 +12,16 @@ import java.util.ArrayList;
 import java.util.regex.Pattern;
 
 public class Diadiem_Links {
-    private static ArrayList<String> dia_diem = new ArrayList<>();
+    private static ArrayList<String> diaDiem_TVLS = new ArrayList<>();
+    private static ArrayList<String> diaDiem_Wiki = new ArrayList<>();
 
     public Diadiem_Links() {
     }
 
     public static ArrayList<String> getDiaDiem_TVLS() throws IOException {
         Diadiem_Links.setDiaDiem_TVLS();
-        printLinks(dia_diem);
-        return dia_diem;
+        printLinks(diaDiem_TVLS);
+        return diaDiem_TVLS;
     }
 
     public static void setDiaDiem_TVLS() throws IOException {
@@ -39,7 +42,7 @@ public class Diadiem_Links {
                 }
                 String link = "https://thuvienlichsu.com" + elm_a.attr("href");
                 link = Diadiem_Links.removeAccent(link);
-                dia_diem.add(link);
+                diaDiem_TVLS.add(link);
             }
             url = url.replace(Integer.toString(i), Integer.toString(i + 1));
         }
