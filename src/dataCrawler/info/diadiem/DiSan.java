@@ -1,5 +1,13 @@
 package dataCrawler.info.diadiem;
 
+import dataCrawler.links.Diadiem_Links;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import java.awt.desktop.SystemSleepEvent;
+import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -18,12 +26,34 @@ public class DiSan extends DiaDiem {
 		return moTa;
 	}
 
-	public static Map getInfo_Wiki() {
+	public static Map getInfo_Wiki() throws IOException {
 		System.setProperty("http.proxyhost", "127.0.0.1");
 		System.setProperty("http.proxyport", "8080");
 		Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
 
-		String url = "https://vi.m.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam";
+		String url = "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_di_s%E1%BA%A3n_" +
+				"th%E1%BA%BF_gi%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam";
+		Document document = Jsoup.connect(url)
+				.ignoreContentType(true)
+				.timeout(0)
+				.get();
+		Element table = document.selectFirst("table[class=wikitable sortable]");
+		Elements infos = table.select("tr");
+		for(int i = 1; i <= 8; i++) {
+			Elements infoos = infos.get(i).select("td");
+			DiSan diSan = new DiSan();
+			System.out.println(infoos);
+			if(diSan.ten != null && !infoos.get(1).text().equals("")) {
+				diSan.ten = infoos.get(1).selectFirst("a").text();
+			} else if (diSan.khuVuc != null && infoos.get(3) != null) {
+				diSan.khuVuc = infoos.get(3).selectFirst("span").text();
+			} else if (diSan.namThanhLap != null && infoos.get(4) != null) {
+				diSan.namThanhLap = infoos.get(4).text();
+			} else if (diSan.moTa != null && infoos.get(6) != null) {
+				diSan.moTa = infoos.get(6).text();
+			}
+			m.put(Diadiem_Links.removeAccent(diSan.ten.trim().toLowerCase()), diSan);
+		}
 		return m;
 	}
 

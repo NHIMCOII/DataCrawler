@@ -2,6 +2,8 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import dataCrawler.info.diadiem.DiSan;
+import dataCrawler.info.diadiem.DiTich;
 import dataCrawler.info.diadiem.DiaDiem;
 import dataCrawler.links.Diadiem_Links;
 
@@ -21,7 +23,13 @@ public class DiaDiemTest {
 //        gson.toJson(m, writer);
 //        writer.close();
 
-        Map m = DiaDiem.getInfo_Wiki();
+//        Map m = DiaDiem.getInfo_Wiki();
+//        System.out.println(m);
+
+//        Map m = DiTich.getInfo_Wiki();
+//        System.out.println(m);
+
+        Map m = DiSan.getInfo_Wiki();
         System.out.println(m);
     }
 }
