@@ -15,7 +15,7 @@ public class TrieuDaiTest {
         try {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             Map m = ThoiKy.getInfoFromNguoiKeSu(TrieuDai_Links.getThoiKy_nguoikesu());
-
+            
             Writer writer = Files.newBufferedWriter(Paths.get("TrieuDai.json"));
             gson.toJson(m, writer);
             writer.close();

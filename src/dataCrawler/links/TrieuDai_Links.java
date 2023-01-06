@@ -16,6 +16,10 @@ public class TrieuDai_Links {
 
     public static ArrayList<String> getThoiKy_nguoikesu() throws IOException {
         TrieuDai_Links.setThoiKy_nguoikesu();
+        int size = thoiKy_nguoikesu.size();
+        for (int i = size - 1; i > size / 2 - 1; i--) {
+            thoiKy_nguoikesu.remove(i);
+        }
 //        printLinks(thoiKy_nguoikesu);
         return thoiKy_nguoikesu;
     }

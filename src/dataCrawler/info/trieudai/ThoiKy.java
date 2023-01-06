@@ -42,13 +42,12 @@ public class ThoiKy {
     public static Map getInfoFromNguoiKeSu(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
-
-        Map m = new LinkedHashMap();
-        int i = 0;
         Element result;
+        Map m = new LinkedHashMap();
 
         for (String url : urls) {
-            final Document doc = Jsoup.connect(url)
+            System.out.println(url);
+            Document curr = Jsoup.connect(url)
                     .ignoreContentType(true)
                     .timeout(0)
                     .get();
@@ -56,26 +55,25 @@ public class ThoiKy {
             thoiKy.addLink(url);
 //            byte arr[] = doc.selectFirst(".subheading-category").text().getBytes("UTF-8");
 //            String value = new String(arr, "UTF-8");
-            thoiKy.ten = doc.selectFirst(".subheading-category").text();
-            thoiKy.moTa = doc.selectFirst(".clearfix.category-desc").text();
-            for (Element item : doc.select("div.items-leading > div:not(.advertise-box)")) {
-                TrieuDai trieuDai = new TrieuDai(item.selectFirst(".page-header > h2 > a").text(), item.select("p:not(.readmore)").text());
-                trieuDai.addLink("https://nguoikesu.com" + item.selectFirst(".page-header > h2 > a").attr("href"));
-                thoiKy.addTrieuDai(trieuDai);
-            }
-            result = doc.selectFirst("li.pagination-next > a");
-            if (result != null) {
-                final Document nextDoc = Jsoup.connect("https://nguoikesu.com" + result.attr("href"))
-                        .ignoreContentType(true)
-                        .timeout(0)
-                        .get();
-                for (Element item : nextDoc.select("div.items-leading > div:not(.advertise-box)")) {
+            thoiKy.ten = curr.selectFirst(".subheading-category").text();
+            thoiKy.moTa = curr.selectFirst(".clearfix.category-desc").text();
+
+            do {
+                for (Element item : curr.select("div.items-leading > div:not(.advertise-box)")) {
                     TrieuDai trieuDai = new TrieuDai(item.selectFirst(".page-header > h2 > a").text(), item.select("p:not(.readmore)").text());
                     trieuDai.addLink("https://nguoikesu.com" + item.selectFirst(".page-header > h2 > a").attr("href"));
                     thoiKy.addTrieuDai(trieuDai);
                 }
-            }
+                result = curr.selectFirst("li.pagination-next > a");
+                if (result != null) {
+                    curr = Jsoup.connect("https://nguoikesu.com" + result.attr("href"))
+                            .ignoreContentType(true)
+                            .timeout(0)
+                            .get();
+                }
+            } while (result != null);
             m.put(Tool.normalizeKey(thoiKy.ten), thoiKy);
+//            break;
         }
         return m;
     }
