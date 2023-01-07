@@ -157,7 +157,7 @@ public class DiaDiem {
 					diadiem.namThanhLap = tds.get(4).select("center").text();
 				}
 				if (diadiem.dienTich == null && tds.get(6) != null) {
-					diadiem.dienTich = tds.get(6).select("center").text();
+					diadiem.dienTich = tds.get(6).select("center").text().replace(".", "");
 				}
 				m.put(Diadiem_Links.removeAccent(diadiem.ten.trim().toLowerCase()), diadiem);
 			}

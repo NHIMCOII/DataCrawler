@@ -1,0 +1,7062 @@
+{
+  "\"nha cao cang\" so 18 le loi": {
+    "ten": "\"Nhà cao cẳng\" số 18 Lê Lợi",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "1": {
+    "ten": "1",
+    "khuVuc": "Ninh Bình"
+  },
+  "10": {
+    "ten": "10",
+    "khuVuc": "Ninh Bình"
+  },
+  "11": {
+    "ten": "11",
+    "khuVuc": "Ninh Bình"
+  },
+  "12": {
+    "ten": "12",
+    "khuVuc": "Ninh Bình"
+  },
+  "13": {
+    "ten": "13",
+    "khuVuc": "Ninh Bình"
+  },
+  "14": {
+    "ten": "14",
+    "khuVuc": "Ninh Bình"
+  },
+  "15": {
+    "ten": "15",
+    "khuVuc": "Ninh Bình"
+  },
+  "16": {
+    "ten": "16",
+    "khuVuc": "Ninh Bình"
+  },
+  "17": {
+    "ten": "17",
+    "khuVuc": "Ninh Bình"
+  },
+  "18": {
+    "ten": "18",
+    "khuVuc": "Ninh Bình"
+  },
+  "19": {
+    "ten": "19",
+    "khuVuc": "Ninh Bình"
+  },
+  "2": {
+    "ten": "2",
+    "khuVuc": "Ninh Bình"
+  },
+  "20": {
+    "ten": "20",
+    "khuVuc": "Ninh Bình"
+  },
+  "21": {
+    "ten": "21",
+    "khuVuc": "Ninh Bình"
+  },
+  "22": {
+    "ten": "22",
+    "khuVuc": "Ninh Bình"
+  },
+  "23": {
+    "ten": "23",
+    "khuVuc": "Ninh Bình"
+  },
+  "24": {
+    "ten": "24",
+    "khuVuc": "Ninh Bình"
+  },
+  "25": {
+    "ten": "25",
+    "khuVuc": "Ninh Bình"
+  },
+  "26": {
+    "ten": "26",
+    "khuVuc": "Ninh Bình"
+  },
+  "27": {
+    "ten": "27",
+    "khuVuc": "Ninh Bình"
+  },
+  "28": {
+    "ten": "28",
+    "khuVuc": "Ninh Bình"
+  },
+  "29": {
+    "ten": "29",
+    "khuVuc": "Ninh Bình"
+  },
+  "3": {
+    "ten": "3",
+    "khuVuc": "Ninh Bình"
+  },
+  "30": {
+    "ten": "30",
+    "khuVuc": "Ninh Bình"
+  },
+  "31": {
+    "ten": "31",
+    "khuVuc": "Ninh Bình"
+  },
+  "32": {
+    "ten": "32",
+    "khuVuc": "Ninh Bình"
+  },
+  "33": {
+    "ten": "33",
+    "khuVuc": "Ninh Bình"
+  },
+  "34": {
+    "ten": "34",
+    "khuVuc": "Ninh Bình"
+  },
+  "35": {
+    "ten": "35",
+    "khuVuc": "Ninh Bình"
+  },
+  "36": {
+    "ten": "36",
+    "khuVuc": "Ninh Bình"
+  },
+  "37": {
+    "ten": "37",
+    "khuVuc": "Ninh Bình"
+  },
+  "38": {
+    "ten": "38",
+    "khuVuc": "Ninh Bình"
+  },
+  "39": {
+    "ten": "39",
+    "khuVuc": "Ninh Bình"
+  },
+  "4": {
+    "ten": "4",
+    "khuVuc": "Ninh Bình"
+  },
+  "40": {
+    "ten": "40",
+    "khuVuc": "Ninh Bình"
+  },
+  "41": {
+    "ten": "41",
+    "khuVuc": "Ninh Bình"
+  },
+  "42": {
+    "ten": "42",
+    "khuVuc": "Ninh Bình"
+  },
+  "43": {
+    "ten": "43",
+    "khuVuc": "Ninh Bình"
+  },
+  "44": {
+    "ten": "44",
+    "khuVuc": "Ninh Bình"
+  },
+  "45": {
+    "ten": "45",
+    "khuVuc": "Ninh Bình"
+  },
+  "46": {
+    "ten": "46",
+    "khuVuc": "Ninh Bình"
+  },
+  "47": {
+    "ten": "47",
+    "khuVuc": "Ninh Bình"
+  },
+  "48": {
+    "ten": "48",
+    "khuVuc": "Ninh Bình"
+  },
+  "49": {
+    "ten": "49",
+    "khuVuc": "Ninh Bình"
+  },
+  "5": {
+    "ten": "5",
+    "khuVuc": "Ninh Bình"
+  },
+  "50": {
+    "ten": "50",
+    "khuVuc": "Ninh Bình"
+  },
+  "51": {
+    "ten": "51",
+    "khuVuc": "Ninh Bình"
+  },
+  "52": {
+    "ten": "52",
+    "khuVuc": "Ninh Bình"
+  },
+  "53": {
+    "ten": "53",
+    "khuVuc": "Ninh Bình"
+  },
+  "54": {
+    "ten": "54",
+    "khuVuc": "Ninh Bình"
+  },
+  "55": {
+    "ten": "55",
+    "khuVuc": "Ninh Bình"
+  },
+  "56": {
+    "ten": "56",
+    "khuVuc": "Ninh Bình"
+  },
+  "57": {
+    "ten": "57",
+    "khuVuc": "Ninh Bình"
+  },
+  "58": {
+    "ten": "58",
+    "khuVuc": "Ninh Bình"
+  },
+  "59": {
+    "ten": "59",
+    "khuVuc": "Ninh Bình"
+  },
+  "6": {
+    "ten": "6",
+    "khuVuc": "Ninh Bình"
+  },
+  "60": {
+    "ten": "60",
+    "khuVuc": "Ninh Bình"
+  },
+  "61": {
+    "ten": "61",
+    "khuVuc": "Ninh Bình"
+  },
+  "62": {
+    "ten": "62",
+    "khuVuc": "Ninh Bình"
+  },
+  "63": {
+    "ten": "63",
+    "khuVuc": "Ninh Bình"
+  },
+  "64": {
+    "ten": "64",
+    "khuVuc": "Ninh Bình"
+  },
+  "65": {
+    "ten": "65",
+    "khuVuc": "Ninh Bình"
+  },
+  "66": {
+    "ten": "66",
+    "khuVuc": "Ninh Bình"
+  },
+  "67": {
+    "ten": "67",
+    "khuVuc": "Ninh Bình"
+  },
+  "68": {
+    "ten": "68",
+    "khuVuc": "Ninh Bình"
+  },
+  "69": {
+    "ten": "69",
+    "khuVuc": "Ninh Bình"
+  },
+  "7": {
+    "ten": "7",
+    "khuVuc": "Ninh Bình"
+  },
+  "70": {
+    "ten": "70",
+    "khuVuc": "Ninh Bình"
+  },
+  "71": {
+    "ten": "71",
+    "khuVuc": "Ninh Bình"
+  },
+  "72": {
+    "ten": "72",
+    "khuVuc": "Ninh Bình"
+  },
+  "73": {
+    "ten": "73",
+    "khuVuc": "Ninh Bình"
+  },
+  "74": {
+    "ten": "74",
+    "khuVuc": "Ninh Bình"
+  },
+  "75": {
+    "ten": "75",
+    "khuVuc": "Ninh Bình"
+  },
+  "76": {
+    "ten": "76",
+    "khuVuc": "Ninh Bình"
+  },
+  "77": {
+    "ten": "77",
+    "khuVuc": "Ninh Bình"
+  },
+  "78": {
+    "ten": "78",
+    "khuVuc": "Ninh Bình"
+  },
+  "79": {
+    "ten": "79",
+    "khuVuc": "Ninh Bình"
+  },
+  "8": {
+    "ten": "8",
+    "khuVuc": "Ninh Bình"
+  },
+  "80": {
+    "ten": "80",
+    "khuVuc": "Ninh Bình"
+  },
+  "81": {
+    "ten": "81",
+    "khuVuc": "Ninh Bình"
+  },
+  "82": {
+    "ten": "82",
+    "khuVuc": "Ninh Bình"
+  },
+  "83": {
+    "ten": "83",
+    "khuVuc": "Ninh Bình"
+  },
+  "84": {
+    "ten": "84",
+    "khuVuc": "Ninh Bình"
+  },
+  "85": {
+    "ten": "85",
+    "khuVuc": "Ninh Bình"
+  },
+  "86": {
+    "ten": "86",
+    "khuVuc": "Ninh Bình"
+  },
+  "87": {
+    "ten": "87",
+    "khuVuc": "Ninh Bình"
+  },
+  "88": {
+    "ten": "88",
+    "khuVuc": "Ninh Bình"
+  },
+  "89": {
+    "ten": "89",
+    "khuVuc": "Ninh Bình"
+  },
+  "9": {
+    "ten": "9",
+    "khuVuc": "Ninh Bình"
+  },
+  "90": {
+    "ten": "90",
+    "khuVuc": "Ninh Bình"
+  },
+  "91": {
+    "ten": "91",
+    "khuVuc": "Ninh Bình"
+  },
+  "92": {
+    "ten": "92",
+    "khuVuc": "Ninh Bình"
+  },
+  "93": {
+    "ten": "93",
+    "khuVuc": "Ninh Bình"
+  },
+  "94": {
+    "ten": "94",
+    "khuVuc": "Ninh Bình"
+  },
+  "95": {
+    "ten": "95",
+    "khuVuc": "Ninh Bình"
+  },
+  "am chua": {
+    "ten": "Am Chúa",
+    "khuVuc": "Ninh Thuận"
+  },
+  "an toan khu dinh hoa gom 13 di tich thanh phan": {
+    "ten": "An toàn khu Định Hóa (gồm 13 di tích thành phần)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "ang-ten parabol viba nui lon": {
+    "ten": "Ăng-ten parabol viba Núi Lớn",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "ao ba om": {
+    "ten": "Ao Bà Om",
+    "khuVuc": "Kiên Giang"
+  },
+  "atk cho don": {
+    "ten": "ATK Chợ Đồn",
+    "khuVuc": "Bắc Kạn"
+  },
+  "atk2 10 di tich": {
+    "ten": "ATK2 (10 di tích)",
+    "khuVuc": "Bắc Giang"
+  },
+  "bach dinh": {
+    "ten": "Bạch Dinh",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "bai coc yen giang": {
+    "ten": "Bãi cọc Yên Giang",
+    "khuVuc": "Quảng Ninh"
+  },
+  "bai da co nam dan": {
+    "ten": "Bãi đá cổ Nấm Dẩn",
+    "khuVuc": "Hà Giang"
+  },
+  "bai da co sa pa": {
+    "ten": "Bãi đá cổ Sa Pa",
+    "khuVuc": "Lào Cai"
+  },
+  "bai da khac co khe ho": {
+    "ten": "Bãi đá khắc cổ Khe Hổ",
+    "khuVuc": "Sơn La"
+  },
+  "ban bang": {
+    "ten": "Bản Bằng",
+    "khuVuc": "Bắc Kạn"
+  },
+  "ban ca": {
+    "ten": "Bản Ca",
+    "khuVuc": "Bắc Kạn"
+  },
+  "bao tang lich su thanh pho ho chi minh": {
+    "ten": "Bảo tàng Lịch sử Thành phố Hồ Chí Minh",
+    "khuVuc": "Tiền Giang"
+  },
+  "bao tang quang trung va dien tho tay son": {
+    "ten": "Bảo tàng Quang Trung và Điện thờ Tây Sơn",
+    "khuVuc": "Phú Yên"
+  },
+  "bao tang thanh pho ho chi minh": {
+    "ten": "Bảo tàng Thành phố Hồ Chí Minh",
+    "khuVuc": "Tiền Giang"
+  },
+  "bao tang xo viet nghe tinh": {
+    "ten": "Bảo tàng Xô Viết Nghệ Tĩnh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "bau trang": {
+    "ten": "Bàu Trắng",
+    "khuVuc": "Kon Tum"
+  },
+  "ben au lau": {
+    "ten": "Bến Âu Lâu",
+    "khuVuc": "Yên Bái"
+  },
+  "ben do me suot": {
+    "ten": "Bến đò Mẹ Suốt",
+    "khuVuc": "Quảng Trị"
+  },
+  "ben do phu my": {
+    "ten": "Bến đò Phú Mỹ",
+    "khuVuc": "Long An"
+  },
+  "ben do tung luat": {
+    "ten": "Bến đò Tùng Luật",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "ben loc an duong ho chi minh tren bien": {
+    "ten": "Bến Lộc An (Đường Hồ Chí Minh trên biển)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "ben nghieng": {
+    "ten": "Bến Nghiêng",
+    "khuVuc": "Hải Phòng"
+  },
+  "ben pha gianh 1": {
+    "ten": "Bến phà Gianh 1",
+    "khuVuc": "Quảng Trị"
+  },
+  "ben pha gianh 2": {
+    "ten": "Bến phà Gianh 2",
+    "khuVuc": "Quảng Trị"
+  },
+  "ben pha long dai": {
+    "ten": "Bến phà Long Đại",
+    "khuVuc": "Quảng Trị"
+  },
+  "ben pha quan hau": {
+    "ten": "Bến phà Quán Hàu",
+    "khuVuc": "Quảng Trị"
+  },
+  "ben song thach han": {
+    "ten": "Bến sông Thạch Hãn",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "ben tau khong so k15 diem dau duong ho chi minh tren bien": {
+    "ten": "Bến tàu không số K15 (điểm đầu Đường Hồ Chí Minh trên biển)",
+    "khuVuc": "Hải Phòng"
+  },
+  "ben tiep nhan vu khi con tau": {
+    "ten": "Bến tiếp nhận vũ khí Cồn Tàu",
+    "khuVuc": "Kiên Giang"
+  },
+  "bia chu quyen dao truong sa tai dao song tu tay va dao nam yet": {
+    "ten": "Bia chủ quyền đảo Trường Sa tại đảo Song Tử Tây và đảo Nam Yết",
+    "khuVuc": "Ninh Thuận"
+  },
+  "bia chua long thu": {
+    "ten": "Bia chùa Long Thủ",
+    "khuVuc": "Quảng Nam"
+  },
+  "bia le loi": {
+    "ten": "Bia Lê Lợi",
+    "khuVuc": "Lai Châu"
+  },
+  "bia ma nhai": {
+    "ten": "Bia Ma Nhai",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "bia mo nguyen truong to": {
+    "ten": "Bia mộ Nguyễn Trường Tộ",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "bia que lam ngu che, nam 1440": {
+    "ten": "Bia Quế Lâm Ngự Chế, năm 1440",
+    "khuVuc": "Sơn La"
+  },
+  "bia sung khanh va chuong binh lam": {
+    "ten": "Bia Sùng Khánh và Chuông Bình Lâm",
+    "khuVuc": "Hà Giang"
+  },
+  "bich cau dao quan": {
+    "ten": "Bích Câu đạo quán",
+    "khuVuc": "Thanh Hóa"
+  },
+  "bien ho / ho t\u0027nung": {
+    "ten": "Biển Hồ / Hồ T\u0027Nưng",
+    "khuVuc": "Đăk Lăk"
+  },
+  "biet dien bao dai": {
+    "ten": "Biệt điện Bảo Đại",
+    "khuVuc": "Lâm Đồng"
+  },
+  "binh san": {
+    "ten": "Bình San",
+    "khuVuc": "Bạc Liêu"
+  },
+  "bon xang kho nhien lieu vk98 cuc hau can b2": {
+    "ten": "Bồn xăng kho nhiên liệu VK98 (Cục Hậu cần B2)",
+    "khuVuc": "Bình Dương"
+  },
+  "bon xang kho nhien lieu vk99 cuc hau can b2": {
+    "ten": "Bồn xăng kho nhiên liệu VK99 (Cục Hậu cần B2)",
+    "khuVuc": "Bình Dương"
+  },
+  "bot day thep": {
+    "ten": "Bót Dây Thép",
+    "khuVuc": "Tiền Giang"
+  },
+  "cac chung tich ve cuoc tham sat 286 nguoi vo toi do thuc dan phap tien hanh nam 1947": {
+    "ten": "Các Chứng tích về cuộc thảm sát 286 người vô tội do thực dân Pháp tiến hành năm 1947",
+    "khuVuc": "Vĩnh Long"
+  },
+  "cac dia diem cua cuoc khoi nghia thai nguyen nam 1917 dinh cong su, trai linh kho xanh, nha lao thai nguyen, phong tuyen gia sang va den tho doi can": {
+    "ten": "Các địa điểm của cuộc khởi nghĩa Thái Nguyên năm 1917 (Dinh Công sứ, Trại lính khố xanh, Nhà lao Thái Nguyên, Phòng tuyến Gia Sàng và Đền thờ Đội Cấn)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "cac dia diem lich su co so in bao giai phong": {
+    "ten": "Các địa điểm lịch sử cơ sở in báo Giải Phóng",
+    "khuVuc": "Thái Nguyên"
+  },
+  "cac dia diem lien quan den hoat dong cua viet nam giai phong quan ngay 19-20/8/1945 chua dan, dinh hang pho va khu chu su nha den cu": {
+    "ten": "Các địa điểm liên quan đến hoạt động của Việt Nam Giải phóng quân ngày 19-20/8/1945 (Chùa Đán, Đình Hàng Phố và Khu Chủ sự nhà đèn cũ)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "cac dia diem ve phong trao dau tranh chong thuc dan phap cua dong bao m’nong do n’trang long lanh dao": {
+    "ten": "Các địa điểm về phong trào đấu tranh chống thực dân Pháp của đồng bào M’nông do N’Trang Lơng lãnh đạo",
+    "khuVuc": "Đồng Nai"
+  },
+  "cac diem vuot duong 9 cua duong day 559 bao gom cac cau khe xom, xom ro, du tien": {
+    "ten": "Các điểm vượt đường 9 của đường dây 559 (bao gồm các cầu Khe Xom, Xom Rò, Du Tiên)",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "cac tran danh tai nga tu thanh tan": {
+    "ten": "Các trận đánh tại ngã tư Thạnh Tân",
+    "khuVuc": "Vĩnh Long"
+  },
+  "cac trong diem tren duong 12a: – bai dinh – doi 37,cha lo, cong troi… -la trong – ngam khe ve – ngam rinh": {
+    "ten": "Các trọng điểm trên đường 12A: – Bãi Dinh – Đồi 37,Cha Lo, Cổng Trời… -La Trọng – Ngầm Khe Ve – Ngầm Rinh",
+    "khuVuc": "Quảng Trị"
+  },
+  "cac trong diem tren duong 20 quyet thang: km 10.5; km 14 trong diem tra ang; km 16.5 hang 8 tnxp": {
+    "ten": "Các trọng điểm trên đường 20 Quyết Thắng: Km 10.5; Km 14 trọng điểm Trà Ang; Km 16.5 hang 8 TNXP",
+    "khuVuc": "Quảng Trị"
+  },
+  "can cu ban an ninh trung uong cuc mien nam": {
+    "ten": "Căn cứ Ban an ninh Trung ương cục miền Nam",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "can cu binh thanh": {
+    "ten": "Căn cứ Bình Thành",
+    "khuVuc": "Đồng Tháp"
+  },
+  "can cu cach mang cao phong - thach yen": {
+    "ten": "Căn cứ cách mạng Cao Phong - Thạch Yên",
+    "khuVuc": "Hòa Bình"
+  },
+  "can cu cai chanh": {
+    "ten": "Căn cứ Cái Chanh",
+    "khuVuc": "Cà Mau"
+  },
+  "can cu cua tinh phu yen trong khang chien chong my": {
+    "ten": "Căn cứ của tỉnh Phú Yên trong kháng chiến chống Mỹ",
+    "khuVuc": "Khánh Hòa"
+  },
+  "can cu doc mieu - con tien": {
+    "ten": "Căn cứ Dốc Miếu - Cồn Tiên",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "can cu duong minh chau": {
+    "ten": "Căn cứ Dương Minh Châu",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "can cu khang chien b4 – lien tinh iv": {
+    "ten": "Căn cứ kháng chiến B4 – Liên tỉnh IV",
+    "khuVuc": "Đồng Nai"
+  },
+  "can cu khang chien tinh uy kien phong xeo quit": {
+    "ten": "Căn cứ kháng chiến Tỉnh ủy Kiến Phong (Xẻo Quít)",
+    "khuVuc": "An Giang"
+  },
+  "can cu khu uy mien dong nam bo chien khu d": {
+    "ten": "Căn cứ Khu ủy miền Đông Nam Bộ (Chiến khu Đ)",
+    "khuVuc": "Bình Phước"
+  },
+  "can cu minh dam": {
+    "ten": "Căn cứ Minh Đạm",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "can cu nui ba": {
+    "ten": "Căn cứ Núi Bà",
+    "khuVuc": "Phú Yên"
+  },
+  "can cu nui dinh": {
+    "ten": "Căn cứ Núi Dinh",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "can cu o ta soc": {
+    "ten": "Căn cứ Ô Tà Sóc",
+    "khuVuc": "Bến Tre"
+  },
+  "can cu quan khu uy sai gon – gia dinh": {
+    "ten": "Căn cứ Quân khu ủy Sài Gòn – Gia Định",
+    "khuVuc": "Vĩnh Long"
+  },
+  "can cu rung sac": {
+    "ten": "Căn cứ Rừng Sác",
+    "khuVuc": "Tiền Giang"
+  },
+  "can cu so chi huy dac khu quan su rung sac va doan 10 dac cong rung sac": {
+    "ten": "Căn cứ Sở Chỉ huy Đặc khu Quân sự Rừng Sác và Đoàn 10 Đặc công Rừng Sác",
+    "khuVuc": "Bình Phước"
+  },
+  "can cu ta thiet can cu bch quan giai phong mien nam viet nam; can cu bch chien dich ho chi minh": {
+    "ten": "Căn cứ Tà Thiết (Căn cứ BCH Quân giải phóng miền Nam Việt Nam; Căn cứ BCH Chiến dịch Hồ Chí Minh)",
+    "khuVuc": "Bình Dương"
+  },
+  "can cu tan so": {
+    "ten": "Căn cứ Tân Sở",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "can cu tien dong": {
+    "ten": "Căn cứ Tiên Động",
+    "khuVuc": "Phú Thọ"
+  },
+  "can cu tinh uy can tho": {
+    "ten": "Căn cứ Tỉnh ủy Cần Thơ",
+    "khuVuc": "Trà Vinh"
+  },
+  "can cu tinh uy tay ninh tai boi loi": {
+    "ten": "Căn cứ Tỉnh ủy Tây Ninh tại Bời Lời",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "can cu trung uong cuc mien nam": {
+    "ten": "Căn cứ Trung ương cục miền Nam",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "can cu vu quang cua khoi nghia huong khe": {
+    "ten": "Căn cứ Vũ Quang của khởi nghĩa Hương Khê",
+    "khuVuc": "Quảng Bình"
+  },
+  "cang bac me": {
+    "ten": "Căng Bắc Mê",
+    "khuVuc": "Hà Giang"
+  },
+  "cang quan su dong ha": {
+    "ten": "Cảng quân sự Đông Hà",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "cang va don nghia lo": {
+    "ten": "Căng và đồn Nghĩa Lộ",
+    "khuVuc": "Yên Bái"
+  },
+  "cau da vung tau": {
+    "ten": "Cầu Đá Vũng Tàu",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "cau ngoi cho luong": {
+    "ten": "Cầu ngói chợ Lương",
+    "khuVuc": "Nam Định"
+  },
+  "cau treo ben tat": {
+    "ten": "Cầu treo Bến Tắt",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "cay da bac ho": {
+    "ten": "Cây đa Bác Hồ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "cay da, san van dong, den lang sen": {
+    "ten": "Cây đa, sân vận động, đền Làng Sen",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "cay lim gieng rung": {
+    "ten": "Cây lim Giếng Rừng",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chi huy so tien phuong bo tu lenh 559": {
+    "ten": "Chỉ huy Sở Tiền phương Bộ tư lệnh 559",
+    "khuVuc": "Quảng Bình"
+  },
+  "chien khu ba long": {
+    "ten": "Chiến khu Ba Lòng",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "chien khu d": {
+    "ten": "Chiến khu Đ",
+    "khuVuc": "Tây Ninh"
+  },
+  "chien khu ngoc thanh bao gom nui than lan, nha cu ly thi hai, dong de, rung moc son, khe nui da den va thung lung da bia": {
+    "ten": "Chiến khu Ngọc Thanh (bao gồm núi Thằn Lằn, nhà cụ Lý Thị Hai, Đồng Dè, rừng Móc Son, khe núi Đá Đen và thung lũng Đá Bia)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chien khu ngoc trao": {
+    "ten": "Chiến khu Ngọc Trạo",
+    "khuVuc": "Nghệ An"
+  },
+  "chien khu tan trao. gom 40 di tich quoc gia": {
+    "ten": "Chiến khu Tân Trào. Gồm 40 di tích quốc gia",
+    "khuVuc": "Tuyên Quang"
+  },
+  "chien khu trung thuan": {
+    "ten": "Chiến khu Trung Thuần",
+    "khuVuc": "Quảng Trị"
+  },
+  "chien khu van": {
+    "ten": "Chiến khu Vần",
+    "khuVuc": "Yên Bái"
+  },
+  "chien luy phao dai": {
+    "ten": "Chiến lũy Pháo Đài",
+    "khuVuc": "Long An"
+  },
+  "chien thang ap bac 2/1/1963": {
+    "ten": "Chiến thắng Ấp Bắc (2/1/1963)",
+    "khuVuc": "Long An"
+  },
+  "chien thang binh gia chi khu quan su duc thanh, nga ba binh gia, nga ba song cau, nga ba quang giao": {
+    "ten": "Chiến thắng Bình Giã (chi khu quân sự Đức Thạnh, ngã ba Bình Giã, ngã ba Sông Cầu, ngã ba Quảng Giáo)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "chien thang chuong thien": {
+    "ten": "Chiến thắng Chương Thiện",
+    "khuVuc": "Trà Vinh"
+  },
+  "chien thang co co": {
+    "ten": "Chiến thắng Cổ Cò",
+    "khuVuc": "Long An"
+  },
+  "chien thang dak po 24/6/1954": {
+    "ten": "Chiến thắng Đắk Pơ (24/6/1954)",
+    "khuVuc": "Đăk Lăk"
+  },
+  "chien thang dong xoai, 1965": {
+    "ten": "Chiến thắng Đồng Xoài, 1965",
+    "khuVuc": "Bình Dương"
+  },
+  "chien thang duong 7 - song bo": {
+    "ten": "Chiến thắng đường 7 - Sông Bờ",
+    "khuVuc": "Đăk Lăk"
+  },
+  "chien thang giong dua": {
+    "ten": "Chiến thắng Giồng Dứa",
+    "khuVuc": "Long An"
+  },
+  "chien thang giong thi dam - go quan cung": {
+    "ten": "Chiến thắng Giồng Thị Đam - Gò Quản Cung",
+    "khuVuc": "An Giang"
+  },
+  "chien thang plei me": {
+    "ten": "Chiến thắng Plei Me",
+    "khuVuc": "Đăk Lăk"
+  },
+  "chien thang vam cai sinh": {
+    "ten": "Chiến thắng Vàm Cái Sình",
+    "khuVuc": "Trà Vinh"
+  },
+  "chien thang xuan bo": {
+    "ten": "Chiến thắng Xuân Bồ",
+    "khuVuc": "Quảng Trị"
+  },
+  "chien truong dien bien phu": {
+    "ten": "Chiến trường Điện Biên Phủ",
+    "khuVuc": "Điện Biên"
+  },
+  "chot thep long quang": {
+    "ten": "Chốt thép Long Quang",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "chua am": {
+    "ten": "Chùa Am",
+    "khuVuc": "Quảng Bình"
+  },
+  "chua am vai": {
+    "ten": "Chùa Am Vãi",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua am vinh phuc": {
+    "ten": "Chùa Am (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua an xa": {
+    "ten": "Chùa An Xá",
+    "khuVuc": "Quảng Trị"
+  },
+  "chua ang": {
+    "ten": "Chùa Âng",
+    "khuVuc": "Kiên Giang"
+  },
+  "chua ba da": {
+    "ten": "Chùa Bà Đá",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua ba danh va nui ngoc": {
+    "ten": "Chùa Bà Đanh và núi Ngọc",
+    "khuVuc": "Hà Nam"
+  },
+  "chua ba le phuoc hoi tu": {
+    "ten": "Chùa Bà Lê (Phước Hội Tự)",
+    "khuVuc": "Bến Tre"
+  },
+  "chua ba nanh": {
+    "ten": "Chùa Bà Nành",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua ba ngo": {
+    "ten": "Chùa Bà Ngô",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua bac ai": {
+    "ten": "Chùa Bắc Ái",
+    "khuVuc": "Gia Lai"
+  },
+  "chua bac bien": {
+    "ten": "Chùa Bắc Biên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua bach lien": {
+    "ten": "Chùa Bạch Liên",
+    "khuVuc": "Hà Nam"
+  },
+  "chua bao dong va bia, mon tran dinh an": {
+    "ten": "Chùa Bảo Đông và bia, môn Trần Đình Ân",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "chua bao quoc": {
+    "ten": "Chùa Báo Quốc",
+    "khuVuc": "Đà Nẵng"
+  },
+  "chua bao son vinh phuc": {
+    "ten": "Chùa Bảo Sơn (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua bat thap": {
+    "ten": "Chùa Bát Tháp",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua bien son": {
+    "ten": "Chùa Biện Sơn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua bo da": {
+    "ten": "Chùa Bổ Đà",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua bo ha": {
+    "ten": "Chùa Bố Hạ",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua boc": {
+    "ten": "Chùa Bộc",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua bodhicuamani ap soc": {
+    "ten": "Chùa Bodhicuàmani Ấp Sóc",
+    "khuVuc": "Kiên Giang"
+  },
+  "chua bodhisalaraja kom pong": {
+    "ten": "Chùa Bodhisalaraja (Kom Pong)",
+    "khuVuc": "Kiên Giang"
+  },
+  "chua boi khe": {
+    "ten": "Chùa Bối Khê",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua bong lai chua ha thach": {
+    "ten": "Chùa Bồng Lai (Chùa Hà Thạch)",
+    "khuVuc": "Phú Thọ"
+  },
+  "chua but thap": {
+    "ten": "Chùa Bút Tháp",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua buu hung": {
+    "ten": "Chùa Bửu Hưng",
+    "khuVuc": "An Giang"
+  },
+  "chua buu lam": {
+    "ten": "Chùa Bửu Lâm",
+    "khuVuc": "Long An"
+  },
+  "chua cam ung": {
+    "ten": "Chùa Cảm Ứng",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua can bi": {
+    "ten": "Chùa Can Bi",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua can linh": {
+    "ten": "Chùa Cần Linh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "chua can tu": {
+    "ten": "Chùa Cần Tu",
+    "khuVuc": "Thái Bình"
+  },
+  "chua canh huong": {
+    "ten": "Chùa Cảnh Huống",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua chan tien": {
+    "ten": "Chùa Chân Tiên",
+    "khuVuc": "Quảng Bình"
+  },
+  "chua chuong kim chung tu": {
+    "ten": "Chùa Chuông (Kim Chung tự)",
+    "khuVuc": "Hưng Yên"
+  },
+  "chua co am": {
+    "ten": "Chùa Cổ Am",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "chua co chat": {
+    "ten": "Chùa Cổ Chất",
+    "khuVuc": "Nam Định"
+  },
+  "chua co hoi ton": {
+    "ten": "Chùa cổ Hội Tôn",
+    "khuVuc": "Vĩnh Long"
+  },
+  "chua co le": {
+    "ten": "Chùa Cổ Lễ",
+    "khuVuc": "Nam Định"
+  },
+  "chua co lung": {
+    "ten": "Chùa Cổ Lũng",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua co thach chua hang": {
+    "ten": "Chùa Cổ Thạch (chùa Hang)",
+    "khuVuc": "Kon Tum"
+  },
+  "chua con": {
+    "ten": "Chùa Cồn",
+    "khuVuc": "Nam Định"
+  },
+  "chua con son khu di tich con son - kiep bac": {
+    "ten": "Chùa Côn Sơn (Khu di tích Côn Sơn - Kiếp Bạc)",
+    "khuVuc": "Hải Dương"
+  },
+  "chua cu la": {
+    "ten": "Chùa Cù Là",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua cu tru": {
+    "ten": "Chùa Cự Trữ",
+    "khuVuc": "Nam Định"
+  },
+  "chua dai an": {
+    "ten": "Chùa Đại An",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua dai bi": {
+    "ten": "Chùa Đại Bi",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua dai giac": {
+    "ten": "Chùa Đại Giác",
+    "khuVuc": "Bình Phước"
+  },
+  "chua dam": {
+    "ten": "Chùa Dạm",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua dan": {
+    "ten": "Chùa Dận",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua dau": {
+    "ten": "Chùa Dâu",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua dau gia loc": {
+    "ten": "Chùa Dâu (Gia Lộc)",
+    "khuVuc": "Hải Dương"
+  },
+  "chua de tu": {
+    "ten": "Chùa Đệ Tứ",
+    "khuVuc": "Nam Định"
+  },
+  "chua diem dien": {
+    "ten": "Chùa Diêm Điền",
+    "khuVuc": "Nam Định"
+  },
+  "chua do": {
+    "ten": "Chùa Đọ",
+    "khuVuc": "Thái Bình"
+  },
+  "chua doan tuc": {
+    "ten": "Chùa Đoan Túc",
+    "khuVuc": "Thái Bình"
+  },
+  "chua doi": {
+    "ten": "Chùa Dơi",
+    "khuVuc": "Cần Thơ"
+  },
+  "chua doi son": {
+    "ten": "Chùa Đọi Sơn",
+    "khuVuc": "Hà Nam"
+  },
+  "chua dong lai vinh phuc": {
+    "ten": "Chùa Đông Lai (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua dong quang": {
+    "ten": "Chùa Đồng Quang",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua du hang": {
+    "ten": "Chùa Dư Hàng",
+    "khuVuc": "Hải Phòng"
+  },
+  "chua duc son": {
+    "ten": "Chùa Đức Sơn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "chua giac lam": {
+    "ten": "Chùa Giác Lâm",
+    "khuVuc": "Tiền Giang"
+  },
+  "chua giac linh chua doi": {
+    "ten": "Chùa Giác Linh (Chùa Dơi)",
+    "khuVuc": "Kiên Giang"
+  },
+  "chua giac luong": {
+    "ten": "Chùa Giác Lương",
+    "khuVuc": "Đà Nẵng"
+  },
+  "chua giac vien": {
+    "ten": "Chùa Giác Viên",
+    "khuVuc": "Tiền Giang"
+  },
+  "chua giong thanh": {
+    "ten": "Chùa Giồng Thành",
+    "khuVuc": "Bến Tre"
+  },
+  "chua ha": {
+    "ten": "Chùa Hà",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua ha lan": {
+    "ten": "Chùa Hà Lạn",
+    "khuVuc": "Nam Định"
+  },
+  "chua ha tien vinh phuc": {
+    "ten": "Chùa Hà Tiên (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua ha, nha long": {
+    "ten": "Chùa Ha, Nhã Lộng",
+    "khuVuc": "Thái Nguyên"
+  },
+  "chua hang kim son tu": {
+    "ten": "Chùa Hang (Kim Sơn Tự)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "chua hang quang ngai": {
+    "ten": "Chùa Hang (Quảng Ngãi)",
+    "khuVuc": "Bình Định"
+  },
+  "chua ho thien, thuoc khu di tich nha tran": {
+    "ten": "Chùa Hồ Thiên, thuộc Khu di tích nhà Trần",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua hoa duong": {
+    "ten": "Chùa Hoa Dương",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua hoa thanh": {
+    "ten": "Chùa Hòa Thạnh",
+    "khuVuc": "Bến Tre"
+  },
+  "chua hoang phuc": {
+    "ten": "Chùa Hoằng Phúc",
+    "khuVuc": "Quảng Trị"
+  },
+  "chua hoe nhai": {
+    "ten": "Chùa Hòe Nhai",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua hoi khanh": {
+    "ten": "Chùa Hội Khánh",
+    "khuVuc": "Tây Ninh"
+  },
+  "chua hoi linh can tho hoi linh co tu": {
+    "ten": "Chùa Hội Linh (Cần Thơ) (Hội Linh cổ tự)",
+    "khuVuc": "Hậu Giang"
+  },
+  "chua hoi son": {
+    "ten": "Chùa Hội Sơn",
+    "khuVuc": "Tiền Giang"
+  },
+  "chua hung ky": {
+    "ten": "Chùa Hưng Ký",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua huong thuy": {
+    "ten": "Chùa Hương Thủy",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua huong vi": {
+    "ten": "Chùa Hương Vĩ",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua huy van": {
+    "ten": "Chùa Huy Văn",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua kem nham son kdt yen the": {
+    "ten": "Chùa Kem Nham Sơn (KDT Yên Thế)",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua keo hanh thien": {
+    "ten": "Chùa Keo Hành Thiện",
+    "khuVuc": "Nam Định"
+  },
+  "chua keo thai binh": {
+    "ten": "Chùa Keo (Thái Bình)",
+    "khuVuc": "Thái Bình"
+  },
+  "chua kh\u0027leang": {
+    "ten": "Chùa Kh\u0027leang",
+    "khuVuc": "Cần Thơ"
+  },
+  "chua kham lang": {
+    "ten": "Chùa Khám Lạng",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua khanh long": {
+    "ten": "Chùa Khánh Long",
+    "khuVuc": "Hà Nam"
+  },
+  "chua kien an cung": {
+    "ten": "Chùa Kiến An Cung",
+    "khuVuc": "An Giang"
+  },
+  "chua kim lien": {
+    "ten": "Chùa Kim Liên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua kim son": {
+    "ten": "Chùa Kim Sơn",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua kim trang": {
+    "ten": "Chùa Kim Tràng",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua kinh phuc": {
+    "ten": "Chùa Kính Phúc",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua kro pum mean chey kos thum chua co thum": {
+    "ten": "Chùa Kro Pum Mean Chey Kos Thum (chùa Cỏ Thum)",
+    "khuVuc": "Cà Mau"
+  },
+  "chua lang": {
+    "ten": "Chùa Láng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua lang cat": {
+    "ten": "Chùa Láng Cát",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua lang dong": {
+    "ten": "Chùa Lãng Đông",
+    "khuVuc": "Thái Bình"
+  },
+  "chua leo": {
+    "ten": "Chùa Lèo",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua lien phai": {
+    "ten": "Chùa Liên Phái",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua lieu giai": {
+    "ten": "Chùa Liễu Giai",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua linh quang": {
+    "ten": "Chùa Linh Quang",
+    "khuVuc": "Kon Tum"
+  },
+  "chua linh son": {
+    "ten": "Chùa Linh Sơn",
+    "khuVuc": "Kon Tum"
+  },
+  "chua linh son linh son co tu": {
+    "ten": "Chùa Linh Sơn (Linh sơn Cổ tự)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "chua loi am - ho yen lap": {
+    "ten": "Chùa Lôi Âm - Hồ Yên Lập",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua long ban": {
+    "ten": "Chùa Long Bàn",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "chua long quang can tho": {
+    "ten": "Chùa Long Quang (Cần Thơ)",
+    "khuVuc": "Hậu Giang"
+  },
+  "chua long thien": {
+    "ten": "Chùa Long Thiền",
+    "khuVuc": "Bình Phước"
+  },
+  "chua mat da": {
+    "ten": "Chùa Mật Đa",
+    "khuVuc": "Nghệ An"
+  },
+  "chua mot cot": {
+    "ten": "Chùa Một Cột",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua muong": {
+    "ten": "Chùa Muống",
+    "khuVuc": "Hải Dương"
+  },
+  "chua my cu": {
+    "ten": "Chùa Mỹ Cụ",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua nam dau": {
+    "ten": "Chùa Nậm Dầu",
+    "khuVuc": "Hà Giang"
+  },
+  "chua nam dong": {
+    "ten": "Chùa Nam Đồng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua nam nha": {
+    "ten": "Chùa Nam Nhã",
+    "khuVuc": "Hậu Giang"
+  },
+  "chua nam thien doi phu": {
+    "ten": "Chùa Nam Thiên (Đồi Phủ)",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua nam tho": {
+    "ten": "Chùa Nam Thọ",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua nanh phap van": {
+    "ten": "Chùa Nành (Pháp Vân)",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua ne chau thuy ung tu": {
+    "ten": "Chùa Nễ Châu (Thụy Ứng tự)",
+    "khuVuc": "Hưng Yên"
+  },
+  "chua nghia xa": {
+    "ten": "Chùa Nghĩa Xá",
+    "khuVuc": "Nam Định"
+  },
+  "chua ngoa van": {
+    "ten": "Chùa Ngọa Vân",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua ong": {
+    "ten": "Chùa Ông",
+    "khuVuc": "Hậu Giang"
+  },
+  "chua ong bac": {
+    "ten": "Chùa Ông Bắc",
+    "khuVuc": "Bến Tre"
+  },
+  "chua ong bien hoa": {
+    "ten": "Chùa Ông (Biên Hòa)",
+    "khuVuc": "Bình Phước"
+  },
+  "chua ong hoi an quan cong mieu": {
+    "ten": "Chùa Ông Hội An (Quan Công miếu)",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "chua ong thu xa": {
+    "ten": "Chùa Ông (Thu Xà)",
+    "khuVuc": "Bình Định"
+  },
+  "chua phat lon": {
+    "ten": "Chùa Phật Lớn",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua phat tich": {
+    "ten": "Chùa Phật Tích",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua pho": {
+    "ten": "Chùa Phố",
+    "khuVuc": "Hưng Yên"
+  },
+  "chua pho giac": {
+    "ten": "Chùa Phổ Giác",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua pho quang chua xuan lung": {
+    "ten": "Chùa Phổ Quang (Chùa Xuân Lũng)",
+    "khuVuc": "Phú Thọ"
+  },
+  "chua phuc an do nghia": {
+    "ten": "Chùa Phúc Ân Do Nghĩa",
+    "khuVuc": "Phú Thọ"
+  },
+  "chua phuc hai": {
+    "ten": "Chùa Phúc Hải",
+    "khuVuc": "Nam Định"
+  },
+  "chua phuc khanh": {
+    "ten": "Chùa Phúc Khánh",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua phuc lam na hang": {
+    "ten": "Chùa Phúc Lâm (Na Hang)",
+    "khuVuc": "Tuyên Quang"
+  },
+  "chua phuc son": {
+    "ten": "Chùa Phúc Sơn",
+    "khuVuc": "Nam Định"
+  },
+  "chua phung son": {
+    "ten": "Chùa Phụng Sơn",
+    "khuVuc": "Tiền Giang"
+  },
+  "chua phuoc hau": {
+    "ten": "Chùa Phước Hậu",
+    "khuVuc": "Sóc Trăng"
+  },
+  "chua phuoc lam": {
+    "ten": "Chùa Phước Lâm",
+    "khuVuc": "Đồng Tháp"
+  },
+  "chua phuoc lam phuoc lam tu": {
+    "ten": "Chùa Phước Lâm (Phước Lâm Tự)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "chua phuoc tuong": {
+    "ten": "Chùa Phước Tường",
+    "khuVuc": "Tiền Giang"
+  },
+  "chua pysey vararam chua ba si": {
+    "ten": "Chùa Pysey Vararam (Chùa Ba Si)",
+    "khuVuc": "Kiên Giang"
+  },
+  "chua quan am": {
+    "ten": "Chùa Quan Âm",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "chua quan de": {
+    "ten": "Chùa Quan Đế",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua quan su": {
+    "ten": "Chùa Quán Sứ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua quang huu": {
+    "ten": "Chùa Quảng Hựu",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua quang minh": {
+    "ten": "Chùa Quang Minh",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua que lam": {
+    "ten": "Chùa Quế Lâm",
+    "khuVuc": "Hà Nam"
+  },
+  "chua quynh lam, dong trieu": {
+    "ten": "Chùa Quỳnh Lâm, Đông Triều",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua quynh loi": {
+    "ten": "Chùa Quỳnh Lôi",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua sac tu": {
+    "ten": "Chùa Sắc Tứ",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "chua sac tu truong tho": {
+    "ten": "Chùa sắc tứ Trường Thọ",
+    "khuVuc": "Tiền Giang"
+  },
+  "chua soc xoai": {
+    "ten": "Chùa Sóc Xoài",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua son long chua hang": {
+    "ten": "Chùa Sơn Long (chùa Hang)",
+    "khuVuc": "Phú Yên"
+  },
+  "chua sung khanh chua bao thien": {
+    "ten": "Chùa Sùng Khánh (chùa Báo Thiên)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua sung nghiem dien thanh": {
+    "ten": "Chùa Sùng Nghiêm Diên Thánh",
+    "khuVuc": "Nghệ An"
+  },
+  "chua tam bao": {
+    "ten": "Chùa Tam Bảo",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua tam thai": {
+    "ten": "Chùa Tam Thai",
+    "khuVuc": "Quảng Nam"
+  },
+  "chua tao sach": {
+    "ten": "Chùa Tảo Sách",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua tay phuc": {
+    "ten": "Chùa Tây Phúc",
+    "khuVuc": "Thái Nguyên"
+  },
+  "chua tay phuong": {
+    "ten": "Chùa Tây Phương",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua teakhinasakor ta lon cai coi": {
+    "ten": "Chùa Teakhinasakor Tà Lôn (Cái Cối)",
+    "khuVuc": "Kiên Giang"
+  },
+  "chua thai lac": {
+    "ten": "Chùa Thái Lạc",
+    "khuVuc": "Hưng Yên"
+  },
+  "chua than quy": {
+    "ten": "Chùa Thần Quy",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua thanh": {
+    "ten": "Chùa Thành",
+    "khuVuc": "Lạng Sơn"
+  },
+  "chua thanh chua": {
+    "ten": "Chùa Thánh Chúa",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua thanh mai": {
+    "ten": "Chùa Thanh Mai",
+    "khuVuc": "Hải Dương"
+  },
+  "chua thanh nhan": {
+    "ten": "Chùa Thanh Nhàn",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua thap hac y": {
+    "ten": "Chùa tháp Hắc Y",
+    "khuVuc": "Yên Bái"
+  },
+  "chua thap thap di da": {
+    "ten": "Chùa Thập Tháp Di Đà",
+    "khuVuc": "Phú Yên"
+  },
+  "chua thay": {
+    "ten": "Chùa Thầy",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua thien an": {
+    "ten": "Chùa Thiên Ấn",
+    "khuVuc": "Bình Định"
+  },
+  "chua thien mu": {
+    "ten": "Chùa Thiên Mụ",
+    "khuVuc": "Đà Nẵng"
+  },
+  "chua thien phuc": {
+    "ten": "Chùa Thiên Phúc",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua thien quy": {
+    "ten": "Chùa Thiên Quý",
+    "khuVuc": "Thái Bình"
+  },
+  "chua thien tam chua tieu": {
+    "ten": "Chùa Thiên Tâm (chùa Tiêu)",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua thoi binh": {
+    "ten": "Chùa Thới Bình",
+    "khuVuc": "Đồng Tháp"
+  },
+  "chua thuong trung": {
+    "ten": "Chùa Thượng Trưng",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua tich son": {
+    "ten": "Chùa Tích Sơn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua tien chau": {
+    "ten": "Chùa Tiên Châu",
+    "khuVuc": "Sóc Trăng"
+  },
+  "chua tien mon": {
+    "ten": "Chùa Tiền Môn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua to": {
+    "ten": "Chùa Tổ",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chua ton thanh": {
+    "ten": "Chùa Tôn Thạnh",
+    "khuVuc": "Đồng Tháp"
+  },
+  "chua tong quan": {
+    "ten": "Chùa Tổng Quản",
+    "khuVuc": "Bạc Liêu"
+  },
+  "chua tram gian hai duong": {
+    "ten": "Chùa Trăm Gian Hải Dương",
+    "khuVuc": "Hải Dương"
+  },
+  "chua tran quoc": {
+    "ten": "Chùa Trấn Quốc",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua trong": {
+    "ten": "Chùa Trông",
+    "khuVuc": "Hải Dương"
+  },
+  "chua tu giap": {
+    "ten": "Chùa Tứ Giáp",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua tu quang chua da trang": {
+    "ten": "Chùa Từ Quang (Chùa Đá Trắng)",
+    "khuVuc": "Khánh Hòa"
+  },
+  "chua tu van": {
+    "ten": "Chùa Từ Vân",
+    "khuVuc": "Thái Bình"
+  },
+  "chua tung van": {
+    "ten": "Chùa Tùng Vân",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua tuyen linh": {
+    "ten": "Chùa Tuyên Linh",
+    "khuVuc": "Vĩnh Long"
+  },
+  "chua uc ky": {
+    "ten": "Chùa Úc Kỳ",
+    "khuVuc": "Thái Nguyên"
+  },
+  "chua uc nien": {
+    "ten": "Chùa Ức Niên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua van hoa": {
+    "ten": "Chùa Văn Hòa",
+    "khuVuc": "Hải Phòng"
+  },
+  "chua van nien": {
+    "ten": "Chùa Vạn Niên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "chua vien giac": {
+    "ten": "Chùa Viên Giác",
+    "khuVuc": "Vĩnh Long"
+  },
+  "chua vinh nghiem bac giang chua duc la": {
+    "ten": "Chùa Vĩnh Nghiêm (Bắc Giang) (Chùa Đức La)",
+    "khuVuc": "Bắc Giang"
+  },
+  "chua vinh phuc": {
+    "ten": "Chùa Vĩnh Phúc",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "chua vinh trang": {
+    "ten": "Chùa Vĩnh Tràng",
+    "khuVuc": "Long An"
+  },
+  "chua xuan lan": {
+    "ten": "Chùa Xuân Lan",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua yen dong": {
+    "ten": "Chùa Yên Đông",
+    "khuVuc": "Quảng Ninh"
+  },
+  "chua yen la": {
+    "ten": "Chùa Yên Lã",
+    "khuVuc": "Bắc Ninh"
+  },
+  "chuong chua da quan": {
+    "ten": "Chuông chùa Đà Quận",
+    "khuVuc": "Cao Bằng"
+  },
+  "co quan an loat dac biet trung uong": {
+    "ten": "Cơ quan Ấn loát đặc biệt Trung ương",
+    "khuVuc": "Tuyên Quang"
+  },
+  "co quan dac uy an nam cong san dang 1929-1930": {
+    "ten": "Cơ quan đặc ủy An Nam Cộng sản Đảng 1929-1930",
+    "khuVuc": "Hậu Giang"
+  },
+  "co so ban tuyen huan xu uy nam bo": {
+    "ten": "Cơ sở Ban Tuyên huấn Xứ ủy Nam bộ",
+    "khuVuc": "Tiền Giang"
+  },
+  "co so giau vu khi cua biet dong thanh danh dinh doc lap": {
+    "ten": "Cơ sở giấu vũ khí của Biệt động Thành đánh dinh Độc Lập",
+    "khuVuc": "Tiền Giang"
+  },
+  "co so in an cua hoi ung ho ve quoc doan": {
+    "ten": "Cơ sở in ấn của Hội Ủng hộ Vệ quốc đoàn",
+    "khuVuc": "Tiền Giang"
+  },
+  "co so xu uy bac ky": {
+    "ten": "Cơ sỏ Xứ ủy Bắc Kỳ",
+    "khuVuc": "Thái Bình"
+  },
+  "cong than mieu vinh long": {
+    "ten": "Công Thần Miếu Vĩnh Long",
+    "khuVuc": "Sóc Trăng"
+  },
+  "cot co ha noi": {
+    "ten": "Cột cờ Hà Nội",
+    "khuVuc": "Thanh Hóa"
+  },
+  "cot co lung cu": {
+    "ten": "Cột cờ Lũng Cú",
+    "khuVuc": "Hà Giang"
+  },
+  "cot co nam dinh": {
+    "ten": "Cột cờ Nam Định",
+    "khuVuc": "Nam Định"
+  },
+  "cot day thep": {
+    "ten": "Cột Dây Thép",
+    "khuVuc": "Bến Tre"
+  },
+  "cu diem lang vay": {
+    "ten": "Cứ điểm Làng Vây",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "cu lao rua cu lao thanh hoi": {
+    "ten": "Cù Lao Rùa (Cù Lao Thạnh Hội)",
+    "khuVuc": "Tây Ninh"
+  },
+  "cua bien nhat le": {
+    "ten": "Cửa biển Nhật Lệ",
+    "khuVuc": "Quảng Trị"
+  },
+  "cum di tich bac o khuon tat": {
+    "ten": "Cụm di tích Bác ở Khuôn Tát",
+    "khuVuc": "Thái Nguyên"
+  },
+  "cum di tich cay da huong": {
+    "ten": "Cụm di tích Cây Dã hương",
+    "khuVuc": "Bắc Giang"
+  },
+  "cum di tich kha son": {
+    "ten": "Cụm di tích Kha Sơn",
+    "khuVuc": "Thái Nguyên"
+  },
+  "cum di tich le ngoc chinh den ngoi, dinh dong, dinh nam": {
+    "ten": "Cụm di tích Lê Ngọc Chinh (đền Ngòi, đình Đông, đình Nam)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "cum di tich tho ly nam de gom dinh mo dao, bao duc, dai phuc": {
+    "ten": "Cụm di tích thờ Lý Nam Đế (gồm Đình Mộ Đạo, Bảo Đức, Đại Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "cum di tich va danh thang nui bai tho - chua long tien - den duc ong": {
+    "ten": "Cụm di tích và danh thắng núi Bài Thơ - Chùa Long Tiên - Đền Đức Ông",
+    "khuVuc": "Quảng Ninh"
+  },
+  "cum di tich xi nghiep tuyen than cua ong": {
+    "ten": "Cụm di tích Xí nghiệp Tuyển than Cửa Ông",
+    "khuVuc": "Quảng Ninh"
+  },
+  "cuoc tham sat 129 nguoi dan vo toi cua my–nguy": {
+    "ten": "Cuộc thảm sát 129 người dân vô tội của Mỹ–Ngụy",
+    "khuVuc": "Vĩnh Long"
+  },
+  "da chong dinh quan da ba chong": {
+    "ten": "Đá chồng Định Quán (Đá Ba Chồng)",
+    "khuVuc": "Bình Phước"
+  },
+  "dai chien si dai ky niem": {
+    "ten": "Đài Chiến sĩ (Đài kỷ niệm)",
+    "khuVuc": "Bình Phước"
+  },
+  "dai tuong niem 72 liet si xo viet – nghe tinh": {
+    "ten": "Đài tưởng niêm 72 liệt sĩ Xô Viết – Nghệ Tĩnh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dai tuong niem kham thien": {
+    "ten": "Đài tưởng niệm Khâm Thiên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dai tuong niem liet si 1930-31": {
+    "ten": "Đài tưởng niệm liệt sĩ 1930-31",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dam o loan": {
+    "ten": "Đầm Ô Loan",
+    "khuVuc": "Khánh Hòa"
+  },
+  "danh lam thang canh chua hang": {
+    "ten": "Danh lam thắng cảnh Chùa Hang",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dao co chi lang nam": {
+    "ten": "Đảo Cò Chi Lăng Nam",
+    "khuVuc": "Hải Dương"
+  },
+  "dau cau tiep nhan vu khi bac – nam": {
+    "ten": "Đầu cầu tiếp nhận vũ khí Bắc – Nam",
+    "khuVuc": "Vĩnh Long"
+  },
+  "de tu chien khu dong trieu": {
+    "ten": "Đệ tứ chiến khu Đông Triều",
+    "khuVuc": "Quảng Ninh"
+  },
+  "den an bien": {
+    "ten": "Đền An Biên",
+    "khuVuc": "Quảng Ninh"
+  },
+  "den an lu": {
+    "ten": "Đền An Lư",
+    "khuVuc": "Hải Phòng"
+  },
+  "den ba chua kho bac ninh": {
+    "ten": "Đền Bà Chúa Kho (Bắc Ninh)",
+    "khuVuc": "Bắc Ninh"
+  },
+  "den ba chua kho ha noi": {
+    "ten": "Đền Bà Chúa Kho (Hà Nội)",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den ba chua kho hung yen den goc sanh thuong tinh linh": {
+    "ten": "Đền Bà Chúa Kho (Hưng Yên) Đền Gốc Sanh (Thương Tỉnh linh)",
+    "khuVuc": "Hưng Yên"
+  },
+  "den ba dan": {
+    "ten": "Đền Ba Dân",
+    "khuVuc": "Hà Nam"
+  },
+  "den ba kieu": {
+    "ten": "Đền Bà Kiệu",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den ba vu": {
+    "ten": "Đền Bà Vũ",
+    "khuVuc": "Hà Nam"
+  },
+  "den bac ha": {
+    "ten": "Đền Bắc Hà",
+    "khuVuc": "Lào Cai"
+  },
+  "den bach ma": {
+    "ten": "Đền Bạch Mã",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den ben nhan": {
+    "ten": "Đền Bến Nhãn",
+    "khuVuc": "Bắc Giang"
+  },
+  "den buom, den ray, nha tho tien tien": {
+    "ten": "Đền Buộm, Đền Rẫy, Nhà thờ Tiên Tiến",
+    "khuVuc": "Thái Bình"
+  },
+  "den ca": {
+    "ten": "Đền Cả",
+    "khuVuc": "Thái Bình"
+  },
+  "den ca can loc": {
+    "ten": "Đền Cả Can Lộc",
+    "khuVuc": "Quảng Bình"
+  },
+  "den ca tong du dong": {
+    "ten": "Đền Cả Tổng Du Đồng",
+    "khuVuc": "Quảng Bình"
+  },
+  "den cam": {
+    "ten": "Đền Cấm",
+    "khuVuc": "Lào Cai"
+  },
+  "den cao an phu": {
+    "ten": "Đền Cao An Phụ",
+    "khuVuc": "Hải Dương"
+  },
+  "den cao chi linh": {
+    "ten": "Đền Cao Chí Linh",
+    "khuVuc": "Hải Dương"
+  },
+  "den cau khoai": {
+    "ten": "Đền Cầu Khoai",
+    "khuVuc": "Bắc Giang"
+  },
+  "den cay vai": {
+    "ten": "Đền Cây Vải",
+    "khuVuc": "Nghệ An"
+  },
+  "den chinh vi": {
+    "ten": "Đền Chính Vị",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den cho": {
+    "ten": "Đền Chò",
+    "khuVuc": "Thái Bình"
+  },
+  "den chu hung": {
+    "ten": "Đền Chu Hưng",
+    "khuVuc": "Phú Thọ"
+  },
+  "den chua xa ha": {
+    "ten": "Đền chùa Xã Hạ",
+    "khuVuc": "Nam Định"
+  },
+  "den co tan an": {
+    "ten": "Đền Cô Tân An",
+    "khuVuc": "Lào Cai"
+  },
+  "den co trach": {
+    "ten": "Đền Cổ Trạch",
+    "khuVuc": "Nam Định"
+  },
+  "den con": {
+    "ten": "Đền Cờn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den con giang, tu duong ho quach, nha tho quach dinh bao, quach huu nghiem": {
+    "ten": "Đền Côn Giang, Từ đường họ Quách, Nhà thờ Quách Đình Bảo, Quách Hữu Nghiêm",
+    "khuVuc": "Thái Bình"
+  },
+  "den cua ong": {
+    "ten": "Đền Cửa Ông",
+    "khuVuc": "Quảng Ninh"
+  },
+  "den cuong": {
+    "ten": "Đền Cuông",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den cuu thien huyen nu den bac hoa": {
+    "ten": "Đền Cửu Thiên Huyền Nữ (Đền Bắc Hòa)",
+    "khuVuc": "Hưng Yên"
+  },
+  "den dao xa": {
+    "ten": "Đền Đào Xá",
+    "khuVuc": "Phú Thọ"
+  },
+  "den dinh le": {
+    "ten": "Đền Đinh Lễ",
+    "khuVuc": "Quảng Bình"
+  },
+  "den dong bang": {
+    "ten": "Đền Đồng Bằng",
+    "khuVuc": "Thái Bình"
+  },
+  "den dong co": {
+    "ten": "Đền Đồng Cổ",
+    "khuVuc": "Nghệ An"
+  },
+  "den dong cuong": {
+    "ten": "Đền Đông Cuông",
+    "khuVuc": "Yên Bái"
+  },
+  "den dong lac": {
+    "ten": "Đền Đồng Lạc",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den dong nhan / den hai ba trung": {
+    "ten": "Đền Đồng Nhân / Đền Hai Bà Trưng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den dong nuoc": {
+    "ten": "Đền Đống Nước",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den dong san": {
+    "ten": "Đền Đông Sàn",
+    "khuVuc": "Thái Bình"
+  },
+  "den dong xuan, quynh bang": {
+    "ten": "Đền Đồng Xuân, Quỳnh Bảng",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den duc son": {
+    "ten": "Đền Đức Sơn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den duoi": {
+    "ten": "Đền Đươi",
+    "khuVuc": "Hải Dương"
+  },
+  "den duom, phu luong": {
+    "ten": "Đền Đuổm, Phú Lương",
+    "khuVuc": "Thái Nguyên"
+  },
+  "den duong": {
+    "ten": "Đền Đuông",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den goc khe": {
+    "ten": "Đền Gốc Khế",
+    "khuVuc": "Bắc Giang"
+  },
+  "den ha": {
+    "ten": "Đền Hả",
+    "khuVuc": "Bắc Giang"
+  },
+  "den ha dong": {
+    "ten": "Đền Hạ Đồng",
+    "khuVuc": "Thái Bình"
+  },
+  "den ha tuyen quang": {
+    "ten": "Đền Hạ Tuyên Quang",
+    "khuVuc": "Tuyên Quang"
+  },
+  "den hai ba trung me linh": {
+    "ten": "Đền Hai Bà Trưng (Mê Linh)",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den hat mon": {
+    "ten": "Đền Hát Môn",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den he": {
+    "ten": "Đền Hệ",
+    "khuVuc": "Thái Bình"
+  },
+  "den het": {
+    "ten": "Đền Hét",
+    "khuVuc": "Thái Bình"
+  },
+  "den hong phong": {
+    "ten": "Đền Hồng Phong",
+    "khuVuc": "Thái Bình"
+  },
+  "den hong son": {
+    "ten": "Đền Hồng Sơn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den hung": {
+    "ten": "Đền Hùng",
+    "khuVuc": "Phú Thọ"
+  },
+  "den huu": {
+    "ten": "Đền Hữu",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den khuc thua du": {
+    "ten": "Đền Khúc Thừa Dụ",
+    "khuVuc": "Hải Dương"
+  },
+  "den kiep bac khu di tich con son - kiep bac": {
+    "ten": "Đền Kiếp Bạc (Khu di tích Côn Sơn - Kiếp Bạc)",
+    "khuVuc": "Hải Dương"
+  },
+  "den kim dang": {
+    "ten": "Đền Kim Đằng",
+    "khuVuc": "Hưng Yên"
+  },
+  "den ky cung": {
+    "ten": "Đền Kỳ Cùng",
+    "khuVuc": "Lạng Sơn"
+  },
+  "den lang": {
+    "ten": "Đền Lăng",
+    "khuVuc": "Hà Nam"
+  },
+  "den lang suong": {
+    "ten": "Đền Lăng Sương",
+    "khuVuc": "Phú Thọ"
+  },
+  "den lanh giang": {
+    "ten": "Đền Lảnh Giang",
+    "khuVuc": "Hà Nam"
+  },
+  "den lien minh": {
+    "ten": "Đền Liên Minh",
+    "khuVuc": "Quảng Bình"
+  },
+  "den loi": {
+    "ten": "Đền Lời",
+    "khuVuc": "Phú Thọ"
+  },
+  "den long khe": {
+    "ten": "Đền Lộng Khê",
+    "khuVuc": "Thái Bình"
+  },
+  "den luc giap mieu vat": {
+    "ten": "Đền Lục Giáp (Miếu Vật)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "den luu xa, chua bao quoc": {
+    "ten": "Đền Lưu Xá, Chùa Báo Quốc",
+    "khuVuc": "Thái Bình"
+  },
+  "den ly bat de den do va lang mo cac vua nha ly": {
+    "ten": "Đền Lý Bát Đế (Đền Đô) và Lăng mộ các vua nhà Lý",
+    "khuVuc": "Bắc Ninh"
+  },
+  "den ly quoc su": {
+    "ten": "Đền Lý Quốc Sư",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den mac dinh chi": {
+    "ten": "Đền Mạc Đĩnh Chi",
+    "khuVuc": "Hải Dương"
+  },
+  "den mau au co": {
+    "ten": "Đền Mẫu Âu Cơ",
+    "khuVuc": "Phú Thọ"
+  },
+  "den mau hoa duong linh tu": {
+    "ten": "Đền Mẫu (Hoa Dương Linh từ)",
+    "khuVuc": "Hưng Yên"
+  },
+  "den mau lao cai": {
+    "ten": "Đền Mẫu Lào Cai",
+    "khuVuc": "Lào Cai"
+  },
+  "den may": {
+    "ten": "Đền Mây",
+    "khuVuc": "Hưng Yên"
+  },
+  "den mo dao, den ca": {
+    "ten": "Đền Mộ Đạo, Đền Cả",
+    "khuVuc": "Thái Bình"
+  },
+  "den nam hoa": {
+    "ten": "Đền Nam Hoà",
+    "khuVuc": "Hưng Yên"
+  },
+  "den nam son": {
+    "ten": "Đền Nậm Sơn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den nam thon": {
+    "ten": "Đền Năm thôn",
+    "khuVuc": "Thái Bình"
+  },
+  "den nghe": {
+    "ten": "Đền Nghè",
+    "khuVuc": "Hải Phòng"
+  },
+  "den ngo mien": {
+    "ten": "Đền Ngô Miễn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den ngoc lam, tan my": {
+    "ten": "Đền Ngọc Lâm, Tân Mỹ",
+    "khuVuc": "Bắc Giang"
+  },
+  "den ngoc que": {
+    "ten": "Đền Ngọc Quế",
+    "khuVuc": "Thái Bình"
+  },
+  "den ngoc son va khu vuc ho hoan kiem": {
+    "ten": "Đền Ngọc Sơn và khu vực Hồ Hoàn Kiếm",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den nhan thap": {
+    "ten": "Đền Nhạn Tháp",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den nhuoc son": {
+    "ten": "Đền Nhược Sơn",
+    "khuVuc": "Yên Bái"
+  },
+  "den noi binh da": {
+    "ten": "Đền Nội Bình Đà",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den pac ta": {
+    "ten": "Đền Pác Tạ",
+    "khuVuc": "Tuyên Quang"
+  },
+  "den phan canh quang": {
+    "ten": "Đền Phan Cảnh Quang",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den phu da": {
+    "ten": "Đền Phú Đa",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den phu dong": {
+    "ten": "Đền Phù Đổng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den phu ung": {
+    "ten": "Đền Phù Ủng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den phu xa": {
+    "ten": "Đền Phú Xá",
+    "khuVuc": "Hải Phòng"
+  },
+  "den phuong cuong": {
+    "ten": "Đền Phượng Cương",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den quan dai": {
+    "ten": "Đền Quan Đại",
+    "khuVuc": "Quảng Ninh"
+  },
+  "den quan de": {
+    "ten": "Đền Quan Đế",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den quan thanh": {
+    "ten": "Đền Quán Thánh",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den quoc phu": {
+    "ten": "Đền Quốc Phụ",
+    "khuVuc": "Hải Dương"
+  },
+  "den ram": {
+    "ten": "Đền Rặm",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den sinh - den hoa": {
+    "ten": "Đền Sinh - Đền Hóa",
+    "khuVuc": "Hải Dương"
+  },
+  "den so": {
+    "ten": "Đền Sọ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den soc": {
+    "ten": "Đền Sóc",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den soi atk2": {
+    "ten": "Đền Soi (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "den song son - den co chin": {
+    "ten": "Đền Sòng Sơn - Đền Cô Chín",
+    "khuVuc": "Nghệ An"
+  },
+  "den suot": {
+    "ten": "Đền Sượt",
+    "khuVuc": "Hải Dương"
+  },
+  "den tam giang": {
+    "ten": "Đền Tam Giang",
+    "khuVuc": "Phú Thọ"
+  },
+  "den thai yen": {
+    "ten": "Đền Thái Yên",
+    "khuVuc": "Quảng Bình"
+  },
+  "den than, quynh doi": {
+    "ten": "Đền Thần, Quỳnh Đôi",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den thanh liet, hung lam": {
+    "ten": "Đền Thanh Liệt, Hưng Lam",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den thanh mau vinh phuc": {
+    "ten": "Đền Thánh Mẫu (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den thien hau thien hau cung": {
+    "ten": "Đền Thiên Hậu (Thiên Hậu cung)",
+    "khuVuc": "Hưng Yên"
+  },
+  "den thien truong": {
+    "ten": "Đền Thiên Trường",
+    "khuVuc": "Nam Định"
+  },
+  "den thinh": {
+    "ten": "Đền Thính",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den tho ba chua sao sa": {
+    "ten": "Đền thờ Bà chúa Sao sa",
+    "khuVuc": "Hải Dương"
+  },
+  "den tho bac ho": {
+    "ten": "Đền thờ Bác Hồ",
+    "khuVuc": "Trà Vinh"
+  },
+  "den tho ca trong den goc de": {
+    "ten": "Đền thờ Cả Trọng (đền Gốc Dẻ)",
+    "khuVuc": "Bắc Giang"
+  },
+  "den tho cao lo": {
+    "ten": "Đền thờ Cao Lỗ",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho chu tich ho chi minh bac lieu": {
+    "ten": "Đền thờ Chủ tịch Hồ Chí Minh (Bạc Liêu)",
+    "khuVuc": "Cà Mau"
+  },
+  "den tho chu tich ho chi minh, ap vinh hoi": {
+    "ten": "Đền thờ Chủ tịch Hồ Chí Minh, Ấp Vĩnh Hội",
+    "khuVuc": "Kiên Giang"
+  },
+  "den tho chu van an": {
+    "ten": "Đền thờ Chu Văn An",
+    "khuVuc": "Hải Dương"
+  },
+  "den tho cong chua ban tranh": {
+    "ten": "Đền thờ Công chúa Bàn Tranh",
+    "khuVuc": "Kon Tum"
+  },
+  "den tho danh nhan van hoa dao tan": {
+    "ten": "Đền thờ Danh nhân văn hóa Đào Tấn",
+    "khuVuc": "Phú Yên"
+  },
+  "den tho dinh bat tuy": {
+    "ten": "Đền thờ Đinh Bạt Tụy",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho dinh trinh": {
+    "ten": "Đền thờ Đinh Trinh",
+    "khuVuc": "Thái Bình"
+  },
+  "den tho do can": {
+    "ten": "Đền thờ Đỗ Cận",
+    "khuVuc": "Thái Nguyên"
+  },
+  "den tho do dai bui cam ho": {
+    "ten": "Đền thờ Đô Đài Bùi Cầm Hổ",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho do khac chung": {
+    "ten": "Đền thờ Đỗ Khắc Chung",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den tho duong dinh nghe": {
+    "ten": "Đền thờ Dương Đình Nghệ",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho ho hung dat": {
+    "ten": "Đền thờ Hồ Hưng Dật",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho hoang nghia luong": {
+    "ten": "Đền thờ Hoàng Nghĩa Lương",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho khuong cong phu": {
+    "ten": "Đền thờ Khương Công Phụ",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho ky dong nguyen van cam dong thien thai": {
+    "ten": "Đền thờ Kỳ Đồng Nguyễn Văn Cẩm (Động Thiên Thai)",
+    "khuVuc": "Bắc Giang"
+  },
+  "den tho lanh binh nguyen ngoc thang": {
+    "ten": "Đền thờ Lãnh binh Nguyễn Ngọc Thăng",
+    "khuVuc": "Vĩnh Long"
+  },
+  "den tho le dinh kien": {
+    "ten": "Đền thờ Lê Đình Kiên",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho le hiem - le hieu": {
+    "ten": "Đền thờ Lê Hiểm - Lê Hiêu",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho le hoan": {
+    "ten": "Đền thờ Lê Hoàn",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho le quang chi – le quang y": {
+    "ten": "Đền thờ Lê Quảng Chí – Lê Quảng Ý",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho ly thuong kiet": {
+    "ten": "Đền thờ Lý Thường Kiệt",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho mai hac de": {
+    "ten": "Đền thờ Mai Hắc Đế",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho nam": {
+    "ten": "Đền Thọ Nam",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den tho ngo thi ngoc dao": {
+    "ten": "Đền thờ Ngô Thị Ngọc Dao",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho nguyen bien": {
+    "ten": "Đền thờ Nguyễn Biên",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho nguyen bieu": {
+    "ten": "Đền thờ Nguyễn Biểu",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho nguyen canh hoan": {
+    "ten": "Đền thờ Nguyễn Cảnh Hoan",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho nguyen chich": {
+    "ten": "Đền thờ Nguyễn Chích",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho nguyen nhu soan": {
+    "ten": "Đền thờ Nguyễn Nhữ Soạn",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho nguyen tri phuong": {
+    "ten": "Đền thờ Nguyễn Tri Phương",
+    "khuVuc": "Bình Phước"
+  },
+  "den tho nguyen van nghi": {
+    "ten": "Đền thờ Nguyễn Văn Nghi",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho nguyen xi": {
+    "ten": "Đền thờ Nguyễn Xí",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho nha tho phan van tri": {
+    "ten": "Đền thờ nhà thơ Phan Văn Trị",
+    "khuVuc": "Vĩnh Long"
+  },
+  "den tho phuong giai": {
+    "ten": "Đền thờ Phương Giai",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho quan co tran van thanh": {
+    "ten": "Đền thờ Quản cơ Trần Văn Thành",
+    "khuVuc": "Bến Tre"
+  },
+  "den tho tang bat ho": {
+    "ten": "Đền thờ Tăng Bạt Hổ",
+    "khuVuc": "Phú Yên"
+  },
+  "den tho tay son tam kiet": {
+    "ten": "Đền thờ Tây Sơn Tam Kiệt",
+    "khuVuc": "Phú Yên"
+  },
+  "den tho thai ba du": {
+    "ten": "Đền thờ Thái Bá Du",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho tran hung dao thanh hoa": {
+    "ten": "Đền thờ Trần Hưng Đạo (Thanh Hóa)",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho tran khat chan": {
+    "ten": "Đền thờ Trần Khát Chân",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho tran nguyen han": {
+    "ten": "Đền thờ Trần Nguyên Hãn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den tho tran quy cap": {
+    "ten": "Đền thờ Trần Quý Cáp",
+    "khuVuc": "Ninh Thuận"
+  },
+  "den tho tran quy khoang": {
+    "ten": "Đền thờ Trần Quý Khoáng",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho tran van nang": {
+    "ten": "Đền thờ Trần Văn Năng",
+    "khuVuc": "An Giang"
+  },
+  "den tho trang nguyen bach lieu": {
+    "ten": "Đền thờ trạng nguyên Bạch Liêu",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho trang nguyen pham don le": {
+    "ten": "Đền thờ Trạng nguyên Phạm Đôn Lễ",
+    "khuVuc": "Thái Bình"
+  },
+  "den tho trang trinh nguyen binh khiem thuoc khu di tich va den tho trinh quoc cong nguyen binh khiem": {
+    "ten": "Đền thờ Trạng Trình Nguyễn Bỉnh Khiêm (thuộc Khu di tích và đền thờ Trình quốc công Nguyễn Bỉnh Khiêm)",
+    "khuVuc": "Hải Phòng"
+  },
+  "den tho trung tuong dong van cong": {
+    "ten": "Đền thờ trung tướng Đồng Văn Cống",
+    "khuVuc": "Vĩnh Long"
+  },
+  "den tho va lang mo le khoi": {
+    "ten": "Đền thờ và lăng mộ Lê Khôi",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho va mo duc thanh hau": {
+    "ten": "Đền thờ và mộ Đức Thánh Hậu",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho va mo ho huu nhan": {
+    "ten": "Đền thờ và mộ Hồ Hữu Nhân",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho va mo ngo phuc van": {
+    "ten": "Đền thờ và mộ Ngô Phúc Vạn",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho va mo ngo sy vinh": {
+    "ten": "Đền thờ và mộ Ngô Sỹ Vinh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho va mo ngo tri hoa": {
+    "ten": "Đền thờ và mộ Ngô Trí Hòa",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tho va mo nguyen tuan thien": {
+    "ten": "Đền thờ và mộ Nguyễn Tuấn Thiện",
+    "khuVuc": "Quảng Bình"
+  },
+  "den tho vo uy": {
+    "ten": "Đền thờ Võ Uy",
+    "khuVuc": "Nghệ An"
+  },
+  "den tho vua le loi": {
+    "ten": "Đền thờ vua Lê Lợi",
+    "khuVuc": "Lai Châu"
+  },
+  "den thuong": {
+    "ten": "Đền Thượng",
+    "khuVuc": "Thái Bình"
+  },
+  "den thuong lao cai": {
+    "ten": "Đền Thượng Lào Cai",
+    "khuVuc": "Lào Cai"
+  },
+  "den thuong tuyen quang": {
+    "ten": "Đền Thượng Tuyên Quang",
+    "khuVuc": "Tuyên Quang"
+  },
+  "den thuong, quynh nghia": {
+    "ten": "Đền Thượng, Quỳnh Nghĩa",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den tien ha": {
+    "ten": "Đền Tiên Hạ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den tien la": {
+    "ten": "Đền Tiên La",
+    "khuVuc": "Thái Bình"
+  },
+  "den to": {
+    "ten": "Đền Tổ",
+    "khuVuc": "Thái Bình"
+  },
+  "den tran": {
+    "ten": "Đền Trần",
+    "khuVuc": "Hưng Yên"
+  },
+  "den tran hung dao - mieu vua ba": {
+    "ten": "Đền Trần Hưng Đạo - Miếu Vua Bà",
+    "khuVuc": "Quảng Ninh"
+  },
+  "den tran nam dinh - chua pho minh": {
+    "ten": "Đền Trần (Nam Định) - Chùa Phổ Minh",
+    "khuVuc": "Nam Định"
+  },
+  "den tran thai binh": {
+    "ten": "Đền Trần (Thái Bình)",
+    "khuVuc": "Thái Bình"
+  },
+  "den tran thuong": {
+    "ten": "Đền Trần Thương",
+    "khuVuc": "Hà Nam"
+  },
+  "den tranh den quan lon tuan tranh": {
+    "ten": "Đền Tranh (đền Quan Lớn Tuần Tranh)",
+    "khuVuc": "Hải Dương"
+  },
+  "den tranh vinh phuc": {
+    "ten": "Đền Tranh (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den tria": {
+    "ten": "Đền Trìa",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den trieu thai": {
+    "ten": "Đền Triệu Thái",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den trinh huong": {
+    "ten": "Đền Trinh Hưởng",
+    "khuVuc": "Hải Phòng"
+  },
+  "den truc va ngu dong thi son": {
+    "ten": "Đền Trúc và Ngũ động Thi Sơn",
+    "khuVuc": "Hà Nam"
+  },
+  "den trung coc": {
+    "ten": "Đền Trung Cốc",
+    "khuVuc": "Quảng Ninh"
+  },
+  "den trung do": {
+    "ten": "Đền Trung Đô",
+    "khuVuc": "Lào Cai"
+  },
+  "den va lang mo que hoa": {
+    "ten": "Đền và Lăng mộ Quế Hoa",
+    "khuVuc": "Thái Bình"
+  },
+  "den va mo quan cong nguyen ba lai": {
+    "ten": "Đền và mộ Quận công Nguyễn Bá Lai",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den van loc": {
+    "ten": "Đền Vạn Lộc",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den voi phuc": {
+    "ten": "Đền Voi Phục",
+    "khuVuc": "Thanh Hóa"
+  },
+  "den vua le": {
+    "ten": "Đền Vua Lê",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den xa loc": {
+    "ten": "Đền Xa Lộc",
+    "khuVuc": "Phú Thọ"
+  },
+  "den xua - chua giam - den bia": {
+    "ten": "Đền Xưa - Chùa Giám - Đền Bia",
+    "khuVuc": "Hải Dương"
+  },
+  "den xuan bang": {
+    "ten": "Đền Xuân Bảng",
+    "khuVuc": "Nam Định"
+  },
+  "den xuan hy den ha": {
+    "ten": "Đền Xuân Hy (đền Hạ)",
+    "khuVuc": "Nam Định"
+  },
+  "den xuan lang": {
+    "ten": "Đền Xuân Lãng",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "den xuan uc": {
+    "ten": "Đền Xuân Úc",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "den y la": {
+    "ten": "Đền Ỷ La",
+    "khuVuc": "Tuyên Quang"
+  },
+  "den y son": {
+    "ten": "Đền Y Sơn",
+    "khuVuc": "Bắc Giang"
+  },
+  "den yen tu": {
+    "ten": "Đền Yên Từ",
+    "khuVuc": "Hà Nam"
+  },
+  "den, chua ha duong": {
+    "ten": "Đền, chùa Hà Dương",
+    "khuVuc": "Nam Định"
+  },
+  "den, chua hung thinh": {
+    "ten": "Đền, chùa Hưng Thịnh",
+    "khuVuc": "Nam Định"
+  },
+  "den, lang thai su tran thu do, den linh tu quoc mau tran thi dung": {
+    "ten": "Đền, Lăng Thái sư Trần Thủ Độ, Đền Linh từ Quốc mẫu Trần Thị Dung",
+    "khuVuc": "Thái Bình"
+  },
+  "deo da deo": {
+    "ten": "Đèo Đá Đẽo",
+    "khuVuc": "Quảng Trị"
+  },
+  "deo lung lo": {
+    "ten": "Đèo Lũng Lô",
+    "khuVuc": "Yên Bái"
+  },
+  "deo ma pi leng": {
+    "ten": "Đèo Mã Pí Lèng",
+    "khuVuc": "Hà Giang"
+  },
+  "di chi dong son va thieu duong": {
+    "ten": "Di chỉ Đông Sơn và Thiệu Dương",
+    "khuVuc": "Nghệ An"
+  },
+  "di chi go thanh": {
+    "ten": "Di chỉ Gò Thành",
+    "khuVuc": "Long An"
+  },
+  "di chi hon hai co tien": {
+    "ten": "Di chỉ Hòn Hai Cô Tiên",
+    "khuVuc": "Quảng Ninh"
+  },
+  "di chi khao co hoa diem": {
+    "ten": "Di chỉ khảo cổ Hòa Diêm",
+    "khuVuc": "Ninh Thuận"
+  },
+  "di chi khao co lung leng": {
+    "ten": "Di chỉ khảo cổ Lung Leng",
+    "khuVuc": "Gia Lai"
+  },
+  "di chi nam tun": {
+    "ten": "Di chỉ Nậm Tun",
+    "khuVuc": "Lai Châu"
+  },
+  "di chi thach lac": {
+    "ten": "Di chỉ Thạch Lạc",
+    "khuVuc": "Quảng Bình"
+  },
+  "di tich cay tao - mo lang van thiet": {
+    "ten": "Di tích Cây táo - mộ Lang Văn Thiết",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "di tich chien thang deo giang": {
+    "ten": "Di tích chiến thắng Đèo Giàng",
+    "khuVuc": "Bắc Kạn"
+  },
+  "di tich co loa": {
+    "ten": "Di tích Cổ Loa",
+    "khuVuc": "Thanh Hóa"
+  },
+  "di tich con mo": {
+    "ten": "Di tích Cồn Mô",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "di tich hoang toc cham": {
+    "ten": "Di tích hoàng tộc Chăm",
+    "khuVuc": "Kon Tum"
+  },
+  "di tich khao co cai beo": {
+    "ten": "Di tích khảo cổ Cái Bèo",
+    "khuVuc": "Hải Phòng"
+  },
+  "di tich khao co hoc doc chua": {
+    "ten": "Di tích khảo cổ học Dốc Chùa",
+    "khuVuc": "Tây Ninh"
+  },
+  "di tich khao co nui dau ram": {
+    "ten": "Di tích khảo cổ núi Đầu Rằm",
+    "khuVuc": "Quảng Ninh"
+  },
+  "di tich khao co phoi phoi – bai coi": {
+    "ten": "Di tích khảo cổ Phôi Phối – Bãi Cọi",
+    "khuVuc": "Quảng Bình"
+  },
+  "di tich khao co rach nui": {
+    "ten": "Di tích khảo cổ Rạch Núi",
+    "khuVuc": "Đồng Tháp"
+  },
+  "di tich khao co van hoa sa huynh": {
+    "ten": "Di tích khảo cổ Văn hóa Sa Huỳnh",
+    "khuVuc": "Bình Định"
+  },
+  "di tich khao co xom ren": {
+    "ten": "Di tích khảo cổ xóm Rền",
+    "khuVuc": "Phú Thọ"
+  },
+  "di tich khoi nghia bac son": {
+    "ten": "Di tích Khởi nghĩa Bắc Sơn",
+    "khuVuc": "Lạng Sơn"
+  },
+  "di tich kien truc nghe thuat den cua dong, cua tay, cua nam, cua bac": {
+    "ten": "Di tích kiến trúc nghệ thuật đền Cửa Đông, Cửa Tây, Cửa Nam, Cửa Bắc",
+    "khuVuc": "Lạng Sơn"
+  },
+  "di tich lang ca": {
+    "ten": "Di tích Làng Cả",
+    "khuVuc": "Phú Thọ"
+  },
+  "di tich lich su chi lang": {
+    "ten": "Di tích lịch sử Chi Lăng",
+    "khuVuc": "Lạng Sơn"
+  },
+  "di tich lich su na quan": {
+    "ten": "Di tích lịch sử Nà Quân",
+    "khuVuc": "Bắc Kạn"
+  },
+  "di tich lich su na tu": {
+    "ten": "Di tích lịch sử Nà Tu",
+    "khuVuc": "Bắc Kạn"
+  },
+  "di tich mai luong": {
+    "ten": "Di tích Mai Lượng",
+    "khuVuc": "Quảng Trị"
+  },
+  "di tich nha cong an trung uong": {
+    "ten": "Di tích Nha Công an Trung ương",
+    "khuVuc": "Tuyên Quang"
+  },
+  "di tich nha ong hoang vien": {
+    "ten": "Di tích nhà ông Hoàng Viện",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "di tich nha tu cho chu": {
+    "ten": "Di tích Nhà tù Chợ Chu",
+    "khuVuc": "Thái Nguyên"
+  },
+  "di tich oc eo-ba the": {
+    "ten": "Di tích Óc Eo-Ba Thê",
+    "khuVuc": "Bến Tre"
+  },
+  "di tich phong tuyen song nhu nguyet": {
+    "ten": "Di tích Phòng tuyến sông Như Nguyệt",
+    "khuVuc": "Bắc Ninh"
+  },
+  "di tich plei oi": {
+    "ten": "Di tích Plei Ơi",
+    "khuVuc": "Đăk Lăk"
+  },
+  "di tich roc tung - go da": {
+    "ten": "Di tích Rộc Tưng - Gò Đá",
+    "khuVuc": "Đăk Lăk"
+  },
+  "di tich tham sat cho giua 1940": {
+    "ten": "Di tích Thảm sát Chợ Giữa 1940",
+    "khuVuc": "Long An"
+  },
+  "di tich thuong cang van don cong dong, tay va ben cai lang": {
+    "ten": "Di tích thương cảng Vân Đồn (Cống Đông, Tây và Bến Cái Làng)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "di tich tran rach gam – xoai mut": {
+    "ten": "Di tích Trận Rạch Gầm – Xoài Mút",
+    "khuVuc": "Long An"
+  },
+  "di tich vam nhut tao": {
+    "ten": "Di tích Vàm Nhựt Tảo",
+    "khuVuc": "Đồng Tháp"
+  },
+  "di tich vuon mit": {
+    "ten": "Di tích Vườn Mít",
+    "khuVuc": "Đăk Lăk"
+  },
+  "dia dao ben dinh": {
+    "ten": "Địa đạo Bến Đình",
+    "khuVuc": "Tiền Giang"
+  },
+  "dia dao go thi thung": {
+    "ten": "Địa đạo Gò Thì Thùng",
+    "khuVuc": "Khánh Hòa"
+  },
+  "dia dao hac dich": {
+    "ten": "Địa đạo Hắc Dịch",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "dia dao kim long": {
+    "ten": "Địa đạo Kim Long",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "dia dao ky anh": {
+    "ten": "Địa đạo Kỳ Anh",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dia dao long phuoc": {
+    "ten": "Địa đạo Long Phước",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "dia dao nhon trach": {
+    "ten": "Địa đạo Nhơn Trạch",
+    "khuVuc": "Bình Phước"
+  },
+  "dia dao phu an - phu xuan": {
+    "ten": "Địa đạo Phú An - Phú Xuân",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dia dao phu tho hoa": {
+    "ten": "Địa đạo Phú Thọ Hòa",
+    "khuVuc": "Tiền Giang"
+  },
+  "dia dao suoi linh": {
+    "ten": "Địa đạo Suối Linh",
+    "khuVuc": "Bình Phước"
+  },
+  "dia dao tay nam ben cat": {
+    "ten": "Địa đạo Tây Nam Bến Cát",
+    "khuVuc": "Tây Ninh"
+  },
+  "dia dao vinh moc va he thong lang ham vinh linh": {
+    "ten": "Địa đạo Vĩnh Mốc và Hệ thống làng hầm Vĩnh Linh",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "dia diem bac ho ve tham lang ca cat ba": {
+    "ten": "Địa điểm Bác Hồ về thăm làng Cá Cát Bà",
+    "khuVuc": "Hải Phòng"
+  },
+  "dia diem bac o va lam viec tai doi tin keo 1948 - 1954": {
+    "ten": "Địa điểm Bác ở và làm việc tại Đồi Tỉn Keo (1948 - 1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem ban dan y trung uong cuc mien nam": {
+    "ten": "Địa điểm Ban Dân y Trung ương Cục miền Nam",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "dia diem ban kiem tra khu uy khu v": {
+    "ten": "Địa điểm Ban Kiểm tra Khu ủy Khu V",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dia diem bao quan doi nhan dan ra so dau 20/10/1950": {
+    "ten": "Địa điểm Báo Quân đội nhân dân ra số đầu 20/10/1950",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem bat lien lac khai thong duong ho chi minh – doan nam tay nguyen den dong nam bo, 10/1960": {
+    "ten": "Địa điểm bắt liên lạc khai thông đường Hồ Chí Minh – đoạn Nam Tây Nguyên đến Đông Nam Bộ, 10/1960",
+    "khuVuc": "Đồng Nai"
+  },
+  "dia diem bo luy – chua lo gach": {
+    "ten": "Địa điểm Bờ Lũy – Chùa Lò Gạch",
+    "khuVuc": "Kiên Giang"
+  },
+  "dia diem cac don binh thoi tran bao gom den xoi dong thuong, xoi dong trung, xoi dong ha": {
+    "ten": "Địa điểm các đồn binh thời Trần (bao gồm Đền Xối Đông Thượng, Xối Đông Trung, Xối Đông Hạ)",
+    "khuVuc": "Nam Định"
+  },
+  "dia diem cac thanh nien xung phong dai doi 915 hy sinh tai luu xa 12/1972": {
+    "ten": "Địa điểm các Thanh niên xung phong Đại đội 915 hy sinh tại Lưu Xá (12/1972)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem can cu cuc hau can quan giai phong mien nam viet nam 1973-1975": {
+    "ten": "Địa điểm căn cứ Cục hậu cần Quân giải phóng miền Nam Việt Nam (1973-1975)",
+    "khuVuc": "Bình Dương"
+  },
+  "dia diem chien thang bien gioi nam 1950": {
+    "ten": "Địa điểm Chiến thắng Biên giới năm 1950",
+    "khuVuc": "Cao Bằng"
+  },
+  "dia diem chien thang chan mong - tram than nam 1952": {
+    "ten": "Địa điểm chiến thắng Chân Mộng - Trạm Than (năm 1952)",
+    "khuVuc": "Phú Thọ"
+  },
+  "dia diem chien thang chi khu nga nam": {
+    "ten": "Địa điểm Chiến thắng Chi khu Ngã Năm",
+    "khuVuc": "Cần Thơ"
+  },
+  "dia diem chien thang chien dich tay quang duc 11/1973 - 4/1974, chi khu kien duc": {
+    "ten": "Địa điểm chiến thắng Chiến dịch Tây Quảng Đức (11/1973 - 4/1974, Chi khu Kiến Đức)",
+    "khuVuc": "Đồng Nai"
+  },
+  "dia diem chien thang chot chan tau o": {
+    "ten": "Địa điểm chiến thắng chốt chặn Tàu Ô",
+    "khuVuc": "Bình Dương"
+  },
+  "dia diem chien thang dak to - tan canh": {
+    "ten": "Địa điểm Chiến thắng Đăk Tô - Tân Cảnh",
+    "khuVuc": "Gia Lai"
+  },
+  "dia diem chien thang doi 722 – dak sak": {
+    "ten": "Địa điểm chiến thắng Đồi 722 – Đăk Săk",
+    "khuVuc": "Đồng Nai"
+  },
+  "dia diem chien thang junction city": {
+    "ten": "Địa điểm Chiến thắng Junction City",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "dia diem chien thang la nga": {
+    "ten": "Địa điểm chiến thắng La Ngà",
+    "khuVuc": "Bình Phước"
+  },
+  "dia diem chien thang plei kan": {
+    "ten": "Địa điểm chiến thắng Plei Kần",
+    "khuVuc": "Gia Lai"
+  },
+  "dia diem chien thang xuong giang": {
+    "ten": "Địa điểm Chiến thắng Xương Giang",
+    "khuVuc": "Bắc Giang"
+  },
+  "dia diem chu tich ho chi minh ve tham nhan dan xa hung son nam 1954, 1958": {
+    "ten": "Địa điểm Chủ tịch Hồ Chí Minh về thăm nhân dân xã Hùng Sơn năm 1954, 1958",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem chua lang dao": {
+    "ten": "Địa điểm chùa Lang Đạo",
+    "khuVuc": "Tuyên Quang"
+  },
+  "dia diem co quan ban nong van trung uong va hoi nong dan cuu quoc trung uong 1949-1952": {
+    "ten": "Địa điểm cơ quan Ban Nông vận Trung ương và Hội Nông dân cứu quốc Trung ương (1949-1952)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem co quan bo tong tham muu quan doi nhan dan viet nam va noi o, lam viec cua tong tham muu truong hoang van thai 1949-1954": {
+    "ten": "Địa điểm cơ quan Bộ Tổng tham mưu Quân đội nhân dân Việt Nam và Nơi ở, làm việc của Tổng tham mưu trưởng Hoàng Văn Thái (1949-1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem co quan bo tong tu lenh quan doi nhan dan viet nam 1949-1954": {
+    "ten": "Địa điểm cơ quan Bộ tổng Tư lệnh Quân đội nhân dân Việt Nam (1949-1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem co quan giao buu thong tin vo tuyen dien nam bo": {
+    "ten": "Địa điểm Cơ quan Giao bưu Thông tin vô tuyến điện Nam bộ",
+    "khuVuc": "An Giang"
+  },
+  "dia diem co quan tong bo viet minh 1947-1948 va noi lam viec cua dong chi hoang quoc viet 1947-1950": {
+    "ten": "Địa điểm cơ quan Tổng bộ Việt Minh (1947-1948) và Nơi làm việc của đồng chí Hoàng Quốc Việt (1947-1950)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem cong bo ngay thuong binh liet si toan quoc tai xom ban co 27/7/1947": {
+    "ten": "Địa điểm công bố Ngày Thương binh Liệt sĩ toàn quốc tại xóm Bàn Cờ (27/7/1947)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem cuoc noi day cua dong bao stieng ma thang tay": {
+    "ten": "Địa điểm Cuộc nổi dậy của đồng bào Stiêng (Mả thằng Tây)",
+    "khuVuc": "Bình Dương"
+  },
+  "dia diem dai hoi chien si thi dua toan quoc lan thu nhat 1952": {
+    "ten": "Địa điểm Đại hội chiến sĩ thi đua toàn quốc lần thứ nhất (1952)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem di tich chu tich ho chi minh tham truong dang nguyen ai quoc 1949 o lang luong": {
+    "ten": "Địa điểm di tích Chủ tịch Hồ Chí Minh thăm trường Đảng Nguyễn Ái Quốc (1949) ở Làng Luông",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem dien ra cuoc dau tranh cay coc nam 1954": {
+    "ten": "Địa điểm diễn ra cuộc đấu tranh Cây Cốc năm 1954",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dia diem dien ra cuoc tong tien cong va noi day xuan mau than 1968": {
+    "ten": "Địa điểm diễn ra cuộc tổng tiến công và nổi dậy Xuân Mậu Thân 1968",
+    "khuVuc": "Khánh Hòa"
+  },
+  "dia diem dinh quan hoc mon": {
+    "ten": "Địa điểm Dinh Quận Hóc Môn",
+    "khuVuc": "Tiền Giang"
+  },
+  "dia diem doi pu don, noi chu tich ho chi minh chu tri le phong quan ham dai tuong tong chi huy quan doi quoc gia va dan quan tu ve cho dong chi vo nguyen giap 1948": {
+    "ten": "Địa điểm Đồi Pụ Đồn, nơi Chủ tịch Hồ Chí Minh chủ trì lễ phong quân hàm Đại tướng Tổng chỉ huy quân đội quốc gia và dân quân tự vệ cho đồng chí Võ Nguyên Giáp (1948)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem don bac ve tham hop tac xa yen truong": {
+    "ten": "Địa điểm đón Bác về thăm hợp tác xã Yên Trường",
+    "khuVuc": "Nghệ An"
+  },
+  "dia diem dong khoi hoa thinh": {
+    "ten": "Địa điểm Đồng khởi Hòa Thịnh",
+    "khuVuc": "Khánh Hòa"
+  },
+  "dia diem ghi dau toi ac cua thuc dan phap tai lan ang 09/02/1945": {
+    "ten": "Địa điểm ghi dấu tội ác của thực dân Pháp tại Lân Áng (09/02/1945)",
+    "khuVuc": "Lạng Sơn"
+  },
+  "dia diem ghi dau toi ac cua thuc dan phap tai minh dan 01/10/1940": {
+    "ten": "Địa điểm ghi dấu tội ác của thực dân Pháp tại Minh Đán (01/10/1940)",
+    "khuVuc": "Lạng Sơn"
+  },
+  "dia diem khai sinh nganh dien anh va nhiep anh cach mang viet nam 1953": {
+    "ten": "Địa điểm khai sinh ngành Điện ảnh và Nhiếp ảnh cách mạng Việt Nam (1953)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem khoi phat phong trao chong suu thue nam 1908 o mien trung": {
+    "ten": "Địa điểm khởi phát phong trào chống sưu thuế năm 1908 ở miền Trung",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dia diem khu uy tay bac": {
+    "ten": "Địa điểm Khu Ủy Tây Bắc",
+    "khuVuc": "Yên Bái"
+  },
+  "dia diem le nhan quoc thu dau tien cua nuoc viet nam dan chu cong hoa 01/9/1954": {
+    "ten": "Địa điểm lễ nhận Quốc thư đầu tiên của Nước Việt Nam Dân Chủ Cộng Hòa (01/9/1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem lich su va thang canh rung thong": {
+    "ten": "Địa điểm lịch sử và thắng cảnh Rừng Thông",
+    "khuVuc": "Nghệ An"
+  },
+  "dia diem luu niem bac ho": {
+    "ten": "Địa điểm Lưu niệm Bác Hồ",
+    "khuVuc": "Bắc Giang"
+  },
+  "dia diem luu niem bac ho ve tham quang binh 6/1957": {
+    "ten": "Địa điểm lưu niệm Bác Hồ về thăm Quảng Bình (6/1957)",
+    "khuVuc": "Quảng Trị"
+  },
+  "dia diem luu niem chu tich ho chi minh o duong no": {
+    "ten": "Địa điểm lưu niệm Chủ tịch Hồ Chí Minh ở Dương Nổ",
+    "khuVuc": "Đà Nẵng"
+  },
+  "dia diem luu niem chu tich ho chi minh tai vinh tuong": {
+    "ten": "Địa điểm lưu niệm Chủ tịch Hồ Chí Minh tại Vĩnh Tường",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dia diem luu niem chu tich ho chi minh ve tham cong truong dap dap cat tuong nam 1958": {
+    "ten": "Địa điểm lưu niệm Chủ tịch Hồ Chí Minh về thăm công trường đắp đập Cát Tường năm 1958",
+    "khuVuc": "Hà Nam"
+  },
+  "dia diem luu niem chu tich ho chi minh ve tham khu cong nghiep gang thep thai nguyen": {
+    "ten": "Địa điểm lưu niệm Chủ tịch Hồ Chí Minh về thăm Khu công nghiệp Gang thép Thái Nguyên",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem luu niem chu tich ton duc thang tai khu vuc ba son": {
+    "ten": "Địa điểm lưu niệm Chủ tịch Tôn Đức Thắng tại khu vực Ba Son",
+    "khuVuc": "Tiền Giang"
+  },
+  "dia diem luu niem cuoc bieu tinh nam 1931 tai cay so 7 tai luong": {
+    "ten": "Địa điểm lưu niệm cuộc biểu tình năm 1931 tại Cây số 7 Tài Lương",
+    "khuVuc": "Phú Yên"
+  },
+  "dia diem luu niem n’trang guh": {
+    "ten": "Địa điểm lưu niệm N’Trang Gưh",
+    "khuVuc": "Đồng Nai"
+  },
+  "dia diem luu niem tau c235 duong ho chi minh tren bien": {
+    "ten": "Địa điểm lưu niệm Tàu C235 (Đường Hồ Chí Minh trên biển)",
+    "khuVuc": "Ninh Thuận"
+  },
+  "dia diem na ngan": {
+    "ten": "Địa điểm Nà Ngần",
+    "khuVuc": "Cao Bằng"
+  },
+  "dia diem nha ngan kho - tin dung": {
+    "ten": "Địa điểm Nha Ngân khố - Tín dụng",
+    "khuVuc": "Tuyên Quang"
+  },
+  "dia diem tham sat lang tan minh xom giua": {
+    "ten": "Địa điểm thảm sát làng Tân Minh (xóm Giữa)",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "dia diem tham sat my thuy": {
+    "ten": "Địa điểm Thảm sát Mỹ Thủy",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "dia diem tham sat ngan son - chi thanh": {
+    "ten": "Địa điểm Thảm sát Ngân Sơn - Chí Thạnh",
+    "khuVuc": "Khánh Hòa"
+  },
+  "dia diem thanh lap chinh quyen huyen dinh hoa 1945": {
+    "ten": "Địa điểm thành lập chính quyền huyện Định Hóa (1945)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem thanh lap co quan chi huy chien khu nguyen hue": {
+    "ten": "Địa điểm thành lập cơ quan chỉ huy Chiến khu Nguyễn Huệ",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem thanh lap co so dang cong san dau tien tinh tay ninh": {
+    "ten": "Địa điểm thành lập cơ sở Đảng Cộng sản đầu tiên tỉnh Tây Ninh",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "dia diem thanh lap doan 125. tien than cua luc luong vu trang doan ket cuu nuoc campuchia": {
+    "ten": "Địa điểm thành lập Đoàn 125. Tiền thân của lực lượng vũ trang đoàn kết cứu nước Campuchia",
+    "khuVuc": "Bình Phước"
+  },
+  "dia diem thanh lap doi cuu quoc quan ii ngay 15/9/1941": {
+    "ten": "Địa điểm thành lập Đội cứu quốc quân II ngày 15/9/1941",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem thanh lap hoi nha bao viet nam": {
+    "ten": "Địa điểm thành lập Hội Nhà báo Việt Nam",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem thanh lap tong cuc cung cap 11/7/1950": {
+    "ten": "Địa điểm thành lập Tổng cục cung cấp (11/7/1950)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem thanh lap uy ban hoa binh viet nam uy ban bao ve hoa binh the gioi cua viet nam": {
+    "ten": "Địa điểm thành lập Ủy ban Hòa bình Việt Nam (Ủy ban bảo vệ hòa bình thế giới của Việt Nam)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem thanh lap uy ban kiem tra trung uong": {
+    "ten": "Địa điểm thành lập Ủy ban kiểm tra Trung ương",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem tong bi thu truong chinh va van phong trung uong dang o phong hien 1947 -1949": {
+    "ten": "Địa điểm Tổng Bí thư Trường Chinh và Văn phòng Trung ương Đảng ở Phông Hiển (1947 -1949)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dia diem tran giong bom 1946": {
+    "ten": "Địa điểm trận Giồng Bốm (1946)",
+    "khuVuc": "Cà Mau"
+  },
+  "dia diem vanh dai diet my trang lon": {
+    "ten": "Địa điểm Vành đai diệt Mỹ Trảng Lớn",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "dia diem xuong quan gioi, noi che tao thanh cong sung bazoka 1947": {
+    "ten": "Địa điểm xưởng quân giới, nơi chế tạo thành công súng Bazoka (1947)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "diem cuoi duong ong xang dau vk96 cuc hau can b2": {
+    "ten": "Điểm cuối Đường ống xăng dầu VK96 (Cục Hậu cần B2)",
+    "khuVuc": "Bình Dương"
+  },
+  "dien ngoc hoang": {
+    "ten": "Điện Ngọc Hoàng",
+    "khuVuc": "Tiền Giang"
+  },
+  "dien thanh hoang vinh loc": {
+    "ten": "Điện Thành Hoàng Vĩnh Lộc",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh - chua chau khe": {
+    "ten": "Đình - chùa Châu Khê",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh - chua duong thai": {
+    "ten": "Đình - chùa Dưỡng Thái",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh - chua le phap": {
+    "ten": "Đình - chùa Lễ Pháp",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh - mieu te xuyen va chua linh quang phong": {
+    "ten": "Đình - Miếu Tế Xuyên và chùa Linh Quang Phòng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh am": {
+    "ten": "Đình Am",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh an bai": {
+    "ten": "Đình An Bài",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh an co": {
+    "ten": "Đình An Cổ",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh an dinh": {
+    "ten": "Đình An Định",
+    "khuVuc": "Bình Định"
+  },
+  "dinh an duong": {
+    "ten": "Đình An Dương",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh an hai": {
+    "ten": "Đình An Hải",
+    "khuVuc": "Bình Định"
+  },
+  "dinh an hoa": {
+    "ten": "Đình An Hòa",
+    "khuVuc": "Bình Phước"
+  },
+  "dinh an hoi va chua vien minh": {
+    "ten": "Đình An Hội và chùa Viên Minh",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh an quy": {
+    "ten": "Đình An Quý",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh an thai": {
+    "ten": "Đình An Thái",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh an tiem": {
+    "ten": "Đình An Tiêm",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh an trach": {
+    "ten": "Đình An Trạch",
+    "khuVuc": "Cà Mau"
+  },
+  "dinh an vinh": {
+    "ten": "Đình An Vĩnh",
+    "khuVuc": "Bình Định"
+  },
+  "dinh an vu": {
+    "ten": "Đình An Vũ",
+    "khuVuc": "Hưng Yên"
+  },
+  "dinh an xa": {
+    "ten": "Đình An Xá",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh bach tinh": {
+    "ten": "Đình Bách Tính",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh ban mon": {
+    "ten": "Đình Bàn Môn",
+    "khuVuc": "Đà Nẵng"
+  },
+  "dinh bich chu": {
+    "ten": "Đình Bích Chu",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh bich doai": {
+    "ten": "Đình Bích Đoài",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh bich thi": {
+    "ten": "Đình Bích Thị",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh binh dong": {
+    "ten": "Đình Bình Đông",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh binh hoa": {
+    "ten": "Đình Bình Hòa",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh binh thuy": {
+    "ten": "Đình Bình Thủy",
+    "khuVuc": "Hậu Giang"
+  },
+  "dinh bo ban": {
+    "ten": "Đình Bồ Bản",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh bo cho": {
+    "ten": "Đình Bo Chợ",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh bui": {
+    "ten": "Đình Bùi",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh ca": {
+    "ten": "Đình Cả",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh cac dong": {
+    "ten": "Đình Các Đông",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh cam du": {
+    "ten": "Đình Cẩm Du",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh cam gia": {
+    "ten": "Đình Cam Giá",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh cao quang": {
+    "ten": "Đình Cao Quang",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh cao thuong": {
+    "ten": "Đình Cao Thượng",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh cao xa": {
+    "ten": "Đình Cao Xá",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh cat dang": {
+    "ten": "Đình Cát Đằng",
+    "khuVuc": "Nam Định"
+  },
+  "dinh chay": {
+    "ten": "Đình Chảy",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh chem": {
+    "ten": "Đình Chèm",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh chi hoa": {
+    "ten": "Đình Chí Hoà",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh chi linh": {
+    "ten": "Đình Chí Linh",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh chien dan": {
+    "ten": "Đình Chiên Đàn",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dinh chieng": {
+    "ten": "Đình Chiềng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh cho van atk2": {
+    "ten": "Đình chợ Vân (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh cho xam": {
+    "ten": "Đình Chợ Xâm",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh chua trung tu": {
+    "ten": "Đình chùa Trung Tự",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh chuong luong": {
+    "ten": "Đình Chương Lương",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh co": {
+    "ten": "Dinh Cô",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "dinh co vu": {
+    "ten": "Đình Cổ Vũ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh cong dong": {
+    "ten": "Đình Công Đồng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh cung chuc": {
+    "ten": "Đình Cung Chúc",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh da an mong": {
+    "ten": "Đình Đá An Mông",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh da le": {
+    "ten": "Đình Dạ Lê",
+    "khuVuc": "Đà Nẵng"
+  },
+  "dinh da phuoc": {
+    "ten": "Đình Đa Phước",
+    "khuVuc": "Bến Tre"
+  },
+  "dinh dai phung": {
+    "ten": "Đình Đại Phùng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh dai tu": {
+    "ten": "Đình Đại Từ",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh dai yen": {
+    "ten": "Đình Đại Yên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh dam xuyen": {
+    "ten": "Đình Đạm Xuyên",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh dao xa": {
+    "ten": "Đình Đào Xá",
+    "khuVuc": "Hưng Yên"
+  },
+  "dinh den bong dien": {
+    "ten": "Đình Đền Bổng Điền",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh den cong - mieu cu linh": {
+    "ten": "Đình Đền Công - Miếu Cu Linh",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh dieu hoa": {
+    "ten": "Đình Điều Hòa",
+    "khuVuc": "Long An"
+  },
+  "dinh dinh": {
+    "ten": "Đình Đinh",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh dinh bang": {
+    "ten": "Đình Đình Bảng",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh dinh chu": {
+    "ten": "Đình Đình Chu",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh dinh yen": {
+    "ten": "Đình Định Yên",
+    "khuVuc": "An Giang"
+  },
+  "dinh doc lap": {
+    "ten": "Dinh Độc Lập",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh doi tam": {
+    "ten": "Đình Đọi Tam",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh dong": {
+    "ten": "Đình Đông",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dinh dong bong": {
+    "ten": "Đình Động Bồng",
+    "khuVuc": "Nghệ An"
+  },
+  "dinh dong cau": {
+    "ten": "Đình Đống Cầu",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh dong dao": {
+    "ten": "Đình Đông Đạo",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh dong du": {
+    "ten": "Đình Đồng Dụ",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh dong duong": {
+    "ten": "Đình Đông Dương",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh dong kenh": {
+    "ten": "Đình Đông Kênh",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh dong linh": {
+    "ten": "Đình Đông Linh",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh dong mai": {
+    "ten": "Đình Đông Mai",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh dong quach": {
+    "ten": "Đình Đông Quách",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh dong thanh": {
+    "ten": "Đình Đồng Thạnh",
+    "khuVuc": "Long An"
+  },
+  "dinh dong truoc": {
+    "ten": "Đình Đông Trước",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh du nghia": {
+    "ten": "Đình Dụ Nghĩa",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh duc ban ngoai": {
+    "ten": "Đình Đức Bản Ngoại",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh dung thuy": {
+    "ten": "Đình Dũng Thúy",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh duong lam": {
+    "ten": "Đình Dương Lâm",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh duong loi": {
+    "ten": "Đình Dương Lôi",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh gia": {
+    "ten": "Đình Gia",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh gia mieu": {
+    "ten": "Đình Gia Miêu",
+    "khuVuc": "Nghệ An"
+  },
+  "dinh gia thuy va go mo to": {
+    "ten": "Đình Gia Thụy và Gò Mộ Tổ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh ha": {
+    "ten": "Đình Hạ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh ha bi trung": {
+    "ten": "Đình Hạ Bì Trung",
+    "khuVuc": "Phú Thọ"
+  },
+  "dinh ha dau": {
+    "ten": "Đình Hà Đậu",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh ha mao": {
+    "ten": "Đình Hạ Mạo",
+    "khuVuc": "Phú Thọ"
+  },
+  "dinh ha thai": {
+    "ten": "Đình Hạ Thái",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh ha thuong": {
+    "ten": "Đình Hà Thượng",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "dinh hai chau": {
+    "ten": "Đình Hải Châu",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh hang kenh": {
+    "ten": "Đình Hàng Kênh",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh hiep luc": {
+    "ten": "Đình Hiệp Lực",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh ho lenh": {
+    "ten": "Đình Hộ Lệnh",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dinh hoa loan": {
+    "ten": "Đình Hòa Loan",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh hoa ninh": {
+    "ten": "Đình Hòa Ninh",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh hoa tu": {
+    "ten": "Đình Hòa Tú",
+    "khuVuc": "Cần Thơ"
+  },
+  "dinh hoang a tuong": {
+    "ten": "Dinh Hoàng A Tưởng",
+    "khuVuc": "Lào Cai"
+  },
+  "dinh hoanh son": {
+    "ten": "Đình Hoành Sơn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh hung loc": {
+    "ten": "Đình Hưng Lộc",
+    "khuVuc": "Nam Định"
+  },
+  "dinh hung vi": {
+    "ten": "Đình Hùng Vĩ",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh huong canh": {
+    "ten": "Đình Hương Canh",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh huong cau": {
+    "ten": "Đình Hương Câu",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh huong tram": {
+    "ten": "Đình Hương Trầm",
+    "khuVuc": "Phú Thọ"
+  },
+  "dinh huong vi": {
+    "ten": "Đình Hương Vĩ",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh kenh": {
+    "ten": "Đình Kênh",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh kha": {
+    "ten": "Đình Khả",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh kha do": {
+    "ten": "Đình Khả Do",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh kha duy": {
+    "ten": "Đình Khả Duy",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh kien bai": {
+    "ten": "Đình Kiền Bái",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh kien lao": {
+    "ten": "Đình Kiên Lao",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh kim ma": {
+    "ten": "Đình Kim Mã",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh kim ngan": {
+    "ten": "Đình Kim Ngân",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh kim son": {
+    "ten": "Đình Kim Sơn",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh la uyen": {
+    "ten": "Đình La Uyên",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh lac giao": {
+    "ten": "Đình Lạc Giao",
+    "khuVuc": "Lâm Đồng"
+  },
+  "dinh lac nhue": {
+    "ten": "Đình Lạc Nhuế",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh lai tri": {
+    "ten": "Đình Lại Trì",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh lai vi": {
+    "ten": "Đình Lai Vi",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh lang cau nhi": {
+    "ten": "Đình làng Câu Nhi",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "dinh lang chuong": {
+    "ten": "Đình làng Chuông",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh lang dinh lu": {
+    "ten": "Đình làng Đỉnh Lữ",
+    "khuVuc": "Quảng Bình"
+  },
+  "dinh lang dinh trung": {
+    "ten": "Đình làng Đình Trung",
+    "khuVuc": "Nghệ An"
+  },
+  "dinh lang gao": {
+    "ten": "Đình Làng Gạo",
+    "khuVuc": "Nghệ An"
+  },
+  "dinh lang nghia an va he thong gieng cham": {
+    "ten": "Đình làng Nghĩa An và hệ thống giếng Chăm",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "dinh lang phu den": {
+    "ten": "Đình làng Phú Đền",
+    "khuVuc": "Nghệ An"
+  },
+  "dinh lang quan dinh": {
+    "ten": "Đình làng Quan Đình",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh lang set": {
+    "ten": "Đình Làng Sét",
+    "khuVuc": "Nghệ An"
+  },
+  "dinh lang, quynh doi": {
+    "ten": "Đình Làng, Quỳnh Đôi",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh le hop": {
+    "ten": "Đình Lễ Hợp",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh le xa": {
+    "ten": "Đình Lê Xá",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh lich dong": {
+    "ten": "Đình Lịch Động",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh lieu khe": {
+    "ten": "Đình Liễu Khê",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh lo hanh": {
+    "ten": "Đình Lỗ Hạnh",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh long hung": {
+    "ten": "Đình Long Hưng",
+    "khuVuc": "Long An"
+  },
+  "dinh long khanh": {
+    "ten": "Đình Long Khánh",
+    "khuVuc": "An Giang"
+  },
+  "dinh long thanh long thanh mieu vu": {
+    "ten": "Đình Long Thanh (Long Thanh Miếu Vũ)",
+    "khuVuc": "Sóc Trăng"
+  },
+  "dinh long trung": {
+    "ten": "Đình Long Trung",
+    "khuVuc": "Long An"
+  },
+  "dinh lu phong": {
+    "ten": "Đình Lũ Phong",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh luat noi, dinh luat ngoai": {
+    "ten": "Đình Luật Nội, Đình Luật Ngoại",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh lung xuyen": {
+    "ten": "Đình Lũng Xuyên",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh luong my": {
+    "ten": "Đình Lương Mỹ",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh luong xa": {
+    "ten": "Đình Lương Xá",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh luu": {
+    "ten": "Đình Lưu",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh luu khe": {
+    "ten": "Đình Lưu Khê",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh ly hoa": {
+    "ten": "Đình Lý Hòa",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh ma nao": {
+    "ten": "Đình Mã Não",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh mac ha": {
+    "ten": "Đình Mạc Hạ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh mai dong": {
+    "ten": "Đình Mai Động",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh mao dien doai": {
+    "ten": "Đình Mão Điền Đoài",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh minh huong gia thanh": {
+    "ten": "Đình Minh Hương Gia Thạnh",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh minh le": {
+    "ten": "Đình Minh Lệ",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh my bong, dinh my loc": {
+    "ten": "Đình Mỹ Bổng, Đình Mỹ Lộc",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh my doi": {
+    "ten": "Đình Mỹ Đôi",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh nai nam": {
+    "ten": "Đình Nại Nam",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh nam": {
+    "ten": "Đình Nam",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh nam dong": {
+    "ten": "Đình Nam Đồng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh nam huong": {
+    "ten": "Đình Nam Hương",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh nam xa thuong": {
+    "ten": "Đình Nam Xá Thượng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh ngo": {
+    "ten": "Đình Ngò",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh ngo noi": {
+    "ten": "Đình Ngô Nội",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh ngo xa": {
+    "ten": "Đình Ngô Xá",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh ngoa": {
+    "ten": "Đình Ngõa",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh ngoai binh da": {
+    "ten": "Đình Ngoại Bình Đà",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh ngoc canh": {
+    "ten": "Đình Ngọc Canh",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh ngoc dong": {
+    "ten": "Đình Ngọc Động",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh ngoc ha": {
+    "ten": "Đình Ngọc Hà",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh ngoc khanh": {
+    "ten": "Đình Ngọc Khánh",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh ngoc xuyen": {
+    "ten": "Đình Ngọc Xuyên",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh ngu": {
+    "ten": "Đình Ngừ",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh nguyen trung": {
+    "ten": "Đình Nguyễn Trung",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh nhat tan": {
+    "ten": "Đình Nhật Tân",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh nho lam, dinh thanh giam": {
+    "ten": "Đình Nho Lâm, Đình Thanh Giám",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh nhu thuong": {
+    "ten": "Đình Nhu Thượng",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh noi": {
+    "ten": "Đình Nội",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh o cach": {
+    "ten": "Đình Ô Cách",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh phat loc": {
+    "ten": "Đình Phất Lộc",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh phong coc": {
+    "ten": "Đình Phong Cốc",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh phong phu": {
+    "ten": "Đình Phong Phú",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh phu cang": {
+    "ten": "Đình Phú Cang",
+    "khuVuc": "Ninh Thuận"
+  },
+  "dinh phu huu": {
+    "ten": "Đình Phú Hựu",
+    "khuVuc": "An Giang"
+  },
+  "dinh phu lao": {
+    "ten": "Đình Phù Lão",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh phu le": {
+    "ten": "Đình Phú Lễ",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh phu long": {
+    "ten": "Đình Phú Long",
+    "khuVuc": "Tây Ninh"
+  },
+  "dinh phu luu": {
+    "ten": "Đình Phù Lưu",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh phu nhuan": {
+    "ten": "Đình Phú Nhuận",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh phu trich": {
+    "ten": "Đình Phù Trịch",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh phu vinh": {
+    "ten": "Đình Phú Vinh",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh phuong cap": {
+    "ten": "Đình Phương Cáp",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh phuong do": {
+    "ten": "Đình Phương Độ",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dinh phuong lam": {
+    "ten": "Đình Phương Lâm",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh phuong lich": {
+    "ten": "Đình Phượng Lịch",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh phuong man": {
+    "ten": "Đình Phương Man",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh phuong thuong": {
+    "ten": "Đình Phương Thượng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh phuong vien": {
+    "ten": "Đình Phương Viên",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh qua giang": {
+    "ten": "Đình Quá Giáng",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh quan lan": {
+    "ten": "Đình Quan Lạn",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh quat luu": {
+    "ten": "Đình Quất Lưu",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh quy lai": {
+    "ten": "Đình Quy Lai",
+    "khuVuc": "Đà Nẵng"
+  },
+  "dinh quynh hoang": {
+    "ten": "Đình Quỳnh Hoàng",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh ran": {
+    "ten": "Đình Rắn",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh ruoi": {
+    "ten": "Đình Ruồi",
+    "khuVuc": "Nam Định"
+  },
+  "dinh sai dong": {
+    "ten": "Đình Sài Đồng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh sen ho vinh phuc": {
+    "ten": "Đình Sen Hồ (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh so": {
+    "ten": "Đình So",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh son": {
+    "ten": "Đình Son",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh song kenh": {
+    "ten": "Đình Sông Kênh",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh sung van": {
+    "ten": "Đình Sùng Văn",
+    "khuVuc": "Nam Định"
+  },
+  "dinh tai kenh": {
+    "ten": "Đình Tái Kênh",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh tam mai": {
+    "ten": "Đình Tám Mái",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh tan an ben the": {
+    "ten": "Đình Tân An (Bến Thế)",
+    "khuVuc": "Tây Ninh"
+  },
+  "dinh tan hoa": {
+    "ten": "Đình Tân Hoa",
+    "khuVuc": "Sóc Trăng"
+  },
+  "dinh tan hung va mo ong huynh van thieu": {
+    "ten": "Đình Tân Hưng và mộ ông Huỳnh Văn Thiệu",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh tan lan": {
+    "ten": "Đình Tân Lân",
+    "khuVuc": "Bình Phước"
+  },
+  "dinh tan loc": {
+    "ten": "Đình Tấn Lộc",
+    "khuVuc": "Bình Thuận"
+  },
+  "dinh tan ngai": {
+    "ten": "Đình Tân Ngãi",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh tan phu trung": {
+    "ten": "Đình Tân Phú Trung",
+    "khuVuc": "An Giang"
+  },
+  "dinh tan thach": {
+    "ten": "Đình Tân Thạch",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dinh tau": {
+    "ten": "Đình Tàu",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh tay dang": {
+    "ten": "Đình Tây Đằng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh tay ha": {
+    "ten": "Đình Tây Hạ",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh thac gian": {
+    "ten": "Đình Thạc Gián",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh thach loi": {
+    "ten": "Đình Thạch Lỗi",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh thach truc": {
+    "ten": "Đình Thạch Trục",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh thanh nghia": {
+    "ten": "Đình Thanh Nghĩa",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh thay thim": {
+    "ten": "Dinh Thầy Thím",
+    "khuVuc": "Kon Tum"
+  },
+  "dinh thieu my": {
+    "ten": "Đình Thiệu Mỹ",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh thinh chau ha": {
+    "ten": "Đình Thịnh Châu Hạ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh tho chuong": {
+    "ten": "Đình Thọ Chương",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh tho ha": {
+    "ten": "Đình Thổ Hà",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh tho nguyen trung truc": {
+    "ten": "Đình thờ Nguyễn Trung Trực",
+    "khuVuc": "Bạc Liêu"
+  },
+  "dinh tho phu": {
+    "ten": "Đình Thọ Phú",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh tho tang": {
+    "ten": "Đình Thổ Tang",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh thong tay hoi": {
+    "ten": "Đình Thông Tây Hội",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh thu do": {
+    "ten": "Đình Thủ Độ",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh thu ho vuong dinh vua meo": {
+    "ten": "Dinh thự họ Vương (Dinh vua Mèo)",
+    "khuVuc": "Hà Giang"
+  },
+  "dinh thua thuong": {
+    "ten": "Đình Thứa Thượng",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh thuan an": {
+    "ten": "Đình Thuận An",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh thuong": {
+    "ten": "Đình Thượng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh thuong dong": {
+    "ten": "Đình Thượng Đồng",
+    "khuVuc": "Nam Định"
+  },
+  "dinh thuong phuc": {
+    "ten": "Đình Thượng Phúc",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh tien hien lang an hai va den thoai ngoc hau": {
+    "ten": "Đình Tiền hiền làng An Hải và đền Thoại Ngọc Hầu",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh tien huong": {
+    "ten": "Đình Tiên Hường",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh tien lu vinh phuc": {
+    "ten": "Đình Tiên Lữ (Vĩnh Phúc)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh tien ly": {
+    "ten": "Đình Tiên Lý",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh tieu hoang, dinh ngoai de, lang nguyen cong tru": {
+    "ten": "Đình Tiểu Hoàng, Đình Ngoại Đê, Lăng Nguyễn Công Trứ",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh to, nha tho ho ta, thu dien": {
+    "ten": "Đình Tổ, Nhà thờ Họ Tạ, Thư Điền",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh tong tho": {
+    "ten": "Đình Tống Thỏ",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh tra co": {
+    "ten": "Đình Trà Cổ",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh trac noi": {
+    "ten": "Đình Trác Nội",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh tri chi": {
+    "ten": "Đình Tri Chỉ",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh tri yeu": {
+    "ten": "Đình Tri Yếu",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh trieu hoi": {
+    "ten": "Đình Triều Hội",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh trinh xa": {
+    "ten": "Đình Trình Xá",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh trung ban": {
+    "ten": "Đình Trung Bản",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh trung can": {
+    "ten": "Đình Trung Cần",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh truong tho": {
+    "ten": "Đình Trường Thọ",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh tu cac": {
+    "ten": "Đình Tử Các",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh tu dinh va chua sung phuc": {
+    "ten": "Đình Tứ Đình và chùa Sùng Phúc",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh tuan lo": {
+    "ten": "Đình Tuân Lộ",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh tuong phieu": {
+    "ten": "Đình Tường Phiêu",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh tuong son": {
+    "ten": "Đình Tượng Sơn",
+    "khuVuc": "Quảng Trị"
+  },
+  "dinh tuong thuy": {
+    "ten": "Đình Tường Thụy",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh tuy loan": {
+    "ten": "Đình Tuý Loan",
+    "khuVuc": "Quảng Nam"
+  },
+  "dinh ung thien": {
+    "ten": "Đình Ứng Thiên",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh va chua ha": {
+    "ten": "Đình và chùa Hả",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh va chua mai phuc": {
+    "ten": "Đình và chùa Mai Phúc",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh va chua san": {
+    "ten": "Đình và chùa Sàn",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh va chua vinh son": {
+    "ten": "Đình và chùa Vĩnh Sơn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh va den dong huong": {
+    "ten": "Đình và đền Đông Hương",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh va den hao nam": {
+    "ten": "Đình và đền Hào Nam",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh va den trau lo": {
+    "ten": "Đình và đền Trâu Lỗ",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh van don, dinh luu don, dinh tu trinh": {
+    "ten": "Đình Vạn Đồn, Đình Lưu Đồn, Đình Tu Trình",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh van phu": {
+    "ten": "Đình Văn Phú",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh van phuc": {
+    "ten": "Đình Vạn Phúc",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh van son": {
+    "ten": "Đình Văn Sơn",
+    "khuVuc": "Bình Thuận"
+  },
+  "dinh van tho": {
+    "ten": "Đình Vạn Thọ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh van thuy tu": {
+    "ten": "Dinh Vạn Thủy Tú",
+    "khuVuc": "Kon Tum"
+  },
+  "dinh van xa": {
+    "ten": "Đình Văn Xá",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh van xuyen atk2": {
+    "ten": "Đình Vân Xuyên (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh vi ha": {
+    "ten": "Đình Vị Hạ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh vi thuong": {
+    "ten": "Đình Vị Thượng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh vinh hoa": {
+    "ten": "Đình Vĩnh Hòa",
+    "khuVuc": "Bạc Liêu"
+  },
+  "dinh vinh khe": {
+    "ten": "Đình Vĩnh Khê",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh vinh lac": {
+    "ten": "Đình Vĩnh Lạc",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh vinh nguon": {
+    "ten": "Đình Vĩnh Ngươn",
+    "khuVuc": "Bến Tre"
+  },
+  "dinh vinh phuc": {
+    "ten": "Đình Vĩnh Phúc",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh vinh tru": {
+    "ten": "Đình Vĩnh Trụ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh vo luong": {
+    "ten": "Đình Vô Lượng",
+    "khuVuc": "Hải Dương"
+  },
+  "dinh vu thach": {
+    "ten": "Đình Vũ Thạch",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh vuong": {
+    "ten": "Đình Vường",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh xuan bieu atk2": {
+    "ten": "Đình Xuân Biều (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "dinh xuan hiep": {
+    "ten": "Đình Xuân Hiệp",
+    "khuVuc": "Tiền Giang"
+  },
+  "dinh xuan la": {
+    "ten": "Đình Xuân La",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dinh xuan loi": {
+    "ten": "Đình Xuân Lôi",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh xuan my": {
+    "ten": "Đình Xuân Mỹ",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "dinh yen do": {
+    "ten": "Đình Yên Đổ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh yen giang": {
+    "ten": "Đình Yên Giang",
+    "khuVuc": "Quảng Ninh"
+  },
+  "dinh yen la": {
+    "ten": "Đình Yên Lã",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh yen lac": {
+    "ten": "Đình Yên Lạc",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh yen noi": {
+    "ten": "Đình Yên Nội",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "dinh yen phu": {
+    "ten": "Đình Yên Phụ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh, chua cao da": {
+    "ten": "Đình, chùa Cao Đà",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua chau": {
+    "ten": "Đình, chùa Châu",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua chi lai - nui voi hai phong": {
+    "ten": "Đình, chùa Chi Lai - Núi Voi (Hải Phòng)",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh, chua co vien": {
+    "ten": "Đình, chùa Cổ Viễn",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua dao truyen": {
+    "ten": "Đình, chùa Đạo Truyền",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua do nha": {
+    "ten": "Đình, chùa Do Nha",
+    "khuVuc": "Hải Phòng"
+  },
+  "dinh, chua do quan": {
+    "ten": "Đình, chùa Đô Quan",
+    "khuVuc": "Nam Định"
+  },
+  "dinh, chua dong du trung": {
+    "ten": "Đình, chùa Đồng Du Trung",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua hien": {
+    "ten": "Đình, chùa Hiến",
+    "khuVuc": "Hưng Yên"
+  },
+  "dinh, chua hu": {
+    "ten": "Đình, Chùa Hú",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, chua mac thuong": {
+    "ten": "Đình, chùa Mạc Thượng",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua ngoc lu": {
+    "ten": "Đình, chùa Ngọc Lũ",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua te xuyen": {
+    "ten": "Đình, chùa Tế Xuyên",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, chua vinh kieu": {
+    "ten": "Đình, chùa Vĩnh Kiều",
+    "khuVuc": "Bắc Ninh"
+  },
+  "dinh, chua, lang thuong liet": {
+    "ten": "Đình, Chùa, Lăng Thượng Liệt",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, chua, mieu binh cach": {
+    "ten": "Đình, Chùa, Miếu Bình Cách",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, den co trai": {
+    "ten": "Đình, Đền Cổ Trai",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, den hoa ngai": {
+    "ten": "Đình, đền Hòa Ngãi",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, den thanh lang": {
+    "ten": "Đình, Đền Thanh Lãng",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, den va chua hoa ma": {
+    "ten": "Đình, đền và chùa Hòa Mã",
+    "khuVuc": "Thanh Hóa"
+  },
+  "dinh, den, ben tuong a sao": {
+    "ten": "Đình, Đền, Bến tượng A Sào",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, den, chua noi roi": {
+    "ten": "Đình, đền, chùa Nội Rối",
+    "khuVuc": "Hà Nam"
+  },
+  "dinh, den, chua trung kien": {
+    "ten": "Đình, đền, chùa Trung Kiên",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "dinh, den, la van,": {
+    "ten": "Đình, Đền, La Vân,",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, mieu hau trung, mieu hau thuong": {
+    "ten": "Đình, Miếu Hậu Trung, Miếu Hậu Thượng",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, mieu trang vu": {
+    "ten": "Đình, Miếu Tráng Vũ",
+    "khuVuc": "Hưng Yên"
+  },
+  "dinh, mieu, chua diec": {
+    "ten": "Đình, Miếu, Chùa Diệc",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, nghe co dung": {
+    "ten": "Đình, Nghè Cổ Dũng",
+    "khuVuc": "Thái Bình"
+  },
+  "dinh, van tu cat lai": {
+    "ten": "Đình, văn từ Cát Lại",
+    "khuVuc": "Hà Nam"
+  },
+  "do thi co hoi an": {
+    "ten": "Đô thị cổ Hội An",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "doi khau ma - noi lam viec cua dong chi pham van dong 1950 - 1951": {
+    "ten": "Đồi Khau Mạ - Nơi làm việc của Đồng chí Phạm Văn Đồng (1950 - 1951)",
+    "khuVuc": "Bắc Kạn"
+  },
+  "doi na pau - noi lam viec cua ho chu tich dau nam 1951": {
+    "ten": "Đồi Nà Pậu - Nơi làm việc của Hồ Chủ tịch đầu năm 1951",
+    "khuVuc": "Bắc Kạn"
+  },
+  "doi ong": {
+    "ten": "Đồi Ông",
+    "khuVuc": "Nghệ An"
+  },
+  "don co dai lich": {
+    "ten": "Đồn cổ Đại Lịch",
+    "khuVuc": "Yên Bái"
+  },
+  "don ho chuoi": {
+    "ten": "Đồn Hố Chuối",
+    "khuVuc": "Bắc Giang"
+  },
+  "don hom": {
+    "ten": "Đồn Hom",
+    "khuVuc": "Bắc Giang"
+  },
+  "don long khot": {
+    "ten": "Đồn Long Khốt",
+    "khuVuc": "Đồng Tháp"
+  },
+  "don moc ly": {
+    "ten": "Đồn Mộc Lỵ",
+    "khuVuc": "Sơn La"
+  },
+  "don nha may nuoc": {
+    "ten": "Đồn nhà máy nước",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "don pho rang": {
+    "ten": "Đồn Phố Ràng",
+    "khuVuc": "Lào Cai"
+  },
+  "don phon xuong": {
+    "ten": "Đồn Phồn Xương",
+    "khuVuc": "Bắc Giang"
+  },
+  "don phu thong": {
+    "ten": "Đồn Phủ Thông",
+    "khuVuc": "Bắc Kạn"
+  },
+  "dong ang toong": {
+    "ten": "Động Áng Toòng",
+    "khuVuc": "Bắc Kạn"
+  },
+  "dong do quang hoi - thien hau cung": {
+    "ten": "Đông Đô Quảng Hội - Thiên Hậu cung",
+    "khuVuc": "Hưng Yên"
+  },
+  "dong ham rong": {
+    "ten": "Động Hàm Rồng",
+    "khuVuc": "Lào Cai"
+  },
+  "dong hoa tien": {
+    "ten": "Động Hoa Tiên",
+    "khuVuc": "Hòa Bình"
+  },
+  "dong khoi ben tre": {
+    "ten": "Đồng khởi Bến Tre",
+    "khuVuc": "Vĩnh Long"
+  },
+  "dong kinh chu": {
+    "ten": "Động Kính Chủ",
+    "khuVuc": "Hải Dương"
+  },
+  "dong linh son": {
+    "ten": "Động Linh Sơn",
+    "khuVuc": "Thái Nguyên"
+  },
+  "dong muong vi": {
+    "ten": "Động Mường Vi",
+    "khuVuc": "Lào Cai"
+  },
+  "dong nang tien": {
+    "ten": "Động Nàng Tiên",
+    "khuVuc": "Bắc Kạn"
+  },
+  "dong ngao nguom ngao": {
+    "ten": "Động Ngao (Ngườm Ngao)",
+    "khuVuc": "Cao Bằng"
+  },
+  "dong nhi thanh - chua tam thanh": {
+    "ten": "Động Nhị Thanh - Chùa Tam Thanh",
+    "khuVuc": "Lạng Sơn"
+  },
+  "dong noc nang": {
+    "ten": "Đồng Nọc Nạng",
+    "khuVuc": "Cà Mau"
+  },
+  "dong nui niem": {
+    "ten": "Động Núi Niệm",
+    "khuVuc": "Hòa Bình"
+  },
+  "dong pa thom": {
+    "ten": "Động Pa Thơm",
+    "khuVuc": "Điện Biên"
+  },
+  "dong son moc huong hang doi": {
+    "ten": "Động Sơn Mộc Hương (Hang Dơi)",
+    "khuVuc": "Sơn La"
+  },
+  "dong song long": {
+    "ten": "Động Song Long",
+    "khuVuc": "Tuyên Quang"
+  },
+  "dong ta phin": {
+    "ten": "Động Tả Phìn",
+    "khuVuc": "Lào Cai"
+  },
+  "dong thac bo den chua thac bo": {
+    "ten": "Động Thác Bờ (Đền Chúa Thác Bờ)",
+    "khuVuc": "Hòa Bình"
+  },
+  "dong thien long bac ha": {
+    "ten": "Động Thiên Long Bắc Hà",
+    "khuVuc": "Lào Cai"
+  },
+  "dong thien long yen thuy": {
+    "ten": "Động Thiên Long Yên Thủy",
+    "khuVuc": "Hòa Bình"
+  },
+  "dong tien ham yen": {
+    "ten": "Động Tiên (Hàm Yên)",
+    "khuVuc": "Tuyên Quang"
+  },
+  "dong tien phi": {
+    "ten": "Động Tiên Phi",
+    "khuVuc": "Hòa Bình"
+  },
+  "dong tien son / dong binh lu": {
+    "ten": "Động Tiên Sơn / Động Bình Lư",
+    "khuVuc": "Lai Châu"
+  },
+  "dong xa nhe kho chua la": {
+    "ten": "Động Xá Nhè (Khó Chua La)",
+    "khuVuc": "Điện Biên"
+  },
+  "duong so 5 nay la quoc lo 29": {
+    "ten": "Đường số 5 (nay là Quốc lộ 29)",
+    "khuVuc": "Khánh Hòa"
+  },
+  "ga da lat": {
+    "ten": "Ga Đà Lạt",
+    "khuVuc": "Đăk Nông"
+  },
+  "ga ke ray": {
+    "ten": "Ga Kẻ Rấy",
+    "khuVuc": "Quảng Trị"
+  },
+  "ganh da dia": {
+    "ten": "Gành Đá Đĩa",
+    "khuVuc": "Khánh Hòa"
+  },
+  "giong ca vo": {
+    "ten": "Giồng Cá Vồ",
+    "khuVuc": "Tiền Giang"
+  },
+  "go thap": {
+    "ten": "Gò Tháp",
+    "khuVuc": "An Giang"
+  },
+  "go thap an loi": {
+    "ten": "Gò Tháp An Lợi",
+    "khuVuc": "Bến Tre"
+  },
+  "gom chu dau-my xa": {
+    "ten": "Gốm Chu Đậu-Mỹ Xá",
+    "khuVuc": "Hải Dương"
+  },
+  "hai dang phu quy": {
+    "ten": "Hải Đăng Phú Quý",
+    "khuVuc": "Kon Tum"
+  },
+  "hai van quan": {
+    "ten": "Hải Vân Quan",
+    "khuVuc": "Quảng Nam"
+  },
+  "ham bi mat chua vu khi thoi khang chien chong my": {
+    "ten": "Hầm bí mật chứa vũ khí thời kháng chiến chống Mỹ",
+    "khuVuc": "Tiền Giang"
+  },
+  "ham bi mat in tai lieu ban tuyen huan hoa van thoi ky chong my cuu nuoc": {
+    "ten": "Hầm bí mật in tài liệu Ban Tuyên huấn Hoa vận thời kỳ chống Mỹ cứu nước",
+    "khuVuc": "Tiền Giang"
+  },
+  "hang cho": {
+    "ten": "Hang Chổ",
+    "khuVuc": "Hòa Bình"
+  },
+  "hang chua, yen thuy": {
+    "ten": "Hang Chùa, Yên Thủy",
+    "khuVuc": "Hòa Bình"
+  },
+  "hang coc muoi": {
+    "ten": "Hang Cốc Mười",
+    "khuVuc": "Lạng Sơn"
+  },
+  "hang con moong, trong vuon quoc gia cuc phuong": {
+    "ten": "Hang Con Moong, trong Vườn quốc gia Cúc Phương",
+    "khuVuc": "Nghệ An"
+  },
+  "hang da dak tuar": {
+    "ten": "Hang đá Dak Tuar",
+    "khuVuc": "Lâm Đồng"
+  },
+  "hang da den": {
+    "ten": "Hang Đá Đen",
+    "khuVuc": "Tuyên Quang"
+  },
+  "hang dan cum - na chao": {
+    "ten": "Hang Đán Cúm - Nà Chảo",
+    "khuVuc": "Hà Giang"
+  },
+  "hang doi bac son": {
+    "ten": "Hang Dơi Bắc Sơn",
+    "khuVuc": "Lạng Sơn"
+  },
+  "hang dong pe rang ky": {
+    "ten": "Hang động Pê Răng Ky",
+    "khuVuc": "Điện Biên"
+  },
+  "hang dong pu sam cap": {
+    "ten": "Hang động Pu Sam Cap",
+    "khuVuc": "Lai Châu"
+  },
+  "hang dong thot": {
+    "ten": "Hang Đồng Thớt",
+    "khuVuc": "Hòa Bình"
+  },
+  "hang dong: – xa hoa thanh hang thanh lang tong kho x47 – xa hoa tien hang xang dau, hang chi huy, hang hau can cua bo chi huy 559": {
+    "ten": "Hang động: – Xã Hoá Thanh (hang Thanh Lạng tổng kho X47) – Xã Hoá Tiến (hang Xăng dầu, hang Chỉ huy, hang Hậu cần của Bộ chỉ huy 559)",
+    "khuVuc": "Quảng Trị"
+  },
+  "hang gio chi lang": {
+    "ten": "Hang Gió Chi Lăng",
+    "khuVuc": "Lạng Sơn"
+  },
+  "hang hoa tien va nghia trang liet si duong sat": {
+    "ten": "Hang Hỏa Tiễn và Nghĩa trang Liệt sĩ Đường Sắt",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "hang keo quang": {
+    "ten": "Hang Kéo Quảng",
+    "khuVuc": "Cao Bằng"
+  },
+  "hang khau don": {
+    "ten": "Hang Khâu Đôn",
+    "khuVuc": "Hà Giang"
+  },
+  "hang kho my": {
+    "ten": "Hang Khố Mỷ",
+    "khuVuc": "Hà Giang"
+  },
+  "hang lang nac": {
+    "ten": "Hang Lạng Nắc",
+    "khuVuc": "Lạng Sơn"
+  },
+  "hang len ha": {
+    "ten": "Hang Lèn Hà",
+    "khuVuc": "Quảng Trị"
+  },
+  "hang luon chi ne / hang trinh nu": {
+    "ten": "Hang Luồn Chi Nê / hang Trinh Nữ",
+    "khuVuc": "Hòa Bình"
+  },
+  "hang mo tang me": {
+    "ten": "Hang mộ Tạng Mè",
+    "khuVuc": "Sơn La"
+  },
+  "hang muong tinh": {
+    "ten": "Hang Mường Tỉnh",
+    "khuVuc": "Điện Biên"
+  },
+  "hang na luong": {
+    "ten": "Hang Nà Luông",
+    "khuVuc": "Hà Giang"
+  },
+  "hang na mo": {
+    "ten": "Hang Nà Mò",
+    "khuVuc": "Bắc Kạn"
+  },
+  "hang nam tan": {
+    "ten": "Hang Nậm Tan",
+    "khuVuc": "Hà Giang"
+  },
+  "hang nguom boc": {
+    "ten": "Hang Ngườm Bốc",
+    "khuVuc": "Cao Bằng"
+  },
+  "hang oc": {
+    "ten": "Hang Ốc",
+    "khuVuc": "Thái Nguyên"
+  },
+  "hang phia diem": {
+    "ten": "Hang Phia Điểm",
+    "khuVuc": "Lạng Sơn"
+  },
+  "hang phia muon": {
+    "ten": "Hang Phia Muồn",
+    "khuVuc": "Tuyên Quang"
+  },
+  "hang phia vai": {
+    "ten": "Hang Phia Vài",
+    "khuVuc": "Tuyên Quang"
+  },
+  "hang phuong hoang - suoi mo ga": {
+    "ten": "Hang Phượng Hoàng - suối Mỏ Gà",
+    "khuVuc": "Thái Nguyên"
+  },
+  "hang rong, ta lung \u0026 pa vi": {
+    "ten": "Hang Rồng, Tà Lủng \u0026 Pả Vi",
+    "khuVuc": "Hà Giang"
+  },
+  "hang sa khao": {
+    "ten": "Hang Sa Khao",
+    "khuVuc": "Thái Nguyên"
+  },
+  "hang tam co": {
+    "ten": "Hang Tám Cô",
+    "khuVuc": "Quảng Trị"
+  },
+  "hang tham khuyen": {
+    "ten": "Hang Thẩm Khuyên",
+    "khuVuc": "Lạng Sơn"
+  },
+  "hang thien thuy": {
+    "ten": "Hang Thiên Thủy",
+    "khuVuc": "Hà Giang"
+  },
+  "he thong cong trinh khai thac nuoc co gio an 14 gieng co": {
+    "ten": "Hệ thống công trình khai thác nước cổ Gio An (14 Giếng cổ)",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "ho ba be": {
+    "ten": "Hồ Ba Bể",
+    "khuVuc": "Bắc Kạn"
+  },
+  "ho chieng khoi": {
+    "ten": "Hồ Chiềng Khoi",
+    "khuVuc": "Sơn La"
+  },
+  "ho da teh": {
+    "ten": "Hồ Đạ Tẻh",
+    "khuVuc": "Đăk Nông"
+  },
+  "ho thac ba": {
+    "ten": "Hồ Thác Bà",
+    "khuVuc": "Yên Bái"
+  },
+  "ho than tho": {
+    "ten": "Hồ Than Thở",
+    "khuVuc": "Đăk Nông"
+  },
+  "ho thang hen": {
+    "ten": "Hồ Thang Hen",
+    "khuVuc": "Cao Bằng"
+  },
+  "ho tuyen lam": {
+    "ten": "Hồ Tuyền Lâm",
+    "khuVuc": "Đăk Nông"
+  },
+  "ho xuan huong": {
+    "ten": "Hồ Xuân Hương",
+    "khuVuc": "Đăk Nông"
+  },
+  "hoang phai - dia diem luu niem noi bac ho dung chan tren duong tu pac bo ve tan trao, 5/1945": {
+    "ten": "Hoàng Phài - Địa điểm Lưu niệm nơi Bác Hồ dừng chân trên đường từ Pác Bó về Tân Trào, 5/1945",
+    "khuVuc": "Bắc Kạn"
+  },
+  "hoi quan ha chuong": {
+    "ten": "Hội quán Hà Chương",
+    "khuVuc": "Tiền Giang"
+  },
+  "hoi quan nghia an mieu quan de hay chua ong": {
+    "ten": "Hội quán Nghĩa An (Miếu Quan Đế hay Chùa Ông)",
+    "khuVuc": "Tiền Giang"
+  },
+  "hoi quan nghia nhuan": {
+    "ten": "Hội quán Nghĩa Nhuận",
+    "khuVuc": "Tiền Giang"
+  },
+  "hoi quan on lang": {
+    "ten": "Hội quán Ôn Lăng",
+    "khuVuc": "Tiền Giang"
+  },
+  "hoi quan phuc kien": {
+    "ten": "Hội quán Phúc Kiến",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "hoi quan quynh phu": {
+    "ten": "Hội quán Quỳnh Phủ",
+    "khuVuc": "Tiền Giang"
+  },
+  "hoi quan tue thanh chua ba": {
+    "ten": "Hội quán Tuệ Thành (Chùa Bà)",
+    "khuVuc": "Tiền Giang"
+  },
+  "hon chong– hon do": {
+    "ten": "Hòn Chồng– Hòn Đỏ",
+    "khuVuc": "Ninh Thuận"
+  },
+  "hon dat ba hon: hon dat, hon me va hon queo": {
+    "ten": "Hòn Đất (Ba Hòn: Hòn Đất, Hòn Me và Hòn Quéo)",
+    "khuVuc": "Bạc Liêu"
+  },
+  "hon dau": {
+    "ten": "Hòn Dáu",
+    "khuVuc": "Hải Phòng"
+  },
+  "huyen duong duc pho": {
+    "ten": "Huyện đường Đức Phổ",
+    "khuVuc": "Bình Định"
+  },
+  "kdt co do hue": {
+    "ten": "KDT Cố đô Huế",
+    "khuVuc": "Đà Nẵng"
+  },
+  "kdt duong truong son - duong ho chi minh": {
+    "ten": "KDT Đường Trường Sơn - Đường Hồ Chí Minh",
+    "khuVuc": "Quảng Trị"
+  },
+  "kdt hoang thanh thang long": {
+    "ten": "KDT Hoàng thành Thăng Long",
+    "khuVuc": "Thanh Hóa"
+  },
+  "kem trong": {
+    "ten": "Kẽm Trống",
+    "khuVuc": "Hà Nam"
+  },
+  "kham lon can tho": {
+    "ten": "Khám lớn Cần Thơ",
+    "khuVuc": "Hậu Giang"
+  },
+  "khao co bau tro": {
+    "ten": "Khảo cổ Bàu Tró",
+    "khuVuc": "Quảng Trị"
+  },
+  "khao co hoc dong dau": {
+    "ten": "Khảo cổ học Đồng Đậu",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "khoi nghia ba to": {
+    "ten": "Khởi nghĩa Ba Tơ",
+    "khuVuc": "Bình Định"
+  },
+  "khu bao ton thien nhien na hang - lam binh": {
+    "ten": "Khu bảo tồn thiên nhiên Na Hang - Lâm Bình",
+    "khuVuc": "Tuyên Quang"
+  },
+  "khu can cu cach mang cam duong": {
+    "ten": "Khu căn cứ cách mạng Cam Đường",
+    "khuVuc": "Lào Cai"
+  },
+  "khu can cu cach mang k20": {
+    "ten": "Khu căn cứ cách mạng K20",
+    "khuVuc": "Quảng Nam"
+  },
+  "khu can cu khang chien tinh dak lak 1965-1975": {
+    "ten": "Khu căn cứ kháng chiến tỉnh Đắk Lắk (1965-1975)",
+    "khuVuc": "Lâm Đồng"
+  },
+  "khu can cu tinh uy": {
+    "ten": "Khu căn cứ Tỉnh ủy",
+    "khuVuc": "Cần Thơ"
+  },
+  "khu chung tich toi ac cua bon diet chung pon pot": {
+    "ten": "Khu chứng tích tội ác của bọn diệt chủng Pôn Pốt",
+    "khuVuc": "Bến Tre"
+  },
+  "khu danh thang buu long": {
+    "ten": "Khu Danh thắng Bửu Long",
+    "khuVuc": "Bình Phước"
+  },
+  "khu danh thang ly hoa": {
+    "ten": "Khu danh thắng Lý Hòa",
+    "khuVuc": "Quảng Trị"
+  },
+  "khu danh thang tay thien bao gom den mau sinh, den co den cau tay thien, den thuong, den thong den tay thien, va thien vien truc lam tay thien": {
+    "ten": "Khu Danh thắng Tây Thiên (bao gồm Đền Mẫu Sinh, Đền cô đền cậu Tây Thiên, Đền Thượng, Đền Thõng (đền Tây Thiên), và Thiền viện Trúc Lâm Tây Thiên)",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "khu di tich chien thang bach dang": {
+    "ten": "Khu Di tích chiến thắng Bạch Đằng",
+    "khuVuc": "Quảng Ninh"
+  },
+  "khu di tich chien thang tam vu": {
+    "ten": "Khu di tích Chiến thắng Tầm Vu",
+    "khuVuc": "Trà Vinh"
+  },
+  "khu di tich den ba trieu": {
+    "ten": "Khu di tích Đền Bà Triệu",
+    "khuVuc": "Nghệ An"
+  },
+  "khu di tich den nui, diem trung quan, nui don va canh dong dinh": {
+    "ten": "Khu di tích Đền Núi, điếm Trung Quân, Núi đồn và Cánh đồng dinh",
+    "khuVuc": "Bắc Ninh"
+  },
+  "khu di tich dinh dong lu thuong, trung, ha": {
+    "ten": "Khu di tích đình Đồng Lư (Thượng, Trung, Hạ)",
+    "khuVuc": "Hà Nam"
+  },
+  "khu di tich dinh thang tam dinh thang tam, lang ca ong, mieu ba": {
+    "ten": "Khu di tích Đình Thắng Tam (đình Thắng Tam, Lăng Cá Ông, Miếu Bà)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "khu di tich ham rong": {
+    "ten": "Khu di tích Hàm Rồng",
+    "khuVuc": "Nghệ An"
+  },
+  "khu di tich ho lao": {
+    "ten": "Khu di tích Hổ Lao",
+    "khuVuc": "Quảng Ninh"
+  },
+  "khu di tich hoang tru lang chua que ngoai cua chu tich ho chi minh": {
+    "ten": "Khu di tích Hoàng Trù (làng Chùa) quê ngoại của Chủ tịch Hồ Chí Minh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "khu di tich hoanh nha": {
+    "ten": "Khu di tích Hoành Nha",
+    "khuVuc": "Nam Định"
+  },
+  "khu di tich khao co hoc thoi dai do da cu o than sa": {
+    "ten": "Khu di tích Khảo cổ học thời đại đồ đá cũ ở Thần Sa",
+    "khuVuc": "Thái Nguyên"
+  },
+  "khu di tich khoi nghia yen the gom 23 di tich": {
+    "ten": "Khu di tích khởi nghĩa Yên Thế (gồm 23 di tích)",
+    "khuVuc": "Bắc Giang"
+  },
+  "khu di tich lam kinh": {
+    "ten": "Khu di tích Lam Kinh",
+    "khuVuc": "Nghệ An"
+  },
+  "khu di tich lich su cach mang lao": {
+    "ten": "Khu di tích lịch sử Cách mạng Lào",
+    "khuVuc": "Tuyên Quang"
+  },
+  "khu di tich lich su cach mang viet nam - lao": {
+    "ten": "Khu di tích lịch sử Cách mạng Việt Nam - Lào",
+    "khuVuc": "Sơn La"
+  },
+  "khu di tich lich su truong bon": {
+    "ten": "Khu di tích lịch sử Truông Bồn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "khu di tich luu niem chu tich ho chi minh tren dao co to": {
+    "ten": "Khu di tích lưu niệm Chủ tịch Hồ Chí Minh trên đảo Cô Tô",
+    "khuVuc": "Quảng Ninh"
+  },
+  "khu di tich mo nguyen thai hoc va cac chien si khoi nghia yen bai": {
+    "ten": "Khu di tích mộ Nguyễn Thái Học và các chiến sĩ khởi nghĩa Yên Bái",
+    "khuVuc": "Yên Bái"
+  },
+  "khu di tich nguyen sinh sac": {
+    "ten": "Khu di tích Nguyễn Sinh Sắc",
+    "khuVuc": "An Giang"
+  },
+  "khu di tich nha tran tai dong trieu": {
+    "ten": "Khu di tích nhà Trần tại Đông Triều",
+    "khuVuc": "Quảng Ninh"
+  },
+  "khu di tich nui phai ve": {
+    "ten": "Khu di tích núi Phai Vệ",
+    "khuVuc": "Lạng Sơn"
+  },
+  "khu di tich nui van - nui vo": {
+    "ten": "Khu di tích Núi Văn - Núi Võ",
+    "khuVuc": "Thái Nguyên"
+  },
+  "khu di tich pac bo": {
+    "ten": "Khu di tích Pác Bó",
+    "khuVuc": "Cao Bằng"
+  },
+  "khu di tich pho hien": {
+    "ten": "Khu di tích Phố Hiến",
+    "khuVuc": "Hưng Yên"
+  },
+  "khu di tich tran chien dau 81 ngay dem tai quang tri": {
+    "ten": "Khu di tích Trận chiến đấu 81 ngày đêm tại Quảng Trị",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "khu dia dao cu chi": {
+    "ten": "Khu địa đạo Củ Chi",
+    "khuVuc": "Tiền Giang"
+  },
+  "khu don dien cada": {
+    "ten": "Khu Đồn điền Cada",
+    "khuVuc": "Lâm Đồng"
+  },
+  "khu giao te quang binh": {
+    "ten": "Khu giao tế Quảng Bình",
+    "khuVuc": "Quảng Trị"
+  },
+  "khu hang doi va chua dieu linh can cu nui dinh": {
+    "ten": "Khu Hang Dơi va Chùa Diệu Linh (Căn cứ Núi Dinh)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "khu khao co 18 hoang dieu kdt hoang thanh thang long": {
+    "ten": "Khu khảo cổ 18 Hoàng Diệu (KDT Hoàng thành Thăng Long)",
+    "khuVuc": "Thanh Hóa"
+  },
+  "khu luu niem bac ho": {
+    "ten": "Khu lưu niệm Bác Hồ",
+    "khuVuc": "Thái Bình"
+  },
+  "khu luu niem bac ho ve tham ha tinh": {
+    "ten": "Khu lưu niệm Bác Hồ về thăm Hà Tĩnh",
+    "khuVuc": "Quảng Bình"
+  },
+  "khu luu niem bui vien": {
+    "ten": "Khu lưu niệm Bùi Viện",
+    "khuVuc": "Thái Bình"
+  },
+  "khu luu niem chu tich ho chi minh tai phu chu tich": {
+    "ten": "Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+    "khuVuc": "Thanh Hóa"
+  },
+  "khu luu niem co tong bi thu le hong phong": {
+    "ten": "Khu lưu niệm cố tổng Bí thư Lê Hồng Phong",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "khu luu niem dai thi hao nguyen du": {
+    "ten": "Khu lưu niệm Đại thi hào Nguyễn Du",
+    "khuVuc": "Quảng Bình"
+  },
+  "khu luu niem dinh van ta": {
+    "ten": "Khu lưu niệm Đinh Văn Tả",
+    "khuVuc": "Hải Dương"
+  },
+  "khu luu niem doc binh phan ngoc tong": {
+    "ten": "Khu lưu niệm Đốc binh Phan Ngọc Tòng",
+    "khuVuc": "Vĩnh Long"
+  },
+  "khu luu niem dong chi phung chi kien": {
+    "ten": "Khu lưu niệm đồng chí Phùng Chí Kiên",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "khu luu niem hoang dinh giong": {
+    "ten": "Khu lưu niệm Hoàng Đình Giong",
+    "khuVuc": "Cao Bằng"
+  },
+  "khu luu niem kim dong va noi thanh lap doi nhi dong cuu quoc": {
+    "ten": "Khu lưu niệm Kim Đồng và nơi thành lập đội Nhi đồng Cứu Quốc",
+    "khuVuc": "Cao Bằng"
+  },
+  "khu luu niem luat su nguyen huu tho": {
+    "ten": "Khu lưu niệm Luật sư Nguyễn Hữu Thọ",
+    "khuVuc": "Đồng Tháp"
+  },
+  "khu luu niem ngo quang bich": {
+    "ten": "Khu lưu niệm Ngô Quang Bích",
+    "khuVuc": "Thái Bình"
+  },
+  "khu luu niem phan boi chau": {
+    "ten": "Khu lưu niệm Phan Bội Châu",
+    "khuVuc": "Đà Nẵng"
+  },
+  "khu luu niem tong bi thu le duan": {
+    "ten": "Khu lưu niệm Tổng Bí thư Lê Duẩn",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "khu luu niem tong bi thu nguyen van linh": {
+    "ten": "Khu lưu niệm Tổng Bí thư Nguyễn Văn Linh",
+    "khuVuc": "Hưng Yên"
+  },
+  "khu luu niem va lang mo nguyen duc canh": {
+    "ten": "Khu lưu niệm và Lăng mộ Nguyễn Đức Cảnh",
+    "khuVuc": "Thái Bình"
+  },
+  "khu mo ba hoang thi loan": {
+    "ten": "Khu mộ bà Hoàng Thị Loan",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "khu mo co dong thech": {
+    "ten": "Khu Mộ cổ Đống Thếch",
+    "khuVuc": "Hòa Bình"
+  },
+  "khu mo phan thanh gian": {
+    "ten": "Khu mộ Phan Thanh Giản",
+    "khuVuc": "Vĩnh Long"
+  },
+  "khu tho tu viep quan cong hoang ngu phuc": {
+    "ten": "Khu thờ tự Việp Quận công Hoàng Ngũ Phúc",
+    "khuVuc": "Bắc Giang"
+  },
+  "khu trai giam benh vien cho quan - noi dong chi tran phu hy sinh": {
+    "ten": "Khu trại giam bệnh viện Chợ Quán - nơi đồng chí Trần Phú hy sinh",
+    "khuVuc": "Tiền Giang"
+  },
+  "khu tru mat vi thanh - hoa luu": {
+    "ten": "Khu trù mật Vị Thanh - Hỏa Lựu",
+    "khuVuc": "Trà Vinh"
+  },
+  "khu tuong chu tich ho chi minh tai nha may in tien - don dien chi ne": {
+    "ten": "Khu tưởng Chủ tịch Hồ Chí Minh tại Nhà máy in tiền - Đồn điền Chi Nê",
+    "khuVuc": "Hòa Bình"
+  },
+  "khu tuong niem bac si alexandre yersin thu vien tai vien pasteur, chua linh son va mo yersin": {
+    "ten": "Khu tưởng niệm bác sĩ Alexandre Yersin (Thư viện tại Viện Pasteur, chùa Linh Sơn và Mộ Yersin)",
+    "khuVuc": "Ninh Thuận"
+  },
+  "khu tuong niem nu tuong nguyen thi dinh": {
+    "ten": "Khu tưởng niệm nữ tướng Nguyễn Thị Định",
+    "khuVuc": "Vĩnh Long"
+  },
+  "khu vuc doi bo hien luong bao gom cau hien luong, nha lien hiep va don cong an gioi tuyen": {
+    "ten": "Khu vực đôi bờ Hiền Lương (bao gồm Cầu Hiền Lương, nhà liên hiệp và đồn công an giới tuyến)",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "khu vuc hoa thach hue bien": {
+    "ten": "Khu vực Hóa thạch Huệ Biển",
+    "khuVuc": "Hà Giang"
+  },
+  "khu vuc hoa thach tay cuon": {
+    "ten": "Khu vực Hóa thạch Tay Cuộn",
+    "khuVuc": "Hà Giang"
+  },
+  "khu vuc so chi huy co ban cua bo tu lenh 559: – hoi truong bo tu lenh – nha tho ho nguyen – nha tho ho truong – phong khach bo tu lenh 559": {
+    "ten": "Khu vực Sở chỉ huy cơ bản của Bộ Tư lệnh 559: – Hội trường Bộ Tư lệnh – Nhà thờ họ Nguyễn – Nhà thờ họ Trương – Phòng khách Bộ Tư lệnh 559",
+    "khuVuc": "Quảng Trị"
+  },
+  "khu vuc: – ben pha xuan son – dong phong nha": {
+    "ten": "Khu vực: – Bến phà Xuân Sơn – Động Phong Nha",
+    "khuVuc": "Quảng Trị"
+  },
+  "khuoi linh - noi lam viec cua dong chi truong chinh va van phong trung uong dang nam 1950": {
+    "ten": "Khuổi Linh - Nơi làm việc của đồng chí Trường Chinh và văn phòng Trung ương Đảng năm 1950",
+    "khuVuc": "Bắc Kạn"
+  },
+  "ky dai quang truong 26/3": {
+    "ten": "Kỳ đài Quảng trường 26/3",
+    "khuVuc": "Hà Giang"
+  },
+  "ky dai thuan chau": {
+    "ten": "Kỳ đài Thuận Châu",
+    "khuVuc": "Sơn La"
+  },
+  "lam phu lam": {
+    "ten": "Lẫm Phú Lâm",
+    "khuVuc": "Khánh Hòa"
+  },
+  "lan o va lam viec cua chu tich ho chi minh": {
+    "ten": "Lán ở và làm việc của Chủ tịch Hồ Chí Minh",
+    "khuVuc": "Tuyên Quang"
+  },
+  "lang ba vu": {
+    "ten": "Lăng Bà Vú",
+    "khuVuc": "Ninh Thuận"
+  },
+  "lang chien dau canh duong": {
+    "ten": "Làng chiến đấu Cảnh Dương",
+    "khuVuc": "Quảng Trị"
+  },
+  "lang chien dau cu nam": {
+    "ten": "Làng chiến đấu Cự Nẫm",
+    "khuVuc": "Quảng Trị"
+  },
+  "lang co loc yen": {
+    "ten": "Làng cổ Lộc Yên",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "lang da bau": {
+    "ten": "Lăng đá Bầu",
+    "khuVuc": "Bắc Giang"
+  },
+  "lang da ho ngo": {
+    "ten": "Lăng đá Họ Ngọ",
+    "khuVuc": "Bắc Giang"
+  },
+  "lang dinh huong": {
+    "ten": "Lăng Dinh Hương",
+    "khuVuc": "Bắc Giang"
+  },
+  "lang dong khanh": {
+    "ten": "Lăng Đồng Khánh",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang duc duc": {
+    "ten": "Lăng Dục Đức",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang gia long": {
+    "ten": "Lăng Gia Long",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang giap dang luan": {
+    "ten": "Lăng Giáp Đăng Luân",
+    "khuVuc": "Bắc Giang"
+  },
+  "lang hieu dong thuoc quan the lang tam hoang gia nguyen": {
+    "ten": "Lăng Hiếu Đông (thuộc Quần thể lăng tẩm hoàng gia Nguyễn)",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang ho tran": {
+    "ten": "Lăng Họ Trần",
+    "khuVuc": "Bắc Giang"
+  },
+  "lang hoang gia": {
+    "ten": "Lăng Hoàng gia",
+    "khuVuc": "Long An"
+  },
+  "lang khang chien nguyen xa, nghia trang liet si dong hung": {
+    "ten": "Làng Kháng chiến Nguyên Xá, Nghĩa trang liệt sĩ Đông Hưng",
+    "khuVuc": "Thái Bình"
+  },
+  "lang khang chien stor": {
+    "ten": "Làng kháng chiến Stơr",
+    "khuVuc": "Đăk Lăk"
+  },
+  "lang le van duyet": {
+    "ten": "Lăng Lê Văn Duyệt",
+    "khuVuc": "Tiền Giang"
+  },
+  "lang mac cuu": {
+    "ten": "Lăng Mạc Cửu",
+    "khuVuc": "Bạc Liêu"
+  },
+  "lang mai xuan thuong": {
+    "ten": "Lăng Mai Xuân Thưởng",
+    "khuVuc": "Phú Yên"
+  },
+  "lang mieu trieu tuong": {
+    "ten": "Lăng miếu Triệu Tường",
+    "khuVuc": "Nghệ An"
+  },
+  "lang minh mang": {
+    "ten": "Lăng Minh Mạng",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang mo doan quy phi": {
+    "ten": "Lăng mộ Đoàn Quý phi",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "lang mo ho hong ho cuong": {
+    "ten": "Lăng mộ Hồ Hồng (Hồ Cưỡng)",
+    "khuVuc": "Quảng Trị"
+  },
+  "lang mo huu quan do thong chuong phu su le sy": {
+    "ten": "Lăng mộ Hữu Quân Đô thống Chưởng phủ sự Lê Sỹ",
+    "khuVuc": "Quảng Trị"
+  },
+  "lang mo nguyen huu canh": {
+    "ten": "Lăng mộ Nguyễn Hữu Cảnh",
+    "khuVuc": "Quảng Trị"
+  },
+  "lang mo nguyen thiep la son phu tu": {
+    "ten": "Lăng mộ Nguyễn Thiếp (La Sơn phu tử)",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "lang mo nguyen thong": {
+    "ten": "Lăng mộ Nguyễn Thông",
+    "khuVuc": "Kon Tum"
+  },
+  "lang mo ong ich khiem": {
+    "ten": "Lăng mộ Ông Ích Khiêm",
+    "khuVuc": "Quảng Nam"
+  },
+  "lang mo thuong thu truong cong hy": {
+    "ten": "Lăng mộ Thượng thư Trương Công Hy",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "lang mo tong tat thang": {
+    "ten": "Lăng mộ Tống Tất Thắng",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "lang mo va mieu tho hoang hoi khanh": {
+    "ten": "Lăng mộ và miếu thờ Hoàng Hối Khanh",
+    "khuVuc": "Quảng Trị"
+  },
+  "lang mo va nha tho ong to nghe duc dong": {
+    "ten": "Lăng mộ và nhà thờ Ông Tổ nghề đúc đồng",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang mo va phu tho dien khanh vuong": {
+    "ten": "Lăng mộ và Phủ thờ Diên Khánh Vương",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang nom": {
+    "ten": "Làng Nôm",
+    "khuVuc": "Hưng Yên"
+  },
+  "lang thai bao do tu binh": {
+    "ten": "Lăng Thái Bảo Đỗ Tử Bình",
+    "khuVuc": "Thái Bình"
+  },
+  "lang thieu tri": {
+    "ten": "Lăng Thiệu Trị",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang tho ca ong": {
+    "ten": "Lăng thờ cá Ông",
+    "khuVuc": "Vĩnh Long"
+  },
+  "lang thoai ngoc hau": {
+    "ten": "Lăng Thoại Ngọc Hầu",
+    "khuVuc": "Bến Tre"
+  },
+  "lang truong dinh": {
+    "ten": "Lăng Trương Định",
+    "khuVuc": "Long An"
+  },
+  "lang truong tan buu": {
+    "ten": "Lăng Trương Tấn Bửu",
+    "khuVuc": "Tiền Giang"
+  },
+  "lang tu duc": {
+    "ten": "Lăng Tự Đức",
+    "khuVuc": "Đà Nẵng"
+  },
+  "lang tu kiet": {
+    "ten": "Lăng Tứ Kiệt",
+    "khuVuc": "Long An"
+  },
+  "lang va den tho kinh duong vuong": {
+    "ten": "Lăng và đền thờ Kinh Dương Vương",
+    "khuVuc": "Bắc Ninh"
+  },
+  "lang vo di nguy": {
+    "ten": "Lăng Võ Di Nguy",
+    "khuVuc": "Tiền Giang"
+  },
+  "le dai san van dong yen bai": {
+    "ten": "Lễ đài Sân vận động Yên Bái",
+    "khuVuc": "Yên Bái"
+  },
+  "len hai vai": {
+    "ten": "Lèn Hai Vai",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "linh dia co mau son": {
+    "ten": "Linh địa cổ Mẫu Sơn",
+    "khuVuc": "Lạng Sơn"
+  },
+  "lo gom co hung loi": {
+    "ten": "Lò gốm cổ Hưng Lợi",
+    "khuVuc": "Tiền Giang"
+  },
+  "lo gom co sanh": {
+    "ten": "Lò gốm Cổ Sành",
+    "khuVuc": "Phú Yên"
+  },
+  "luu cu ii": {
+    "ten": "Lưu Cừ II",
+    "khuVuc": "Kiên Giang"
+  },
+  "luy an khe, an khe dinh, an khe truong va go cho": {
+    "ten": "Luỹ An Khê, An Khê Đình, An Khê Trường và Gò Chợ",
+    "khuVuc": "Đăk Lăk"
+  },
+  "luy da co ky anh": {
+    "ten": "Lũy đá cổ Kỳ Anh",
+    "khuVuc": "Quảng Bình"
+  },
+  "luy dao duy tu": {
+    "ten": "Lũy Đào Duy Từ",
+    "khuVuc": "Quảng Trị"
+  },
+  "luy dao duy tu luy dau mau": {
+    "ten": "Luỹ Đào Duy Từ (Luỹ Đầu Mâu)",
+    "khuVuc": "Quảng Trị"
+  },
+  "ly cung nha ho": {
+    "ten": "Ly Cung (nhà Hồ)",
+    "khuVuc": "Nghệ An"
+  },
+  "ma but": {
+    "ten": "Mả Bụt",
+    "khuVuc": "Thái Bình"
+  },
+  "mang den": {
+    "ten": "Măng Đen",
+    "khuVuc": "Gia Lai"
+  },
+  "mieu ba chua xu my dong": {
+    "ten": "Miếu Bà Chúa Xứ Mỹ Đông",
+    "khuVuc": "Cần Thơ"
+  },
+  "mieu ba thon": {
+    "ten": "Miếu Ba Thôn",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu bac": {
+    "ten": "Miếu Bắc",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu chinh": {
+    "ten": "Miếu Chính",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu cho coc": {
+    "ten": "Miếu Chợ Cốc",
+    "khuVuc": "Hải Dương"
+  },
+  "mieu dong": {
+    "ten": "Miếu Đông",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu ha phuong": {
+    "ten": "Miếu Hà Phương",
+    "khuVuc": "Hải Phòng"
+  },
+  "mieu hai thon": {
+    "ten": "Miếu Hai Thôn",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu hoang ba": {
+    "ten": "Miếu Hoàng Bà",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu hoe thi": {
+    "ten": "Miếu Hòe Thị",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu nam": {
+    "ten": "Miếu Nam",
+    "khuVuc": "Hải Phòng"
+  },
+  "mieu nhi phu chua ong bon": {
+    "ten": "Miếu Nhị Phủ (Chùa Ông Bổn)",
+    "khuVuc": "Tiền Giang"
+  },
+  "mieu roc": {
+    "ten": "Miếu Rọc",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu thanh hoang my tho – trung luc": {
+    "ten": "Miếu Thành Hoàng Mỹ Thổ – Trung Lực",
+    "khuVuc": "Quảng Trị"
+  },
+  "mieu thien hau quang trieu hoi quan": {
+    "ten": "Miếu Thiên Hậu (Quảng Triệu hội quán)",
+    "khuVuc": "Tiền Giang"
+  },
+  "mieu tho trinh phong": {
+    "ten": "Miếu thờ Trịnh Phong",
+    "khuVuc": "Ninh Thuận"
+  },
+  "mieu thuy tu": {
+    "ten": "Miếu Thủy Tú",
+    "khuVuc": "Hải Phòng"
+  },
+  "mieu tien cong cam la": {
+    "ten": "Miếu Tiên Công Cẩm La",
+    "khuVuc": "Quảng Ninh"
+  },
+  "mieu tien cong, lien hoa": {
+    "ten": "Miếu Tiên Công, Liên Hòa",
+    "khuVuc": "Quảng Ninh"
+  },
+  "mieu tra doai": {
+    "ten": "Miếu Trà Đoài",
+    "khuVuc": "Thái Bình"
+  },
+  "mieu truc lam": {
+    "ten": "Miếu Trúc Lâm",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "mieu trung liet va go dong da": {
+    "ten": "Miếu Trung Liệt và Gò Đống Đa",
+    "khuVuc": "Thanh Hóa"
+  },
+  "mieu va dinh cao dai": {
+    "ten": "Miếu và đình Cao Đài",
+    "khuVuc": "Nam Định"
+  },
+  "mieu vua ba": {
+    "ten": "Miếu Vua Bà",
+    "khuVuc": "Hải Phòng"
+  },
+  "mieu xom banh": {
+    "ten": "Miếu Xóm Bánh",
+    "khuVuc": "Bình Thuận"
+  },
+  "mo 3000 dong bao an loc bi de quoc my tan sat ngay 03/10/1972": {
+    "ten": "Mộ 3000 đồng bào An Lộc bị đế quốc Mỹ tàn sát ngày 03/10/1972",
+    "khuVuc": "Bình Dương"
+  },
+  "mo cu thach hang gon": {
+    "ten": "Mộ Cự thạch Hàng Gòn",
+    "khuVuc": "Bình Phước"
+  },
+  "mo do thuc tinh": {
+    "ten": "Mộ Đỗ Thúc Tịnh",
+    "khuVuc": "Quảng Nam"
+  },
+  "mo le hong son va den tan son": {
+    "ten": "Mộ Lê Hồng Sơn và đền Tán Sơn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "mo nguyen cu trinh": {
+    "ten": "Mộ Nguyễn Cư Trinh",
+    "khuVuc": "Đà Nẵng"
+  },
+  "mo nguyen duc ung va 27 nghia binh chong phap": {
+    "ten": "Mộ Nguyễn Đức Ứng và 27 Nghĩa binh chống Pháp",
+    "khuVuc": "Bình Phước"
+  },
+  "mo nguyen lo trach": {
+    "ten": "Mộ Nguyễn Lộ Trạch",
+    "khuVuc": "Đà Nẵng"
+  },
+  "mo nha giao vo truong toan": {
+    "ten": "Mộ nhà giáo Võ Trường Toản",
+    "khuVuc": "Vĩnh Long"
+  },
+  "mo nha tho phan van tri": {
+    "ten": "Mộ nhà thơ Phan Văn Trị",
+    "khuVuc": "Hậu Giang"
+  },
+  "mo phan chau trinh": {
+    "ten": "Mộ Phan Châu Trinh",
+    "khuVuc": "Tiền Giang"
+  },
+  "mo thu khoa bui huu nghia": {
+    "ten": "Mộ thủ khoa Bùi Hữu Nghĩa",
+    "khuVuc": "Hậu Giang"
+  },
+  "mo tran van ky": {
+    "ten": "Mộ Trần Văn Kỷ",
+    "khuVuc": "Đà Nẵng"
+  },
+  "mo trinh hoai duc": {
+    "ten": "Mộ Trịnh Hoài Đức",
+    "khuVuc": "Bình Phước"
+  },
+  "mo va den tho dao tri": {
+    "ten": "Mộ và đền thờ Đào Trí",
+    "khuVuc": "Khánh Hòa"
+  },
+  "mo va den tho ho sy duong": {
+    "ten": "Mộ và đền thờ Hồ Sỹ Dương",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "mo va den tho le duc tuy": {
+    "ten": "Mộ và đền thờ Lê Đức Tuy",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "mo va den tho le thanh phuong": {
+    "ten": "Mộ và đền thờ Lê Thành Phương",
+    "khuVuc": "Khánh Hòa"
+  },
+  "mo va den tho luong van chanh": {
+    "ten": "Mộ và đền thờ Lương Văn Chánh",
+    "khuVuc": "Khánh Hòa"
+  },
+  "mo va den tho nguyen huu canh": {
+    "ten": "Mộ và Đền thờ Nguyễn Hữu Cảnh",
+    "khuVuc": "Bình Phước"
+  },
+  "mo va den tho nguyen loi": {
+    "ten": "Mộ và Đền thờ Nguyễn Lỗi",
+    "khuVuc": "Quảng Bình"
+  },
+  "mo va den tho nu tien si nguyen thi due": {
+    "ten": "Mộ và Đền thờ Nữ tiến sĩ Nguyễn Thị Duệ",
+    "khuVuc": "Hải Dương"
+  },
+  "mo va den tho thu khoa huan": {
+    "ten": "Mộ và đền thờ Thủ Khoa Huân",
+    "khuVuc": "Long An"
+  },
+  "mo va den tho tien si nguyen duy thuc": {
+    "ten": "Mộ và Đền thờ Tiến sĩ Nguyễn Duy Thức",
+    "khuVuc": "Bắc Ninh"
+  },
+  "mo va khu tuong niem nguyen dinh chieu": {
+    "ten": "Mộ và khu tưởng niệm Nguyễn Đình Chiểu",
+    "khuVuc": "Vĩnh Long"
+  },
+  "mo va nha tho 3 tien si tran tho, tran canh, tran tien ho tran dien tri": {
+    "ten": "Mộ và Nhà thờ 3 Tiến sĩ Trần Thọ, Trần Cảnh, Trần Tiến (Họ Trần Điền Trì)",
+    "khuVuc": "Hải Dương"
+  },
+  "mo va nha tho de doc le truc": {
+    "ten": "Mộ và nhà thờ Đề đốc Lê Trực",
+    "khuVuc": "Quảng Trị"
+  },
+  "mo va nha tho ho phi tich": {
+    "ten": "Mộ và nhà thờ Hồ Phi Tích",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "mo va nha tho le hau tao": {
+    "ten": "Mộ và nhà thờ Lê Hầu Tạo",
+    "khuVuc": "Quảng Bình"
+  },
+  "mo va nha tho phan van": {
+    "ten": "Mộ và Nhà thờ Phan Vân",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "mo, den tho doan van cu \u0026 16 nghia binh thien dia hoi": {
+    "ten": "Mộ, Đền thờ Đoàn Văn Cự \u0026 16 Nghĩa binh Thiên Địa Hội",
+    "khuVuc": "Bình Phước"
+  },
+  "mui dai lanh - bai mon": {
+    "ten": "Mũi Đại Lãnh - Bãi Môn",
+    "khuVuc": "Khánh Hòa"
+  },
+  "mui doi – hon doi": {
+    "ten": "Mũi Đôi – Hòn Đôi",
+    "khuVuc": "Ninh Thuận"
+  },
+  "mui nai": {
+    "ten": "Mũi Nai",
+    "khuVuc": "Bạc Liêu"
+  },
+  "nam lin": {
+    "ten": "Nậm Lìn",
+    "khuVuc": "Cao Bằng"
+  },
+  "nga ba cau ga": {
+    "ten": "Ngã ba Cầu Ga",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "nga ba co noi": {
+    "ten": "Ngã ba Cò Nòi",
+    "khuVuc": "Sơn La"
+  },
+  "nga ba giong": {
+    "ten": "Ngã ba Giồng",
+    "khuVuc": "Tiền Giang"
+  },
+  "nga ba giong san dia diem vu tham sat giong san": {
+    "ten": "Ngã ba Giồng Sắn (Địa điểm Vụ thảm sát Giồng Sắn)",
+    "khuVuc": "Bình Phước"
+  },
+  "nga ba long hung": {
+    "ten": "Ngã ba Long Hưng",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "nga tu duc hoa": {
+    "ten": "Ngã tư Đức Hòa",
+    "khuVuc": "Đồng Tháp"
+  },
+  "nga tu duong len mo deo nai": {
+    "ten": "Ngã tư đường lên mỏ Đèo Nai",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nghe don": {
+    "ten": "Nghè Đồn",
+    "khuVuc": "Hải Dương"
+  },
+  "nghe nha nam": {
+    "ten": "Nghè Nhã Nam",
+    "khuVuc": "Bắc Giang"
+  },
+  "nghia dia phap doi phu": {
+    "ten": "Nghĩa địa Pháp (Đồi Phủ)",
+    "khuVuc": "Bắc Giang"
+  },
+  "nghia trang i-pha-nho": {
+    "ten": "Nghĩa trang I-Pha-Nho",
+    "khuVuc": "Quảng Nam"
+  },
+  "nghia trung hoa vang": {
+    "ten": "Nghĩa trũng Hòa Vang",
+    "khuVuc": "Quảng Nam"
+  },
+  "nghia trung phuoc ninh": {
+    "ten": "Nghĩa trũng Phước Ninh",
+    "khuVuc": "Quảng Nam"
+  },
+  "ngo mon": {
+    "ten": "Ngọ Môn",
+    "khuVuc": "Đà Nẵng"
+  },
+  "ngu hanh son": {
+    "ten": "Ngũ Hành Sơn",
+    "khuVuc": "Quảng Nam"
+  },
+  "nguc dak glei": {
+    "ten": "Ngục Đăk Glei",
+    "khuVuc": "Gia Lai"
+  },
+  "nguc dak mil": {
+    "ten": "Ngục Đăk Mil",
+    "khuVuc": "Đồng Nai"
+  },
+  "nguc kon tum": {
+    "ten": "Ngục Kon Tum",
+    "khuVuc": "Gia Lai"
+  },
+  "nha 1/42 me linh": {
+    "ten": "Nhà 1/42 Mê Linh",
+    "khuVuc": "Hải Phòng"
+  },
+  "nha 5d ham long, noi thanh lap chi bo cong san dau tien cua viet nam": {
+    "ten": "Nhà 5D Hàm Long, Nơi thành lập Chi bộ Cộng sản đầu tiên của Việt Nam",
+    "khuVuc": "Thanh Hóa"
+  },
+  "nha bao tang ben tre": {
+    "ten": "Nhà Bảo tàng Bến Tre",
+    "khuVuc": "Vĩnh Long"
+  },
+  "nha bao tang kien giang": {
+    "ten": "Nhà Bảo tàng Kiên Giang",
+    "khuVuc": "Bạc Liêu"
+  },
+  "nha bia truong vinh ky": {
+    "ten": "Nhà bia Trương Vĩnh Ký",
+    "khuVuc": "Vĩnh Long"
+  },
+  "nha co huynh phu huong liem va khu mo": {
+    "ten": "Nhà cổ Huỳnh Phủ (Hương Liêm) và khu mộ",
+    "khuVuc": "Vĩnh Long"
+  },
+  "nha co thanh phu long": {
+    "ten": "Nhà cổ Thanh Phú Long",
+    "khuVuc": "Đồng Tháp"
+  },
+  "nha co tran cong vang": {
+    "ten": "Nhà cổ Trần Công Vàng",
+    "khuVuc": "Tây Ninh"
+  },
+  "nha co tran van ho": {
+    "ten": "Nhà cổ Trần Văn Hổ",
+    "khuVuc": "Tây Ninh"
+  },
+  "nha cu mai kinh": {
+    "ten": "Nhà cụ Mai Kính",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha cu nguyen sinh nham": {
+    "ten": "Nhà cụ Nguyễn Sinh Nhậm",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha cu nhan vuong thuc quy-thay hoc cua chu tich ho chi minh thoi nien thieu": {
+    "ten": "Nhà cử nhân Vương Thúc Quý-Thầy học của Chủ tịch Hồ Chí Minh thời niên thiếu",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha cu pho bang nguyen sinh sac - noi chu tich ho chi minh song thoi nien thieu o lang sen": {
+    "ten": "Nhà cụ Phó bảng Nguyễn Sinh Sắc - Nơi Chủ tịch Hồ Chí Minh sống thời niên thiếu ở Làng Sen",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha day buon ma thuot": {
+    "ten": "Nhà đày Buôn Ma Thuột",
+    "khuVuc": "Lâm Đồng"
+  },
+  "nha doc phu hai": {
+    "ten": "Nhà Đốc phủ Hải",
+    "khuVuc": "Long An"
+  },
+  "nha giao te loc ninh tru so cp cmlt cong hoa mien nam viet nam": {
+    "ten": "Nhà giao tế Lộc Ninh (Trụ sở CP CMLT Cộng hòa miền Nam Việt Nam)",
+    "khuVuc": "Bình Dương"
+  },
+  "nha hat lon ha noi va quang truong cach mang thang tam": {
+    "ten": "Nhà hát Lớn Hà Nội và Quảng trường Cách mạng tháng Tám",
+    "khuVuc": "Thanh Hóa"
+  },
+  "nha hat lon hai phong": {
+    "ten": "Nhà hát lớn Hải Phòng",
+    "khuVuc": "Hải Phòng"
+  },
+  "nha hat thanh pho ho chi minh": {
+    "ten": "Nhà hát Thành phố Hồ Chí Minh",
+    "khuVuc": "Tiền Giang"
+  },
+  "nha hoi binh truoc": {
+    "ten": "Nhà hội Bình Trước",
+    "khuVuc": "Bình Phước"
+  },
+  "nha lao cay dua nha tu phu quoc": {
+    "ten": "Nhà lao Cây Dừa (Nhà tù Phú Quốc)",
+    "khuVuc": "Bạc Liêu"
+  },
+  "nha lao pleiku": {
+    "ten": "Nhà lao Pleiku",
+    "khuVuc": "Đăk Lăk"
+  },
+  "nha lao thieu nhi da lat": {
+    "ten": "Nhà lao thiếu nhi Đà Lạt",
+    "khuVuc": "Đăk Nông"
+  },
+  "nha lon long son den ong tran": {
+    "ten": "Nhà Lớn Long Sơn (đền Ông Trần)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha luu niem 48 hang ngang, noi bac ho khoi thao ban tuyen ngon doc lap khai sinh ra nuoc viet nam dan chu cong hoa": {
+    "ten": "Nhà lưu niệm 48 Hàng Ngang, Nơi Bác Hồ khởi thảo bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ cộng hòa",
+    "khuVuc": "Thanh Hóa"
+  },
+  "nha luu niem 90 tho nhuom": {
+    "ten": "Nhà lưu niệm 90 Thợ Nhuộm",
+    "khuVuc": "Thanh Hóa"
+  },
+  "nha luu niem cu huynh thuc khang": {
+    "ten": "Nhà lưu niệm cụ Huỳnh Thúc Kháng",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "nha luu niem dong chi ha huy tap": {
+    "ten": "Nhà lưu niệm đồng chí Hà Huy Tập",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha luu niem dong chi nguyen tiem": {
+    "ten": "nhà lưu niệm đồng chí Nguyễn Tiềm",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha luu niem dong chi truong chinh": {
+    "ten": "Nhà lưu niệm đồng chí Trường Chinh",
+    "khuVuc": "Nam Định"
+  },
+  "nha luu niem hoang van thu": {
+    "ten": "Nhà lưu niệm Hoàng Văn Thụ",
+    "khuVuc": "Lạng Sơn"
+  },
+  "nha luu niem ngo gia tu": {
+    "ten": "Nhà lưu niệm Ngô Gia Tự",
+    "khuVuc": "Bắc Ninh"
+  },
+  "nha luu niem pham the hien": {
+    "ten": "Nhà lưu niệm Phạm Thế Hiển",
+    "khuVuc": "Thái Bình"
+  },
+  "nha luu niem va tuong dai anh hung vo thi sau": {
+    "ten": "Nhà lưu niệm và tượng đài anh hùng Võ Thị Sáu",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha luu niem van than nguyen mau kien": {
+    "ten": "Nhà lưu niệm Văn thân Nguyễn Mậu Kiến",
+    "khuVuc": "Thái Bình"
+  },
+  "nha ma tam nhung, nha 42/11": {
+    "ten": "Nhà má Tám Nhung, nhà 42/11",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha nhom thon trung": {
+    "ten": "Nhà nhóm thôn Trung",
+    "khuVuc": "Quảng Trị"
+  },
+  "nha ong huynh cam thuan": {
+    "ten": "Nhà ông Huỳnh Cẩm Thuận",
+    "khuVuc": "An Giang"
+  },
+  "nha ong ngo van dong atk2": {
+    "ten": "Nhà ông Ngô Văn Đông (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "nha ong ngo van thau atk2": {
+    "ten": "Nhà ông Ngô Văn Thấu (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "nha ong nguyen van che atk2": {
+    "ten": "Nhà ông Nguyễn Văn Chế (ATK2)",
+    "khuVuc": "Bắc Giang"
+  },
+  "nha ong nguyen van trac": {
+    "ten": "Nhà ông Nguyễn Văn Trác",
+    "khuVuc": "Vĩnh Long"
+  },
+  "nha ong truong quang vinh so 18/5": {
+    "ten": "Nhà ông Trương Quang Vinh số 18/5",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha ong vi van khang": {
+    "ten": "Nhà ông Vi Văn Khang",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha so 7 pho ben ngu": {
+    "ten": "Nhà số 7 phố Bến Ngự",
+    "khuVuc": "Nam Định"
+  },
+  "nha so 86 phan chu trinh": {
+    "ten": "Nhà số 86 Phan Chu Trinh",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha tho bui duong lich": {
+    "ten": "Nhà thờ Bùi Dương Lịch",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho cai bong": {
+    "ten": "Nhà thờ Cái Bông",
+    "khuVuc": "Vĩnh Long"
+  },
+  "nha tho cao thang": {
+    "ten": "Nhà thờ Cao Thắng",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho chinh toa kon tum": {
+    "ten": "Nhà thờ chính tòa Kon Tum",
+    "khuVuc": "Gia Lai"
+  },
+  "nha tho co cai mon": {
+    "ten": "Nhà thờ cổ Cái Mơn",
+    "khuVuc": "Vĩnh Long"
+  },
+  "nha tho dang nguyen can, dang thuc hua": {
+    "ten": "Nhà thờ Đặng Nguyên Cẩn, Đặng Thúc Hứa",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho bui bui bach nien": {
+    "ten": "Nhà thờ họ Bùi (Bùi Bách Niên)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho dao dao ba le": {
+    "ten": "Nhà thờ họ Đào (Đào Bá Lệ)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho do do do": {
+    "ten": "Nhà thờ họ Đỗ (Đỗ Độ)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho duong": {
+    "ten": "Nhà thờ họ Dương",
+    "khuVuc": "Hậu Giang"
+  },
+  "nha tho ho duong duong quang tin": {
+    "ten": "Nhà thờ họ Dương (Dương Quang Tín)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho ho, quynh doi": {
+    "ten": "Nhà thờ họ Hồ, Quỳnh Đôi",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho hoang hoang kim bang": {
+    "ten": "Nhà thờ họ Hoàng (Hoàng Kim Bảng)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho hoang khanh, quynh doi": {
+    "ten": "Nhà thờ họ Hoàng Khánh, Quỳnh Đôi",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho le le mo, le khep": {
+    "ten": "Nhà thờ họ Lê (Lê Mở, Lê Khép)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho nguyen nguyen thuc, nguyen nghe": {
+    "ten": "Nhà thờ họ Nguyễn (Nguyễn Thực, Nguyễn Nghệ)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho nguyen sinh": {
+    "ten": "Nhà thờ họ Nguyễn Sinh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho nguyen trieu co": {
+    "ten": "Nhà thờ họ Nguyễn Triệu Cơ",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho pham": {
+    "ten": "Nhà thờ họ Phạm",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho pham cum di tich tien cong": {
+    "ten": "Nhà thờ họ Phạm (Cụm di tích Tiên Công)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho phan huy": {
+    "ten": "Nhà thờ họ Phan Huy",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho ho vu dai ton lang dong xuong": {
+    "ten": "Nhà thờ họ Vũ đại tôn làng Đông Xương",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho ho vu vu song": {
+    "ten": "Nhà thờ họ Vũ (Vũ Song)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho ho vu vu tam tinh": {
+    "ten": "Nhà thờ họ Vũ (Vũ Tam Tỉnh)",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nha tho hoang van": {
+    "ten": "Nhà thờ Hoàng Văn",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho long hung": {
+    "ten": "Nhà thờ Long Hưng",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "nha tho nguyen huu": {
+    "ten": "Nhà thờ Nguyễn Hữu",
+    "khuVuc": "Nghệ An"
+  },
+  "nha tho nguyen ke hung": {
+    "ten": "Nhà thờ Nguyễn Kế Hưng",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho nguyen van nai, nguyen van duyet, nguyen duy can": {
+    "ten": "Nhà thờ Nguyễn Văn Nại, Nguyễn Văn Duyệt, Nguyễn Duy Cần",
+    "khuVuc": "Quảng Trị"
+  },
+  "nha tho phan dinh phung": {
+    "ten": "Nhà thờ Phan Đình Phùng",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho phan kinh": {
+    "ten": "Nhà thờ Phan Kính",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho to ho ngo lenh toc nha tho 5 tien si ho ngo": {
+    "ten": "Nhà thờ tổ họ Ngô lệnh tộc (Nhà thờ 5 tiến sĩ họ Ngô)",
+    "khuVuc": "Bắc Ninh"
+  },
+  "nha tho to nghe kim hoan": {
+    "ten": "Nhà thờ Tổ nghề kim hoàn",
+    "khuVuc": "Đà Nẵng"
+  },
+  "nha tho to tho bac le chau hoi quan": {
+    "ten": "Nhà thờ tổ thợ bạc (Lệ Châu hội quán)",
+    "khuVuc": "Tiền Giang"
+  },
+  "nha tho tri buu": {
+    "ten": "Nhà thờ Tri Bưu",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "nha tho tu quan cong va van than nguyen nang the": {
+    "ten": "Nhà thờ Tứ Quận Công và Văn thân Nguyễn Năng Thế",
+    "khuVuc": "Thái Bình"
+  },
+  "nha tho va lang mo nguyen ke sai": {
+    "ten": "Nhà thờ và lăng mộ Nguyễn Kế Sài",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho va mo nguyen cong tru": {
+    "ten": "Nhà thờ và mộ Nguyễn Công Trứ",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho va mo nguyen thuc tu": {
+    "ten": "Nhà thờ và mộ Nguyễn Thức Tự",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho va mo nguyen tri phuong": {
+    "ten": "Nhà thờ và mộ Nguyễn Tri Phương",
+    "khuVuc": "Đà Nẵng"
+  },
+  "nha tho va mo tien si pham nguyen du": {
+    "ten": "Nhà thờ và mộ Tiến sĩ Phạm Nguyễn Du",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tho va phan mo danh nhan dao huu ich": {
+    "ten": "Nhà thờ và phần mộ Danh nhân Đào Hữu Ích",
+    "khuVuc": "Quảng Bình"
+  },
+  "nha tho, khu lang mo ho tung mau": {
+    "ten": "Nhà thờ, khu lăng mộ Hồ Tùng Mậu",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nha tram cot": {
+    "ten": "Nhà trăm cột",
+    "khuVuc": "Đồng Tháp"
+  },
+  "nha tron ba ria": {
+    "ten": "Nhà Tròn Bà Rịa",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha tu con dao": {
+    "ten": "Nhà tù Côn Đảo",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "nha tu ha tien": {
+    "ten": "Nhà tù Hà Tiên",
+    "khuVuc": "Bạc Liêu"
+  },
+  "nha tu hoa binh": {
+    "ten": "Nhà tù Hòa Bình",
+    "khuVuc": "Hòa Bình"
+  },
+  "nha tu lai chau": {
+    "ten": "Nhà tù Lai Châu",
+    "khuVuc": "Điện Biên"
+  },
+  "nha tu lao bao": {
+    "ten": "Nhà tù Lao Bảo",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "nha tu phu loi": {
+    "ten": "Nhà tù Phú Lợi",
+    "khuVuc": "Tây Ninh"
+  },
+  "nha tu son la": {
+    "ten": "Nhà tù Sơn La",
+    "khuVuc": "Sơn La"
+  },
+  "nha xanh": {
+    "ten": "Nhà Xanh",
+    "khuVuc": "Bình Phước"
+  },
+  "nhung di tich lich su chong my cuu nuoc tai thanh pho nam dinh bao gom cua hang cat toc va cua hang an uong duoi ham; khu chi huy so cua nha may det; khu di tich pho hang thao - noi ghi lai toi ac cua giac my; ham chi huy thanh uy nam dinh trong thoi ky chong my cuu nuoc": {
+    "ten": "Những di tích lịch sử chống Mỹ cứu nước tại thành phố Nam Định (bao gồm Cửa hàng cắt tóc và Cửa hàng ăn uống dưới hầm; Khu Chỉ huy Sở của Nhà máy Dệt; Khu di tích phố Hàng Thao - nơi ghi lại tội ác của giặc Mỹ; Hầm Chỉ huy Thành Ủy Nam Định trong thời kỳ chống Mỹ cứu nước)",
+    "khuVuc": "Nam Định"
+  },
+  "niet ban tinh xa": {
+    "ten": "Niết Bàn Tịnh Xá",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "noi chu tich ho chi minh o va lam viec dau nam 1942": {
+    "ten": "Nơi Chủ tịch Hồ Chí Minh ở và làm việc đầu năm 1942",
+    "khuVuc": "Cao Bằng"
+  },
+  "noi chu tich ho chi minh o va lam viec tai doi khau ty nam 1947": {
+    "ten": "Nơi Chủ tịch Hồ Chí Minh ở và làm việc tại đồi Khau Tý năm 1947",
+    "khuVuc": "Thái Nguyên"
+  },
+  "noi dien ra cuoc noi day pha nha lao tan hiep 02/12/1956": {
+    "ten": "Nơi diễn ra cuộc nổi dậy phá Nhà lao Tân Hiệp 02/12/1956",
+    "khuVuc": "Bình Phước"
+  },
+  "noi dong chi nguyen tat thanh o truoc khi ra di tim duong cuu nuoc": {
+    "ten": "Nơi đồng chí Nguyễn Tất Thành ở trước khi ra đi tìm đường cứu nước",
+    "khuVuc": "Tiền Giang"
+  },
+  "noi giac phap tan sat cuoc dau tranh ngay 12/9/1930 nghia trang 12-9": {
+    "ten": "Nơi giặc Pháp tàn sát cuộc đấu tranh ngày 12/9/1930 (Nghĩa trang 12-9)",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "noi lam viec cua bo tong tham muu quan doi nhan dan viet nam 1949-1954": {
+    "ten": "Nơi làm việc của Bộ Tổng tham mưu Quân đội Nhân dân Việt Nam (1949-1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "noi lam viec cua chu tich ho chi minh 1954 tai doi thanh truc": {
+    "ten": "Nơi làm việc của Chủ tịch Hồ Chí Minh (1954) tại đồi Thành Trúc",
+    "khuVuc": "Thái Nguyên"
+  },
+  "noi lam viec cua nha xuat ban su that": {
+    "ten": "Nơi làm việc của Nhà xuất bản Sự Thật",
+    "khuVuc": "Thái Nguyên"
+  },
+  "noi o va hoat dong cua dai ta pham ngoc thao": {
+    "ten": "Nơi ở và hoạt động của Đại tá Phạm Ngọc Thảo",
+    "khuVuc": "Vĩnh Long"
+  },
+  "noi o va lam viec cua dai tuong vo nguyen giap tai keo en 1953-1954": {
+    "ten": "Nơi ở và làm việc của Đại tướng Võ Nguyên Giáp tại Keo En (1953-1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "noi thanh lap an nam cong san dang nam 1929": {
+    "ten": "Nơi thành lập An Nam Cộng sản Đảng năm 1929",
+    "khuVuc": "Tiền Giang"
+  },
+  "noi thanh lap chi bo dang cong san viet nam dau tien tai phu yen": {
+    "ten": "Nơi thành lập Chi bộ Đảng Cộng sản Việt Nam đầu tiên tại Phú Yên",
+    "khuVuc": "Khánh Hòa"
+  },
+  "noi thanh lap co so dang cong san dau tien cua dang bo tinh thai nguyen nam 1936": {
+    "ten": "Nơi thành lập cơ sở Đảng Cộng sản đầu tiên của Đảng bộ tỉnh Thái Nguyên năm 1936",
+    "khuVuc": "Thái Nguyên"
+  },
+  "noi thanh lap doi du kich khau pha": {
+    "ten": "Nơi thành lập đội du kích Khau Phạ",
+    "khuVuc": "Yên Bái"
+  },
+  "noi thanh lap doi viet nam tuyen truyen giai phong quan ngay 22/12/1944": {
+    "ten": "Nơi thành lập Đội Việt Nam Tuyên truyền Giải phóng quân ngày 22/12/1944",
+    "khuVuc": "Cao Bằng"
+  },
+  "noi thanh lap ky bo viet nam thanh nien cach mang dong chi hoi - nam 1928": {
+    "ten": "Nơi thành lập Kỳ bộ Việt Nam Thanh niên cách mạng đồng chí Hội - năm 1928",
+    "khuVuc": "Tiền Giang"
+  },
+  "noi thanh lap viet nam giai phong quan": {
+    "ten": "Nơi thành lập Việt Nam Giải phóng quân",
+    "khuVuc": "Thái Nguyên"
+  },
+  "nui ba den": {
+    "ten": "Núi Bà Đen",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "nui ba ra": {
+    "ten": "Núi Bà Rá",
+    "khuVuc": "Bình Dương"
+  },
+  "nui chau thoi va chua chau thoi": {
+    "ten": "Núi Châu Thới và Chùa Châu Thới",
+    "khuVuc": "Tây Ninh"
+  },
+  "nui chua chan": {
+    "ten": "Núi Chứa Chan",
+    "khuVuc": "Bình Phước"
+  },
+  "nui chung": {
+    "ten": "Núi Chung",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nui da bia": {
+    "ten": "Núi Đá Bia",
+    "khuVuc": "Khánh Hòa"
+  },
+  "nui da dung": {
+    "ten": "Núi Đá Dựng",
+    "khuVuc": "Bạc Liêu"
+  },
+  "nui doi quan ba": {
+    "ten": "Núi Đôi Quản Bạ",
+    "khuVuc": "Hà Giang"
+  },
+  "nui gieng tien": {
+    "ten": "Núi Giếng Tiền",
+    "khuVuc": "Bình Định"
+  },
+  "nui ham rong sa pa": {
+    "ten": "Núi Hàm Rồng (Sa Pa)",
+    "khuVuc": "Lào Cai"
+  },
+  "nui lam thanh": {
+    "ten": "Núi Lam Thành",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nui langbiang": {
+    "ten": "Núi Langbiang",
+    "khuVuc": "Đăk Nông"
+  },
+  "nui man": {
+    "ten": "Núi Mằn",
+    "khuVuc": "Quảng Ninh"
+  },
+  "nui mo so": {
+    "ten": "Núi Mo So",
+    "khuVuc": "Bạc Liêu"
+  },
+  "nui quyet va phuong hoang trung do": {
+    "ten": "Núi Quyết và Phượng Hoàng Trung Đô",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nui sam": {
+    "ten": "Núi Sam",
+    "khuVuc": "Bến Tre"
+  },
+  "nui ta cu": {
+    "ten": "Núi Tà Cú",
+    "khuVuc": "Kon Tum"
+  },
+  "nui thien nhan va thanh luc nien": {
+    "ten": "Núi Thiên Nhẫn và Thành Lục Niên",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "nui thoi loi": {
+    "ten": "Núi Thới Lới",
+    "khuVuc": "Bình Định"
+  },
+  "nui to thi": {
+    "ten": "Núi Tô Thị",
+    "khuVuc": "Lạng Sơn"
+  },
+  "nuoc la - can cu lien khu uy va ban quan su khu 5": {
+    "ten": "Nước Là - Căn cứ Liên Khu ủy và Ban Quân sự Khu 5",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "phao dai lang": {
+    "ten": "Pháo Đài Láng",
+    "khuVuc": "Thanh Hóa"
+  },
+  "pho co dong van": {
+    "ten": "Phố cổ Đồng Văn",
+    "khuVuc": "Hà Giang"
+  },
+  "phu duong ninh hoa": {
+    "ten": "Phủ Đường Ninh Hòa",
+    "khuVuc": "Ninh Thuận"
+  },
+  "phu rieng do": {
+    "ten": "Phú Riềng Đỏ",
+    "khuVuc": "Bình Dương"
+  },
+  "phu tay ho": {
+    "ten": "Phủ Tây Hồ",
+    "khuVuc": "Thanh Hóa"
+  },
+  "phu van lau": {
+    "ten": "Phu Văn Lâu",
+    "khuVuc": "Đà Nẵng"
+  },
+  "phuoc duc co mieu chua bang": {
+    "ten": "Phước Đức Cổ Miếu (Chùa Bang)",
+    "khuVuc": "Cà Mau"
+  },
+  "phuoc duc co mieu mieu ong bon": {
+    "ten": "Phước Đức Cổ Miếu (Miếu Ông Bổn)",
+    "khuVuc": "Cà Mau"
+  },
+  "phuoc minh cung chua ong": {
+    "ten": "Phước Minh Cung (Chùa Ông)",
+    "khuVuc": "Kiên Giang"
+  },
+  "quan the chua tien": {
+    "ten": "Quần thể Chùa Tiên",
+    "khuVuc": "Hòa Bình"
+  },
+  "quan the di tich - danh thang trang kenh": {
+    "ten": "Quần thể di tích - danh thắng Tràng Kênh",
+    "khuVuc": "Hải Phòng"
+  },
+  "quan the di tich danh thang yen tu": {
+    "ten": "Quần thể di tích danh thắng Yên Tử",
+    "khuVuc": "Quảng Ninh"
+  },
+  "quan the di tich hai thuong lan ong le huu trac": {
+    "ten": "Quần thể di tích Hải Thượng Lãn Ông Lê Hữu Trác",
+    "khuVuc": "Quảng Bình"
+  },
+  "quan the hon yen": {
+    "ten": "Quần thể hòn Yến",
+    "khuVuc": "Khánh Hòa"
+  },
+  "quan the huong son chua huong": {
+    "ten": "Quần thể Hương Sơn (Chùa Hương)",
+    "khuVuc": "Thanh Hóa"
+  },
+  "quang binh quan": {
+    "ten": "Quảng Bình Quan",
+    "khuVuc": "Quảng Trị"
+  },
+  "quang truong song pho": {
+    "ten": "Quảng trường Sông Phố",
+    "khuVuc": "Bình Phước"
+  },
+  "quoc tu giam hue": {
+    "ten": "Quốc Tử Giám (Huế)",
+    "khuVuc": "Đà Nẵng"
+  },
+  "roc con luu niem phong trao xo viet nghe tinh 1930-1931": {
+    "ten": "Rộc Cồn (Lưu niệm phong trào Xô Viết Nghệ Tĩnh 1930-1931)",
+    "khuVuc": "Quảng Bình"
+  },
+  "ru thanh nui lam thanh": {
+    "ten": "Rú Thành (Núi Lam Thành)",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "ruong bac thang hoang su phi": {
+    "ten": "Ruộng bậc thang Hoàng Su Phì",
+    "khuVuc": "Hà Giang"
+  },
+  "ruong bac thang mu cang chai": {
+    "ten": "Ruộng bậc thang Mù Cang Chải",
+    "khuVuc": "Yên Bái"
+  },
+  "ruong bac thang sa pa": {
+    "ten": "Ruộng bậc thang Sa Pa",
+    "khuVuc": "Lào Cai"
+  },
+  "san bay quan su loc ninh": {
+    "ten": "Sân bay quân sự Lộc Ninh",
+    "khuVuc": "Bình Dương"
+  },
+  "san bay ta con": {
+    "ten": "Sân bay Tà Cơn",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "so chi huy tien phuong chien dich ho chi minh": {
+    "ten": "Sở chỉ huy tiền phương chiến dịch Hồ Chí Minh",
+    "khuVuc": "Tây Ninh"
+  },
+  "so chi huy tien phuong phan khu 6 trong chien dich mau than 1968": {
+    "ten": "Sở Chỉ huy tiền phương Phân khu 6 trong chiến dịch Mậu Thân 1968",
+    "khuVuc": "Tiền Giang"
+  },
+  "song nha le": {
+    "ten": "Sông Nhà Lê",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "tang thu lau": {
+    "ten": "Tàng thư lâu",
+    "khuVuc": "Đà Nẵng"
+  },
+  "tap doan cu diem na san": {
+    "ten": "Tập đoàn cứ điểm Nà Sản",
+    "khuVuc": "Sơn La"
+  },
+  "tau khong so tren vung bien vung ro": {
+    "ten": "Tàu không số trên vùng biển Vũng Rô",
+    "khuVuc": "Khánh Hòa"
+  },
+  "tay son thuong dao": {
+    "ten": "Tây Sơn Thượng đạo",
+    "khuVuc": "Đăk Lăk"
+  },
+  "thac ban ba": {
+    "ten": "Thác Bản Ba",
+    "khuVuc": "Tuyên Quang"
+  },
+  "thac ban gioc": {
+    "ten": "Thác Bản Giốc",
+    "khuVuc": "Cao Bằng"
+  },
+  "thac cam ly": {
+    "ten": "Thác Cam Ly",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac cau may va deo o quy ho": {
+    "ten": "Thác Cầu Mây và Đèo Ô Quý Hồ",
+    "khuVuc": "Lai Châu"
+  },
+  "thac datanla": {
+    "ten": "Thác Datanla",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac drai dlong": {
+    "ten": "Thác Drai Dlông",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thac drai yong": {
+    "ten": "Thác Drai Yông",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thac dray kpor": {
+    "ten": "Thác Dray Kpơr",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thac dray nur": {
+    "ten": "Thác Đray Nur",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thac dray sap": {
+    "ten": "Thác Đray Sáp",
+    "khuVuc": "Đồng Nai"
+  },
+  "thac dray sap thuong thac gia long": {
+    "ten": "Thác Dray Sáp Thượng (thác Gia Long)",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thac gougah": {
+    "ten": "Thác Gougah",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac j\u0027rai bliang thac da cao": {
+    "ten": "Thác J\u0027rai Bliang (Thác Đá Cao)",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac lien khuong": {
+    "ten": "Thác Liên Khương",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac lua": {
+    "ten": "Thác Lụa",
+    "khuVuc": "Tuyên Quang"
+  },
+  "thac luong": {
+    "ten": "Thác Luồng",
+    "khuVuc": "Hà Giang"
+  },
+  "thac nam me": {
+    "ten": "Thác Nậm Me",
+    "khuVuc": "Tuyên Quang"
+  },
+  "thac nam tau": {
+    "ten": "Thác Nậm Tạu",
+    "khuVuc": "Hà Giang"
+  },
+  "thac pac ban": {
+    "ten": "Thác Pác Ban",
+    "khuVuc": "Tuyên Quang"
+  },
+  "thac pongour": {
+    "ten": "Thác Pongour",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac prenn": {
+    "ten": "Thác Prenn",
+    "khuVuc": "Đăk Nông"
+  },
+  "thac thuy tien": {
+    "ten": "Thác Thủy Tiên",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thac tien deo gio": {
+    "ten": "Thác Tiên Đèo Gió",
+    "khuVuc": "Hà Giang"
+  },
+  "thac tran": {
+    "ten": "Thác Trăn",
+    "khuVuc": "Hà Giang"
+  },
+  "thac voi thac lieng rowoa": {
+    "ten": "Thác Voi (Thác Liêng Rơwoa)",
+    "khuVuc": "Đăk Nông"
+  },
+  "thach dong": {
+    "ten": "Thạch Động",
+    "khuVuc": "Bạc Liêu"
+  },
+  "tham tat tong hang tat toong": {
+    "ten": "Thẳm Tát Tòng (Hang Tát Toòng)",
+    "khuVuc": "Sơn La"
+  },
+  "thang canh hang bua": {
+    "ten": "Thắng cảnh Hang Bua",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "thang canh ho lak": {
+    "ten": "Thắng cảnh Hồ Lăk",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thang canh thac khuon tat": {
+    "ten": "Thắng cảnh Thác Khuôn Tát",
+    "khuVuc": "Thái Nguyên"
+  },
+  "thang canh thuong lam": {
+    "ten": "Thắng cảnh Thượng Lâm",
+    "khuVuc": "Tuyên Quang"
+  },
+  "thanh an tho": {
+    "ten": "Thành An Thổ",
+    "khuVuc": "Khánh Hòa"
+  },
+  "thanh ban phu dien bien": {
+    "ten": "Thành Bản Phủ (Điện Biên)",
+    "khuVuc": "Điện Biên"
+  },
+  "thanh binh tu duong": {
+    "ten": "Thanh Bình Từ Đường",
+    "khuVuc": "Đà Nẵng"
+  },
+  "thanh co bien hoa": {
+    "ten": "Thành cổ Biên Hòa",
+    "khuVuc": "Bình Phước"
+  },
+  "thanh co dien khanh": {
+    "ten": "Thành cổ Diên Khánh",
+    "khuVuc": "Ninh Thuận"
+  },
+  "thanh co ha noi kdt hoang thanh thang long": {
+    "ten": "Thành cổ Hà Nội (KDT Hoàng thành Thăng Long)",
+    "khuVuc": "Thanh Hóa"
+  },
+  "thanh co lang son": {
+    "ten": "Thành cổ Lạng Sơn",
+    "khuVuc": "Lạng Sơn"
+  },
+  "thanh co nghi lang": {
+    "ten": "Thành cổ Nghị Lang",
+    "khuVuc": "Lào Cai"
+  },
+  "thanh co quang tri": {
+    "ten": "Thành cổ Quảng Trị",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "thanh co vinh": {
+    "ten": "Thành cổ Vinh",
+    "khuVuc": "Hà Tĩnh"
+  },
+  "thanh dia cat tien": {
+    "ten": "Thánh địa Cát Tiên",
+    "khuVuc": "Đăk Nông"
+  },
+  "thanh dia my son den thap my son": {
+    "ten": "Thánh địa Mỹ Sơn (Đền tháp Mỹ Sơn)",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "thanh dien hai": {
+    "ten": "Thành Điện Hải",
+    "khuVuc": "Quảng Nam"
+  },
+  "thanh dong hoi": {
+    "ten": "Thành Đồng Hới",
+    "khuVuc": "Quảng Trị"
+  },
+  "thanh duong mubarak, ap chau giang": {
+    "ten": "Thánh đường Mubarak, ấp Châu Giang",
+    "khuVuc": "Bến Tre"
+  },
+  "thanh ho": {
+    "ten": "Thành Hồ",
+    "khuVuc": "Khánh Hòa"
+  },
+  "thanh hoang co mieu chua minh": {
+    "ten": "Thành Hoàng Cổ Miếu (Chùa Minh)",
+    "khuVuc": "Cà Mau"
+  },
+  "thanh hoang de": {
+    "ten": "Thành Hoàng Đế",
+    "khuVuc": "Phú Yên"
+  },
+  "thanh lang giang": {
+    "ten": "Thành Lạng Giang",
+    "khuVuc": "Bắc Giang"
+  },
+  "thanh na lu": {
+    "ten": "Thành Na Lữ",
+    "khuVuc": "Cao Bằng"
+  },
+  "thanh nha ho": {
+    "ten": "Thành nhà Hồ",
+    "khuVuc": "Nghệ An"
+  },
+  "thanh nha mac lang son": {
+    "ten": "Thành Nhà Mạc (Lạng Sơn)",
+    "khuVuc": "Lạng Sơn"
+  },
+  "thanh nha mac tuyen quang": {
+    "ten": "Thành nhà Mạc (Tuyên Quang)",
+    "khuVuc": "Tuyên Quang"
+  },
+  "thanh sam mun tam van": {
+    "ten": "Thành Sam Mứn (Tam Vạn)",
+    "khuVuc": "Điện Biên"
+  },
+  "thanh tinh ngoc son quang": {
+    "ten": "Thánh Tịnh Ngọc Sơn Quang",
+    "khuVuc": "Sóc Trăng"
+  },
+  "thap bang an": {
+    "ten": "Tháp Bằng An",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "thap banh it thap bac": {
+    "ten": "Tháp Bánh Ít (tháp Bạc)",
+    "khuVuc": "Phú Yên"
+  },
+  "thap binh lam": {
+    "ten": "Tháp Bình Lâm",
+    "khuVuc": "Phú Yên"
+  },
+  "thap binh son": {
+    "ten": "Tháp Bình Sơn",
+    "khuVuc": "Vĩnh Phúc"
+  },
+  "thap canh tien": {
+    "ten": "Tháp Cánh Tiên",
+    "khuVuc": "Phú Yên"
+  },
+  "thap cham duong long": {
+    "ten": "Tháp Chăm Dương Long",
+    "khuVuc": "Phú Yên"
+  },
+  "thap cham yang prong": {
+    "ten": "Tháp Chăm Yang Prong",
+    "khuVuc": "Lâm Đồng"
+  },
+  "thap chieng so": {
+    "ten": "Tháp Chiềng Sơ",
+    "khuVuc": "Điện Biên"
+  },
+  "thap doi quy nhon": {
+    "ten": "Tháp Đôi Quy Nhơn",
+    "khuVuc": "Phú Yên"
+  },
+  "thap dong duong phat vien dong duong": {
+    "ten": "Tháp Đồng Dương (Phật viện Đồng Dương)",
+    "khuVuc": "Quảng Ngãi"
+  },
+  "thap hoa lai ba thap": {
+    "ten": "Tháp Hòa Lai (Ba Tháp)",
+    "khuVuc": "Bình Thuận"
+  },
+  "thap muong bam": {
+    "ten": "Tháp Mường Bám",
+    "khuVuc": "Sơn La"
+  },
+  "thap muong luan": {
+    "ten": "Tháp Mường Luân",
+    "khuVuc": "Điện Biên"
+  },
+  "thap muong va": {
+    "ten": "Tháp Mường Và",
+    "khuVuc": "Sơn La"
+  },
+  "thap nhan": {
+    "ten": "Tháp Nhạn",
+    "khuVuc": "Khánh Hòa"
+  },
+  "thap phu loc thap vang": {
+    "ten": "Tháp Phú Lốc (Tháp Vàng)",
+    "khuVuc": "Phú Yên"
+  },
+  "thap po dam": {
+    "ten": "Tháp Po Dam",
+    "khuVuc": "Kon Tum"
+  },
+  "thap po klong garai": {
+    "ten": "Tháp Po Klong Garai",
+    "khuVuc": "Bình Thuận"
+  },
+  "thap po nagar": {
+    "ten": "Tháp Po Nagar",
+    "khuVuc": "Ninh Thuận"
+  },
+  "thap po sah inu thap cham pho hai": {
+    "ten": "Tháp Po Sah Inư (Tháp Chăm Phố Hài)",
+    "khuVuc": "Kon Tum"
+  },
+  "thap thu thien": {
+    "ten": "Tháp Thủ Thiện",
+    "khuVuc": "Phú Yên"
+  },
+  "thap tuong long thap do son": {
+    "ten": "Tháp Tường Long (tháp Đồ Sơn)",
+    "khuVuc": "Hải Phòng"
+  },
+  "thap vinh hung": {
+    "ten": "Tháp Vĩnh Hưng",
+    "khuVuc": "Cà Mau"
+  },
+  "thich ca phat dai": {
+    "ten": "Thích Ca Phật Đài",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "tieu khu trong con": {
+    "ten": "Tiểu khu Trọng Con",
+    "khuVuc": "Hà Giang"
+  },
+  "tinh xa ngoc phuong": {
+    "ten": "Tịnh xá Ngọc Phương",
+    "khuVuc": "Tiền Giang"
+  },
+  "toa dai su quan my nay la tong lanh su quan hoa ky": {
+    "ten": "Tòa Đại sứ quán Mỹ Nay là Tổng lãnh sự quán Hoa Kỳ",
+    "khuVuc": "Tiền Giang"
+  },
+  "toa hanh chinh tinh long khanh": {
+    "ten": "Tòa hành chính tỉnh Long Khánh",
+    "khuVuc": "Bình Phước"
+  },
+  "toa thanh cao dai": {
+    "ten": "Tòa thánh Cao Đài",
+    "khuVuc": "Bà Rịa-Vũng Tàu"
+  },
+  "toa thanh cao dai ban chinh": {
+    "ten": "Tòa thánh Cao đài Ban chỉnh",
+    "khuVuc": "Vĩnh Long"
+  },
+  "toa thanh cao dai tien thien": {
+    "ten": "Tòa thánh Cao đài Tiên Thiên",
+    "khuVuc": "Vĩnh Long"
+  },
+  "trai davis": {
+    "ten": "Trại Davis",
+    "khuVuc": "Tiền Giang"
+  },
+  "tram giao thong lien lac quoc te cua dang trong nhung nam 1920": {
+    "ten": "Trạm Giao thông liên lạc quốc tế của Đảng trong những năm 1920",
+    "khuVuc": "Hải Phòng"
+  },
+  "tram thong tin a72": {
+    "ten": "Trạm thông tin A72",
+    "khuVuc": "Quảng Trị"
+  },
+  "tran dia dai doi nu phao binh ngu thuy": {
+    "ten": "Trận địa Đại đội nữ Pháo binh Ngư Thủy",
+    "khuVuc": "Quảng Trị"
+  },
+  "tran dia phao 37 li cua xi nghiep tuyen than hon gai": {
+    "ten": "Trận địa pháo 37 li của Xí nghiệp tuyển than Hòn Gai",
+    "khuVuc": "Quảng Ninh"
+  },
+  "tran dia phao co tren nui tao phung nui nho": {
+    "ten": "Trận địa pháo cổ trên núi Tao Phùng (Núi Nhỏ)",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "tran dia phao co va ham thuy loi nui lon": {
+    "ten": "Trận địa pháo cổ và Hầm thủy lôi Núi Lớn",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "tran dia phao cua lao dan quan duc ninh": {
+    "ten": "Trận địa pháo của lão dân quân Đức Ninh",
+    "khuVuc": "Quảng Trị"
+  },
+  "tran dia ten lua t5, noi ban roi may b52 dau tien o viet nam": {
+    "ten": "Trận địa tên lửa T5, Nơi bắn rơi máy B52 đầu tiên ở Việt Nam",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "tru so bao dan chung": {
+    "ten": "Trụ sở báo Dân Chúng",
+    "khuVuc": "Tiền Giang"
+  },
+  "tru so chinh phu cach mang lam thoi cong hoa mien nam viet nam": {
+    "ten": "Trụ sở Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "tru so phai doan lien lac cua bo tong tu lenh quan doi nhan dan viet nam canh phan ban quoc te giam sat va kiem soat dinh chien tai sai gon 1955-1958": {
+    "ten": "Trụ sở Phái đoàn liên lạc của Bộ Tổng tư lệnh Quân đội Nhân dân Việt Nam cạnh Phân ban Quốc tế giám sát và kiểm soát đình chiến tại Sài Gòn (1955-1958)",
+    "khuVuc": "Tiền Giang"
+  },
+  "tru so toa an nhan dan thanh pho ho chi minh": {
+    "ten": "Trụ sở Tòa án nhân dân Thành phố Hồ Chí Minh",
+    "khuVuc": "Tiền Giang"
+  },
+  "tru so uy ban viet minh tai vung tau": {
+    "ten": "Trụ sở Ủy ban Việt Minh tại Vũng Tàu",
+    "khuVuc": "Thành phố Hồ Chí Minh"
+  },
+  "trung tam dien chinh buu dien quang ninh tren nui bai tho": {
+    "ten": "Trung tâm Điện chính Bưu điện Quảng Ninh trên núi Bài Thơ",
+    "khuVuc": "Quảng Ninh"
+  },
+  "truong bo de": {
+    "ten": "Trường Bồ Đề",
+    "khuVuc": "Thừa Thiên Huế"
+  },
+  "truong cao dang su pham da lat": {
+    "ten": "Trường Cao đẳng Sư phạm Đà Lạt",
+    "khuVuc": "Đăk Nông"
+  },
+  "truong duc thanh": {
+    "ten": "Trường Dục Thanh",
+    "khuVuc": "Kon Tum"
+  },
+  "truong luy quang ngai": {
+    "ten": "Trường lũy Quảng Ngãi",
+    "khuVuc": "Bình Định"
+  },
+  "truong taberd": {
+    "ten": "Trường Taberd",
+    "khuVuc": "Cần Thơ"
+  },
+  "tu duong bui sy tiem": {
+    "ten": "Từ đường Bùi Sỹ Tiêm",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong bui thi xuan": {
+    "ten": "Từ đường Bùi Thị Xuân",
+    "khuVuc": "Phú Yên"
+  },
+  "tu duong dao vu thuong": {
+    "ten": "Từ đường Đào Vũ Thường",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong doan khue": {
+    "ten": "Từ đường Doãn Khuê",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong ho mac": {
+    "ten": "Từ đường họ Mạc",
+    "khuVuc": "Hải Phòng"
+  },
+  "tu duong hoang cong chat": {
+    "ten": "Từ đường Hoàng Công Chất",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong luong quan cong tran nhu lan": {
+    "ten": "Từ đường Lương Quận Công Trần Như Lân",
+    "khuVuc": "Hà Nam"
+  },
+  "tu duong nguyen khuyen": {
+    "ten": "Từ đường Nguyễn Khuyến",
+    "khuVuc": "Hà Nam"
+  },
+  "tu duong nguyen kim nho": {
+    "ten": "Từ đường Nguyễn Kim Nho",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong pham huy quang": {
+    "ten": "Từ đường Phạm Huy Quang",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong phuc quang": {
+    "ten": "Từ đường Phúc Quang",
+    "khuVuc": "Nghệ An"
+  },
+  "tu duong tho ts nguyen tong quai": {
+    "ten": "Từ đường thờ TS Nguyễn Tông Quai",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong thuong thu luong quy chinh": {
+    "ten": "Từ đường Thượng thư Lương Quy Chính",
+    "khuVuc": "Thái Bình"
+  },
+  "tu duong vo van dung": {
+    "ten": "Từ đường Võ Văn Dũng",
+    "khuVuc": "Phú Yên"
+  },
+  "tu duong, lang mo le quy don": {
+    "ten": "Từ đường, Lăng mộ Lê Quý Đôn",
+    "khuVuc": "Thái Bình"
+  },
+  "tu gianh": {
+    "ten": "Từ Giành",
+    "khuVuc": "Thái Bình"
+  },
+  "tu luong xam": {
+    "ten": "Từ Lương Xâm",
+    "khuVuc": "Hải Phòng"
+  },
+  "tu vu thon bui ben": {
+    "ten": "Từ Vũ thôn Bùi Bến",
+    "khuVuc": "Bắc Giang"
+  },
+  "tuong dai anh hung cu chinh lan": {
+    "ten": "Tượng đài Anh hùng Cù Chính Lan",
+    "khuVuc": "Hòa Bình"
+  },
+  "uy ban lien hop dinh chien nam bo": {
+    "ten": "Ủy ban Liên hợp Đình chiến Nam Bộ",
+    "khuVuc": "Trà Vinh"
+  },
+  "van an thanh": {
+    "ten": "Vạn An Thạnh",
+    "khuVuc": "Kon Tum"
+  },
+  "van mieu - quoc tu giam, bia tien si van mieu thang long": {
+    "ten": "Văn Miếu - Quốc Tử Giám, Bia tiến sĩ Văn Miếu Thăng Long",
+    "khuVuc": "Thanh Hóa"
+  },
+  "van mieu bac ninh": {
+    "ten": "Văn miếu Bắc Ninh",
+    "khuVuc": "Bắc Ninh"
+  },
+  "van mieu dien khanh": {
+    "ten": "Văn Miếu Diên Khánh",
+    "khuVuc": "Ninh Thuận"
+  },
+  "van mieu hue": {
+    "ten": "Văn Miếu Huế",
+    "khuVuc": "Đà Nẵng"
+  },
+  "van mieu mao dien": {
+    "ten": "Văn Miếu Mao Điền",
+    "khuVuc": "Hải Dương"
+  },
+  "van mieu tran bien": {
+    "ten": "Văn miếu Trấn Biên",
+    "khuVuc": "Bình Phước"
+  },
+  "van mieu xich dang": {
+    "ten": "Văn miếu Xích Đằng",
+    "khuVuc": "Hưng Yên"
+  },
+  "van thanh mieu vinh long": {
+    "ten": "Văn Thánh Miếu Vĩnh Long",
+    "khuVuc": "Sóc Trăng"
+  },
+  "vien co mat-tam toa": {
+    "ten": "Viện Cơ Mật-Tam Tòa",
+    "khuVuc": "Đà Nẵng"
+  },
+  "vinh ha long": {
+    "ten": "Vịnh Hạ Long",
+    "khuVuc": "Quảng Ninh"
+  },
+  "vinh nha trang": {
+    "ten": "Vịnh Nha Trang",
+    "khuVuc": "Ninh Thuận"
+  },
+  "vinh vinh hy": {
+    "ten": "Vịnh Vĩnh Hy",
+    "khuVuc": "Bình Thuận"
+  },
+  "vinh xuan dai": {
+    "ten": "Vịnh Xuân Đài",
+    "khuVuc": "Khánh Hòa"
+  },
+  "vo mieu": {
+    "ten": "Võ Miếu",
+    "khuVuc": "Hưng Yên"
+  },
+  "vu tham sat binh thanh": {
+    "ten": "Vụ Thảm sát Bình Thành",
+    "khuVuc": "An Giang"
+  },
+  "vu tham sat my trach": {
+    "ten": "Vụ thảm sát Mỹ Trạch",
+    "khuVuc": "Quảng Trị"
+  },
+  "vuon quoc gia cat tien": {
+    "ten": "Vườn quốc gia Cát Tiên",
+    "khuVuc": "Bình Phước"
+  },
+  "vuon quoc gia phong nha - ke bang": {
+    "ten": "Vườn quốc gia Phong Nha - Kẻ Bàng",
+    "khuVuc": "Quảng Trị"
+  },
+  "vuon quoc gia u minh thuong": {
+    "ten": "Vườn quốc gia U Minh Thượng",
+    "khuVuc": "Bạc Liêu"
+  },
+  "xuong doi can - nha may quan gioi k77 1947-1954": {
+    "ten": "Xưởng Đội Cấn - Nhà máy quân giới K77 (1947-1954)",
+    "khuVuc": "Thái Nguyên"
+  },
+  "xuong quan khi h52 va dia diem san xuat diem tieu": {
+    "ten": "Xưởng Quân khí H52 và địa điểm sản xuất diêm tiêu",
+    "khuVuc": "Tuyên Quang"
+  },
+  "y mieu thang long": {
+    "ten": "Y Miếu Thăng Long",
+    "khuVuc": "Thanh Hóa"
+  }
+}
