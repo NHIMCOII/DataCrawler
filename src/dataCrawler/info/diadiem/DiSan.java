@@ -44,11 +44,14 @@ public class DiSan extends DiaDiem {
 			Elements infoos = infos.get(i).select("td");
 			if(diSan.ten == null && !infoos.get(1).selectFirst("a").text().equals("")) {
 				diSan.ten = infoos.get(1).selectFirst("a").text();
-			} else if (diSan.khuVuc == null && !infoos.get(3).selectFirst("a").text().equals("")) {
+			}
+			if (diSan.khuVuc == null && !infoos.get(3).selectFirst("a").text().equals("")) {
 				diSan.khuVuc = infoos.get(3).selectFirst("span").text();
-			} else if (diSan.namThanhLap == null && !infoos.get(4).selectFirst("a").text().equals("")) {
+			}
+			if (diSan.namThanhLap == null && infoos.get(4).selectFirst("a") != null) {
 				diSan.namThanhLap = infoos.get(4).text();
-			} else if (diSan.moTa == null && !infoos.get(6).selectFirst("a").text().equals("")) {
+			}
+			if (diSan.moTa == null && !infoos.get(6).selectFirst("a").text().equals("")) {
 				diSan.moTa = infoos.get(6).text();
 			}
 			m.put(Diadiem_Links.removeAccent(diSan.ten.trim().toLowerCase()), diSan);

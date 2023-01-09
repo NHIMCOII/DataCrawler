@@ -87,7 +87,9 @@ public class DiaDiem {
 					if(header.text().equals("Sự kiện liên quan")) {
 						Elements links = header.parents().parents()
 								.select("div[class=card]");
-						diadiem.suKien = new ArrayList<>();
+						if (links.size() != 0) {
+							diadiem.suKien = new ArrayList<>();
+						}
 						for(Element link: links) {
 							int index = link.select("h4[class=card-title]").text().indexOf("(");
 							if (index > 0) {

@@ -16,6 +16,7 @@ public class Diadiem_Links {
     private static ArrayList<String> diaDiem_Wiki = new ArrayList<>();
 
     public Diadiem_Links() {
+
     }
 
     public static ArrayList<String> getDiaDiem_TVLS() throws IOException {
@@ -29,11 +30,12 @@ public class Diadiem_Links {
         System.setProperty("http.proxyport", "8080");
 
         String url = "https://thuvienlichsu.com/dia-diem?page=1";
+        Document document = Jsoup.connect(url)
+                .ignoreContentType(true)
+                .timeout(0)
+                .get();
+
         for (int i = 1; i <= 10; i++) {
-            Document document = Jsoup.connect(url)
-                    .ignoreContentType(true)
-                    .timeout(0)
-                    .get();
             Elements elms = document.getElementsByClass("col-md-4");
             for (int j = 0; j < elms.size(); j++) {
                 Elements elm_a = elms.get(j).getElementsByTag("a");
