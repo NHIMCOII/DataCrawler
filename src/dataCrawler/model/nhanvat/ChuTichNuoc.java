@@ -1,4 +1,4 @@
-package dataCrawler.info.nhanvat;
+package dataCrawler.model.nhanvat;
 
 
 public class ChuTichNuoc extends NhanVat {
@@ -12,15 +12,6 @@ public class ChuTichNuoc extends NhanVat {
 
     public ChuTichNuoc() {
         super();
-    }
-
-    public ChuTichNuoc(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
-                       String thanPhu, String thanMau, String chong, String tonGiao, String cuocDoi, String suNghiep, String nhiemKy, String tienNhiem, String keNhiem, String phoChuTich, String nguyenNhanMat, String queQuan, String dangPhai, String noiO, String danToc, String hocvan) {
-        super(ten, tenKhac, trieuDai, sinh, mat, anTang, chucVu, thanPhu, thanMau, chong, tonGiao, cuocDoi, suNghiep, nguyenNhanMat, queQuan, dangPhai, noiO, danToc, hocvan);
-        this.nhiemKy = nhiemKy;
-        this.tienNhiem = tienNhiem;
-        this.keNhiem = keNhiem;
-        this.phoChuTich = phoChuTich;
     }
 
     public static ChuTichNuoc mergeRule(Object oldVal, Object newVal) {

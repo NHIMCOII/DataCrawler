@@ -1,17 +1,5 @@
 package dataCrawler;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import dataCrawler.info.nhanvat.Vua;
-import dataCrawler.links.Nhanvat_Links;
-
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.Writer;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.Map;
-
 public class DataCrawler {
 
     public static void main(String[] args) {

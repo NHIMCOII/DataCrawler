@@ -1,10 +1,10 @@
-package dataCrawler.info.nhanvat;
+package dataCrawler.model.nhanvat;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import tool.Tool;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -27,19 +27,6 @@ public class Vua extends NhanVat {
 
     public Vua() {
         super();
-    }
-
-    public Vua(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
-               String thanPhu, String thanMau, String phoiNgau, String tonGiao, String cuocDoi, String suNghiep, String triVi, String tienNhiem, String keNhiem, String nienHieu, String tonHieu, String thuyHieu,
-               String mieuHieu, String nguyenNhanMat, String queQuan, String dangPhai, String noiO, String danToc, String hocvan) {
-        super(ten, tenKhac, trieuDai, sinh, mat, anTang, chucVu, thanPhu, thanMau, phoiNgau, tonGiao, cuocDoi, suNghiep, nguyenNhanMat, queQuan, dangPhai, noiO, danToc, hocvan);
-        this.triVi = triVi;
-        this.tienNhiem = tienNhiem;
-        this.keNhiem = keNhiem;
-        this.nienHieu = nienHieu;
-        this.tonHieu = tonHieu;
-        this.thuyHieu = thuyHieu;
-        this.mieuHieu = mieuHieu;
     }
 
     public static Map getInfoFromWiki(ArrayList<String> urls) throws IOException {
@@ -66,7 +53,7 @@ public class Vua extends NhanVat {
             if (info != null) {
                 for (Element row : info.select("tr")) {
                     if (row.selectFirst("th:contains(Triều Đại)") != null || row.selectFirst("th:contains(Thời kỳ)") != null || row.selectFirst("th:contains(Hoàng tộc)") != null) {
-                        vua.trieuDai = row.selectFirst("td").text();
+                        vua.thoiKy = row.selectFirst("td").text();
                     }
                     result = row.selectFirst(".nickname");
                     if (result != null) {

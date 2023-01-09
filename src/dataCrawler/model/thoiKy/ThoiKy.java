@@ -1,22 +1,21 @@
-package dataCrawler.info.trieuDai;
+package dataCrawler.model.thoiKy;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-import tool.Tool;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
 
 public class ThoiKy {
     protected String ten;
     protected String moTa;
     protected ArrayList<TrieuDai> trieuDai = new ArrayList<>();
+    protected ArrayList<String> sukien;
     protected ArrayList<String> links = new ArrayList<>();
 
     public ThoiKy() {
@@ -27,18 +26,6 @@ public class ThoiKy {
         this.moTa = moTa;
     }
 
-    public static Map getInfoFromVietYCoTruyen() throws IOException {
-        System.setProperty("http.proxyhost", "127.0.0.1");
-        System.setProperty("http.proxyport", "8080");
-        Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
-        final Document doc = Jsoup.connect("http://vietycotruyen.com.vn/cac-trieu-dai-viet-nam-qua-tung-thoi-ky-lich-su")
-                .ignoreContentType(true)
-                .timeout(0)
-                .get();
-        System.out.println(doc.select("table tbody tr:not(tr:nth-of-type(1)) "));
-        return m;
-    }
-
     public static Map getInfoFromNguoiKeSu(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
@@ -46,7 +33,7 @@ public class ThoiKy {
         Map m = new LinkedHashMap();
 
         for (String url : urls) {
-            System.out.println(url);
+//            System.out.println(url);
             Document curr = Jsoup.connect(url)
                     .ignoreContentType(true)
                     .timeout(0)
@@ -73,7 +60,30 @@ public class ThoiKy {
                 }
             } while (result != null);
             m.put(Tool.normalizeKey(thoiKy.ten), thoiKy);
-//            break;
+        }
+        return m;
+    }
+
+    public static Map getInfoFromThuVienLichSu(ArrayList<String> urls) throws IOException {
+        System.setProperty("http.proxyhost", "127.0.0.1");
+        System.setProperty("http.proxyport", "8080");
+        Element result;
+        Map m = new LinkedHashMap();
+
+        for (String url : urls) {
+//            System.out.println(url);
+            Document curr = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            ThoiKy thoiKy = new ThoiKy();
+            thoiKy.addLink(url);
+            for (Element suKien : curr.select("h3.card-title")) {
+                thoiKy.addSuKien(Tool.separateKeyWithoutQuotation(suKien.text()));
+            }
+            thoiKy.ten = curr.selectFirst("h1").text();
+
+            m.put(Tool.normalizeKeyThoiKyFromThuVienLichSu(Tool.separateKeyWithoutQuotation(thoiKy.ten)), thoiKy);
         }
         return m;
     }
@@ -87,6 +97,10 @@ public class ThoiKy {
         if (v1.moTa == null || v1.moTa.equals("?")) {
             v1.moTa = v2.moTa;
         }
+        if (v1.sukien == null) {
+            v1.sukien = v2.sukien;
+        }
+        v1.links.addAll(v2.links);
         return v1;
     }
 
@@ -102,5 +116,15 @@ public class ThoiKy {
             return;
         }
         trieuDai.add(item);
+    }
+
+    protected void addSuKien(String item) {
+        if (sukien == null) {
+            sukien = new ArrayList<>();
+        }
+        if (sukien.contains(item)) {
+            return;
+        }
+        sukien.add(item);
     }
 }

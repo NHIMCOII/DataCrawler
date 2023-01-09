@@ -1,26 +1,27 @@
-package dataCrawler.info.nhanvat;
+package dataCrawler.model.nhanvat;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import tool.Tool;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
 public class NhanVat {
     protected String ten;
     protected String tenKhac;
-    protected String trieuDai;
+    protected String thoiKy;
     protected String sinh;
     protected String mat;
     protected String anTang;
     protected String chucVu;
-    protected String thanPhu;            //than phu
-    protected String thanMau;            //than mau
+    protected String thanPhu;
+    protected String thanMau;
     protected String phoiNgau;
     protected String tonGiao;
     protected String nguyenNhanMat;
@@ -29,8 +30,8 @@ public class NhanVat {
     protected String noiO;
     protected String danToc;
     protected String hocvan;
-    protected String cuocDoi;
-    protected String suNghiep;
+    protected Map cuocDoi;
+    protected String moTa;
     protected ArrayList<String> vo;
     protected ArrayList<String> hauDue;
     protected ArrayList<String> nhanVatCungThoiKy;
@@ -38,29 +39,6 @@ public class NhanVat {
 
 
     public NhanVat() {
-    }
-
-    public NhanVat(String ten, String tenKhac, String trieuDai, String sinh, String mat, String anTang, String chucVu,
-                   String thanPhu, String thanMau, String phoiNgau, String tonGiao, String cuocDoi, String suNghiep, String nguyenNhanMat, String queQuan, String dangPhai, String noiO, String danToc, String hocvan) {
-        this.ten = ten;
-        this.tenKhac = tenKhac;
-        this.trieuDai = trieuDai;
-        this.sinh = sinh;
-        this.mat = mat;
-        this.anTang = anTang;
-        this.chucVu = chucVu;
-        this.thanPhu = thanPhu;
-        this.thanMau = thanMau;
-        this.phoiNgau = phoiNgau;
-        this.tonGiao = tonGiao;
-        this.cuocDoi = cuocDoi;
-        this.suNghiep = suNghiep;
-        this.nguyenNhanMat = nguyenNhanMat;
-        this.queQuan = queQuan;
-        this.dangPhai = dangPhai;
-        this.noiO = noiO;
-        this.danToc = danToc;
-        this.hocvan = hocvan;
     }
 
     public static Map getInfoFromNguoiKeSu(ArrayList<String> urls) throws IOException {
@@ -84,9 +62,9 @@ public class NhanVat {
                 for (Element row : info.select("tr")) {
                     if (row.selectFirst("th:contains(Triều Đại)") != null || row.selectFirst("th:contains(Thời kỳ)") != null || row.selectFirst("th:contains(Hoàng tộc)") != null || row.selectFirst("th:contains(Kỷ nguyên)") != null) {
                         if (row.selectFirst("td") == null) {
-                            nhanVat.trieuDai = row.nextElementSibling().text();
+                            nhanVat.thoiKy = row.nextElementSibling().text();
                         } else {
-                            nhanVat.trieuDai = row.selectFirst("td").text();
+                            nhanVat.thoiKy = row.selectFirst("td").text();
                         }
                     }
                     if (row.selectFirst("th:contains(Chức vụ)") != null || row.selectFirst("th:contains(Nghề nghiệp)") != null || row.selectFirst("th:contains(Công việc)") != null) {
@@ -174,14 +152,55 @@ public class NhanVat {
         return m;
     }
 
+    public static Map getInfoFromThuVienLichSu(ArrayList<String> urls) throws IOException {
+        System.setProperty("http.proxyhost", "127.0.0.1");
+        System.setProperty("http.proxyport", "8080");
+        Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+        for (String url : urls) {
+//            System.out.println(url);
+            final Document doc = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            NhanVat nhanVat = new NhanVat();
+            nhanVat.addLink(url);
+            nhanVat.ten = doc.selectFirst("h3.header-edge").text();
+
+            Map<String, String> info = new LinkedHashMap<>();
+            Boolean check = false;
+            for (Element milestone : doc.select("div.divide-tag:nth-of-type(3) table tr")) {
+                if (milestone.selectFirst("td") != null) {
+                    info.put(milestone.selectFirst("td:nth-of-type(1)").text(), milestone.selectFirst("td:nth-of-type(3)").text());
+                    check = true;
+                }
+            }
+            if (check == true) {
+                nhanVat.setCuocDoi(info);
+            }
+
+            nhanVat.moTa = doc.select("div.divide-tag:nth-of-type(4)").text();
+
+            for (Element link : doc.select("div.divide-tag:nth-of-type(5) a")) {
+                nhanVat.addLink(link.attr("href"));
+            }
+            for (Element character : doc.select("div.divide-tag:nth-of-type(6) h4.card-title")) {
+                nhanVat.addNhanVatCungThoiKy(Tool.separateKeyWithoutQuotation(character.text()));
+            }
+
+            m.put(Tool.separateKeyWithoutQuotation(nhanVat.ten), nhanVat);
+        }
+        return m;
+    }
+
     public static NhanVat mergeRule(Object oldVal, Object newVal) {
         NhanVat v1 = (NhanVat) oldVal;
         NhanVat v2 = (NhanVat) newVal;
         if (v1.tenKhac == null || v1.tenKhac.equals("?")) {
             v1.tenKhac = v2.tenKhac;
         }
-        if (v1.trieuDai == null || v1.trieuDai.equals("?")) {
-            v1.trieuDai = v2.trieuDai;
+        if (v1.thoiKy == null || v1.thoiKy.equals("?")) {
+            v1.thoiKy = v2.thoiKy;
         }
         if (v1.sinh == null || v1.sinh.equals("?")) {
             v1.sinh = v2.sinh;
@@ -207,12 +226,6 @@ public class NhanVat {
         if (v1.tonGiao == null || v1.tonGiao.equals("?")) {
             v1.tonGiao = v2.tonGiao;
         }
-        if (v1.cuocDoi == null || v1.cuocDoi.equals("?")) {
-            v1.cuocDoi = v2.cuocDoi;
-        }
-        if (v1.suNghiep == null || v1.suNghiep.equals("?")) {
-            v1.suNghiep = v2.suNghiep;
-        }
         if (v1.nguyenNhanMat == null || v1.nguyenNhanMat.equals("?")) {
             v1.nguyenNhanMat = v2.nguyenNhanMat;
         }
@@ -237,10 +250,19 @@ public class NhanVat {
         if (v1.hauDue == null) {
             v1.hauDue = v2.hauDue;
         }
+        if (v1.cuocDoi == null) {
+            v1.cuocDoi = v2.cuocDoi;
+        }
+        if (v1.moTa == null) {
+            v1.moTa = v2.moTa;
+        }
         if (v1.nhanVatCungThoiKy == null) {
             v1.nhanVatCungThoiKy = v2.nhanVatCungThoiKy;
         }
-        v1.links.addAll(v2.links);
+        for (String link : v2.links) {
+            if (!v1.links.contains(link))
+                v1.links.add(link);
+        }
         return v1;
     }
 
@@ -281,4 +303,7 @@ public class NhanVat {
         hauDue.add(item);
     }
 
+    protected void setCuocDoi(Map m) {
+        this.cuocDoi = m;
+    }
 }

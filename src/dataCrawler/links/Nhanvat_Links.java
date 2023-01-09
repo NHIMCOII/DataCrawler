@@ -37,7 +37,7 @@ public class Nhanvat_Links {
     public static ArrayList<String> getNhanVat_thuvienlichsu() throws IOException {
         Nhanvat_Links.setNhanVat_thuvienlichsu();
 //        printLinks(nhanVat_thuvienlichsu);
-        return nhanVat_nguoikesu;
+        return nhanVat_thuvienlichsu;
     }
 
 

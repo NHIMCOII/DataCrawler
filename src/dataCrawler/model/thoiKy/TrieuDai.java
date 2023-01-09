@@ -1,15 +1,6 @@
-package dataCrawler.info.trieuDai;
+package dataCrawler.model.thoiKy;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.TreeMap;
 
 public class TrieuDai {
     protected String ten;
