@@ -1,16 +1,18 @@
 {
   "ben chuong duong": {
     "ten": "Bến Chương Dương",
+    "lichSu": "Bến Chương Dương thuộc xã Chương Dương, Thường Tín, Hà Nội. Nơi đây từ lâu đã trở thành niềm tự hào của dân tộc, như một huyền thoại chói lọi trong cuộc kháng chiến chống Nguyên Mông lần thứ hai của quân và dân nhà Trần",
     "links": [
       "http://giadinh.net.vn/xa-hoi/ben-chuong-duong-truoc-nguy-co-chi-con-trong-su-sach-20120216033422440.htm",
       "https://vi.wikipedia.org/wiki/Ch%C6%B0%C6%A1ng_D%C6%B0%C6%A1ng,_Th%C6%B0%E1%BB%9Dng_T%C3%ADn"
     ],
     "suKien": [
-      "Chiến thắng quân Nguyên lần hai "
+      "chiến thắng quân nguyên lần hai"
     ]
   },
   "co loa": {
     "ten": "Cổ Loa",
+    "lichSu": "Cổ Loa là di tích lịch sử nổi tiếng, thuộc địa phận huyện Đông Anh cách trung tâm Hà Nội khoảng 17km về hướng Tây Bắc. Đây là thủ đô thứ 2 của Việt Nam sau Phong Châu (Phú Thọ). Vào cuối thời Hùng Vương, vua nước Thục tên Phán, chiếm được nước của Hùng Vương, lập nước Âu Lạc, xưng là An Dương Vương, đóng đô ở Phong Khuê (Cổ Loa ngày nay). Sau đó ông cho xây dựng một khu thành lớn mà người sau gọi là Loa thành hay thành Cổ Loa. Khu vực Cổ Loa là một khu thành đất đồ sộ với 3 vòng thành, chiều dài cả 3 vòng thành tổng cộng hơn 16 cây số. Đây cũng là kinh đô từ năm 939 đến 965 thuộc triều đại Ngô Quyền, triều đại gắn liền với chiến công hiển hách trên sông Bạch Đằng, đánh bại quân xâm lược Nam Hán.",
     "links": [
       "http://www.tintucdulich.com/du-lich-trong-nuoc/du-lich-ha-noi/tham-thanh-co-loa.html",
       "http://www.chudu24.com/blog-du-lich/chau-a/viet-nam/hanoi/di-tich-thanh-co-loa.htm",
@@ -19,82 +21,73 @@
       "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Anh"
     ],
     "suKien": [
-      "Ngô Quyền xưng vương, đóng đô ở Cổ Loa ",
-      "Nước Âu lạc của An Dương Vương thành lập ",
-      "Cuộc kháng chiến chống Triệu Đà "
+      "ngô quyền xưng vương, đóng đô ở cổ loa",
+      "nước âu lạc của an dương vương thành lập",
+      "cuộc kháng chiến chống triệu đà"
     ]
   },
   "cua ham tu": {
     "ten": "Cửa Hàm Tử",
+    "lichSu": "Cửa Hàm Tử xưa thuộc xã Hàm Tử, huyện Khoái Châu, Hưng Yên. Tháng 5 năm 1285, sau cuộc rút lui chiến lược về Thiên Trường (tháng 2 năm 1285), và vào Thanh Hoá (tháng 4 năm 1285), vua Trần bắt đầu mở cuộc phản công vào các cứ điểm quan trọng của quân Nguyên tại vùng Khoái Châu, Hưng Yên. Trận quyết chiến tại cửa Hàm Tử diễn ra vào cuối tháng 5 năm 1285,5 vạn quân do Chiêu Văn Vương Trần Nhật Duật chỉ huy, đã nhanh chóng giành thắng lợi. Cùng với các trận Tây Kết, Chương Dương, Vạn Kiếp, chiến thắng Hàm Tử đã góp phần tiêu diệt và quét sạch 50 vạn quân Nguyên ra khỏi bờ cõi, giải phóng hoàn toàn Đại Việt.",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%A0m_T%E1%BB%AD",
       "https://vi.wikipedia.org/wiki/Kho%C3%A1i_Ch%C3%A2u"
     ],
     "suKien": [
-      "Chiến thắng quân Nguyên lần hai ",
-      "Trận Hàm Tử "
+      "chiến thắng quân nguyên lần hai",
+      "trận hàm tử"
     ]
   },
   "gia dinh": {
     "ten": "Gia Định",
+    "lichSu": "Gia Định là một địa danh cũ ở miền Nam Việt Nam. Trải bao biến cố, ngày nay, địa danh ấy chỉ còn dùng để chỉ khu vực trung tâm quận Bình Thạnh của Thành phố Hồ Chí Minh. Hint Academy được đánh giá là nơi đào tạo khóa học makeup chuyên nghiệp uy tín và chất lượng nhất hiện nay với đội ngũ giảng viên là những chuyên gia makeup lâu năm trong nghề, hiện đại và có tiếng trong giới makeup showbiz.",
     "links": [
       "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
       "https://vi.wikipedia.org/wiki/Th%C3%A0nh_Gia_%C4%90%E1%BB%8Bnh",
       "https://vi.wikipedia.org/wiki/Gia_%C4%90%E1%BB%8Bnh"
     ],
     "suKien": [
-      "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam ",
-      "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong ",
-      "Tây Sơn lật đổ chính quyền họ Trịnh ",
-      "Khởi nghĩa Lê Văn Khôi ",
-      "Hiệp ước Nhâm Tuất ",
-      "Quân Pháp đánh chiếm tỉnh thành Gia Định ",
-      "Pháp cử phái viên đến quân thứ Gia Định đưa ra bản dự thảo Hòa ước gồm 11 điều khoản ",
-      "Triều đình cử Nguyễn Tri Phương vào Nam chỉ huy quân thứ Gia Định, tổ chức đánh Pháp ",
-      "Triều đình Huế cử phái đòan sang Pháp thương lượng chuộc lại ba tỉnh miền Đông Nam Kỳ ",
-      "Pháp đòi triều đình Huế giao cả ba tỉnh miền Tây Nam Kỳ cho Pháp ",
-      "Triều đình Huế gởi thư cho Soái phủ Pháp ở Gia Định xin Pháp trả lại 6 tỉnh Nam Kỳ ",
-      "Pháp đánh chiếm Biên Hòa ",
-      "Từ Dũ "
+      "chúa nguyễn sai nguyễn hữu cảnh vào miền nam",
+      "nghĩa quân tây sơn lật đổ chính quyền chúa nguyễn ở đàng trong",
+      "tây sơn lật đổ chính quyền họ trịnh",
+      "khởi nghĩa lê văn khôi",
+      "hiệp ước nhâm tuất",
+      "quân pháp đánh chiếm tỉnh thành gia định",
+      "pháp cử phái viên đến quân thứ gia định đưa ra bản dự thảo hòa ước gồm 11 điều khoản",
+      "triều đình cử nguyễn tri phương vào nam chỉ huy quân thứ gia định, tổ chức đánh pháp",
+      "triều đình huế cử phái đòan sang pháp thương lượng chuộc lại ba tỉnh miền đông nam kỳ",
+      "pháp đòi triều đình huế giao cả ba tỉnh miền tây nam kỳ cho pháp",
+      "triều đình huế gởi thư cho soái phủ pháp ở gia định xin pháp trả lại 6 tỉnh nam kỳ",
+      "pháp đánh chiếm biên hòa"
     ],
     "nhanVat": [
-      "Từ Dũ ",
-      "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam ",
-      "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong ",
-      "Tây Sơn lật đổ chính quyền họ Trịnh ",
-      "Khởi nghĩa Lê Văn Khôi ",
-      "Hiệp ước Nhâm Tuất ",
-      "Quân Pháp đánh chiếm tỉnh thành Gia Định ",
-      "Pháp cử phái viên đến quân thứ Gia Định đưa ra bản dự thảo Hòa ước gồm 11 điều khoản ",
-      "Triều đình cử Nguyễn Tri Phương vào Nam chỉ huy quân thứ Gia Định, tổ chức đánh Pháp ",
-      "Triều đình Huế cử phái đòan sang Pháp thương lượng chuộc lại ba tỉnh miền Đông Nam Kỳ ",
-      "Pháp đòi triều đình Huế giao cả ba tỉnh miền Tây Nam Kỳ cho Pháp ",
-      "Triều đình Huế gởi thư cho Soái phủ Pháp ở Gia Định xin Pháp trả lại 6 tỉnh Nam Kỳ ",
-      "Pháp đánh chiếm Biên Hòa "
+      "từ dũ"
     ]
   },
   "giao chau": {
     "ten": "Giao Châu",
+    "lichSu": "Giao Châu là tên một châu hoặc phủ thời xưa, bao trùm vùng đất miền Bắc Việt Nam ngày nay. Ban đầu Giao Châu còn bao gồm một phần đất Quảng Tây và Quảng Đông thuộc Trung Quốc ngày nay.",
     "links": [
       "https://vi.wikipedia.org/wiki/Giao_Ch%C3%A2u"
     ],
     "suKien": [
-      "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ ",
-      "Nhà Hán đặt Giao Chỉ thành Giao Châu ",
-      "Lưu Biểu chống lại nhà Hán ",
-      "Nhà Ngô đô hộ nước Âu Lạc ",
-      "Nhà Tấn đô hộ ",
-      "Nhà Tống đô hộ ",
-      "Lý Trường Nhân nắm quyền tự trị ở Giao Châu ",
-      "Nhà Tề đô hộ ",
-      "Nhà Lương đô hộ ",
-      "Khới nghĩa Lý Bí thắng lợi ",
-      "Nhà Lương chiếm lại Giao Châu, Lý Nam Đế về giữ thành Gia Ninh ",
-      "Nước ta rơi vào tay nhà Đường "
+      "nhà đường đổi giao châu thành an nam đô hộ phủ",
+      "nhà hán đặt giao chỉ thành giao châu",
+      "lưu biểu chống lại nhà hán",
+      "nhà ngô đô hộ nước âu lạc",
+      "nhà tấn đô hộ",
+      "nhà tống đô hộ",
+      "lý trường nhân nắm quyền tự trị ở giao châu",
+      "nhà tề đô hộ",
+      "nhà lương đô hộ",
+      "khới nghĩa lý bí thắng lợi",
+      "nhà lương chiếm lại giao châu, lý nam đế về giữ thành gia ninh",
+      "nước ta rơi vào tay nhà đường"
     ]
   },
   "ha noi": {
     "ten": "Hà Nội",
+    "lichSu": "Dải đất nay là Hà Nội có dân cư từ vài ngàn năm trước nhưng cái tên gọi Hà Nội thì chỉ có từ năm 1831. Từ năm 1010, vua Lý Thái Tổ dời đô ra thành Đại La, đổi gọi thành này là kinh đô Thăng Long. Kinh đô ngày ấy ứng với quận Hoàn Kiếm và một phần của hai quận Đống Đa, Hai Bà Trưng ngày nay. Sau đó địa giới Thăng Long dần mở rộng và tới cuối thế kỷ 18 thì tương ứng với năm quận nội thành bây giờ. Năm 1802, nhà Nguyễn lên ngôi dời đô về Huế, Thăng Long không còn là Kinh đô nữa và ít lâu sau bị đổi gọi là phủ Hoài Đức. Game bài Mana88 – Những năm gần đây, không thể phủ nhận sự phát triển nhanh chóng và vượt trội của nền công nghiệp.",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i",
       "http://vietbao.vn/Van-hoa/Nhung-ten-goi-cua-Ha-Noi-qua-cac-thoi-ky-lich-su/45123349/181/",
@@ -102,66 +95,40 @@
       "http://web.hanu.vn/vnh/mod/forum/discuss.php?d\u003d1879"
     ],
     "suKien": [
-      "Trận Tốt Động – Chúc Động ",
-      "Trận Chi Lăng – Xương Giang ",
-      "Vua Quang Trung đại phá quân Thanh ",
-      "Khởi nghĩa Cao Bá Quát ",
-      "Thành lập Việt Nam nghĩa đoàn ",
-      "Thành lập Chi bộ Cộng sản đầu tiên ",
-      "Phong trào “Đón Gôđa” ",
-      "Thực dân Pháp tấn công thành Hà Nội lần thứ nhất ",
-      "Trận Cầu Giấy ",
-      "HRiver đánh thành Hà Nội lần thứ hai, Hoàng Diệu tuẫn tiết ",
-      "Nhân dân làng xã ven Hải Phòng nổi dậy chống Pháp ",
-      "Thành lập Hội Văn hóa cứu quốc ",
-      "Nhật đảo chính lật đổ Pháp trên toàn Đông Dương ",
-      "Hội nghị Ban thường vụ mở rộng của Trung ương Đảng Cộng sản Đông Dương và chỉ thị “Nhật - Pháp bắn nhau và hành động của chúng ta” ",
-      "Khởi nghĩa giành chính quyền ở Hà Nội và các vùng lân cận ",
-      "Chủ tịch Hồ Chí Minh đọc bản “Tuyên ngôn Độc lập” ",
-      "Quốc khánh nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ",
-      "Ký Hiệp định sơ bộ Việt – Pháp ",
-      "Toàn quốc kháng chiến ",
-      "Khoảng 4000 năm trước :Có văn hóa Phùng Nguyên, đồ đồng xuất hiện ",
-      "Khoảng 3045 năm trước: Có văn hóa Gò Mun, thuộc Hậu kỳ thời đại đồng thau ",
-      "Chiến dịch \"Điện Biên Phủ trên không\" ",
-      "Tô Hiến Thành ",
-      "Phan Kế Bính ",
-      "Phan Huy Chú ",
-      "Đặng Công Chất ",
-      "Nguyễn Trực "
+      "trận tốt động – chúc động",
+      "trận chi lăng – xương giang",
+      "vua quang trung đại phá quân thanh",
+      "khởi nghĩa cao bá quát",
+      "thành lập việt nam nghĩa đoàn",
+      "thành lập chi bộ cộng sản đầu tiên",
+      "phong trào “đón gôđa”",
+      "thực dân pháp tấn công thành hà nội lần thứ nhất",
+      "trận cầu giấy",
+      "hriver đánh thành hà nội lần thứ hai, hoàng diệu tuẫn tiết",
+      "nhân dân làng xã ven hải phòng nổi dậy chống pháp",
+      "thành lập hội văn hóa cứu quốc",
+      "nhật đảo chính lật đổ pháp trên toàn đông dương",
+      "hội nghị ban thường vụ mở rộng của trung ương đảng cộng sản đông dương và chỉ thị “nhật - pháp bắn nhau và hành động của chúng ta”",
+      "khởi nghĩa giành chính quyền ở hà nội và các vùng lân cận",
+      "chủ tịch hồ chí minh đọc bản “tuyên ngôn độc lập”",
+      "quốc khánh nước cộng hòa xã hội chủ nghĩa việt nam",
+      "ký hiệp định sơ bộ việt – pháp",
+      "toàn quốc kháng chiến",
+      "khoảng 4000 năm trước :có văn hóa phùng nguyên, đồ đồng xuất hiện",
+      "khoảng 3045 năm trước: có văn hóa gò mun, thuộc hậu kỳ thời đại đồng thau",
+      "chiến dịch \"điện biên phủ trên không\""
     ],
     "nhanVat": [
-      "Tô Hiến Thành ",
-      "Phan Kế Bính ",
-      "Phan Huy Chú ",
-      "Đặng Công Chất ",
-      "Nguyễn Trực ",
-      "Trận Tốt Động – Chúc Động ",
-      "Trận Chi Lăng – Xương Giang ",
-      "Vua Quang Trung đại phá quân Thanh ",
-      "Khởi nghĩa Cao Bá Quát ",
-      "Thành lập Việt Nam nghĩa đoàn ",
-      "Thành lập Chi bộ Cộng sản đầu tiên ",
-      "Phong trào “Đón Gôđa” ",
-      "Thực dân Pháp tấn công thành Hà Nội lần thứ nhất ",
-      "Trận Cầu Giấy ",
-      "HRiver đánh thành Hà Nội lần thứ hai, Hoàng Diệu tuẫn tiết ",
-      "Nhân dân làng xã ven Hải Phòng nổi dậy chống Pháp ",
-      "Thành lập Hội Văn hóa cứu quốc ",
-      "Nhật đảo chính lật đổ Pháp trên toàn Đông Dương ",
-      "Hội nghị Ban thường vụ mở rộng của Trung ương Đảng Cộng sản Đông Dương và chỉ thị “Nhật - Pháp bắn nhau và hành động của chúng ta” ",
-      "Khởi nghĩa giành chính quyền ở Hà Nội và các vùng lân cận ",
-      "Chủ tịch Hồ Chí Minh đọc bản “Tuyên ngôn Độc lập” ",
-      "Quốc khánh nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ",
-      "Ký Hiệp định sơ bộ Việt – Pháp ",
-      "Toàn quốc kháng chiến ",
-      "Khoảng 4000 năm trước :Có văn hóa Phùng Nguyên, đồ đồng xuất hiện ",
-      "Khoảng 3045 năm trước: Có văn hóa Gò Mun, thuộc Hậu kỳ thời đại đồng thau ",
-      "Chiến dịch \"Điện Biên Phủ trên không\" "
+      "tô hiến thành",
+      "phan kế bính",
+      "phan huy chú",
+      "đặng công chất",
+      "nguyễn trực"
     ]
   },
   "ha tinh": {
     "ten": "Hà Tĩnh",
+    "lichSu": "Hà Tĩnh là một tỉnh ven biển thuộc vùng Bắc Trung Bộ Việt Nam, cách thủ đô Hà Nội 340 km về phía nam, ở phía đông dãy Trường Sơn với địa hình hẹp, dốc và nghiêng từ tây sang đông.",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%A0_T%C4%A9nh",
       "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_h%C3%A0nh_ch%C3%ADnh_H%C3%A0_T%C4%A9nh",
@@ -169,26 +136,20 @@
       "http://hatinhcity.gov.vn/Articles/7/26/Thanh-pho-Ha-Tinh-theo-dong-lich-su.aspx"
     ],
     "suKien": [
-      "Kỷ niệm ngày Quốc tế lao động trên cả nước ",
-      "Khoảng hơn 4000 năm trước: Có văn hóa hậu kỳ đá mới ",
-      "Phan Đình Phùng ",
-      "Phan Đình Giót ",
-      "Hà Huy Giáp ",
-      "Lý Chính Thắng ",
-      "Lý Tự Trọng "
+      "kỷ niệm ngày quốc tế lao động trên cả nước",
+      "khoảng hơn 4000 năm trước: có văn hóa hậu kỳ đá mới"
     ],
     "nhanVat": [
-      "Phan Đình Phùng ",
-      "Phan Đình Giót ",
-      "Hà Huy Giáp ",
-      "Lý Chính Thắng ",
-      "Lý Tự Trọng ",
-      "Kỷ niệm ngày Quốc tế lao động trên cả nước ",
-      "Khoảng hơn 4000 năm trước: Có văn hóa hậu kỳ đá mới "
+      "phan đình phùng",
+      "phan đình giót",
+      "hà huy giáp",
+      "lý chính thắng",
+      "lý tự trọng"
     ]
   },
   "ho chi minh": {
     "ten": "Hồ Chí Minh",
+    "lichSu": "Thành phố Hồ Chí Minh ban đầu được gọi là Prey Nokor, thành phố sau đó hình thành nhờ công cuộc khai phá miền Nam của nhà Nguyễn. Năm 1698, theo lệnh Chúa Nguyễn, Nguyễn Hữu Cảnh vào Nam kinh lược lập ra phủ Gia Định để cai quản vùng đất mới phía Nam và lập ra hai huyện đầu tiên Phước Long và Tân Bình thuộc phủ Gia Định. Nhà cái MG188 – Một trong những nhà cái uy tín được đăng ký hợp pháp của Philippines và được chính cơ quan này công nhận là một nhà cái uy tín hàng đầu chất lượng và đáng tin cậy nhất.",
     "links": [
       "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
       "http://maxreading.com/sach-hay/gioi-thieu-ve-sai-gon/lich-su-phat-trien-33774.html",
@@ -199,46 +160,30 @@
       "http://dulichtoancau.com.vn/news/id-217/cid-8/Gioi-thieu-tong-quan-ve-TP-Ho-Chi-Minh.html"
     ],
     "suKien": [
-      "Quân Pháp đánh chiếm tỉnh thành Gia Định ",
-      "Phong trào “Đón Gôđa” ",
-      "Tổng thống Pháp ra sắc lệnh chính thức thành lập thành phố Sài Gòn ",
-      "Thành lập Hội Văn hóa cứu quốc ",
-      "Nhật đảo chính lật đổ Pháp trên toàn Đông Dương ",
-      "Khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn ",
-      "Thực dân Pháp đánh chiếm Sài Gòn Nhân dân Nam Bộ đứng lên chống thực dân Pháp trở lại xâm lược ",
-      "Ngày toàn quốc chống Mỹ ",
-      "Pháp giành quyền bảo hộ Nam kỳ ",
-      "Nguyễn Tri Phương thất thủ tại Đại đồn Chí Hòa ",
-      "Chiến dịch Hồ Chí Minh ",
-      "Tổng tiến công và nổi dậy Mậu Thân ",
-      "Huỳnh Mẫn Đạt ",
-      "6 Khải ",
-      "Vinh Sử ",
-      "Võ Trường Toản ",
-      "Trần Văn Chương "
+      "quân pháp đánh chiếm tỉnh thành gia định",
+      "phong trào “đón gôđa”",
+      "tổng thống pháp ra sắc lệnh chính thức thành lập thành phố sài gòn",
+      "thành lập hội văn hóa cứu quốc",
+      "nhật đảo chính lật đổ pháp trên toàn đông dương",
+      "khởi nghĩa giành chính quyền thắng lợi ở sài gòn",
+      "thực dân pháp đánh chiếm sài gòn nhân dân nam bộ đứng lên chống thực dân pháp trở lại xâm lược",
+      "ngày toàn quốc chống mỹ",
+      "pháp giành quyền bảo hộ nam kỳ",
+      "nguyễn tri phương thất thủ tại đại đồn chí hòa",
+      "chiến dịch hồ chí minh",
+      "tổng tiến công và nổi dậy mậu thân"
     ],
     "nhanVat": [
-      "Huỳnh Mẫn Đạt ",
-      "6 Khải ",
-      "Vinh Sử ",
-      "Võ Trường Toản ",
-      "Trần Văn Chương ",
-      "Quân Pháp đánh chiếm tỉnh thành Gia Định ",
-      "Phong trào “Đón Gôđa” ",
-      "Tổng thống Pháp ra sắc lệnh chính thức thành lập thành phố Sài Gòn ",
-      "Thành lập Hội Văn hóa cứu quốc ",
-      "Nhật đảo chính lật đổ Pháp trên toàn Đông Dương ",
-      "Khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn ",
-      "Thực dân Pháp đánh chiếm Sài Gòn Nhân dân Nam Bộ đứng lên chống thực dân Pháp trở lại xâm lược ",
-      "Ngày toàn quốc chống Mỹ ",
-      "Pháp giành quyền bảo hộ Nam kỳ ",
-      "Nguyễn Tri Phương thất thủ tại Đại đồn Chí Hòa ",
-      "Chiến dịch Hồ Chí Minh ",
-      "Tổng tiến công và nổi dậy Mậu Thân "
+      "huỳnh mẫn đạt",
+      "6 khải",
+      "vinh sử",
+      "võ trường toản",
+      "trần văn chương"
     ]
   },
   "hoa lu": {
     "ten": "Hoa Lư",
+    "lichSu": "Hoa Lư nay là xã Trường Yên, huyện Hoa Lư, tỉnh Ninh Bình, cách Hà Nội chừng 100km về phía Nam theo Quốc lộ 1A. Đây là kinh đô thuộc các triều đại nhà Đinh- Đinh Tiên Hoàng (968-980), nhà Tiền Lê-Lê Đại Hành (980-1009). Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế, gọi là Đinh Tiên Hoàng, đặt tên nước là Đại Cồ Việt và chọn Hoa Lư làm kinh đô của đất nước. Hoa Lư ghi các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm và phát tích quá trình định đô Hà Nội.",
     "links": [
       "https://vi.wikipedia.org/wiki/Hoa_L%C6%B0",
       "https://vi.wikipedia.org/wiki/Hoa_L%C6%B0,_Ninh_B%C3%ACnh",
@@ -247,183 +192,146 @@
       "http://www.congdoanbinhdinh.org.vn/home.php?view\u003ddetail\u0026id\u003d156"
     ],
     "suKien": [
-      "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua ",
-      "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư ",
-      "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long ",
-      "Nam Việt Vương Đinh Liễn giết Thái tử Hạng Lang ",
-      "Lý Thái Tông "
+      "đinh bộ lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua",
+      "lê hoàn lên ngôi, lập nhà tiền lê, đóng đô ở hoa lư",
+      "lý thái tổ dời đô về đại la, đổi tên thành thăng long",
+      "nam việt vương đinh liễn giết thái tử hạng lang"
     ],
     "nhanVat": [
-      "Lý Thái Tông ",
-      "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua ",
-      "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư ",
-      "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long ",
-      "Nam Việt Vương Đinh Liễn giết Thái tử Hạng Lang "
+      "lý thái tông"
     ]
   },
   "nghe an": {
     "ten": "Nghệ An",
+    "lichSu": "Nghệ An thuộc vùng Bắc Trung Bộ Việt Nam, trung tâm hành chính của Nghệ An là thành phố Vinh, nằm cách thủ đô Hà Nội 291 km về phía nam. Thời Bắc thuộc, Nghệ An và Hà Tĩnh cùng có tên là Hoan Châu, đến đời nhà Lý, Trần đổi thành Nghệ An châu, có tên là xứ Nghệ vào năm 1490, đời vua Lê Thánh Tông, rồi trấn Nghệ An. Năm 1831, vua Minh Mệnh chia trấn Nghệ An thành 2 tỉnh: Nghệ An và Hà Tĩnh . Năm 1976 đến 1991, Nghệ An và Hà Tĩnh sáp nhập thành một tỉnh Nghệ Tĩnh. Từ năm 1991, lại tách ra thành 2 tỉnh là Nghệ An và Hà Tĩnh.",
     "links": [
       "http://www.vietnam-tourism.com/nghean/v_pages/overview.asp?uid\u003d29",
       "http://dulichnghean.vn/?x\u003d1/du-lich-nghe-an/lich-su-nghe-an",
       "https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_An"
     ],
     "suKien": [
-      "Cuộc khởi nghĩa Trần Ngỗi ",
-      "Cuộc khởi nghĩa Trần Quý Khoáng ",
-      "Khởi nghĩa Lam Sơn ",
-      "Quân Lam Sơn giải phóng Nghệ An ",
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Nhà Mạc sụp đổ ",
-      "Khởi nghĩa Nguyễn Hữu Cầu ",
-      "Vua Quang Trung đại phá quân Thanh ",
-      "Kỷ niệm ngày Quốc tế lao động trên cả nước ",
-      "Nguyễn Trường Tộ đề cử hai phương sách chống Pháp ",
-      "Ngày Sinh Chủ Tịch Hồ Chí Minh ",
-      "Cuộc nổi dậy của binh lính Đô Lương ",
-      "Khoảng 14 vạn năm trước: Phát hiện răng người vượn ở hang Thẩm Ồm ",
-      "Chủ tịch Hồ Chí Minh ",
-      "Tạ Quang Bửu ",
-      "Bạch Liêu ",
-      "Hồ Xuân Hương ",
-      "Nguyễn Minh Châu "
+      "cuộc khởi nghĩa trần ngỗi",
+      "cuộc khởi nghĩa trần quý khoáng",
+      "khởi nghĩa lam sơn",
+      "quân lam sơn giải phóng nghệ an",
+      "quân lam sơn giải phóng tân bình, thuận hóa và tiến quân ra bắc",
+      "nhà mạc sụp đổ",
+      "khởi nghĩa nguyễn hữu cầu",
+      "vua quang trung đại phá quân thanh",
+      "kỷ niệm ngày quốc tế lao động trên cả nước",
+      "nguyễn trường tộ đề cử hai phương sách chống pháp",
+      "ngày sinh chủ tịch hồ chí minh",
+      "cuộc nổi dậy của binh lính đô lương",
+      "khoảng 14 vạn năm trước: phát hiện răng người vượn ở hang thẩm ồm"
     ],
     "nhanVat": [
-      "Chủ tịch Hồ Chí Minh ",
-      "Tạ Quang Bửu ",
-      "Bạch Liêu ",
-      "Hồ Xuân Hương ",
-      "Nguyễn Minh Châu ",
-      "Cuộc khởi nghĩa Trần Ngỗi ",
-      "Cuộc khởi nghĩa Trần Quý Khoáng ",
-      "Khởi nghĩa Lam Sơn ",
-      "Quân Lam Sơn giải phóng Nghệ An ",
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Nhà Mạc sụp đổ ",
-      "Khởi nghĩa Nguyễn Hữu Cầu ",
-      "Vua Quang Trung đại phá quân Thanh ",
-      "Kỷ niệm ngày Quốc tế lao động trên cả nước ",
-      "Nguyễn Trường Tộ đề cử hai phương sách chống Pháp ",
-      "Ngày Sinh Chủ Tịch Hồ Chí Minh ",
-      "Cuộc nổi dậy của binh lính Đô Lương ",
-      "Khoảng 14 vạn năm trước: Phát hiện răng người vượn ở hang Thẩm Ồm "
+      "chủ tịch hồ chí minh",
+      "tạ quang bửu",
+      "bạch liêu",
+      "hồ xuân hương",
+      "nguyễn minh châu"
     ]
   },
   "quang binh": {
     "ten": "Quảng Bình",
+    "lichSu": "Các tên gọi cũ của Quảng Bình này gồm: Lâm Bình, Tiên Bình, Tây Bình, Tân Bình, là một tỉnh duyên hải thuộc vùng Bắc Trung Bộ Việt Nam. Các khai quật khảo cổ ở khu vực đã chứng tỏ rằng đã có loài người sinh sống ở khu vực này từ thời kỳ đồ đá. Nhiều hiện vật như bình sử, sành, công cụ lao động đã được phát hiện ở đây",
     "links": [
       "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_B%C3%ACnh",
       "http://www.quangbinh.gov.vn/3cms/?cmd\u003d130\u0026art\u003d1187249284535\u0026cat\u003d1134185256416",
       "http://www.quangbinhtourism.vn/Tai-nguyen-du-lich/Di-tich-lich-su.aspx"
     ],
     "suKien": [
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Trận Tốt Động – Chúc Động ",
-      "Khoảng hơn 4000 năm trước: Có văn hóa hậu kỳ đá mới ",
-      "Trận Lũy Thầy ",
-      "Võ Nguyên Giáp ",
-      "Hàn Mặc Tử ",
-      "Trần Đình Xu ",
-      "Ngô Đình Khôi ",
-      "Ngô Đình Khả "
+      "quân lam sơn giải phóng tân bình, thuận hóa và tiến quân ra bắc",
+      "trận tốt động – chúc động",
+      "khoảng hơn 4000 năm trước: có văn hóa hậu kỳ đá mới",
+      "trận lũy thầy"
     ],
     "nhanVat": [
-      "Võ Nguyên Giáp ",
-      "Hàn Mặc Tử ",
-      "Trần Đình Xu ",
-      "Ngô Đình Khôi ",
-      "Ngô Đình Khả ",
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Trận Tốt Động – Chúc Động ",
-      "Khoảng hơn 4000 năm trước: Có văn hóa hậu kỳ đá mới ",
-      "Trận Lũy Thầy "
+      "võ nguyên giáp",
+      "hàn mặc tử",
+      "trần đình xu",
+      "ngô đình khôi",
+      "ngô đình khả"
     ]
   },
   "quang tri": {
     "ten": "Quảng Trị",
+    "lichSu": "Quảng Trị là một tỉnh ven biển thuộc vùng Bắc Trung Bộ Việt Nam. Từ thời Hùng Vương - An Dương Vương, vùng Quảng Trị ngày nay được cho là thuộc lãnh địa bộ Việt Thường của Nhà nước Văn Lang - Âu Lạc. Đầu thời Hán thuộc (từ năm 179 Trước Công nguyên đến năm 192), Quảng Trị thuộc đất quận Nhật Nam.",
     "links": [
       "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Tr%E1%BB%8B",
       "http://quangtrinet.com/4rum/threads/43961/"
     ],
     "suKien": [
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước ",
-      "Khoảng 2 vạn 1 nghìn năm trước: Có văn hóa Sơn Vi ",
-      "Tổng tiến công và nổi dậy Mậu Thân ",
-      "Chiến dịch Đường 9 - Nam Lào ",
-      "Chiến dịch Trị - Thiên ",
-      "Chiến dịch phòng ngự Quảng Trị ",
-      "Trần Hoàn ",
-      "Chế Lan Viên ",
-      "Trần Hữu Dực ",
-      "Nguyễn Hữu Bài ",
-      "Đặng Thí "
+      "quân lam sơn giải phóng tân bình, thuận hóa và tiến quân ra bắc",
+      "nhà nguyễn sắp xếp lại đơn vị hành chính trong cả nước",
+      "khoảng 2 vạn 1 nghìn năm trước: có văn hóa sơn vi",
+      "tổng tiến công và nổi dậy mậu thân",
+      "chiến dịch đường 9 - nam lào",
+      "chiến dịch trị - thiên",
+      "chiến dịch phòng ngự quảng trị"
     ],
     "nhanVat": [
-      "Trần Hoàn ",
-      "Chế Lan Viên ",
-      "Trần Hữu Dực ",
-      "Nguyễn Hữu Bài ",
-      "Đặng Thí ",
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước ",
-      "Khoảng 2 vạn 1 nghìn năm trước: Có văn hóa Sơn Vi ",
-      "Tổng tiến công và nổi dậy Mậu Thân ",
-      "Chiến dịch Đường 9 - Nam Lào ",
-      "Chiến dịch Trị - Thiên ",
-      "Chiến dịch phòng ngự Quảng Trị "
+      "trần hoàn",
+      "chế lan viên",
+      "trần hữu dực",
+      "nguyễn hữu bài",
+      "đặng thí"
     ]
   },
   "song bach dang": {
     "ten": "Sông Bạch Đằng",
+    "lichSu": "Sông Bạch Đằng, còn gọi là Bạch Đằng Giang, hiệu là sông Vân Cừ, là một con sông chảy giữa thị xã Quảng Yên (Quảng Ninh) và huyện Thủy Nguyên (Hải Phòng), cách vịnh Hạ Long, cửa Lục khoảng 40 km. Nó nằm trong hệ thống sông Thái Bình, có vị trí quan trọng và mang dấu ấn sâu đậm trong suốt chiều dài lịch sử, văn hoá ngàn năm. Sông Bạch Đằng nổi tiếng với 3 chiến công của dân tộc Việt Nam: Trận thủy chiến của Ngô Quyền trên sông Bạch Đằng năm 938 đánh thắng quân xâm lược Nam Hán, trận thủy chiến sông Bạch Đằng của Hoàng đế Lê Đại Hành năm 981 đập tan quân Tống và trận thủy chiến sông Bạch Đằng năm 1288 do Hưng Đạo Vương Trần Quốc Tuấn chỉ huy đánh tan quân xâm lược Nguyên.",
     "links": [
       "https://vi.wikipedia.org/wiki/S%C3%B4ng_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng",
       "http://baoquangninh.com.vn/van-hoa/201210/Song-Bach-dang-va-vi-the-lich-su-2179247/",
       "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Y%C3%AAn_(th%E1%BB%8B_x%C3%A3)"
     ],
     "suKien": [
-      "Chiến thắng quân Nguyên lần ba ",
-      "Chiến Thắng Bạch Đằng năm 1288 ",
-      "Ngô Quyền khởi nghĩa đánh bại quân xâm lược Nam Hán trên sông Bạch Đằng "
+      "chiến thắng quân nguyên lần ba",
+      "chiến thắng bạch đằng năm 1288",
+      "ngô quyền khởi nghĩa đánh bại quân xâm lược nam hán trên sông bạch đằng"
     ]
   },
   "song cau": {
     "ten": "Sông Cầu",
+    "lichSu": "Sông Cầu hay còn gọi là sông Như Nguyệt, sông Thị Cầu, sông Nguyệt Đức (xưa kia còn có tên là sông Vũ Bình), là con sông quan trọng nhất trong hệ thống sông Thái Bình, dòng sông có tổng chiều dài 290km bắt nguồn từ núi Văn Ôn, chảy qua nhiều làng mạc, cuối cùng hợp lưu với sông Thương để tạo thành sông Thái Bình. Sông Như Nguyệt là nơi diễn ra trận đánh nổi tiếng của quân đội nhà Lý dưới sự chỉ của danh tướng Lý Thường Kiệt, là minh chứng về trận đánh Như Nguyệt hào hùng đã đánh đuổi 10 vạn quân bắc Tống do Quách Quỳ làm chỉ huy.",
     "links": [
       "https://vi.wikipedia.org/wiki/S%C3%B4ng_C%E1%BA%A7u",
       "http://hiephoa.net/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d3489:a386\u0026catid\u003d81:van-hoa\u0026Itemid\u003d516"
     ],
     "suKien": [
-      "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi "
+      "lý thường kiệt lãnh đạo kháng chiến chống tống thắng lợi"
     ]
   },
   "thang long": {
     "ten": "Thăng Long",
+    "lichSu": "Thăng Long là kinh đô của nước Đại Việt thời Lý, Trần, Lê, Mạc, Lê Trung hưng. Năm 1010, tương truyền khi vua Lý Công Uẩn rời kinh đô từ Hoa Lư đến đất Đại La thì thấy rồng bay lên nên gọi tên kinh đô mới là Thăng Long, hay \"rồng bay lên\" theo nghĩa Hán Việt. Trong suốt thời kỳ của các triều đại Lý, Trần, Lê, Mạc, kinh thành Thăng Long là nơi buôn bán, trung tâm văn hóa, giáo dục của cả miền Bắc. Khi Tây Sơn rồi nhà Nguyễn lên nắm quyền trị vì, kinh đô được chuyển về Huế và Thăng Long bắt đầu mang tên Hà Nội từ năm 1831, dưới thời vua Minh Mạng.",
     "links": [
       "https://vi.wikipedia.org/wiki/Th%C4%83ng_Long",
       "https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i"
     ],
     "suKien": [
-      "Trận Hàm Tử ",
-      "Chiến thắng quân Nguyên lần ba ",
-      "Chiến Thắng Bạch Đằng năm 1288 ",
-      "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ ",
-      "Cuộc xâm lược của nhà Minh 1406-1407 ",
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Trận Tốt Động – Chúc Động ",
-      "Trận Chi Lăng – Xương Giang ",
-      "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt ",
-      "Khởi Nghĩa Trần Cảo ",
-      "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều ",
-      "Nhà Mạc sụp đổ ",
-      "Khởi nghĩa Nguyễn Hữu Cầu ",
-      "Tây Sơn lật đổ chính quyền họ Trịnh ",
-      "Quân Thanh xâm lược nước ta ",
-      "Vua Quang Trung đại phá quân Thanh "
+      "trận hàm tử",
+      "chiến thắng quân nguyên lần ba",
+      "chiến thắng bạch đằng năm 1288",
+      "hồ quý ly lật đổ nhà trần, lập nhà hồ",
+      "cuộc xâm lược của nhà minh 1406-1407",
+      "quân lam sơn giải phóng tân bình, thuận hóa và tiến quân ra bắc",
+      "trận tốt động – chúc động",
+      "trận chi lăng – xương giang",
+      "lê lợi lên ngôi vua ở đông đô, đặt lại quốc hiệu là đại việt",
+      "khởi nghĩa trần cảo",
+      "thời kì lê – mạc và cuộc chiến tranh nam – bắc triều",
+      "nhà mạc sụp đổ",
+      "khởi nghĩa nguyễn hữu cầu",
+      "tây sơn lật đổ chính quyền họ trịnh",
+      "quân thanh xâm lược nước ta",
+      "vua quang trung đại phá quân thanh"
     ]
   },
   "thanh hoa": {
     "ten": "Thanh Hóa",
+    "lichSu": "Thanh Hóa là tỉnh thuốc miền Trung Việt Nam, cách thủ đô Hà Nội khoảng 140 km về phía Nam. Thanh Hoá là vùng đất có từ lâu đời, một trong những cái nôi của dân tộc Việt Nam. Ngay từ thời tiền sử vùng đất này đã có người sinh sống. Qua những công cụ thô sơ trong những xưởng chế tác đá công cụ Núi Ðọ (Thanh Hoá) cho thấy, người tiền sử đã sinh sống trên mảnh đất này từ thời đại đồ đá cũ. Ngoài ra, các nhà khảo cổ học còn tìm thấy nhiều công cụ đồ đá đẽo gọt tinh xảo ở Thiệu Dương (Thiệu Hoá), Ða Bút (Vĩnh Lộc),v.v.. Phát triển hơn nữa, nền văn hoá đồ đồng Ðông Sơn với trống đồng và các loại đồ đồng tinh xảo khác không chỉ nổi tiếng ở Việt Nam, ở Ðông Nam á mà còn được cả thế giới biết đến.",
     "links": [
       "https://vi.wikipedia.org/wiki/Thanh_H%C3%B3a",
       "http://svhttdl.thanhhoa.gov.vn/Main.aspx?MNU\u003d1217\u0026chitiet\u003d875\u0026Style\u003d1",
@@ -432,78 +340,67 @@
       "http://svhttdl.thanhhoa.gov.vn/Main.aspx?MNU\u003d1217\u0026chitiet\u003d873\u0026Style\u003d1"
     ],
     "suKien": [
-      "Khởi nghĩa Bà Triệu ",
-      "Cuộc khởi nghĩa Trần Quý Khoáng ",
-      "Khởi nghĩa Lam Sơn ",
-      "Quân Lam Sơn giải phóng Nghệ An ",
-      "Khởi Nghĩa Trần Cảo ",
-      "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều ",
-      "Nhà Mạc sụp đổ ",
-      "Khởi nghĩa Nguyễn Hữu Cầu ",
-      "Khoảng 6000 năm trước: Phát hiện di chỉ Đa Bút – Quỳnh Văn ",
-      "Khoảng 2820 năm trước: Có văn hóa Đông Sơn Đồ đồng phát triển rực rỡ ",
-      "Đào Duy Anh ",
-      "Tôn Thất Tùng ",
-      "Trịnh Cương ",
-      "Đinh Lễ ",
-      "Đinh Liệt "
+      "khởi nghĩa bà triệu",
+      "cuộc khởi nghĩa trần quý khoáng",
+      "khởi nghĩa lam sơn",
+      "quân lam sơn giải phóng nghệ an",
+      "khởi nghĩa trần cảo",
+      "thời kì lê – mạc và cuộc chiến tranh nam – bắc triều",
+      "nhà mạc sụp đổ",
+      "khởi nghĩa nguyễn hữu cầu",
+      "khoảng 6000 năm trước: phát hiện di chỉ đa bút – quỳnh văn",
+      "khoảng 2820 năm trước: có văn hóa đông sơn đồ đồng phát triển rực rỡ"
     ],
     "nhanVat": [
-      "Đào Duy Anh ",
-      "Tôn Thất Tùng ",
-      "Trịnh Cương ",
-      "Đinh Lễ ",
-      "Đinh Liệt ",
-      "Khởi nghĩa Bà Triệu ",
-      "Cuộc khởi nghĩa Trần Quý Khoáng ",
-      "Khởi nghĩa Lam Sơn ",
-      "Quân Lam Sơn giải phóng Nghệ An ",
-      "Khởi Nghĩa Trần Cảo ",
-      "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều ",
-      "Nhà Mạc sụp đổ ",
-      "Khởi nghĩa Nguyễn Hữu Cầu ",
-      "Khoảng 6000 năm trước: Phát hiện di chỉ Đa Bút – Quỳnh Văn ",
-      "Khoảng 2820 năm trước: Có văn hóa Đông Sơn Đồ đồng phát triển rực rỡ "
+      "đào duy anh",
+      "tôn thất tùng",
+      "trịnh cương",
+      "đinh lễ",
+      "đinh liệt"
     ]
   },
   "thanh tay do": {
     "ten": "Thành Tây Đô",
+    "lichSu": "Năm 1397, Hồ Quý Ly một quyền thần của nhà Trần cho xây dựng thành Tây Đô. Thành xây trên địa phận hai thôn Tây Giai, Xuân Giai nay thuộc xã Vĩnh Tiến và thôn Đông Môn nay thuộc xã Vĩnh Long, huyện Vĩnh Lộc, tỉnh Thanh Hoá.",
     "links": [
       "https://vi.wikipedia.org/wiki/Th%C3%A0nh_nh%C3%A0_H%E1%BB%93",
       "https://vi.wikipedia.org/wiki/T%C3%A2y_%C4%90%C3%B4"
     ],
     "suKien": [
-      "Nhà Mạc sụp đổ "
+      "nhà mạc sụp đổ"
     ]
   },
   "thuan hoa": {
     "ten": "Thuận Hóa",
+    "lichSu": "Thuận Hóa là địa danh hành chính cũ của vùng đất bao gồm Quảng Bình, Quảng Trị, Thừa Thiên-Huế. Đây nguyên là đất các châu Bố Chính, Địa Lý, Ma Linh, Châu Ô, Châu Ri (hay Lý) của Chiêm Thành.",
     "links": [
       "https://vi.wikipedia.org/wiki/Thu%E1%BA%ADn_H%C3%B3a",
       "http://www1.thuathienhue.gov.vn/portal_ge/Views/Default.aspx?OneID\u003d7",
       "https://vi.wikipedia.org/wiki/Th%E1%BB%ABa_Thi%C3%AAn_-_Hu%E1%BA%BF"
     ],
     "suKien": [
-      "Khởi nghĩa Lam Sơn ",
-      "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
-      "Trận Tốt Động – Chúc Động ",
-      "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng ",
-      "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập "
+      "khởi nghĩa lam sơn",
+      "quân lam sơn giải phóng tân bình, thuận hóa và tiến quân ra bắc",
+      "trận tốt động – chúc động",
+      "chiến tranh trịnh-nguyễn, đất nước bị chia cắt thành hai vùng",
+      "nguyễn ánh lên ngôi, triều đình nhà nguyễn thành lập"
     ]
   },
   "van don": {
     "ten": "Vân Đồn",
+    "lichSu": "Vân Đồn là một huyện đảo của tỉnh Quảng Ninh, Việt Nam. Nơi đây diễn ra trận Vân Đồn năm 1288 gắn liền với tên tuổi của danh tướng Trần Khánh Dư đánh tan đoàn thuyền lương của Trương Văn Hổ, góp phần quan trọng vào chiến thắng chung của trận Bạch Đằng năm 1288.",
     "links": [
       "https://vi.wikipedia.org/wiki/V%C3%A2n_%C4%90%E1%BB%93n",
       "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ninh"
     ],
     "suKien": [
-      "Chiến thắng quân Nguyên lần ba ",
-      "Trận Vân Đồn "
+      "chiến thắng quân nguyên lần ba",
+      "trận vân đồn"
     ]
   },
   "viet tri": {
     "ten": "Việt Trì",
+    "lichSu": "Việt Trì là trung tâm chính trị, hành chính và kinh tế, xã hội của tỉnh Phú Thọ và trung tâm của liên tỉnh phía bắc, nằm ở phía đông của tỉnh, bên tả ngạn sông Hồng, bên kia là huyện Ba Vì, Hà Nội. Đây là nơi có kinh đô Văn Lang - Kinh đô đầu tiên của người Việt, quê hương đất tổ vua Hùng. Tháng ba âm lịch hàng năm, vào dịp Giỗ tổ Hùng Vương, hàng triệu con cháu Lạc Hồng từ khắp cả nước lại nô nức về núi Nghĩa Lĩnh nằm tại địa phận thôn Cổ Tích - xã Hi Cương - Việt Trì để thăm viếng tổ tông",
     "links": [
       "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Tr%C3%AC",
       "http://www.vietnamplus.vn/dang-huong-tuong-nho-cac-vua-hung-tai-den-hung/196870.vnp",

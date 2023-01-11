@@ -21,7 +21,6 @@ public class Diadiem_Links {
 
     public static ArrayList<String> getDiaDiem_TVLS() throws IOException {
         Diadiem_Links.setDiaDiem_TVLS();
-        printLinks(diaDiem_TVLS);
         return diaDiem_TVLS;
     }
 

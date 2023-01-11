@@ -35,11 +35,11 @@ public class DiaDiemTest {
         writer = Files.newBufferedWriter(path);
         gson.toJson(m2, writer);
         writer.close();
-
-        Map m3 = DiSan.getInfo_Wiki();
-        path = Paths.get("DiSan.json");
-        writer = Files.newBufferedWriter(path);
-        gson.toJson(m3, writer);
-        writer.close();
+//
+//        Map m3 = DiSan.getInfo_Wiki();
+//        path = Paths.get("DiSan.json");
+//        writer = Files.newBufferedWriter(path);
+//        gson.toJson(m3, writer);
+//        writer.close();
     }
 }

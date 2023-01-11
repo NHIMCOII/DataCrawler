@@ -70,12 +70,12 @@ public class DiaDiem {
 					.get();
 			DiaDiem diadiem = new DiaDiem();
 			Elements info = doc.select("div[class=col-12 col-md-8]");
+			Element lichSuTag = info.select("div[class=divide-tag]").get(1);
+
 			if(info.size() != 0) {
 				Elements headers = doc.getElementsByClass("header-edge");
+				diadiem.lichSu = lichSuTag.selectFirst("div[class=card-body]").text();
 				for(Element header: headers) {
-					if(diadiem.lichSu == null && header.text().equals("Diễn biễn lịch sử ")) {
-						diadiem.lichSu = header.parent().parent().select("div[class=card-body]").text();
-					}
 					if(header.text().equals("Tài liệu tham khảo")) {
 						diadiem.links = new ArrayList<>();
 						Elements links = header.parent().parent()
@@ -85,34 +85,47 @@ public class DiaDiem {
 						}
 					}
 					if(header.text().equals("Sự kiện liên quan")) {
-						Elements links = header.parents().parents()
-								.select("div[class=card]");
+						Elements links = header.parents().nextAll("div[class=card]");
 						if (links.size() != 0) {
 							diadiem.suKien = new ArrayList<>();
 						}
 						for(Element link: links) {
 							int index = link.select("h4[class=card-title]").text().indexOf("(");
 							if (index > 0) {
-								diadiem.addSuKien(link.select("h4[class=card-title]")
+								diadiem.addSuKien(
+										link.select("h4[class=card-title]")
 										.text()
-										.substring(0, index));
+										.substring(0, index - 1)
+										.trim()
+										.toLowerCase()
+								);
 							} else {
-								diadiem.addSuKien(link.select("h4[class=card-title]").text());
+								diadiem.addSuKien(
+										link.select("h4[class=card-title]").text()
+										.trim()
+										.toLowerCase()
+								);
 							}
 						}
 					}
 					if(header.text().equals("Nhân vật liên quan")) {
-						Elements links = header.parents().parents()
-								.select("div[class=card]");
+						Elements links = header.parents().nextAll("div[class=card]");
 						diadiem.nhanVat = new ArrayList<>();
 						for(Element link: links) {
 							int index = link.select("h4[class=card-title]").text().indexOf("(");
 							if (index > 0) {
 								diadiem.addNhanVat(link.select("h4[class=card-title]")
 										.text()
-										.substring(0, index));
+										.substring(0, index - 1)
+										.trim()
+										.toLowerCase()
+								);
 							} else {
-								diadiem.addNhanVat(link.select("h4[class=card-title]").text());
+								diadiem.addNhanVat(
+										link.select("h4[class=card-title]").text()
+										.trim()
+										.toLowerCase()
+								);
 							}
 						}
 					}

@@ -48,27 +48,42 @@ public class DiTich extends DiaDiem {
 				.ignoreContentType(true)
 				.timeout(0)
 				.get();
-		Elements khuVuc = document.select("h3").select("span[class=mw-headline]");
+		Elements khuVuc = document.select("h3");
 		Elements tables = document.select("table[class=wikitable sortable]");
 		for (int i = 0; i < khuVuc.size(); i++) {
-			String khuVucTen = khuVuc.get(i).text();
+			String khuVucTen = khuVuc.get(i).select("span[class=mw-headline]").text();
 			Element tbody = tables.get(i).selectFirst("tbody");
 			Elements infos = tbody.select("tr");
 			for(int j = 0; j < infos.size(); j++) {
 				DiTich diTich = new DiTich();
 				Elements infoos = infos.get(j).select("td");
-				if(infoos.size() > 0) {
-					if(diTich.ten == null && infoos.get(0) != null) {
+				if(infoos.size() == 5) {
+					if(infoos.get(0) != null) {
 						diTich.ten = infoos.get(0).text();
-					} else if(diTich.viTri == null && infoos.get(1) != null) {
-						diTich.viTri = infos.get(1).select("td").get(1).text();
-					} else if(diTich.loai == null && infoos.get(2) != null) {
+					}
+					if(infoos.get(1) != null) {
+						diTich.viTri = infoos.get(1).text();
+					}
+					if(infoos.get(2) != null) {
 						diTich.loai = infoos.get(2).text();
-					} else if(diTich.namCongNhan == null && infoos.get(3) != null) {
+					}
+					if(infoos.get(3) != null) {
 						diTich.namCongNhan = infoos.get(3).text();
+					} else {
+						diTich.namCongNhan = "?";
 					}
 					diTich.khuVuc = khuVucTen;
 					m.put(Diadiem_Links.removeAccent(diTich.ten.trim().toLowerCase()), diTich);
+				} else if (infoos.size() == 4) {
+					if(infoos.get(1) != null) {
+						diTich.ten = infoos.get(1).text();
+					}
+					if(infoos.get(2) != null) {
+						diTich.viTri = infoos.get(2).text();
+					}
+					if(infoos.get(3) != null) {
+						diTich.loai = infoos.get(3).text();
+					}
 				}
 			}
 		}
