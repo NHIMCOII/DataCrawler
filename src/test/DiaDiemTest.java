@@ -19,27 +19,24 @@ public class DiaDiemTest {
     public static void main(String[] args) throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map m = DiaDiem.getInfo_TVLS(Diadiem_Links.getDiaDiem_TVLS());
+        Map m1 = DiaDiem.getInfo_Wiki();
+        Map m2 = DiTich.getInfo_Wiki();
+        Map m3 = DiSan.getInfo_Wiki();
+
+        m1.forEach((key, value) -> m.merge(key, value, (oldVal, newVal) -> {
+            return DiaDiem.mergeRule(oldVal, newVal);
+        }));
+
+        m2.forEach((key, value) -> m.merge(key, value, (oldVal, newVal) -> {
+            return DiTich.mergeRule(oldVal, newVal);
+        }));
+
+        m3.forEach((key, value) -> m.merge(key, value, (oldVal, newVal) -> {
+            return DiSan.mergeRule(oldVal, newVal);
+        }));
 
         Writer writer = Files.newBufferedWriter(Paths.get("DiaDiem.json"));
         gson.toJson(m, writer);
         writer.close();
-
-        Map m1 = DiaDiem.getInfo_Wiki();
-        Path path = Paths.get("DiaDiem2.json");
-        writer = Files.newBufferedWriter(path);
-        gson.toJson(m1, writer);
-        writer.close();
-
-        Map m2 = DiTich.getInfo_Wiki();
-        path = Paths.get("DiTich.json");
-        writer = Files.newBufferedWriter(path);
-        gson.toJson(m2, writer);
-        writer.close();
-//
-//        Map m3 = DiSan.getInfo_Wiki();
-//        path = Paths.get("DiSan.json");
-//        writer = Files.newBufferedWriter(path);
-//        gson.toJson(m3, writer);
-//        writer.close();
     }
 }

@@ -20,22 +20,13 @@ public class DiTich extends DiaDiem {
 	public DiTich() {
 		// TODO Auto-generated constructor stub
 	}
+
 	public DiTich(String ten, String lichSu, String khuVuc, String namThanhLap, String dienTich, String viTri, String loai,
 				  String namCongNhan) {
 		super(ten, lichSu, khuVuc, namThanhLap, dienTich);
 		this.viTri = viTri;
 		this.loai = loai;
 		this.namCongNhan = namCongNhan;
-	}
-
-	public String getViTri() {
-		return viTri;
-	}
-	public String getLoai() {
-		return loai;
-	}
-	public String getNamCongNhan() {
-		return namCongNhan;
 	}
 
 	public static Map getInfo_Wiki() throws IOException {
@@ -54,20 +45,20 @@ public class DiTich extends DiaDiem {
 			String khuVucTen = khuVuc.get(i).select("span[class=mw-headline]").text();
 			Element tbody = tables.get(i).selectFirst("tbody");
 			Elements infos = tbody.select("tr");
-			for(int j = 0; j < infos.size(); j++) {
+			for (int j = 0; j < infos.size(); j++) {
 				DiTich diTich = new DiTich();
 				Elements infoos = infos.get(j).select("td");
-				if(infoos.size() == 5) {
-					if(infoos.get(0) != null) {
+				if (infoos.size() == 5) {
+					if (infoos.get(0) != null) {
 						diTich.ten = infoos.get(0).text();
 					}
-					if(infoos.get(1) != null) {
+					if (infoos.get(1) != null) {
 						diTich.viTri = infoos.get(1).text();
 					}
-					if(infoos.get(2) != null) {
+					if (infoos.get(2) != null) {
 						diTich.loai = infoos.get(2).text();
 					}
-					if(infoos.get(3) != null) {
+					if (infoos.get(3) != null) {
 						diTich.namCongNhan = infoos.get(3).text();
 					} else {
 						diTich.namCongNhan = "?";
@@ -75,13 +66,13 @@ public class DiTich extends DiaDiem {
 					diTich.khuVuc = khuVucTen;
 					m.put(Diadiem_Links.removeAccent(diTich.ten.trim().toLowerCase()), diTich);
 				} else if (infoos.size() == 4) {
-					if(infoos.get(1) != null) {
+					if (infoos.get(1) != null) {
 						diTich.ten = infoos.get(1).text();
 					}
-					if(infoos.get(2) != null) {
+					if (infoos.get(2) != null) {
 						diTich.viTri = infoos.get(2).text();
 					}
-					if(infoos.get(3) != null) {
+					if (infoos.get(3) != null) {
 						diTich.loai = infoos.get(3).text();
 					}
 				}
@@ -89,20 +80,37 @@ public class DiTich extends DiaDiem {
 		}
 		return m;
 	}
-	
+
 	public static DiTich mergeRule(Object oldVal, Object newVal) {
-		DiTich v2 = (DiTich) newVal;
-		DiTich v1 = (DiTich) DiaDiem.mergeRule(oldVal, newVal);
-		if (v1.viTri == null || v1.viTri.equals("?")) {
-            v1.viTri = v2.viTri;
-        }
-		if (v1.loai == null || v1.loai.equals("?")) {
-            v1.loai = v2.loai;
-        }
-		if (v1.namCongNhan == null || v1.namCongNhan.equals("?")) {
-            v1.namCongNhan = v2.namCongNhan;
-        }
-		return v1;
+		DiTich result = (DiTich) DiaDiem.mergeRule(newVal, oldVal);
+
+		if (oldVal instanceof DiTich) {
+			DiTich v2 = (DiTich) newVal;
+			DiTich v1 = (DiTich) DiaDiem.mergeRule(oldVal, newVal);
+			if (v1.viTri == null || v1.viTri.equals("?")) {
+				v1.viTri = v2.viTri;
+			}
+			if (v1.loai == null || v1.loai.equals("?")) {
+				v1.loai = v2.loai;
+			}
+			if (v1.namCongNhan == null || v1.namCongNhan.equals("?")) {
+				v1.namCongNhan = v2.namCongNhan;
+			}
+			return v1;
+		}
+		return result;
+	}
+
+	public String getViTri() {
+		return viTri;
+	}
+
+	public String getLoai() {
+		return loai;
+	}
+
+	public String getNamCongNhan() {
+		return namCongNhan;
 	}
 
 
