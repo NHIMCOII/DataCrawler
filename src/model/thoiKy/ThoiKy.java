@@ -1,4 +1,4 @@
-package dataCrawler.model.thoiKy;
+package model.thoiKy;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

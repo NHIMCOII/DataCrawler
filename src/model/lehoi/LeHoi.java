@@ -1,4 +1,4 @@
-package dataCrawler.model.lehoi;
+package model.lehoi;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package dataCrawler.model.sukien;
+package model.sukien;
 
 
 public class ChienTranh extends SuKien {

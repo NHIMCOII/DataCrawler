@@ -1,4 +1,4 @@
-package dataCrawler.model.nhanvat;
+package model.nhanvat;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -46,7 +46,7 @@ public class Vua extends NhanVat {
             vua.addLink(url);
             if (doc.selectFirst(".mw-page-title-main") != null) {
                 vua.ten = doc.selectFirst(".mw-page-title-main").text();
-                vua.chucVu = "Vua";
+                vua.chucVu = "Vua Chúa";
             }
 //            vua.ten = doc.selectFirst("div.page-header h1").text();
             Element info = doc.selectFirst(".infobox");
@@ -161,6 +161,7 @@ public class Vua extends NhanVat {
     public static Vua mergeRule(Object oldVal, Object newVal) {
         Vua result = (Vua) NhanVat.mergeRule(newVal, oldVal);
         if (oldVal instanceof Vua) {
+            // Only when merge 2 Vua
             Vua v2 = (Vua) newVal;
             Vua v1 = (Vua) NhanVat.mergeRule(oldVal, newVal);
             if (v1.triVi == null || v1.triVi.equals("?")) {

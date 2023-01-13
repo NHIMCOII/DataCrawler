@@ -1,4 +1,4 @@
-package dataCrawler.model.diadiem;
+package model.diadiem;
 
 
 public class DiTich extends DiaDiem {

@@ -1,4 +1,4 @@
-package dataCrawler.model.nhanvat;
+package model.nhanvat;
 
 
 public class ChuTichNuoc extends NhanVat {

@@ -1,4 +1,4 @@
-package dataCrawler.model.nhanvat;
+package model.nhanvat;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

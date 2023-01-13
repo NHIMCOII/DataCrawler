@@ -1,4 +1,4 @@
-package dataCrawler.model.sukien;
+package model.sukien;
 
 import java.util.ArrayList;
 

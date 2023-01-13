@@ -2,8 +2,8 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import dataCrawler.model.nhanvat.NhanVat;
-import dataCrawler.model.nhanvat.Vua;
+import model.nhanvat.NhanVat;
+import model.nhanvat.Vua;
 import dataCrawler.links.Nhanvat_Links;
 
 import java.io.Writer;

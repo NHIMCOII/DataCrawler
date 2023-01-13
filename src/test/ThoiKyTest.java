@@ -2,8 +2,7 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import dataCrawler.model.nhanvat.Vua;
-import dataCrawler.model.thoiKy.ThoiKy;
+import model.thoiKy.ThoiKy;
 import dataCrawler.links.ThoiKy_Links;
 
 import java.io.Writer;
