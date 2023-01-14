@@ -47,26 +47,22 @@ public class ChienTranh extends SuKien {
             String cls = "class=mf-section-" + i + " collapsible-block";
             Element periodInfo = document.selectFirst("section[" + cls + "]");
 
-            Elements dynasties = periodInfo.select("h3").select("span[class=mw-headline]");
+            Elements dynasties = periodInfo.select("h3,h4");
             Elements dynastiesInfos = periodInfo.select("table[class=wikitable]");
 
-            System.out.println(dynasties.size());
-            for (int j = 0; j < dynasties.size(); j++) {
+            System.out.println(dynastiesInfos.size());
+            for (int j = 0; j < dynastiesInfos.size(); j++) {
                 ChienTranh chienTranh = new ChienTranh();
 
-                if (chienTranh.thoiKy == null && dynasties.select("a").size() > 0) {
-                    Elements anchors = dynasties.select("a");
-                    chienTranh.thoiKy = "";
-                    for (Element anchor : anchors) {
-                        chienTranh.thoiKy = chienTranh.thoiKy.concat(anchor.text());
-                    }
+                if (dynasties.size() != 0) {
+                    chienTranh.thoiKy = dynasties.get(j).text();
                 }
 
-                Elements infos = dynastiesInfos.select("tbody")
+                Elements infos = dynastiesInfos.get(j).select("tbody")
                         .select("tr").get(1)
                         .select("td");
 
-                if (chienTranh.ten == null && infos.get(0) != null) {
+                if (infos.get(0) != null) {
                     String ten;
                     int index = infos.get(0).text().indexOf("(");
                     if (index > 0) {
@@ -86,13 +82,13 @@ public class ChienTranh extends SuKien {
                     }
                     chienTranh.thoiGian = thoiGian;
                 }
-                if (chienTranh.dongMinh == null && infos.get(1) != null) {
+                if (infos.get(1) != null) {
                     chienTranh.dongMinh = infos.get(1).text();
                 }
-                if (chienTranh.doiPhuong == null && infos.get(2) != null) {
+                if (infos.get(2) != null) {
                     chienTranh.doiPhuong = infos.get(2).text();
                 }
-                if (chienTranh.ketQua == null && infos.get(3) != null) {
+                if (infos.get(3) != null) {
                     chienTranh.ketQua = infos.get(3).text();
                 }
                 m.put(Diadiem_Links.removeAccent(chienTranh.ten).trim().toLowerCase(), chienTranh);
