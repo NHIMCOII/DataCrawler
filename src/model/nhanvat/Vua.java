@@ -15,14 +15,14 @@ import java.util.TreeMap;
 public class Vua extends NhanVat {
 
 
-    protected String triVi; //tai_vi
+    protected String triVi;
     protected String tienNhiem;
     protected String keNhiem;
     protected String nienHieu;
     protected String tonHieu;
     protected String thuyHieu;
     protected String mieuHieu;
-    protected ArrayList<String> tuocHieu; //tuocVi
+    protected ArrayList<String> tuocHieu;
 
 
     public Vua() {
@@ -32,10 +32,11 @@ public class Vua extends NhanVat {
     public static Map getInfoFromWiki(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
+
         Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
-        int i = 0;
         Element result;
         Elements results;
+
         for (String url : urls) {
 //            System.out.println(url);
             final Document doc = Jsoup.connect(url)
@@ -48,7 +49,6 @@ public class Vua extends NhanVat {
                 vua.ten = doc.selectFirst(".mw-page-title-main").text();
                 vua.chucVu = "Vua Chúa";
             }
-//            vua.ten = doc.selectFirst("div.page-header h1").text();
             Element info = doc.selectFirst(".infobox");
             if (info != null) {
                 for (Element row : info.select("tr")) {
@@ -145,10 +145,6 @@ public class Vua extends NhanVat {
             if (vua.ten != null) {
                 m.put(Tool.normalizeKey(vua.ten), vua);
             }
-//            i++;
-//            if (i == 1) {
-//                break;
-//            }
         }
         return m;
     }
@@ -190,10 +186,7 @@ public class Vua extends NhanVat {
             }
             return v1;
         }
-
         return result;
-
-
     }
 
     protected void addTuocHieu(String item) {

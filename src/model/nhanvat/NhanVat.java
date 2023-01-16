@@ -30,6 +30,7 @@ public class NhanVat {
     protected String noiO;
     protected String danToc;
     protected String hocvan;
+    protected String image;
     protected Map cuocDoi;
     protected String moTa;
     protected ArrayList<String> vo;
@@ -44,10 +45,10 @@ public class NhanVat {
     public static Map getInfoFromNguoiKeSu(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
+
         Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
-        int i = 0;
-        Element result;
         Elements results;
+
         for (String url : urls) {
 //            System.out.println(url);
             final Document doc = Jsoup.connect(url)
@@ -155,6 +156,7 @@ public class NhanVat {
     public static Map getInfoFromThuVienLichSu(ArrayList<String> urls) throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
+
         Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
 
         for (String url : urls) {
