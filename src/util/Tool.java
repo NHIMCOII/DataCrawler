@@ -1,6 +1,9 @@
 package util;
 
 import java.text.Normalizer;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.regex.Pattern;
 
 public class Tool {
@@ -50,5 +53,10 @@ public class Tool {
             s = "bac thuoc lan iv";
         }
         return s;
+    }
+
+    public static ArrayList<String> seperateByComma(String str) {
+        ArrayList<String> result = new ArrayList<>(Arrays.asList(str.split(",")));
+        return result;
     }
 }
