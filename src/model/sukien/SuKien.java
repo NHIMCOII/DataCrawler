@@ -1,14 +1,24 @@
 package model.sukien;
 
+import dataCrawler.links.Diadiem_Links;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+import util.Tool;
+
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Map;
+import java.util.TreeMap;
 
 public class SuKien {
     protected String ten;
     protected String thoiGian;
     protected String dienBien;
-    protected ArrayList<String> links = new ArrayList<>();
-    protected ArrayList<String> diaDiem = new ArrayList<>();
-    protected ArrayList<String> nhanVat = new ArrayList<>();
+    protected ArrayList<String> links;
+    protected ArrayList<String> diaDiem;
+    protected ArrayList<String> nhanVat;
 
 
     public SuKien() {
@@ -19,6 +29,60 @@ public class SuKien {
         this.ten = ten;
         this.thoiGian = thoiGian;
         this.dienBien = dienBien;
+    }
+
+    public static Map getInfo_TVLS(ArrayList<String> urls) throws IOException {
+        System.setProperty("http.proxyhost", "127.0.0.1");
+        System.setProperty("http.proxyport", "8080");
+        Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+        for (String url : urls) {
+            Document document = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            SuKien suKien = new SuKien();
+            Elements info = document.getElementsByClass("col-12 col-md-8");
+
+            if (info.size() != 0) {
+                Elements headers = document.getElementsByClass("header-edge");
+                for (Element header : headers) {
+                    if (suKien.dienBien == null && header.text().equals(" Diễn biễn lịch sử ")) {
+                        suKien.dienBien = header.parent().selectFirst("div[class=card-body]").text();
+                    } else if (header.text().equals("Tài liệu tham khảo")) {
+                        suKien.links = new ArrayList<>();
+                        Elements links = header.parents().first().nextElementSiblings()
+                                .select("a[class=nut_nhan]");
+                        for (Element link : links) {
+                            suKien.addLink(link.attr("href"));
+                        }
+                    } else if (header.text().equals("Địa điểm liên quan")) {
+                        Elements links = header.parents().nextAll("div[class=card]");
+                        if (links.size() != 0) {
+                            suKien.diaDiem = new ArrayList<>();
+                        }
+                        for (Element link : links) {
+                            suKien.addDiaDiem(Tool.separateKeyWithoutQuotation(
+                                    link.select("h3[class=card-title]").text())
+                            );
+                        }
+                    } else if (header.text().equals("Nhân vật liên quan")) {
+                        Elements links = header.parents().nextAll("div[class=card]");
+                        suKien.nhanVat = new ArrayList<>();
+                        for (Element link : links) {
+                            suKien.addNhanVat(Tool.separateKeyWithoutQuotation(
+                                    link.select("h4[class=card-title]").text())
+                            );
+
+                        }
+                    } else if (suKien.ten == null && !header.text().equals("")) {
+                        suKien.ten = header.text();
+                    }
+                }
+                m.put(Tool.normalizeKey(suKien.ten), suKien);
+            }
+        }
+        return m;
     }
 
     public static SuKien mergeRule(Object oldVal, Object newVal) {

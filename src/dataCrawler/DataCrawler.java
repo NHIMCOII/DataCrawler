@@ -1,7 +1,6 @@
 package dataCrawler;
 
 public class DataCrawler {
-
     public static void main(String[] args) {
         try {
 //            Gson gson = new GsonBuilder().setPrettyPrinting().create();
