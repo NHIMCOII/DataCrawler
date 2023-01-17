@@ -51,7 +51,6 @@ public class ChienTranh extends SuKien {
             Elements dynasties = periodInfo.select("h3,h4");
             Elements dynastiesInfos = periodInfo.select("table[class=wikitable]");
 
-            System.out.println(dynastiesInfos.size());
             for (int j = 0; j < dynastiesInfos.size(); j++) {
                 ChienTranh chienTranh = new ChienTranh();
 
