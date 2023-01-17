@@ -148,6 +148,10 @@ public class ChuTichNuoc extends NhanVat {
             ChuTichNuoc chuTichNuoc = new ChuTichNuoc();
             chuTichNuoc.addLink("https://vi.m.wikipedia.org/wiki/Danh_sách_Chủ_tịch_nước_Cộng_hòa_xã_hội_chủ_nghĩa_Việt_Nam");
             chuTichNuoc.ten = row.selectFirst("td:nth-of-type(3) a:last-child").text();
+            result = row.selectFirst("td:nth-of-type(2) img");
+            if (result != null) {
+                chuTichNuoc.image = result.attr("src");
+            }
             chuTichNuoc.nhiemKyBatDau = row.selectFirst("td:nth-of-type(4)").text();
             chuTichNuoc.nhiemKyKetThuc = row.selectFirst("td:nth-of-type(5)").text();
             chuTichNuoc.thoiGianTaiNhiem = row.selectFirst("td:nth-of-type(8)").text();

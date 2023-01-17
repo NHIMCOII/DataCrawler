@@ -48,6 +48,7 @@ public class NhanVat {
 
         Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
         Elements results;
+        Element result;
 
         for (String url : urls) {
 //            System.out.println(url);
@@ -67,6 +68,10 @@ public class NhanVat {
                         } else {
                             nhanVat.thoiKy = row.selectFirst("td").text();
                         }
+                    }
+                    result = doc.selectFirst(".jch-lazyloaded.ls-is-cached");
+                    if (result != null) {
+                        nhanVat.image = "https://nguoikesu.com" + result.attr("src");
                     }
                     if (row.selectFirst("th:contains(Chức vụ)") != null || row.selectFirst("th:contains(Nghề nghiệp)") != null || row.selectFirst("th:contains(Công việc)") != null) {
                         if (row.selectFirst("td") == null) {
@@ -158,6 +163,7 @@ public class NhanVat {
         System.setProperty("http.proxyport", "8080");
 
         Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+        Element result;
 
         for (String url : urls) {
 //            System.out.println(url);
@@ -168,7 +174,10 @@ public class NhanVat {
             NhanVat nhanVat = new NhanVat();
             nhanVat.addLink(url);
             nhanVat.ten = doc.selectFirst("h3.header-edge").text();
-
+            result = doc.selectFirst(".image-style");
+            if (result != null) {
+                nhanVat.image = "https://m.thuvienlichsu.com" + result.attr("src");
+            }
             Map<String, String> info = new LinkedHashMap<>();
             Boolean check = false;
             for (Element milestone : doc.select("div.divide-tag:nth-of-type(3) table tr")) {
@@ -242,6 +251,9 @@ public class NhanVat {
         }
         if (v1.danToc == null || v1.danToc.equals("?")) {
             v1.danToc = v2.danToc;
+        }
+        if (v1.image == null || v1.image.equals("?")) {
+            v1.image = v2.image;
         }
         if (v1.hocvan == null || v1.hocvan.equals("?")) {
             v1.hocvan = v2.hocvan;

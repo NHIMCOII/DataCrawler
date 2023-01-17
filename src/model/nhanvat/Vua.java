@@ -59,6 +59,10 @@ public class Vua extends NhanVat {
                     if (result != null) {
                         vua.tenKhac = result.text();
                     }
+                    result = row.selectFirst("span a img");
+                    if (result != null) {
+                        vua.image = result.attr("src");
+                    }
                     if (row.selectFirst("th:contains(Sinh)") != null) {
                         vua.sinh = row.selectFirst("td").text();
                     }
