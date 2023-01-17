@@ -1,12 +1,12 @@
-package dataCrawler.info.diadiem;
+package model.diadiem;
 
 import dataCrawler.links.Diadiem_Links;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.Tool;
 
-import java.awt.desktop.SystemSleepEvent;
 import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
@@ -51,7 +51,7 @@ public class DiSan extends DiaDiem {
             if (infoos.get(6) != null) {
                 diSan.moTa = infoos.get(6).text();
             }
-            m.put(Diadiem_Links.removeAccent(diSan.ten.trim().toLowerCase()), diSan);
+            m.put(Tool.normalizeKey(diSan.ten), diSan);
         }
         return m;
     }

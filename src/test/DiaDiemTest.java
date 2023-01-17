@@ -2,17 +2,15 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import dataCrawler.info.diadiem.DiSan;
-import dataCrawler.info.diadiem.DiTich;
-import dataCrawler.info.diadiem.DiaDiem;
+import model.diadiem.DiSan;
+import model.diadiem.DiTich;
+import model.diadiem.DiaDiem;
 import dataCrawler.links.Diadiem_Links;
 
 import java.io.IOException;
 import java.io.Writer;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Iterator;
 import java.util.Map;
 
 public class DiaDiemTest {

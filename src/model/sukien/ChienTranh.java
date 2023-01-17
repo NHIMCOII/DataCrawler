@@ -1,4 +1,4 @@
-package dataCrawler.info.sukien;
+package model.sukien;
 
 
 import dataCrawler.links.Diadiem_Links;
@@ -6,6 +6,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.Map;
@@ -55,7 +56,7 @@ public class ChienTranh extends SuKien {
                 ChienTranh chienTranh = new ChienTranh();
 
                 if (dynasties.size() != 0) {
-                    chienTranh.thoiKy = dynasties.get(j).text();
+                    chienTranh.thoiKy = dynasties.get(j).select("span[class=mw-headline]").text();
                 }
 
                 Elements infos = dynastiesInfos.get(j).select("tbody")
@@ -63,14 +64,7 @@ public class ChienTranh extends SuKien {
                         .select("td");
 
                 if (infos.get(0) != null) {
-                    String ten;
-                    int index = infos.get(0).text().indexOf("(");
-                    if (index > 0) {
-                        ten = infos.get(0).text().substring(0, index);
-                    } else {
-                        ten = infos.get(0).text();
-                    }
-                    chienTranh.ten = ten;
+                    chienTranh.ten = Tool.separateKeyWithoutQuotation(infos.get(0).text());
                 }
                 if (infos.get(0) != null) {
                     String thoiGian;
@@ -91,25 +85,29 @@ public class ChienTranh extends SuKien {
                 if (infos.get(3) != null) {
                     chienTranh.ketQua = infos.get(3).text();
                 }
-                m.put(Diadiem_Links.removeAccent(chienTranh.ten).trim().toLowerCase(), chienTranh);
+                m.put(Tool.normalizeKey(chienTranh.ten), chienTranh);
             }
         }
         return m;
     }
 
     public static ChienTranh mergeRule(Object oldVal, Object newVal) {
-        ChienTranh v2 = (ChienTranh) newVal;
-        ChienTranh v1 = (ChienTranh) SuKien.mergeRule(oldVal, newVal);
-        if (v1.dongMinh == null || v1.dongMinh.equals("?")) {
-            v1.dongMinh = v2.dongMinh;
+        ChienTranh result = (ChienTranh) SuKien.mergeRule(newVal, oldVal);
+        if (oldVal instanceof ChienTranh) {
+            ChienTranh v2 = (ChienTranh) newVal;
+            ChienTranh v1 = (ChienTranh) SuKien.mergeRule(oldVal, newVal);
+            if (v1.dongMinh == null || v1.dongMinh.equals("?")) {
+                v1.dongMinh = v2.dongMinh;
+            }
+            if (v1.doiPhuong == null || v1.doiPhuong.equals("?")) {
+                v1.doiPhuong = v2.doiPhuong;
+            }
+            if (v1.ketQua == null || v1.ketQua.equals("?")) {
+                v1.ketQua = v2.ketQua;
+            }
+            return v1;
         }
-        if (v1.doiPhuong == null || v1.doiPhuong.equals("?")) {
-            v1.doiPhuong = v2.doiPhuong;
-        }
-        if (v1.ketQua == null || v1.ketQua.equals("?")) {
-            v1.ketQua = v2.ketQua;
-        }
-        return v1;
+        return result;
     }
 
     public String getDongMinh() {

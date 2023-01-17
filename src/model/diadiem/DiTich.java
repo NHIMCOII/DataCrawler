@@ -1,4 +1,4 @@
-package dataCrawler.info.diadiem;
+package model.diadiem;
 
 
 import dataCrawler.links.Diadiem_Links;
@@ -6,6 +6,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.Map;
@@ -64,7 +65,7 @@ public class DiTich extends DiaDiem {
 						diTich.namCongNhan = "?";
 					}
 					diTich.khuVuc = khuVucTen;
-					m.put(Diadiem_Links.removeAccent(diTich.ten.trim().toLowerCase()), diTich);
+					m.put(Tool.normalizeKey(diTich.ten), diTich);
 				} else if (infoos.size() == 4) {
 					if (infoos.get(1) != null) {
 						diTich.ten = infoos.get(1).text();
@@ -75,6 +76,7 @@ public class DiTich extends DiaDiem {
 					if (infoos.get(3) != null) {
 						diTich.loai = infoos.get(3).text();
 					}
+					m.put(Tool.normalizeKey(diTich.ten), diTich);
 				}
 			}
 		}

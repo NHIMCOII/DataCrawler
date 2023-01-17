@@ -1,10 +1,11 @@
-package dataCrawler.info.sukien;
+package model.sukien;
 
 import dataCrawler.links.Diadiem_Links;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -61,33 +62,24 @@ public class SuKien {
                             suKien.diaDiem = new ArrayList<>();
                         }
                         for (Element link : links) {
-                            int index = link.select("h3[class=card-title]").text().indexOf("(");
-                            if (index > 0) {
-                                suKien.addDiaDiem(link.select("h3[class=card-title]")
-                                        .text()
-                                        .substring(0, index));
-                            } else {
-                                suKien.addDiaDiem(link.select("h3[class=card-title]").text());
-                            }
+                            suKien.addDiaDiem(Tool.separateKeyWithoutQuotation(
+                                    link.select("h3[class=card-title]").text())
+                            );
                         }
                     } else if (header.text().equals("Nhân vật liên quan")) {
                         Elements links = header.parents().nextAll("div[class=card]");
                         suKien.nhanVat = new ArrayList<>();
                         for (Element link : links) {
-                            int index = link.select("h4[class=card-title]").text().indexOf("(");
-                            if (index > 0) {
-                                suKien.addNhanVat(link.select("h4[class=card-title]")
-                                        .text()
-                                        .substring(0, index));
-                            } else {
-                                suKien.addNhanVat(link.select("h4[class=card-title]").text());
-                            }
+                            suKien.addNhanVat(Tool.separateKeyWithoutQuotation(
+                                    link.select("h4[class=card-title]").text())
+                            );
+
                         }
                     } else if (suKien.ten == null && !header.text().equals("")) {
                         suKien.ten = header.text();
                     }
                 }
-                m.put(Diadiem_Links.removeAccent(suKien.ten.trim().toLowerCase()), suKien);
+                m.put(Tool.normalizeKey(suKien.ten), suKien);
             }
         }
         return m;

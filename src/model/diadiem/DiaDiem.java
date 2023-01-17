@@ -1,10 +1,11 @@
-package dataCrawler.info.diadiem;
+package model.diadiem;
 
 import dataCrawler.links.Diadiem_Links;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -90,50 +91,26 @@ public class DiaDiem {
 							diadiem.suKien = new ArrayList<>();
 						}
 						for(Element link: links) {
-							int index = link.select("h4[class=card-title]").text().indexOf("(");
-							if (index > 0) {
-								diadiem.addSuKien(
-										link.select("h4[class=card-title]")
-										.text()
-										.substring(0, index - 1)
-										.trim()
-										.toLowerCase()
-								);
-							} else {
-								diadiem.addSuKien(
-										link.select("h4[class=card-title]").text()
-										.trim()
-										.toLowerCase()
-								);
-							}
+							diadiem.addSuKien(Tool.separateKeyWithoutQuotation(
+									link.select("h4[class=card-title]").text())
+							);
 						}
 					}
 					if(header.text().equals("Nhân vật liên quan")) {
 						Elements links = header.parents().nextAll("div[class=card]");
 						diadiem.nhanVat = new ArrayList<>();
 						for(Element link: links) {
-							int index = link.select("h4[class=card-title]").text().indexOf("(");
-							if (index > 0) {
-								diadiem.addNhanVat(link.select("h4[class=card-title]")
-										.text()
-										.substring(0, index - 1)
-										.trim()
-										.toLowerCase()
-								);
-							} else {
-								diadiem.addNhanVat(
-										link.select("h4[class=card-title]").text()
-										.trim()
-										.toLowerCase()
-								);
-							}
+							diadiem.addNhanVat(Tool.separateKeyWithoutQuotation(
+									link.select("h4[class=card-title]").text())
+							);
+
 						}
 					}
 					if(diadiem.ten == null && !header.text().equals("")) {
 						diadiem.ten = header.text();
 					}
 				}
-				m.put(Diadiem_Links.removeAccent(diadiem.ten.trim().toLowerCase()), diadiem);
+				m.put(Tool.normalizeKey(diadiem.ten), diadiem);
 			}
 		}
 		return m;
@@ -174,7 +151,7 @@ public class DiaDiem {
 				if (diadiem.dienTich == null && tds.get(6) != null) {
 					diadiem.dienTich = tds.get(6).select("center").text().replace(".", "");
 				}
-				m.put(Diadiem_Links.removeAccent(diadiem.ten.trim().toLowerCase()), diadiem);
+				m.put(Tool.normalizeKey(diadiem.ten), diadiem);
 			}
 		}
 		return m;

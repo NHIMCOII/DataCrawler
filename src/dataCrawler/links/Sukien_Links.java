@@ -26,20 +26,21 @@ public class Sukien_Links {
         System.setProperty("http.proxyport", "8080");
 
         String url = "https://thuvienlichsu.com/su-kien?page=1";
-        Document document = Jsoup.connect(url)
-                .ignoreContentType(true)
-                .timeout(0)
-                .get();
 
         for (int i = 1; i <= 19; i++) {
-            Elements cards = document.getElementsByClass("col-md-8");
+            Document document = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            Elements cards = document.selectFirst("div[class=col-12 col-md-8]")
+                    .select("div[class=col-md-8]");
             for (int j = 0; j < cards.size(); j++) {
                 Element card_link = cards.get(j).getElementsByTag("a").first();
-                if(card_link != null && card_link.attr("href").equals("")) {
+                if(card_link == null) {
                     continue;
                 }
                 String link = "https://m.thuvienlichsu.com" + card_link.attr("href");
-                link = Diadiem_Links.removeAccent(link);
+                //link = Diadiem_Links.removeAccent(link);
                 suKien_TVLS.add(link);
             }
             url = url.replace(Integer.toString(i), Integer.toString(i + 1));

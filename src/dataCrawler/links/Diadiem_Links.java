@@ -1,9 +1,7 @@
 package dataCrawler.links;
 
-import dataCrawler.info.diadiem.DiaDiem;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
@@ -29,12 +27,12 @@ public class Diadiem_Links {
         System.setProperty("http.proxyport", "8080");
 
         String url = "https://thuvienlichsu.com/dia-diem?page=1";
-        Document document = Jsoup.connect(url)
-                .ignoreContentType(true)
-                .timeout(0)
-                .get();
 
         for (int i = 1; i <= 10; i++) {
+            Document document = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
             Elements elms = document.getElementsByClass("col-md-4");
             for (int j = 0; j < elms.size(); j++) {
                 Elements elm_a = elms.get(j).getElementsByTag("a");
@@ -42,7 +40,7 @@ public class Diadiem_Links {
                     continue;
                 }
                 String link = "https://thuvienlichsu.com" + elm_a.attr("href");
-                link = Diadiem_Links.removeAccent(link);
+                //link = Diadiem_Links.removeAccent(link);
                 diaDiem_TVLS.add(link);
             }
             url = url.replace(Integer.toString(i), Integer.toString(i + 1));
