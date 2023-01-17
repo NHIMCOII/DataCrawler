@@ -6,6 +6,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
+import util.SeperateTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -42,40 +44,51 @@ public class ChienTranh extends SuKien {
             Elements dynasties = periodInfo.select("h3,h4");
             Elements dynastiesInfos = periodInfo.select("table[class=wikitable]");
 
+            String thoiKy = "";
             for (int j = 0; j < dynastiesInfos.size(); j++) {
-                ChienTranh chienTranh = new ChienTranh();
-
                 if (dynasties.size() != 0) {
-                    chienTranh.thoiKy = dynasties.get(j).select("span[class=mw-headline]").text();
+                    thoiKy = dynasties.get(j).select("span[class=mw-headline]").text();
                 }
 
-                Elements infos = dynastiesInfos.get(j).select("tbody")
-                        .select("tr").get(1)
-                        .select("td");
-
-                if (infos.get(0) != null) {
-                    chienTranh.ten = Tool.separateKeyWithoutQuotation(infos.get(0).text());
-                }
-                if (infos.get(0) != null) {
-                    String thoiGian;
-                    int index = infos.get(0).text().indexOf("(");
-                    if (index > 0) {
-                        thoiGian = infos.get(0).text().substring(index + 1, infos.get(0).text().length() - 1);
-                    } else {
-                        thoiGian = "?";
+                Elements infos = dynastiesInfos.get(j).selectFirst("tbody")
+                        .select("tr");
+                for (int k = 1; k < infos.size(); k++) {
+                    ChienTranh chienTranh = new ChienTranh();
+                    Elements infoos = infos.get(k).select("td");
+                    if (infoos.size() != 4 || infoos.get(1).text().equals("")) {
+                        continue;
                     }
-                    chienTranh.thoiGian = thoiGian;
+
+                    chienTranh.thoiKy = thoiKy;
+
+                    if (infoos.get(0) != null) {
+                        chienTranh.ten = NormalizeTool.normalizeKey(
+                                SeperateTool.separateKeyWithoutQuotation(
+                                        infoos.get(0).text()
+                                )
+                        );
+                    }
+                    if (infoos.get(0) != null) {
+                        String thoiGian;
+                        int index = infoos.get(0).text().indexOf("(");
+                        if (index > 0) {
+                            thoiGian = infoos.get(0).text().substring(index + 1, infoos.get(0).text().length() - 1);
+                        } else {
+                            thoiGian = "?";
+                        }
+                        chienTranh.thoiGian = thoiGian;
+                    }
+                    if (infoos.get(1) != null) {
+                        chienTranh.dongMinh = infoos.get(1).text();
+                    }
+                    if (infoos.get(2) != null) {
+                        chienTranh.doiPhuong = infoos.get(2).text();
+                    }
+                    if (infoos.get(3) != null) {
+                        chienTranh.ketQua = infoos.get(3).text();
+                    }
+                    m.put(NormalizeTool.normalizeKey(chienTranh.ten), chienTranh);
                 }
-                if (infos.get(1) != null) {
-                    chienTranh.dongMinh = infos.get(1).text();
-                }
-                if (infos.get(2) != null) {
-                    chienTranh.doiPhuong = infos.get(2).text();
-                }
-                if (infos.get(3) != null) {
-                    chienTranh.ketQua = infos.get(3).text();
-                }
-                m.put(Tool.normalizeKey(chienTranh.ten), chienTranh);
             }
         }
         return m;

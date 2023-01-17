@@ -3,6 +3,8 @@ package model.thoiKy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import util.NormalizeTool;
+import util.SeperateTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -59,7 +61,7 @@ public class ThoiKy {
                             .get();
                 }
             } while (result != null);
-            m.put(Tool.normalizeKey(thoiKy.ten), thoiKy);
+            m.put(NormalizeTool.normalizeKey(thoiKy.ten), thoiKy);
         }
         return m;
     }
@@ -79,11 +81,22 @@ public class ThoiKy {
             ThoiKy thoiKy = new ThoiKy();
             thoiKy.addLink(url);
             for (Element suKien : curr.select("h3.card-title")) {
-                thoiKy.addSuKien(Tool.separateKeyWithoutQuotation(suKien.text()));
+                thoiKy.addSuKien(NormalizeTool.normalizeKey(
+                        SeperateTool.separateKeyWithoutQuotation(
+                                suKien.text()
+                        )
+                    )
+                );
             }
             thoiKy.ten = curr.selectFirst("h1").text();
 
-            m.put(Tool.normalizeKeyThoiKyFromThuVienLichSu(Tool.separateKeyWithoutQuotation(thoiKy.ten)), thoiKy);
+            m.put(NormalizeTool.normalizeKeyThoiKyFromThuVienLichSu(
+                    NormalizeTool.normalizeKey(
+                            SeperateTool.separateKeyWithoutQuotation(
+                                    thoiKy.ten
+                            )
+                    )
+            ), thoiKy);
         }
         return m;
     }

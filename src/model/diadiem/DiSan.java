@@ -5,6 +5,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -46,7 +47,7 @@ public class DiSan extends DiaDiem {
             if (infoos.get(6) != null) {
                 diSan.moTa = infoos.get(6).text();
             }
-            m.put(Tool.normalizeKey(diSan.ten), diSan);
+            m.put(NormalizeTool.normalizeKey(diSan.ten), diSan);
         }
         return m;
     }

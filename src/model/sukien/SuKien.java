@@ -5,6 +5,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
+import util.SeperateTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -23,12 +25,6 @@ public class SuKien {
 
     public SuKien() {
         // TODO Auto-generated constructor stub
-    }
-
-    public SuKien(String ten, String thoiGian, String dienBien) {
-        this.ten = ten;
-        this.thoiGian = thoiGian;
-        this.dienBien = dienBien;
     }
 
     public static Map getInfo_TVLS(ArrayList<String> urls) throws IOException {
@@ -62,16 +58,22 @@ public class SuKien {
                             suKien.diaDiem = new ArrayList<>();
                         }
                         for (Element link : links) {
-                            suKien.addDiaDiem(Tool.separateKeyWithoutQuotation(
-                                    link.select("h3[class=card-title]").text())
+                            suKien.addDiaDiem(
+                                    NormalizeTool.normalizeKey(
+                                        SeperateTool.separateKeyWithoutQuotation(
+                                            link.select("h3[class=card-title]").text())
+                                    )
                             );
                         }
                     } else if (header.text().equals("Nhân vật liên quan")) {
                         Elements links = header.parents().nextAll("div[class=card]");
                         suKien.nhanVat = new ArrayList<>();
                         for (Element link : links) {
-                            suKien.addNhanVat(Tool.separateKeyWithoutQuotation(
-                                    link.select("h4[class=card-title]").text())
+                            suKien.addNhanVat(
+                                    NormalizeTool.normalizeKey(
+                                            SeperateTool.separateKeyWithoutQuotation(
+                                                    link.select("h4[class=card-title]").text())
+                                    )
                             );
 
                         }
@@ -79,7 +81,10 @@ public class SuKien {
                         suKien.ten = header.text();
                     }
                 }
-                m.put(Tool.normalizeKey(suKien.ten), suKien);
+                m.put(NormalizeTool.normalizeKey(
+                        SeperateTool.separateKeyWithoutQuotation(
+                                suKien.ten)
+                ), suKien);
             }
         }
         return m;
@@ -97,31 +102,13 @@ public class SuKien {
         if (v1.dienBien == null || v1.dienBien.equals("?")) {
             v1.dienBien = v2.dienBien;
         }
+        if (v1.links == null) {
+            v1.links = v2.links;
+        }
+        if (v1.nhanVat == null) {
+            v1.nhanVat = v2.nhanVat;
+        }
         return v1;
-    }
-
-    public String getTen() {
-        return ten;
-    }
-
-    public String getThoiGian() {
-        return thoiGian;
-    }
-
-    public String getDienBien() {
-        return dienBien;
-    }
-
-    public ArrayList<String> getLinks() {
-        return links;
-    }
-
-    public ArrayList<String> getDiaDiem() {
-        return diaDiem;
-    }
-
-    public ArrayList<String> getNhanVat() {
-        return nhanVat;
     }
 
     public void addLink(String link) {

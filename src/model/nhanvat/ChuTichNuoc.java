@@ -5,6 +5,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -132,7 +133,7 @@ public class ChuTichNuoc extends NhanVat {
                 }
             }
             if (chuTichNuoc.ten != null) {
-                m.put(Tool.normalizeKey(chuTichNuoc.ten), chuTichNuoc);
+                m.put(NormalizeTool.normalizeKey(chuTichNuoc.ten), chuTichNuoc);
             }
         }
 
@@ -159,7 +160,7 @@ public class ChuTichNuoc extends NhanVat {
             if (!result.text().equals("")) {
                 chuTichNuoc.ghiChu = result.text();
             }
-            bonus.put(Tool.normalizeKey(chuTichNuoc.ten), chuTichNuoc);
+            bonus.put(NormalizeTool.normalizeKey(chuTichNuoc.ten), chuTichNuoc);
         }
         bonus.forEach((key, value) -> m.merge(key, value, (oldVal, newVal) -> {
             return ChuTichNuoc.mergeRule(oldVal, newVal);

@@ -6,6 +6,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -57,7 +58,7 @@ public class DiTich extends DiaDiem {
 						diTich.namCongNhan = "?";
 					}
 					diTich.khuVuc = khuVucTen;
-					m.put(Tool.normalizeKey(diTich.ten), diTich);
+					m.put(NormalizeTool.normalizeKey(diTich.ten), diTich);
 				} else if (infoos.size() == 4) {
 					if (infoos.get(1) != null) {
 						diTich.ten = infoos.get(1).text();
@@ -68,7 +69,7 @@ public class DiTich extends DiaDiem {
 					if (infoos.get(3) != null) {
 						diTich.loai = infoos.get(3).text();
 					}
-					m.put(Tool.normalizeKey(diTich.ten), diTich);
+					m.put(NormalizeTool.normalizeKey(diTich.ten), diTich);
 				}
 			}
 		}

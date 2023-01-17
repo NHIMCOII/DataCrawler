@@ -4,6 +4,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -147,7 +148,7 @@ public class Vua extends NhanVat {
                 }
             }
             if (vua.ten != null) {
-                m.put(Tool.normalizeKey(vua.ten), vua);
+                m.put(NormalizeTool.normalizeKey(vua.ten), vua);
             }
         }
         return m;

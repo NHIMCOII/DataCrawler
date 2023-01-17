@@ -5,6 +5,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
+import util.SeperateTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -59,8 +61,12 @@ public class DiaDiem {
 							diadiem.suKien = new ArrayList<>();
 						}
 						for(Element link: links) {
-							diadiem.addSuKien(Tool.separateKeyWithoutQuotation(
-									link.select("h4[class=card-title]").text())
+							diadiem.addSuKien(
+									NormalizeTool.normalizeKey(
+											SeperateTool.separateKeyWithoutQuotation(
+													link.select("h4[class=card-title]").text()
+											)
+									)
 							);
 						}
 					}
@@ -68,8 +74,12 @@ public class DiaDiem {
 						Elements links = header.parents().nextAll("div[class=card]");
 						diadiem.nhanVat = new ArrayList<>();
 						for(Element link: links) {
-							diadiem.addNhanVat(Tool.separateKeyWithoutQuotation(
-									link.select("h4[class=card-title]").text())
+							diadiem.addNhanVat(
+									NormalizeTool.normalizeKey(
+											SeperateTool.separateKeyWithoutQuotation(
+													link.select("h4[class=card-title]").text()
+											)
+									)
 							);
 
 						}
@@ -78,7 +88,7 @@ public class DiaDiem {
 						diadiem.ten = header.text();
 					}
 				}
-				m.put(Tool.normalizeKey(diadiem.ten), diadiem);
+				m.put(NormalizeTool.normalizeKey(diadiem.ten), diadiem);
 			}
 		}
 		return m;
@@ -119,7 +129,7 @@ public class DiaDiem {
 				if (diadiem.dienTich == null && tds.get(6) != null) {
 					diadiem.dienTich = tds.get(6).select("center").text().replace(".", "");
 				}
-				m.put(Tool.normalizeKey(diadiem.ten), diadiem);
+				m.put(NormalizeTool.normalizeKey(diadiem.ten), diadiem);
 			}
 		}
 		return m;

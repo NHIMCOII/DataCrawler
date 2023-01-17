@@ -4,6 +4,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
+import util.SeperateTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -152,7 +154,7 @@ public class NhanVat {
                 }
             }
             if (nhanVat.ten != null) {
-                m.put(Tool.normalizeKey(nhanVat.ten), nhanVat);
+                m.put(NormalizeTool.normalizeKey(nhanVat.ten), nhanVat);
             }
         }
         return m;
@@ -196,10 +198,20 @@ public class NhanVat {
                 nhanVat.addLink(link.attr("href"));
             }
             for (Element character : doc.select("div.divide-tag:nth-of-type(6) h4.card-title")) {
-                nhanVat.addNhanVatCungThoiKy(Tool.separateKeyWithoutQuotation(character.text()));
+                nhanVat.addNhanVatCungThoiKy(
+                        NormalizeTool.normalizeKey(
+                                SeperateTool.separateKeyWithoutQuotation(
+                                    character.text()
+                            )
+                        )
+                );
             }
 
-            m.put(Tool.separateKeyWithoutQuotation(nhanVat.ten), nhanVat);
+            m.put(NormalizeTool.normalizeKey(
+                    SeperateTool.separateKeyWithoutQuotation(
+                            nhanVat.ten
+                    )
+            ), nhanVat);
         }
         return m;
     }

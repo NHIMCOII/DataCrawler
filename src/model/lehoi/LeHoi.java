@@ -4,6 +4,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import util.NormalizeTool;
+import util.SeperateTool;
 import util.Tool;
 
 import java.io.IOException;
@@ -75,11 +77,11 @@ public class LeHoi {
             result = row.selectFirst("td:nth-of-type(5)");
             if (result != null) {
                 if (!result.text().equals("")) {
-                    leHoi.setNhanVat(Tool.seperateByComma(result.text()));
+                    leHoi.setNhanVat(SeperateTool.seperateByComma(result.text()));
                 }
             }
 
-            m.put(Tool.normalizeKey(leHoi.ten), leHoi);
+            m.put(NormalizeTool.normalizeKey(leHoi.ten), leHoi);
         }
         return m;
     }
@@ -110,7 +112,7 @@ public class LeHoi {
             this.nhanVat = new ArrayList<>();
         }
         for (String item : nhanVat) {
-            this.nhanVat.add(Tool.normalizeKey(item));
+            this.nhanVat.add(NormalizeTool.normalizeKey(item));
         }
     }
 

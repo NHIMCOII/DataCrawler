@@ -1,19 +1,11 @@
 {
-  "": {
-    "dongMinh": "",
-    "doiPhuong": "Quốc gia Pháp Đế quốc Nhật Bản",
-    "ketQua": "",
-    "thoiKy": "Nhật thuộc (1940 - 1945)",
-    "ten": "",
-    "thoiGian": "?"
-  },
-  "12 ngay dem pha “canh cua thep” xuan loc, tien vao giai phong sai gon 1975 - 1975": {
+  "12 ngay dem pha “canh cua thep” xuan loc, tien vao giai phong sai gon": {
     "ten": "12 ngày đêm phá “cánh cửa thép” Xuân Lộc, tiến vào giải phóng Sài Gòn (1975 - 1975)",
     "links": [
       "https://www.vietnamplus.vn/12-ngay-dem-pha-canh-cua-thep-xuan-loc-tien-vao-giai-phong-sai-gon/634315.vnp"
     ]
   },
-  "1833-1835: cuoc khoi nghia nong van van chong nguyen 1833 - 1835": {
+  "1833-1835: cuoc khoi nghia nong van van chong nguyen": {
     "ten": "1833-1835: Cuộc khởi nghĩa Nông Văn Vân chống Nguyễn (1833 - 1835)",
     "links": [
       "http://www.trinhnu.net/van/82749",
@@ -29,7 +21,7 @@
       "nong van van"
     ]
   },
-  "2500 cong nhan nha may soi nam dinh bai cong 1925": {
+  "2500 cong nhan nha may soi nam dinh bai cong": {
     "ten": "2500 công nhân nhà máy sợi Nam Định bãi công (1925 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d230\u0026Itemid\u003d33",
@@ -41,7 +33,7 @@
       "nam dinh"
     ]
   },
-  "an nam cong san dang duoc thanh lap 1929": {
+  "an nam cong san dang duoc thanh lap": {
     "ten": "An Nam cộng sản Đảng được thành lập (1929 )",
     "links": [
       "https://vi.wikipedia.org/wiki/An_Nam_C%E1%BB%99ng_s%E1%BA%A3n_%C4%90%E1%BA%A3ng",
@@ -59,7 +51,7 @@
       "nguyen si sach"
     ]
   },
-  "bac ho ra di tim duong cuu nuoc 1911": {
+  "bac ho ra di tim duong cuu nuoc": {
     "ten": "Bác Hồ ra đi tìm đường cứu nước (1911 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ng%C3%A0y_B%C3%A1c_H%E1%BB%93_ra_%C4%91i_t%C3%ACm_%C4%91%C6%B0%E1%BB%9Dng_c%E1%BB%A9u_n%C6%B0%E1%BB%9Bc",
@@ -76,7 +68,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "bac ho ra loi keu goi thi dua ai quoc 1948": {
+  "bac ho ra loi keu goi thi dua ai quoc": {
     "ten": "Bác Hồ ra Lời kêu gọi thi đua ái quốc (1948 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1963\u0026Itemid\u003d33",
@@ -91,14 +83,14 @@
       "chu tich ho chi minh"
     ]
   },
-  "ban chap hanh trung uong dang ra chi thi “khang chien kien quoc” 1945": {
+  "ban chap hanh trung uong dang ra chi thi “khang chien kien quoc”": {
     "ten": "Ban Chấp hành Trung ương Đảng ra Chỉ thị “Kháng chiến kiến quốc” (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d285\u0026Itemid\u003d33",
       "http://www.cpv.org.vn/cpv/Modules/News/NewsDetail.aspx?co_id\u003d30063\u0026cn_id\u003d97202"
     ]
   },
-  "ban hanh bo luat hoang trieu luat le 1815": {
+  "ban hanh bo luat hoang trieu luat le": {
     "ten": "Ban hành bộ luật Hoàng triều luật lệ (1815 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Vi%E1%BB%87t_lu%E1%BA%ADt_l%E1%BB%87",
@@ -109,7 +101,7 @@
       "gia long"
     ]
   },
-  "ban hanh quoc trieu hinh luat 1230": {
+  "ban hanh quoc trieu hinh luat": {
     "ten": "Ban hành Quốc triều hình luật (1230 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ph%C3%A1p_lu%E1%BA%ADt_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Tr%E1%BA%A7n",
@@ -121,7 +113,7 @@
       "nguyen trung ngan"
     ]
   },
-  "ban thuong vu trung uong dang ra chi thi “toan dan khang chien” 1946": {
+  "ban thuong vu trung uong dang ra chi thi “toan dan khang chien”": {
     "ten": "Ban thường vụ Trung ương Đảng ra chỉ thị “Toàn dân kháng chiến” (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d294\u0026Itemid\u003d33",
@@ -134,11 +126,33 @@
     "dongMinh": "Việt Nam",
     "doiPhuong": "Người H\u0027Mông nổi loạn ở Tây Nguyên Nhà nước Đề Ga Hỗ trợ: Tổ chức Quỹ người Thượng",
     "ketQua": "Chiến thắng Các nhóm nổi loạn bị bắt",
+    "thoiKy": "",
     "ten": "bao loan tay nguyen",
     "thoiGian": "2004"
   },
-  "binh bien do luong 1941 - 1941": {
-    "ten": "Binh biến Đô Lương (1941 - 1941)",
+  "bien co bac ky": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn Quân Cờ Đen",
+    "doiPhuong": "Cộng hòa Pháp",
+    "ketQua": "Bất phân thắng bại Hòa ước Giáp Tuất 1874 Quân Pháp rút khỏi Bắc Kỳ",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "bien co bac ky",
+    "thoiGian": "1873"
+  },
+  "bien co phat giao": {
+    "dongMinh": "Việt Nam Cộng hòa thời Đệ Nhất",
+    "doiPhuong": "Các nhóm Phật giáo",
+    "ketQua": "Ngô Đình Diệm thất bại và thay đổi chế độ Đảo chính Việt Nam Cộng hòa lần 2",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "bien co phat giao",
+    "thoiGian": "1963"
+  },
+  "binh bien do luong": {
+    "dongMinh": "Đội Cung và binh lính nổi dậy ở Trung Kỳ",
+    "doiPhuong": "Quốc gia Pháp",
+    "ketQua": "Thất bại Đội Cung bị bắt và xử tử",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "binh bien do luong",
+    "thoiGian": "1941",
     "links": [
       "http://baotanglichsu.vn/portal/vi/Tin-tuc/Theo-dong-lich-su/2014/01/3A923D12/"
     ],
@@ -146,7 +160,23 @@
       "doi cung"
     ]
   },
-  "cao trao xo viet nghe - tinh bung no 1930": {
+  "cach mang thang tam": {
+    "dongMinh": "Việt Minh",
+    "doiPhuong": "Đế quốc Nhật Bản Đế quốc Việt Nam Cộng hoà Pháp",
+    "ketQua": "Chiến thắng Việt Minh giành được chính quyền, thành lập Việt Nam Dân chủ Cộng hòa Vua Bảo Đại thoái vị, chấm dứt chế độ quân chủ chuyên chế Nhà Nguyễn Đế quốc Nhật Bản đầu hàng Việt Minh",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "cach mang thang tam",
+    "thoiGian": "1945"
+  },
+  "cao trao khang nhat cuu nuoc": {
+    "dongMinh": "Đảng Cộng sản Việt Nam Việt Minh",
+    "doiPhuong": "Đế quốc Nhật Bản Lục quân Đế quốc Nhật Bản Đế quốc Việt Nam",
+    "ketQua": "Chiến thắng Việt Minh tổ chức tổng khởi nghĩa Cách mạng tháng Tám giành chính quyền Hồ Chí Minh đọc tuyên ngôn độc lập Pháp quay lại tái chiếm thuộc địa Chiến tranh Đông Dương bùng nổ",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "cao trao khang nhat cuu nuoc",
+    "thoiGian": "1945"
+  },
+  "cao trao xo viet nghe - tinh bung no": {
     "ten": "Cao trào Xô Viết Nghệ - Tĩnh bùng nổ (1930 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d248\u0026Itemid\u003d33",
@@ -162,7 +192,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "chien dich \"dien bien phu tren khong\" 1972 - 1972": {
+  "chien dich \"dien bien phu tren khong\"": {
     "ten": "Chiến dịch \"Điện Biên Phủ trên không\" (1972 - 1972)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d1355",
@@ -172,7 +202,7 @@
       "ha noi"
     ]
   },
-  "chien dich bac tay nguyen 1954 - 1954": {
+  "chien dich bac tay nguyen": {
     "ten": "Chiến dịch Bắc Tây Nguyên (1954 - 1954)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d302\u0026Itemid\u003d33",
@@ -186,7 +216,7 @@
       "nguyen ba phat"
     ]
   },
-  "chien dich bac tay nguyen trong khang chien chong my 1972 - 1972": {
+  "chien dich bac tay nguyen trong khang chien chong my": {
     "ten": "Chiến dịch Bắc Tây Nguyên trong kháng chiến chống Mỹ (1972 - 1972)",
     "links": [
       "http://dangcongsan.vn/cpv/Modules/News/NewsDetail.aspx?co_id\u003d30684\u0026cn_id\u003d355483",
@@ -197,7 +227,7 @@
       "kon tum"
     ]
   },
-  "chien dich bau bang – dau tieng 1965 - 1965": {
+  "chien dich bau bang – dau tieng": {
     "ten": "Chiến dịch Bầu Bàng – Dầu Tiếng (1965 - 1965)",
     "links": [
       "http://violet.vn/thuhuyen_na74/entry/show/entry_id/6718273",
@@ -208,7 +238,7 @@
       "le trong tan"
     ]
   },
-  "chien dich bien gioi 1950 - 1950": {
+  "chien dich bien gioi": {
     "ten": "Chiến dịch Biên giới (1950 - 1950)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d297\u0026Itemid\u003d33",
@@ -222,7 +252,15 @@
       "vo nguyen giap"
     ]
   },
-  "chien dich dong bang song cuu long 1972 - 1972": {
+  "chien dich danh tong 1075–1076": {
+    "dongMinh": "Đại Việt thời Nhà Lý",
+    "doiPhuong": "Nhà Tống",
+    "ketQua": "Chiến thắng Quân Đại Việt tiêu diệt các thành lũy Nhà Tống ngay trên đất Tống rồi rút về",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "chien dich danh tong 1075–1076",
+    "thoiGian": "1075 - 1076"
+  },
+  "chien dich dong bang song cuu long": {
     "ten": "Chiến dịch đồng bằng sông Cửu Long (1972 - 1972)",
     "links": [
       "https://tinbaoqdnd.wordpress.com/category/ky-s%E1%BB%B1-phong-s%E1%BB%B1/page/25/"
@@ -231,7 +269,15 @@
       "dong bang song cuu long"
     ]
   },
-  "chien dich dong xoai 1965 - 1965": {
+  "chien dich dong duong": {
+    "dongMinh": "Cộng hoà Pháp Vương quốc Liên hiệp Anh và Bắc Ireland Việt Minh",
+    "doiPhuong": "Đế quốc Nhật Bản Lục quân Đế quốc Nhật Bản Đế quốc Việt Nam",
+    "ketQua": "Pháp thất bại Nhật Bản đảo chính thành công tại Đông Dương Chính phủ Vichy đầu hàng Đế quốc Nhật Bản Đế quốc Việt Nam được thành lập",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "chien dich dong duong",
+    "thoiGian": "1945"
+  },
+  "chien dich dong xoai": {
     "ten": "Chiến dịch Đồng Xoài (1965 - 1965)",
     "links": [
       "http://www.qdnd.vn/qdndsite/vi-vn/61/43/nhung-moc-son-lich-su/chien-dich-dong-xoai-gop-phan-danh-bai-chien-luoc-chien-tranh-dac-biet-cua-my/334364.html",
@@ -245,7 +291,7 @@
       "le trong tan"
     ]
   },
-  "chien dich duong 14-phuoc long 1974 - 1975": {
+  "chien dich duong 14-phuoc long": {
     "ten": "Chiến dịch Đường 14-Phước Long (1974 - 1975)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90%C6%B0%E1%BB%9Dng_14_-_Ph%C6%B0%E1%BB%9Bc_Long",
@@ -258,7 +304,7 @@
       "hoang cam"
     ]
   },
-  "chien dich duong 9 - nam lao 1971 - 1971": {
+  "chien dich duong 9 - nam lao": {
     "ten": "Chiến dịch Đường 9 - Nam Lào (1971 - 1971)",
     "links": [
       "http://www.qdnd.vn/qdndsite/vi-vn/61/43/nhung-moc-son-lich-su/chien-thang-duong-9-nam-lao-bieu-tuong-cua-tinh-doan-ket-lien-minh-chien-dau-dac-biet-viet-nam-%E2%80%93-lao/335330.html",
@@ -269,7 +315,7 @@
       "quang tri"
     ]
   },
-  "chien dich giai phong da nang 1975 - 1975": {
+  "chien dich giai phong da nang": {
     "ten": "Chiến dịch giải phóng Đà Nẵng (1975 - 1975)",
     "links": [
       "http://www.qdnd.vn/qdndsite/vi-vn/61/43/nhung-moc-son-lich-su/chien-dich-giai-phong-da-nang-xuan-1975/337314.html",
@@ -282,20 +328,28 @@
       "le trong tan"
     ]
   },
-  "chien dich giai phong hoai duc 1974 - 1975": {
+  "chien dich giai phong hoai duc": {
     "ten": "Chiến dịch giải phóng Hoài Đức (1974 - 1975)",
     "links": [
       "https://lmhtx.binhthuan.gov.vn/tin-tuc/chien-dich-giai-phong-hoai-duc-614138.html"
     ]
   },
-  "chien dich ha lao 1954 - 1954": {
+  "chien dich giao-quang": {
+    "dongMinh": "Nhà Đông Ngô",
+    "doiPhuong": "Nhà Tây Tấn",
+    "ketQua": "Nhà Đông Ngô chiến thắng Nhà Đông Ngô thu hồi được Giao Châu",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "chien dich giao-quang",
+    "thoiGian": "268 - 271"
+  },
+  "chien dich ha lao": {
     "ten": "Chiến dịch Hạ Lào (1954 - 1954)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d303\u0026Itemid\u003d33",
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_c%E1%BB%A5c_%C4%91%C3%B4ng-xu%C3%A2n_1953-1954"
     ]
   },
-  "chien dich ho chi minh 1975 - 1975": {
+  "chien dich ho chi minh": {
     "ten": "Chiến dịch Hồ Chí Minh (1975 - 1975)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d352",
@@ -313,7 +367,7 @@
       "vu lang"
     ]
   },
-  "chien dich lich su dien bien phu 1954 - 1954": {
+  "chien dich lich su dien bien phu": {
     "ten": "Chiến dịch lịch sử Điện Biên Phủ (1954 - 1954)",
     "links": [
       "http://www.chinhphu.vn/portal/page/portal/chinhphu/noidungchinhsachthanhtuu?categoryId\u003d698\u0026articleId\u003d10001574",
@@ -330,7 +384,15 @@
       "vo nguyen giap"
     ]
   },
-  "chien dich nguyen hue 1972 - 1973": {
+  "chien dich nam ky": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn",
+    "doiPhuong": "Đế chế Pháp Vương quốc Tây Ban Nha",
+    "ketQua": "Thất bại Hòa ước Nhâm Tuất 1862 Nam Kỳ trở thành thuộc địa của Pháp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "chien dich nam ky",
+    "thoiGian": "1858 - 1862"
+  },
+  "chien dich nguyen hue": {
     "ten": "Chiến dịch Nguyễn Huệ (1972 - 1973)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Nguy%E1%BB%85n_Hu%E1%BB%87",
@@ -344,7 +406,7 @@
       "tran van tra"
     ]
   },
-  "chien dich phong ngu quang tri 1972 - 1973": {
+  "chien dich phong ngu quang tri": {
     "ten": "Chiến dịch phòng ngự Quảng Trị (1972 - 1973)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1401\u0026Itemid\u003d5",
@@ -355,13 +417,13 @@
       "quang tri"
     ]
   },
-  "chien dich phu xuan 1786 1786 - 1786": {
+  "chien dich phu xuan 1786": {
     "ten": "Chiến dịch Phú Xuân 1786 (1786 - 1786)",
     "links": [
       "http://www.dostbinhdinh.org.vn/diachibd/Lichsu/ChuongIII_Phongtrao69-79.htm"
     ]
   },
-  "chien dich tay bac 1952 - 1952": {
+  "chien dich tay bac": {
     "ten": "Chiến dịch Tây Bắc (1952 - 1952)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d300\u0026Itemid\u003d33",
@@ -379,7 +441,7 @@
       "hoang van thai"
     ]
   },
-  "chien dich tay nguyen giai phong buon me thuot 1975 - 1975": {
+  "chien dich tay nguyen giai phong buon me thuot": {
     "ten": "Chiến dịch Tây Nguyên giải phóng Buôn Mê Thuột (1975 - 1975)",
     "links": [
       "http://infonet.vn/chien-dich-tay-nguyen-thang-loi-mo-dau-cuoc-tong-tien-cong-post161172.info",
@@ -387,7 +449,15 @@
       "http://vov.vn/chinh-tri/chien-dich-tay-nguyen-thang-loi-cua-nghe-thuat-nghi-binh-389944.vov"
     ]
   },
-  "chien dich tien cong duong 9-khe sanh 1968 - 1968": {
+  "chien dich thap van dai son": {
+    "dongMinh": "Quân Giải phóng Nhân dân Trung Quốc Quân đội Nhân dân Việt Nam",
+    "doiPhuong": "Quốc quân Trung Hoa Dân Quốc",
+    "ketQua": "Đảng Cộng sản Trung Quốc chiến thắng Trung Hoa Dân quốc mất quyền kiểm soát Nam Ninh và một số địa phương khác tại Quảng Tây",
+    "thoiKy": "Việt Nam Dân chủ Cộng hòa (1945 - 1976)",
+    "ten": "chien dich thap van dai son",
+    "thoiGian": "1949"
+  },
+  "chien dich tien cong duong 9-khe sanh": {
     "ten": "Chiến dịch tiến công Đường 9-Khe Sanh (1968 - 1968)",
     "links": [
       "http://khamphahue.com.vn/vanhoa-dulich-Hue/l-3/C1D436B5-C476-4D26-92C3-86473C9723C5/16538-chien-dich-duong-9-khe-sanh-1968-linh-hoat-va-sang-tao-trong-to-chuc-va-bao-dam-hau-can-ky-thuat.aspx#.VUoY947tmko",
@@ -398,7 +468,7 @@
       "khe sanh"
     ]
   },
-  "chien dich tien cong tuyen phong thu xuan loc - long khanh 1975 - 1975": {
+  "chien dich tien cong tuyen phong thu xuan loc - long khanh": {
     "ten": "Chiến dịch tiến công tuyến phòng thủ Xuân Lộc - Long Khánh (1975 - 1975)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Xu%C3%A2n_L%E1%BB%99c",
@@ -411,7 +481,7 @@
       "hoang cam"
     ]
   },
-  "chien dich tri - thien 1972 - 1972": {
+  "chien dich tri - thien": {
     "ten": "Chiến dịch Trị - Thiên (1972 - 1972)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_c%E1%BB%A5c_n%C4%83m_1972_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
@@ -421,14 +491,14 @@
       "quang tri"
     ]
   },
-  "chien dich trung lao 1953": {
+  "chien dich trung lao": {
     "ten": "Chiến dịch Trung Lào (1953 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d301\u0026Itemid\u003d33",
       "http://www.vietnamtk20.vn/index.php/devent/1794/Mo-man-Chien-dich-Trung-Lao.html"
     ]
   },
-  "chien dich viet bac 1947 - 1947": {
+  "chien dich viet bac": {
     "ten": "Chiến dịch Việt Bắc (1947 - 1947)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d295\u0026Itemid\u003d33",
@@ -444,7 +514,7 @@
       "vo nguyen giap"
     ]
   },
-  "chien thang an lao 1964 - 1964": {
+  "chien thang an lao": {
     "ten": "Chiến thắng An Lão (1964 - 1964)",
     "links": [
       "http://www.baobinhdinh.com.vn/viewer.aspx?macm\u003d26\u0026macmp\u003d26\u0026mabb\u003d14677"
@@ -453,7 +523,7 @@
       "an lao"
     ]
   },
-  "chien thang ap bac 1963": {
+  "chien thang ap bac": {
     "ten": "Chiến thắng Ấp Bắc (1963 )",
     "links": [
       "http://baoapbac.vn/chinh-tri/201501/tien-toi-ky-niem-52-nam-chien-thang-ap-bac-2-1-1963-2-1-2015-chien-thang-ap-bac-oanh-liet-2-1-1963-574081/",
@@ -463,7 +533,7 @@
       "cai lay"
     ]
   },
-  "chien thang ba gia 1965 - 1965": {
+  "chien thang ba gia": {
     "ten": "Chiến thắng Ba Gia (1965 - 1965)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Ba_Gia",
@@ -473,7 +543,7 @@
       "son tinh"
     ]
   },
-  "chien thang bach dang nam 1288 1288": {
+  "chien thang bach dang nam 1288": {
     "ten": "Chiến Thắng Bạch Đằng năm 1288 (1288 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_1288",
@@ -493,7 +563,7 @@
       "tran nhan tong"
     ]
   },
-  "chien thang binh gia 1964 - 1965": {
+  "chien thang binh gia": {
     "ten": "Chiến thắng Bình Giã (1964 - 1965)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%C3%ACnh_Gi%C3%A3",
@@ -503,7 +573,7 @@
       "ba ria - vung tau"
     ]
   },
-  "chien thang deo nhong - duong lieu 1965": {
+  "chien thang deo nhong - duong lieu": {
     "ten": "Chiến thắng Đèo Nhông - Dương Liễu (1965 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_D%C6%B0%C6%A1ng_Li%E1%BB%85u_-_%C4%90%C3%A8o_Nh%C3%B4ng",
@@ -514,7 +584,7 @@
       "my phong"
     ]
   },
-  "chien thang doi 10 1965 - 1965": {
+  "chien thang doi 10": {
     "ten": "Chiến thắng Đồi 10 (1965 - 1965)",
     "links": [
       "http://www.baobinhdinh.com.vn/viewer.aspx?macm\u003d1\u0026macmp\u003d1\u0026mabb\u003d36492",
@@ -524,7 +594,7 @@
       "hoai chau bac"
     ]
   },
-  "chien thang nhu nguyet 1077 - 1077": {
+  "chien thang nhu nguyet": {
     "ten": "Chiến thắng Như Nguyệt (1077 - 1077)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1235\u0026Itemid\u003d5",
@@ -537,7 +607,7 @@
       "chieu van"
     ]
   },
-  "chien thang phay khat va na ngan cua doi viet nam tuyen truyen giai phong quan 1944 - 1944": {
+  "chien thang phay khat va na ngan cua doi viet nam tuyen truyen giai phong quan": {
     "ten": "Chiến thắng Phay Khắt và Nà Ngần của Đội Việt Nam tuyên truyền giải phóng quân (1944 - 1944)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d268\u0026Itemid\u003d33",
@@ -555,7 +625,7 @@
       "vo nguyen giap"
     ]
   },
-  "chien thang quan nguyen lan ba 1288": {
+  "chien thang quan nguyen lan ba": {
     "ten": "Chiến thắng quân Nguyên lần ba (1288 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng-%C4%90%E1%BA%A1i_Vi%E1%BB%87t_l%E1%BA%A7n_3",
@@ -575,7 +645,7 @@
       "truong han sieu"
     ]
   },
-  "chien thang quan nguyen lan hai 1285": {
+  "chien thang quan nguyen lan hai": {
     "ten": "Chiến thắng quân Nguyên lần hai (1285 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng_%E2%80%93_%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
@@ -592,7 +662,7 @@
       "tran quoc tang"
     ]
   },
-  "chien thang quan xam luoc mong co lan thu nhat 1258": {
+  "chien thang quan xam luoc mong co lan thu nhat": {
     "ten": "Chiến thắng quân xâm lược Mông Cổ lần thứ nhất (1258 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng-%C4%90%E1%BA%A1i_Vi%E1%BB%87t_l%E1%BA%A7n_1",
@@ -607,7 +677,7 @@
       "le phu tran"
     ]
   },
-  "chien thang rach gam – xoai mut 1785": {
+  "chien thang rach gam – xoai mut": {
     "ten": "Chiến thắng Rạch Gầm – Xoài Mút (1785 )",
     "links": [
       "http://www.tiengiang.gov.vn/xemtin.asp?idcha\u003d2579\u0026cap\u003d4\u0026id\u003d2584",
@@ -623,7 +693,7 @@
       "gia long"
     ]
   },
-  "chien thang van tuong 1965": {
+  "chien thang van tuong": {
     "ten": "Chiến thắng Vạn Tường (1965 )",
     "links": [
       "http://www.qdnd.vn/qdndsite/vi-vn/61/43/nhung-moc-son-lich-su/chien-thang-van-tuong-%E2%80%93-don-phu-dau-quan-vien-chinh-my/333976.html",
@@ -634,6 +704,14 @@
       "binh son"
     ]
   },
+  "chien tranh au lac-nam viet": {
+    "dongMinh": "Âu Lạc thời Nhà Thục",
+    "doiPhuong": "Nam Việt của Triệu Đà",
+    "ketQua": "Thất bại Âu Lạc sáp nhập vào Nam Việt",
+    "thoiKy": "Nhà Thục (257 TCN - 207 TCN)",
+    "ten": "chien tranh au lac-nam viet",
+    "thoiGian": "207 TCN hoặc 179 TCN"
+  },
   "chien tranh bach viet-tan": {
     "dongMinh": "Các bộ tộc Bách Việt: Âu Lạc thời Nhà Thục Mân Việt Nam Việt Đông Việt",
     "doiPhuong": "Nhà Tần",
@@ -642,7 +720,15 @@
     "ten": "chien tranh bach viet-tan",
     "thoiGian": "218 TCN - 208 TCN"
   },
-  "chien tranh bien gioi viet - trung 1979 1979": {
+  "chien tranh bien gioi tay nam": {
+    "dongMinh": "Việt Nam Cộng hòa Nhân dân Campuchia (1979-1989) Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia Nhà nước Campuchia (1989-1993) Viện trợ: Liên Xô Cuba Ba Lan Tiệp Khắc",
+    "doiPhuong": "Campuchia Dân chủ (1979-1982) Liên minh chính phủ Kampuchea Dân chủ (1982-1990) Khmer Đỏ Mặt trận Dân tộc Giải phóng Nhân dân Khmer (từ 1979) FUNCINPEC (từ 1981) Vương quốc Thái Lan Viện trợ: Trung Quốc Hoa Kỳ Singapore",
+    "ketQua": "Chiến thắng Khmer Đỏ bị lật đổ Chấm dứt thời kỳ Diệt chủng Campuchia Quân đội Việt Nam chiếm đóng Campuchia sau đó rút về Xung đột đảng phái tại Campuchia",
+    "thoiKy": "",
+    "ten": "chien tranh bien gioi tay nam",
+    "thoiGian": "1978 - 1989"
+  },
+  "chien tranh bien gioi viet - trung 1979": {
     "ten": "Chiến tranh biên giới Việt - Trung 1979 (1979 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_bi%C3%AAn_gi%E1%BB%9Bi_Vi%E1%BB%87t-Trung,_1979#Di.E1.BB.85n_bi.E1.BA.BFn",
@@ -653,6 +739,22 @@
       "lang son",
       "cao bang"
     ]
+  },
+  "chien tranh dai co viet-chiem thanh lan 1": {
+    "dongMinh": "Đại Cồ Việt thời Nhà Tiền Lê",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Chiến thắng Chiêm Thành bị tàn phá",
+    "thoiKy": "Nhà Tiền Lê (981 - 1009)",
+    "ten": "chien tranh dai co viet-chiem thanh lan 1",
+    "thoiGian": "982"
+  },
+  "chien tranh dai co viet-chiem thanh lan 2": {
+    "dongMinh": "Đại Cồ Việt thời Nhà Lý",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Chiến thắng Chiêm Thành bị tàn phá",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "chien tranh dai co viet-chiem thanh lan 2",
+    "thoiGian": "1044"
   },
   "chien tranh dai co viet-dai ly": {
     "dongMinh": "Đại Cồ Việt thời Nhà Lý",
@@ -670,6 +772,14 @@
     "ten": "chien tranh dai co viet-dai tong",
     "thoiGian": "981"
   },
+  "chien tranh dai nam-xiem la": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn Lực lượng Ang Mey",
+    "doiPhuong": "Xiêm La thời Nhà Chakri Lực lượng Ang Duong và Ang Em",
+    "ketQua": "Bất phân thắng bại Ký kết hòa ước Cao Miên phải thần phục cả Đại Nam và Xiêm La",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "chien tranh dai nam-xiem la",
+    "thoiGian": "1841 - 1845"
+  },
   "chien tranh dai ngu-chiem thanh lan 1": {
     "dongMinh": "Đại Ngu thời Nhà Hồ",
     "doiPhuong": "Chiêm Thành",
@@ -677,6 +787,14 @@
     "thoiKy": "Nhà Hồ (1400 - 1407)",
     "ten": "chien tranh dai ngu-chiem thanh lan 1",
     "thoiGian": "1400"
+  },
+  "chien tranh dai ngu-dai minh": {
+    "dongMinh": "Đại Ngu thời Nhà Hồ",
+    "doiPhuong": "Nhà Minh Chiêm Thành",
+    "ketQua": "Thất bại Hồ Hán Thương bị bắt giết Đại Ngu bị sáp nhập vào Nhà Minh Bắt đầu thời kỳ Bắc thuộc lần 4",
+    "thoiKy": "Nhà Hồ (1400 - 1407)",
+    "ten": "chien tranh dai ngu-dai minh",
+    "thoiGian": "1406 - 1407"
   },
   "chien tranh dai viet - cham pa": {
     "ten": "Chiến tranh Đại Việt - Chăm pa ( )",
@@ -686,6 +804,86 @@
       "http://www.nguoicham.com/blog/1512/ch%C4%83m-pa-trong-ti%E1%BA%BFn-tr%C3%ACnh-l%E1%BB%8Bch-s%E1%BB%AD-vi%E1%BB%87t-nam/"
     ]
   },
+  "chien tranh dai viet-ai lao lan 1": {
+    "dongMinh": "Đại Việt thời Nhà Trần",
+    "doiPhuong": "Ai Lao",
+    "ketQua": "Chiến thắng Chiếm được một phần mà ngày nay là phía đông tỉnh Xiêng Khoảng",
+    "thoiKy": "Nhà Trần (1226 - 1400)",
+    "ten": "chien tranh dai viet-ai lao lan 1",
+    "thoiGian": "1294"
+  },
+  "chien tranh dai viet-cao mien lan 1": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn Lực lượng Ang Sur và Ang Tan",
+    "doiPhuong": "Cao Miên thời Ramathipadi I",
+    "ketQua": "Chiến thắng Ramathipadi I bị bắt",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-cao mien lan 1",
+    "thoiGian": "1658"
+  },
+  "chien tranh dai viet-cao mien lan 2": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn Lực lượng Ang Nan II và Ang Tan",
+    "doiPhuong": "Cao Miên thời Keo Fa II",
+    "ketQua": "Chiến thắng Keo Fa II bỏ chạy Cao Miên bị chia cắt thành 2 nửa do Ang Nan II và Chey Chettha IV lãnh đạo",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-cao mien lan 2",
+    "thoiGian": "1674"
+  },
+  "chien tranh dai viet-cao mien lan 3": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Cao Miên thời Chey Chettha IV",
+    "ketQua": "Chiến Thắng Chey Chettha IV xin hàng Chúa Nguyễn",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-cao mien lan 3",
+    "thoiGian": "1699"
+  },
+  "chien tranh dai viet-cao mien lan 4": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn Lực lượng Ang Em",
+    "doiPhuong": "Cao Miên thời Thommo Reachea III Xiêm La thời Nhà Ayutthaya",
+    "ketQua": "Chiến thắng Thommo Reachea III bỏ chạy sang Xiêm La Ang Em lên ngôi vua Cao Miên",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-cao mien lan 4",
+    "thoiGian": "1708"
+  },
+  "chien tranh dai viet-cao mien lan 5": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Cao Miên thời Chey Chettha VII",
+    "ketQua": "Chiến thắng Chey Chettha VII đầu hàng Chúa Nguyễn",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-cao mien lan 5",
+    "thoiGian": "1753 - 1756"
+  },
+  "chien tranh dai viet-cao mien lan 6": {
+    "dongMinh": "Đàng Trong thời Nhà Tây Sơn",
+    "doiPhuong": "Cao Miên",
+    "ketQua": "Chiến thắng Cao Miên thần phục Nhà Tây Sơn",
+    "thoiKy": "Nhà Tây Sơn (1778 - 1802)",
+    "ten": "chien tranh dai viet-cao mien lan 6",
+    "thoiGian": "1785"
+  },
+  "chien tranh dai viet-chiem thanh lan 1": {
+    "dongMinh": "Đại Việt thời Nhà Lý",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Chiến thắng Chiêm Thành dâng các châu Bố Chính, Ma Linh và Địa Lý cho Đại Việt",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "chien tranh dai viet-chiem thanh lan 1",
+    "thoiGian": "1069"
+  },
+  "chien tranh dai viet-chiem thanh lan 11": {
+    "dongMinh": "Đại Việt thời Nhà Lê sơ",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Chiến thắng Bí Cai bị bắt",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "chien tranh dai viet-chiem thanh lan 11",
+    "thoiGian": "1446"
+  },
+  "chien tranh dai viet-chiem thanh lan 12": {
+    "dongMinh": "Đại Việt thời Nhà Lê sơ",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Chiến thắng Chiêm Thành suy vong Miền bắc Chiêm Thành sáp nhập vào Đại Việt",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "chien tranh dai viet-chiem thanh lan 12",
+    "thoiGian": "1471"
+  },
   "chien tranh dai viet-chiem thanh lan 2": {
     "dongMinh": "Đại Việt thời Nhà Trần",
     "doiPhuong": "Chiêm Thành",
@@ -694,6 +892,70 @@
     "ten": "chien tranh dai viet-chiem thanh lan 2",
     "thoiGian": "1252"
   },
+  "chien tranh dai viet-chiem thanh lan 3": {
+    "dongMinh": "Đại Việt thời Nhà Trần",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Chiến thắng Chế Chí bị bắt",
+    "thoiKy": "Nhà Trần (1226 - 1400)",
+    "ten": "chien tranh dai viet-chiem thanh lan 3",
+    "thoiGian": "1311"
+  },
+  "chien tranh dai viet-chiem thanh lan 6": {
+    "dongMinh": "Đại Việt thời Nhà Trần",
+    "doiPhuong": "Chiêm Thành",
+    "ketQua": "Thất bại Quân Chiêm Thành cướp phá Thăng Long",
+    "thoiKy": "Nhà Trần (1226 - 1400)",
+    "ten": "chien tranh dai viet-chiem thanh lan 6",
+    "thoiGian": "1371"
+  },
+  "chien tranh dai viet-dai thanh": {
+    "dongMinh": "Đại Việt thời Nhà Tây Sơn",
+    "doiPhuong": "Nhà Thanh Lực lượng Lê Chiêu Thống",
+    "ketQua": "Chiến thắng Quân Thanh đại bại và rút về nước Nhà Hậu Lê chính thức sụp đổ Nhà Tây Sơn tiến gần đến công cuộc thống nhất đất nước",
+    "thoiKy": "Nhà Tây Sơn (1778 - 1802)",
+    "ten": "chien tranh dai viet-dai thanh",
+    "thoiGian": "1789"
+  },
+  "chien tranh dai viet-khmer lan 1": {
+    "dongMinh": "Đại Việt thời Nhà Lý",
+    "doiPhuong": "Đế quốc Khmer",
+    "ketQua": "Chiến thắng Quân Khmer bị đẩy lùi",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "chien tranh dai viet-khmer lan 1",
+    "thoiGian": "1128"
+  },
+  "chien tranh dai viet-lan xang": {
+    "dongMinh": "Đại Việt thời Nhà Lê sơ",
+    "doiPhuong": "Lan Xang Lan Na Bồn Man Ayutthaya Ava",
+    "ketQua": "Chiến thắng Lan Xang, Ayutthaya, Ava thần phục Đại Việt Bồn Man sáp nhập vào Đại Việt",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "chien tranh dai viet-lan xang",
+    "thoiGian": "1478 - 1480"
+  },
+  "chien tranh dai viet-luang phrabang": {
+    "dongMinh": "Đàng Ngoài thời Chúa Trịnh",
+    "doiPhuong": "Luang Phrabang",
+    "ketQua": "Thất bại Quân Trịnh bị đẩy lùi khỏi Luang Prabang",
+    "thoiKy": "Chúa Trịnh - Đàng Ngoài (1545 - 1787)",
+    "ten": "chien tranh dai viet-luang phrabang",
+    "thoiGian": "1749"
+  },
+  "chien tranh dai viet-nguyen mong lan 1": {
+    "dongMinh": "Đại Việt thời Nhà Trần",
+    "doiPhuong": "Đế quốc Mông Cổ",
+    "ketQua": "Chiến thắng Quân Mông Cổ đại bại và rút về nước",
+    "thoiKy": "Nhà Trần (1226 - 1400)",
+    "ten": "chien tranh dai viet-nguyen mong lan 1",
+    "thoiGian": "1258"
+  },
+  "chien tranh dai viet-nguyen mong lan 2": {
+    "dongMinh": "Đại Việt thời Nhà Trần Chiêm Thành",
+    "doiPhuong": "Nhà Nguyên",
+    "ketQua": "Chiến thắng Quân Nguyên đại bại và rút về nước",
+    "thoiKy": "Nhà Trần (1226 - 1400)",
+    "ten": "chien tranh dai viet-nguyen mong lan 2",
+    "thoiGian": "1285"
+  },
   "chien tranh dai viet-panduranga lan 1": {
     "dongMinh": "Đàng Trong thời Chúa Nguyễn",
     "doiPhuong": "Panduranga-Chăm Pa",
@@ -701,6 +963,62 @@
     "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
     "ten": "chien tranh dai viet-panduranga lan 1",
     "thoiGian": "1611"
+  },
+  "chien tranh dai viet-panduranga lan 2": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Panduranga-Chăm Pa",
+    "ketQua": "Chiến thắng Chúa Nguyễn mở rộng lãnh thổ",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-panduranga lan 2",
+    "thoiGian": "1653"
+  },
+  "chien tranh dai viet-panduranga lan 3": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Panduranga-Chăm Pa",
+    "ketQua": "Thất bại Quân Nguyễn rút lui Panduranga-Chăm Pa được quyền tự trị",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-panduranga lan 3",
+    "thoiGian": "1693 - 1697"
+  },
+  "chien tranh dai viet-vieng chan": {
+    "dongMinh": "Đại Việt thời Nhà Tây Sơn",
+    "doiPhuong": "Viêng Chăn Bồn Man",
+    "ketQua": "Chiến thắng Viêng Chăn thần phục Nhà Tây Sơn Bồn Man sáp nhập vào Đại Việt",
+    "thoiKy": "Nhà Tây Sơn (1778 - 1802)",
+    "ten": "chien tranh dai viet-vieng chan",
+    "thoiGian": "1791"
+  },
+  "chien tranh dai viet-xiem la lan 1": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Xiêm La thời Nhà Ayutthaya",
+    "ketQua": "Thất bại Quân Xiêm cướp phá Hà Tiên",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-xiem la lan 1",
+    "thoiGian": "1718"
+  },
+  "chien tranh dai viet-xiem la lan 2": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn Lực lượng Outey II",
+    "doiPhuong": "Xiêm La thời Nhà Thonburi Lực lượng Ang Non II",
+    "ketQua": "Thất bại Ang Non II lên ngôi vua Cao Miên Quân Nguyễn rút khỏi Cao Miên Chúa Nguyễn suy yếu",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "chien tranh dai viet-xiem la lan 2",
+    "thoiGian": "1771 - 1772"
+  },
+  "chien tranh dai viet-xiem la lan 3": {
+    "dongMinh": "Đàng Trong thời Nhà Tây Sơn",
+    "doiPhuong": "Xiêm La thời Nhà Chakri Lực lượng Nguyễn Ánh",
+    "ketQua": "Chiến thắng Quân Xiêm bị đánh tan Nguyễn Ánh bỏ chạy sang Xiêm La",
+    "thoiKy": "Nhà Tây Sơn (1778 - 1802)",
+    "ten": "chien tranh dai viet-xiem la lan 3",
+    "thoiGian": "1785"
+  },
+  "chien tranh dong duong": {
+    "dongMinh": "Việt Nam Dân chủ Cộng hòa Việt Minh Lào Issara Pathet Lào (từ 1949) Khmer Issarak Mặt trận Issarak Thống nhất Lính tình nguyện Nhật Bản trong Chiến sĩ \"Việt Nam mới\" Viện trợ: Liên Xô Trung Quốc",
+    "doiPhuong": "Liên hiệp Pháp Cộng hòa Pháp Liên bang Đông Dương Cộng hòa Tự trị Nam Kỳ (1946 -1948) Quốc gia Việt Nam (1949 - 1954) Vương quốc Lào (1949 - 1954) Vương quốc Campuchia (1953 - 1954) Viện trợ: Hoa Kỳ (từ 1950)",
+    "ketQua": "Chiến thắng Quân đội Pháp thất bại và rút khỏi Đông Dương Việt Nam Dân chủ Cộng hòa, Vương quốc Lào và Vương quốc Campuchia giành được độc lập Hiệp định Genève 1954 Việt Nam bị phân chia tạm thời ở vĩ tuyến 17",
+    "thoiKy": "Việt Nam Dân chủ Cộng hòa (1945 - 1976)",
+    "ten": "chien tranh dong duong",
+    "thoiGian": "1946 - 1954"
   },
   "chien tranh giua nguoi au viet va lac viet": {
     "dongMinh": "Văn Lang (Lạc Việt) thời Hùng Vương",
@@ -742,6 +1060,38 @@
     "ten": "chien tranh nam viet-tay han",
     "thoiGian": "111 TCN"
   },
+  "chien tranh phap-thai": {
+    "dongMinh": "Quốc gia Pháp Liên bang Đông Dương",
+    "doiPhuong": "Thái Lan",
+    "ketQua": "Bất phân thắng bại Nhật Bản dàn xếp việc ngừng bắn Thái Lan giành thắng lợi về chiến thuật",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "chien tranh phap-thai",
+    "thoiGian": "1940 - 1941"
+  },
+  "chien tranh phap-thanh": {
+    "dongMinh": "Nhà Thanh Hỗ trợ: Nhà Nguyễn Quân Cờ Đen",
+    "doiPhuong": "Cộng hòa Pháp",
+    "ketQua": "Nhà Thanh thất bại Hòa ước Thiên Tân 1885 Nhà Thanh công nhận Đại Nam thuộc quyền bảo hộ của Pháp",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "chien tranh phap-thanh",
+    "thoiGian": "1884 - 1885"
+  },
+  "chien tranh phap-xiem": {
+    "dongMinh": "Cộng hòa Pháp Liên bang Đông Dương",
+    "doiPhuong": "Xiêm La thời Nhà Chakri",
+    "ketQua": "Pháp chiến thắng Lào sáp nhập vào Liên bang Đông Dương",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "chien tranh phap-xiem",
+    "thoiGian": "1893"
+  },
+  "chien tranh tay son-chua nguyen lan 2": {
+    "dongMinh": "Đại Việt thời Nhà Tây Sơn",
+    "doiPhuong": "Lực lượng Nguyễn Ánh ở Nam Hà",
+    "ketQua": "Thay đổi triều đại Nhà Tây Sơn sụp đổ Nhà Nguyễn được thành lập và thống nhất đất nước",
+    "thoiKy": "Nhà Tây Sơn (1778 - 1802)",
+    "ten": "chien tranh tay son-chua nguyen lan 2",
+    "thoiGian": "1787 - 1802"
+  },
   "chien tranh tay son-chua trinh": {
     "dongMinh": "Đàng Trong thời Nhà Tây Sơn",
     "doiPhuong": "Đàng Ngoài thời Chúa Trịnh",
@@ -750,7 +1100,7 @@
     "ten": "chien tranh tay son-chua trinh",
     "thoiGian": "1775 - 1786"
   },
-  "chien tranh the gioi thu hai bung no 1939": {
+  "chien tranh the gioi thu hai bung no": {
     "ten": "Chiến tranh thế giới thứ hai bùng nổ (1939 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_hai",
@@ -760,7 +1110,7 @@
       "https://www.youtube.com/watch?v\u003ddO4IXvPBo0o"
     ]
   },
-  "chien tranh the gioi thu nhat 1914 - 1918": {
+  "chien tranh the gioi thu nhat": {
     "ten": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t",
@@ -777,7 +1127,15 @@
     "ten": "chien tranh tinh hai quan-nam han lan 1",
     "thoiGian": "923 hoặc 930"
   },
-  "chien tranh tong - viet 1075 - 1077": {
+  "chien tranh tinh hai quan-nam han lan 2": {
+    "dongMinh": "Lực lượng Ngô Quyền",
+    "doiPhuong": "Nhà Nam Hán Lực lượng Kiều Công Tiễn",
+    "ketQua": "Chiến thắng Quân Nam Hán đại bại và rút về nước Ngô Quyền lên ngôi Nhà Ngô thành lập Bắt đầu thời kỳ độc lập của Việt Nam",
+    "thoiKy": "Họ Khúc (905 - 923 hoặc 930) và Họ Dương (931 - 938)",
+    "ten": "chien tranh tinh hai quan-nam han lan 2",
+    "thoiGian": "938"
+  },
+  "chien tranh tong - viet": {
     "ten": "Chiến tranh Tống - Việt (1075 - 1077)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng-Vi%E1%BB%87t,_1075-1077",
@@ -790,7 +1148,7 @@
       "ly dao thanh"
     ]
   },
-  "chien tranh trinh-nguyen, dat nuoc bi chia cat thanh hai vung 1627 - 1672": {
+  "chien tranh trinh-nguyen, dat nuoc bi chia cat thanh hai vung": {
     "ten": "Chiến tranh Trịnh-Nguyễn, đất nước bị chia cắt thành hai vùng (1627 - 1672)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d705\u0026Itemid\u003d99999999",
@@ -820,7 +1178,15 @@
     "ten": "chien tranh van xuan-da nang",
     "thoiGian": "557 - 571"
   },
-  "chien tranh viet chiem 1400-1407 1400 - 1407": {
+  "chien tranh van xuan-tuy": {
+    "dongMinh": "Vạn Xuân thời Nhà Tiền Lý",
+    "doiPhuong": "Nhà Tùy",
+    "ketQua": "Thất bại Lý Phật Tử bị bắt Vạn Xuân bị sáp nhập vào Nhà Tùy Bắt đầu thời kỳ Bắc thuộc lần 3",
+    "thoiKy": "Nhà Tiền Lý (544 - 602)",
+    "ten": "chien tranh van xuan-tuy",
+    "thoiGian": "602"
+  },
+  "chien tranh viet chiem 1400-1407": {
     "ten": "Chiến tranh Việt Chiêm 1400-1407 (1400 - 1407)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t-Chi%C3%AAm_1400-1407",
@@ -839,7 +1205,23 @@
     "ten": "chien tranh viet nam",
     "thoiGian": "1955 - 1975"
   },
-  "chu tich ho chi minh doc ban “tuyen ngon doc lap” 1945": {
+  "chien tranh viet nam-xiem la": {
+    "dongMinh": "Việt Nam thời Nhà Nguyễn",
+    "doiPhuong": "Xiêm La thời Nhà Chakri",
+    "ketQua": "Chiến thắng Xiêm La xin giảng hòa",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "chien tranh viet nam-xiem la",
+    "thoiGian": "1833 - 1834"
+  },
+  "chinh ly viet nam cong hoa": {
+    "dongMinh": "Hội đồng Quân nhân Cách mạng Quân lực Việt Nam Cộng hòa trung thành",
+    "doiPhuong": "Quân lực Việt Nam Cộng hòa nổi dậy",
+    "ketQua": "Nguyễn Khánh và phe đảo chính chiến thắng Lực lượng đảo chính của Nguyễn Khánh thâu tóm quyền hành Hội đồng Quân nhân Cách mạng",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "chinh ly viet nam cong hoa",
+    "thoiGian": "1964"
+  },
+  "chu tich ho chi minh doc ban “tuyen ngon doc lap”": {
     "ten": "Chủ tịch Hồ Chí Minh đọc bản “Tuyên ngôn Độc lập” (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d282",
@@ -856,7 +1238,7 @@
       "nguyen luong bang"
     ]
   },
-  "chu tich ho chi minh doc “loi keu goi toan quoc khang chien” 1946": {
+  "chu tich ho chi minh doc “loi keu goi toan quoc khang chien”": {
     "ten": "Chủ tịch Hồ Chí Minh đọc “Lời kêu gọi toàn quốc kháng chiến” (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d293\u0026Itemid\u003d33",
@@ -869,7 +1251,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "chu tich ho chi minh keu goi dong bao nam bo khang chien 1945": {
+  "chu tich ho chi minh keu goi dong bao nam bo khang chien": {
     "ten": "Chủ tịch Hồ Chí Minh kêu gọi đồng bào Nam Bộ kháng chiến (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d284\u0026Itemid\u003d33",
@@ -880,7 +1262,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "chua nguyen sai nguyen huu canh vao mien nam 1698": {
+  "chua nguyen sai nguyen huu canh vao mien nam": {
     "ten": "Chúa Nguyễn sai Nguyễn Hữu Cảnh vào miền Nam (1698 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh"
@@ -892,7 +1274,7 @@
       "nguyen huu canh"
     ]
   },
-  "cuoc bai cong cua cong nhan ba son 1925 - 1925": {
+  "cuoc bai cong cua cong nhan ba son": {
     "ten": "Cuộc bãi công của công nhân Ba Son (1925 - 1925)",
     "links": [
       "http://nhatrang.tdt.edu.vn/gioi-thieu/chu-tich-ton-duc-thang/576-cong-hoi-bi-mat-va-cuoc-bai-cong-cua-cong-nhan-ba-son"
@@ -901,7 +1283,7 @@
       "ton duc thang"
     ]
   },
-  "cuoc bao dong dien ra o kinh thanh hue de phan doi viec trieu dinh ky hoa uoc voi phap 1864": {
+  "cuoc bao dong dien ra o kinh thanh hue de phan doi viec trieu dinh ky hoa uoc voi phap": {
     "ten": "Cuộc bạo động diễn ra ở kinh thành Huế để phản đối việc triều đình ký hòa ước với Pháp (1864 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d190\u0026Itemid\u003d33"
@@ -913,7 +1295,7 @@
       "phan thanh gian"
     ]
   },
-  "cuoc bao loan ven bien chong nha nguyen 1861 - 1865": {
+  "cuoc bao loan ven bien chong nha nguyen": {
     "ten": "Cuộc bạo loạn ven biển chống nhà Nguyễn (1861 - 1865)",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_T%E1%BA%A1_V%C4%83n_Ph%E1%BB%A5ng",
@@ -923,13 +1305,13 @@
       "ta van phung"
     ]
   },
-  "cuoc chien cuoi cung giua nha trinh dang ngoai va nha nguyen dang trong 1774 - 1775": {
+  "cuoc chien cuoi cung giua nha trinh": {
     "ten": "Cuộc chiến cuối cùng giữa nhà Trịnh (Đàng ngoài) và nhà Nguyễn (Đàng trong) (1774 - 1775)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh-Nguy%E1%BB%85n_ph%C3%A2n_tranh,_1774-1775"
     ]
   },
-  "cuoc khang chien chong quan luong cua nuoc van xuan 545 - 603": {
+  "cuoc khang chien chong quan luong cua nuoc van xuan": {
     "ten": "Cuộc kháng chiến chống quân Lương của nước Vạn Xuân (545 - 603)",
     "links": [
       "Từ điển bách khoa Tri thức quốc phòng toàn dân.-H.: Chính trị Quốc gia, 2002. http://vietnamdefence.com/Home/quansuvietnam/khoinghiachientranh/Cuoc-khang-chien-chong-Luong-cua-nuoc-Van-Xuan-545--603/20099/48719.vnd",
@@ -942,7 +1324,7 @@
       "ly nam de"
     ]
   },
-  "cuoc khang chien chong trieu da -184 - -179": {
+  "cuoc khang chien chong trieu da": {
     "ten": "Cuộc kháng chiến chống Triệu Đà (-184 - -179)",
     "links": [
       "Từ điển bách khoa Tri thức quốc phòng toàn dân.-H.: Chính trị Quốc gia, 2002. http://vietnamdefence.com/Home/quansuvietnam/khoinghiachientranh/Cuoc-khang-chien-chong-Trieu-Da-184179TCN/20099/48715.vnd",
@@ -956,7 +1338,7 @@
       "cao lo"
     ]
   },
-  "cuoc khoi nghia hai ba trung bung no 40": {
+  "cuoc khoi nghia hai ba trung bung no": {
     "ten": "Cuộc khởi nghĩa Hai Bà Trưng bùng nổ (40 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
@@ -968,7 +1350,7 @@
       "hai ba trung"
     ]
   },
-  "cuoc khoi nghia tran ngoi 1407 - 1409": {
+  "cuoc khoi nghia tran ngoi": {
     "ten": "Cuộc khởi nghĩa Trần Ngỗi (1407 - 1409)",
     "links": [
       "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3n_%C4%90%E1%BB%8Bnh_%C4%90%E1%BA%BF",
@@ -984,7 +1366,7 @@
       "dang tat"
     ]
   },
-  "cuoc khoi nghia tran quy khoang 1409 - 1414": {
+  "cuoc khoi nghia tran quy khoang": {
     "ten": "Cuộc khởi nghĩa Trần Quý Khoáng (1409 - 1414)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%C3%B9ng_Quang_%C4%90%E1%BA%BF"
@@ -1001,7 +1383,7 @@
       "gian dinh de"
     ]
   },
-  "cuoc noi day chong nha nguyen cua ba nhan va tien bot 1833 - 1843": {
+  "cuoc noi day chong nha nguyen cua ba nhan va tien bot": {
     "ten": "Cuộc nổi dậy chống nhà Nguyễn của Ba Nhàn và Tiền Bột (1833 - 1843)",
     "links": [
       "http://www.bachkhoatrithuc.vn/encyclopedia/4639-02-633921674145778750/Viet-Nam-o-nua-dau-the-ky-XIX-thoi-Nguyen/Tinh-hinh-xa-hoi-va-cac-cuoc-dau-tranh-cua-nhan-dan.htm",
@@ -1013,7 +1395,7 @@
       "phu tho"
     ]
   },
-  "cuoc noi day chong nha nguyen cua nong van van 1833 - 1835": {
+  "cuoc noi day chong nha nguyen cua nong van van": {
     "ten": "Cuộc nổi dậy chống nhà Nguyễn của Nông Văn Vân (1833 - 1835)",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_N%C3%B4ng_V%C4%83n_V%C3%A2n",
@@ -1023,7 +1405,7 @@
       "nong van van"
     ]
   },
-  "cuoc noi day chong nha nguyen o ba xuyen 1841 - 1842": {
+  "cuoc noi day chong nha nguyen o ba xuyen": {
     "ten": "Cuộc nổi dậy chống nhà Nguyễn ở Ba Xuyên (1841 - 1842)",
     "links": [
       "http://khotailieu.com/tai-lieu-chuyen-nganh/chuyen-nganh-kinh-te/ke-toan-kiem-toan/cuoc-noi-day-chong-nguyen-o-ba-xuyen-nam-1841.html",
@@ -1033,7 +1415,7 @@
       "soc trang"
     ]
   },
-  "cuoc noi day chong nha nguyen o da vach quang ngai 1803 - 1883": {
+  "cuoc noi day chong nha nguyen o da vach quang ngai": {
     "ten": "Cuộc nổi dậy chống nhà Nguyễn ở Đá Vách Quảng Ngãi (1803 - 1883)",
     "links": [
       "http://www.bachkhoatrithuc.vn/encyclopedia/4639-02-633921674145778750/Viet-Nam-o-nua-dau-the-ky-XIX-thoi-Nguyen/Tinh-hinh-xa-hoi-va-cac-cuoc-dau-tranh-cua-nhan-dan.htm",
@@ -1046,7 +1428,7 @@
       "le van duyet"
     ]
   },
-  "cuoc noi day chong nha nguyen o ha tien 1840 - 1847": {
+  "cuoc noi day chong nha nguyen o ha tien": {
     "ten": "Cuộc nổi dậy chống nhà Nguyễn ở Hà Tiên (1840 - 1847)",
     "links": [
       "https://vi.wikipedia.org/wiki/C%C3%A1c_cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_%E1%BB%9F_H%C3%A0_Ti%C3%AAn_(1840)",
@@ -1058,7 +1440,7 @@
       "ca mau"
     ]
   },
-  "cuoc noi day cua binh linh do luong 1941": {
+  "cuoc noi day cua binh linh do luong": {
     "ten": "Cuộc nổi dậy của binh lính Đô Lương (1941 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d261\u0026Itemid\u003d33",
@@ -1074,7 +1456,7 @@
       "doi cung"
     ]
   },
-  "cuoc noi day lam sam doi vua thieu tri 1841 - 1841": {
+  "cuoc noi day lam sam doi vua thieu tri": {
     "ten": "Cuộc nổi dậy Lâm Sâm đời vua Thiệu Trị (1841 - 1841)",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_L%C3%A2m_S%C3%A2m",
@@ -1086,7 +1468,7 @@
       "nguyen tri phuong"
     ]
   },
-  "cuoc xam luoc cua nha minh 1406-1407 1406 - 1407": {
+  "cuoc xam luoc cua nha minh 1406-1407": {
     "ten": "Cuộc xâm lược của nhà Minh 1406-1407 (1406 - 1407)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Minh_-_%C4%90%E1%BA%A1i_Ngu",
@@ -1100,7 +1482,7 @@
       "ho quy ly"
     ]
   },
-  "dai hoi dai bieu toan quoc lan thu ii cua dang cong san dong duong 1951 - 1951": {
+  "dai hoi dai bieu toan quoc lan thu ii cua dang cong san dong duong": {
     "ten": "Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương (1951 - 1951)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d298\u0026Itemid\u003d33",
@@ -1117,7 +1499,7 @@
       "ton duc thang"
     ]
   },
-  "dai hoi hop nhat mat tran viet minh va hoi lien viet thanh mat tran lien viet 1951 - 1951": {
+  "dai hoi hop nhat mat tran viet minh va hoi lien viet thanh mat tran lien viet": {
     "ten": "Đại hội hợp nhất mặt trận Việt Minh và Hội Liên Việt thành Mặt trận Liên Việt (1951 - 1951)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d299\u0026Itemid\u003d33",
@@ -1125,7 +1507,7 @@
       "http://dulichtantrao.com.vn/v/69113-mat-tran-lien-viet.html"
     ]
   },
-  "dai hoi quoc dan hop o tan trao quyet dinh tong khoi nghia trong ca nuoc 1945 - 1945": {
+  "dai hoi quoc dan hop o tan trao quyet dinh tong khoi nghia trong ca nuoc": {
     "ten": "Đại hội quốc dân họp ở Tân Trào quyết định tổng khởi nghĩa trong cả nước (1945 - 1945)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d277\u0026Itemid\u003d33",
@@ -1135,7 +1517,7 @@
       "http://ubmttq.hochiminhcity.gov.vn/TinTuc/thongtinkhac/Lists/Posts/Post.aspx?List\u003d1db6fada-2f4d-484d-b1a8-afb5e73b4a85\u0026ID\u003d549\u0026Web\u003d244ac557-7073-4a30-a303-9c1cb4e71212"
     ]
   },
-  "dai nam va xiem la ky hoa uoc 1841 - 1845": {
+  "dai nam va xiem la ky hoa uoc": {
     "ten": "Đại Nam và Xiêm La ký hòa ước (1841 - 1845)",
     "links": [
       "https://ktsphanminhhai.blogspot.com/2013/01/chien-tranh-vietxiem-1841-1845.html",
@@ -1146,7 +1528,7 @@
       "nguyen tri phuong"
     ]
   },
-  "dam phan viet – phap o phongtennoblo 1946 - 1946": {
+  "dam phan viet – phap o phongtennoblo": {
     "ten": "Đàm phán Việt – Pháp ở Phôngtennơblô (1946 - 1946)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d289\u0026Itemid\u003d33",
@@ -1156,14 +1538,14 @@
       "pham van dong"
     ]
   },
-  "dang cong san dong duong ra “tuyen ngon ve tinh hinh chung va duong loi cach mang” 1939": {
+  "dang cong san dong duong ra “tuyen ngon ve tinh hinh chung va duong loi cach mang”": {
     "ten": "Đảng Cộng sản Đông Dương ra “Tuyên ngôn về tình hình chung và đường lối cách mạng” (1939 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d255\u0026Itemid\u003d33",
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/28-3-1939-dang-cong-san-dong-duong-ra-tuyen-ngon-ve-tinh-hinh-chung-va-duong-loi-cach-mang-8479.html"
     ]
   },
-  "dang cong san viet nam duoc thanh lap 1930": {
+  "dang cong san viet nam duoc thanh lap": {
     "ten": "Đảng Cộng Sản Việt Nam được thành lập (1930 )",
     "links": [
       "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam",
@@ -1184,7 +1566,7 @@
       "nguyen thieu"
     ]
   },
-  "danh chiem thanh tuyen 1884 - 1885": {
+  "danh chiem thanh tuyen": {
     "ten": "Đánh chiếm thành Tuyên (1884 - 1885)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Tuy%C3%AAn_Quang_(1884)",
@@ -1194,7 +1576,23 @@
       "nha mac"
     ]
   },
-  "dinh bo linh dep loan 12 su quan, thong nhat dat nuoc, len ngoi vua 968": {
+  "dao chinh viet nam cong hoa lan 1": {
+    "dongMinh": "Quân lực Việt Nam Cộng hòa trung thành với Ngô Đình Diệm",
+    "doiPhuong": "Quân lực Việt Nam Cộng hòa nổi dậy",
+    "ketQua": "Ngô Đình Diệm chiến thắng Đảo chính thất bại",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "dao chinh viet nam cong hoa lan 1",
+    "thoiGian": "1960"
+  },
+  "dao chinh viet nam cong hoa lan 2": {
+    "dongMinh": "Quân lực Việt Nam Cộng hòa trung thành với Ngô Đình Diệm",
+    "doiPhuong": "Quân lực Việt Nam Cộng hòa nổi dậy Hỗ trợ: Hoa Kỳ",
+    "ketQua": "Ngô Đình Diệm thất bại và thay đổi chế độ Ngô Đình Diệm và Ngô Đình Nhu bị ám sát Bắt đầu thời kỳ quân quản Việt Nam Cộng hòa",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "dao chinh viet nam cong hoa lan 2",
+    "thoiGian": "1963"
+  },
+  "dinh bo linh dep loan 12 su quan, thong nhat dat nuoc, len ngoi vua": {
     "ten": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua (968 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_12_s%E1%BB%A9_qu%C3%A2n",
@@ -1212,7 +1610,7 @@
       "dinh cong tru"
     ]
   },
-  "dinh kien – ly tu tien lanh dao nhan dan chong nha duong do ho 687": {
+  "dinh kien – ly tu tien lanh dao nhan dan chong nha duong do ho": {
     "ten": "Đinh Kiến – Lý Tự Tiên lãnh đạo nhân dân chống nhà Đường đô hộ (687 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d641\u0026Itemid\u003d33",
@@ -1222,7 +1620,7 @@
       "ly tu tien"
     ]
   },
-  "dinh quan che va hinh luat cua nuoc dai ngu 1401": {
+  "dinh quan che va hinh luat cua nuoc dai ngu": {
     "ten": "Định quan chế và hình luật của nước Đại Ngu (1401 )",
     "links": [
       "http://luatvadoanhnhan.com/law_club.php?\u0026id\u003d26",
@@ -1234,7 +1632,7 @@
       "ho nguyen trung"
     ]
   },
-  "doi viet nam tuyen truyen giai phong quan thanh lap 1944": {
+  "doi viet nam tuyen truyen giai phong quan thanh lap": {
     "ten": "Đội Việt Nam tuyên truyền giải phóng quân thành lập (1944 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d267\u0026Itemid\u003d33"
@@ -1247,7 +1645,7 @@
       "vo nguyen giap"
     ]
   },
-  "dong duong cong san lien doan ra doi 1930": {
+  "dong duong cong san lien doan ra doi": {
     "ten": "Đông Dương cộng sản Liên Đoàn ra đời (1930 )",
     "links": [
       "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_C%E1%BB%99ng_s%E1%BA%A3n_Li%C3%AAn_%C4%91o%C3%A0n",
@@ -1269,7 +1667,7 @@
       "hoang quoc viet"
     ]
   },
-  "dong kinh nghia thuc 1907 - 1907": {
+  "dong kinh nghia thuc": {
     "ten": "Đông Kinh Nghĩa Thục (1907 - 1907)",
     "links": [
       "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Kinh_Ngh%C4%A9a_Th%E1%BB%A5",
@@ -1281,7 +1679,7 @@
       "luong van can"
     ]
   },
-  "duong dinh nghe danh duoi ly khac chinh va ly tien 931": {
+  "duong dinh nghe danh duoi ly khac chinh va ly tien": {
     "ten": "Dương Đình Nghệ đánh đuổi Lý Khắc Chính và Lý Tiến (931 )",
     "links": [
       "http://baobacninh.com.vn/news_detail/71520/cuoc-khang-chien-cua-duong-dinh-nghe-khoi-phuc-quyen-tu-chu.html",
@@ -1291,7 +1689,7 @@
       "duong dinh nghe"
     ]
   },
-  "duong tam kha cuop ngoi ngo xuong ngap 943": {
+  "duong tam kha cuop ngoi ngo xuong ngap": {
     "ten": "Dương Tam Kha cướp ngôi Ngô Xương Ngập (943 )",
     "links": [
       "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Tam_Kha"
@@ -1301,7 +1699,7 @@
       "ngo xuong ngap"
     ]
   },
-  "duong thanh phat dong cuoc khoi nghia 819": {
+  "duong thanh phat dong cuoc khoi nghia": {
     "ten": "Dương Thanh phát động cuộc khởi nghĩa (819 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_D%C6%B0%C6%A1ng_Thanh"
@@ -1310,7 +1708,7 @@
       "duong thanh"
     ]
   },
-  "gia long dat quoc hieu la viet nam 1804": {
+  "gia long dat quoc hieu la viet nam": {
     "ten": "Gia Long đặt quốc hiệu là Việt Nam (1804 )",
     "links": [
       "https://vi.wikipedia.org/wiki/T%C3%AAn_g%E1%BB%8Di_Vi%E1%BB%87t_Nam",
@@ -1320,25 +1718,33 @@
       "gia long"
     ]
   },
-  "giai phong long khanh, nguyen van thieu tu chuc  - 1975": {
+  "giai phong long khanh, nguyen van thieu tu chuc": {
     "ten": "Giải phóng Long Khánh, Nguyễn Văn Thiệu từ chức ( - 1975)",
     "links": [
       "https://baotintuc.vn/giai-mat/giai-phong-long-khanh-nguyen-van-thieu-tu-chuc-20150323105449022.htm"
     ]
   },
-  "giai phong phan thiet  - 19": {
+  "giai phong phan thiet": {
     "ten": "Giải phóng Phan Thiết ( - 19)",
     "links": [
       "https://www.sggp.org.vn/ngay-18-4-1975-giai-phong-phan-thiet-post283203.html"
     ]
   },
-  "giai phong thi xa phan thiet va toan tinh binh thuan  - 1975": {
+  "giai phong thi xa phan thiet va toan tinh binh thuan": {
     "ten": "Giải phóng thị xã Phan Thiết và toàn tỉnh Bình Thuận ( - 1975)",
     "links": [
       "https://nhandan.vn/ngay-18-4-1975-giai-phong-thi-xa-phan-thiet-va-toan-tinh-binh-thuan-post522701.html"
     ]
   },
-  "hai ba trung chong cu lai voi quan nha han va tu tran 943": {
+  "ha thanh dau doc": {
+    "dongMinh": "Binh lính và đầu bếp nổi dậy ở Bắc Kỳ",
+    "doiPhuong": "Cộng hòa Pháp Liên bang Đông Dương",
+    "ketQua": "Thất bại Quân nổi dậy bị bắt giam và xử tử",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "ha thanh dau doc",
+    "thoiGian": "1908"
+  },
+  "hai ba trung chong cu lai voi quan nha han va tu tran": {
     "ten": "Hai Bà Trưng chống cự lại với quân nhà Hán và tử trận (943 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
@@ -1350,7 +1756,7 @@
       "hai ba trung"
     ]
   },
-  "hai ba trung lien ket thi sach chieu mo nghia binh 39": {
+  "hai ba trung lien ket thi sach chieu mo nghia binh": {
     "ten": "Hai Bà Trưng liên kết Thi Sách chiêu mộ nghĩa binh (39 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d610",
@@ -1365,16 +1771,18 @@
       "thi sach"
     ]
   },
-  "hai chien hoang sa 1974": {
-    "ten": "Hải Chiến Hoàng Sa (1974 )",
+  "hai chien hoang sa": {
+    "dongMinh": "Việt Nam Cộng hòa thời Đệ Nhị",
+    "doiPhuong": "Cộng hòa Nhân dân Trung Hoa",
+    "ketQua": "Thất bại Trung Quốc chiếm đóng quần đảo Hoàng Sa",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "hai chien hoang sa",
+    "thoiGian": "1974",
     "links": [
       "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_chi%E1%BA%BFn_Ho%C3%A0ng_Sa_1974http://www.thanhnien.com.vn/hai-chien-hoang-sa/hai-chien-hoang-sa-40-nam-nhin-lai-6168.html"
-    ],
-    "diaDiem": [
-      "hoang sa"
     ]
   },
-  "hai chien truong sa 1988": {
+  "hai chien truong sa": {
     "ten": "Hải chiến Trường Sa (1988 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_chi%E1%BA%BFn_Tr%C6%B0%E1%BB%9Dng_Sa_1988",
@@ -1382,7 +1790,7 @@
       "http://www.thanhnien.com.vn/hoang-sa-truong-sa-cua-viet-nam/25-nam-hai-chien-truong-sa-462909.h"
     ]
   },
-  "ham nghi ra chieu can vuong 1885": {
+  "ham nghi ra chieu can vuong": {
     "ten": "Hàm Nghi ra Chiếu Cần Vương (1885 )",
     "links": [
       "https://vi.wikisource.org/wiki/Chi%E1%BA%BFu_C%E1%BA%A7n_V%C6%B0%C6%A1ng",
@@ -1395,21 +1803,21 @@
       "ham nghi"
     ]
   },
-  "hiep dinh phap-viet hiep dinh elysee 1949": {
+  "hiep dinh phap-viet": {
     "ten": "Hiệp định Pháp-Việt (Hiệp định Élysée) (1949 )",
     "links": [
       "http://nghiencuulichsu.com/2014/06/16/hiep-dinh-phap-viet-ngay-8-thang-3-nam-1949-hiep-dinh-elysee/",
       "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C6%B0%E1%BB%9Bc_%C3%89lys%C3%A9e_(1949)"
     ]
   },
-  "hiep dinh vinh ha long accords de la baie d\u0027along 1948": {
+  "hiep dinh vinh ha long": {
     "ten": "Hiệp định Vịnh Hạ Long (Accords de la baie d\u0027Along) (1948 )",
     "links": [
       "http://daitudien.net/ngoai-giao/ngoai-giao-ve-hiep-uoc-vinh-ha-long-1948.html",
       "https://www.flickr.com/photos/125482942@N07/14452216825/in/album-72157644826320150/"
     ]
   },
-  "hiep uoc giap tuat 1874 1874": {
+  "hiep uoc giap tuat 1874": {
     "ten": "Hiệp ước Giáp Tuất 1874 (1874 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874)",
@@ -1421,7 +1829,7 @@
       "nguyen van tuong"
     ]
   },
-  "hiep uoc nham tuat 1862": {
+  "hiep uoc nham tuat": {
     "ten": "Hiệp ước Nhâm Tuất (1862 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Nh%C3%A2m_Tu%E1%BA%A5t_(1862)",
@@ -1441,7 +1849,7 @@
       "lam duy hiep"
     ]
   },
-  "hiep uoc patonot 1884": {
+  "hiep uoc patonot": {
     "ten": "Hiệp ước Patơnốt (1884 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Th%C3%A2n_(1884)",
@@ -1457,7 +1865,7 @@
       "pham than duat"
     ]
   },
-  "hiep uoc quy mui hiep uoc harmand 1883": {
+  "hiep uoc quy mui": {
     "ten": "Hiệp ước Quý Mùi (Hiệp ước Harmand) (1883 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Qu%C3%BD_M%C3%B9i,_1883",
@@ -1472,7 +1880,7 @@
       "tran dinh tuc"
     ]
   },
-  "ho chi minh bi chinh quyen tuong gioi thach bat giu tac pham \"nhat ki trong tu ra doi\" 1942": {
+  "ho chi minh bi chinh quyen tuong gioi thach bat giu tac pham \"nhat ki trong tu ra doi\"": {
     "ten": "Hồ Chí Minh bị chính quyền Tưởng Giới Thạch bắt giữ Tác phẩm \"Nhật kí trong tù ra đời\" (1942 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d265\u0026Itemid\u003d33",
@@ -1482,7 +1890,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ho chi minh ky tam uoc viet - phap 1946": {
+  "ho chi minh ky tam uoc viet - phap": {
     "ten": "Hồ Chí Minh ký Tạm ước Việt - Pháp (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d290\u0026Itemid\u003d33",
@@ -1494,7 +1902,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ho quy ly lat do nha tran, lap nha ho 1400": {
+  "ho quy ly lat do nha tran, lap nha ho": {
     "ten": "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ (1400 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d668\u0026Itemid\u003d33",
@@ -1523,7 +1931,7 @@
     "ten": "hoa quan nhap viet",
     "thoiGian": "1945"
   },
-  "hoi duy tan duoc thanh lap 1904": {
+  "hoi duy tan duoc thanh lap": {
     "ten": "Hội Duy Tân được thành lập (1904 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Duy_T%C3%A2n_h%E1%BB%99i",
@@ -1534,7 +1942,7 @@
       "phan boi chau"
     ]
   },
-  "hoi nghi ban chap hanh trung uong dang cong san dong duong 1939 - 1939": {
+  "hoi nghi ban chap hanh trung uong dang cong san dong duong": {
     "ten": "Hội nghị Ban chấp hành Trung ương Đảng Cộng sản Đông Dương (1939 - 1939)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d257",
@@ -1548,7 +1956,7 @@
       "vo van tan"
     ]
   },
-  "hoi nghi ban thuong vu mo rong cua trung uong dang cong san dong duong va chi thi “nhat - phap ban nhau va hanh dong cua chung ta” 1945": {
+  "hoi nghi ban thuong vu mo rong cua trung uong dang cong san dong duong va chi thi “nhat - phap ban nhau va hanh dong cua chung ta”": {
     "ten": "Hội nghị Ban thường vụ mở rộng của Trung ương Đảng Cộng sản Đông Dương và chỉ thị “Nhật - Pháp bắn nhau và hành động của chúng ta” (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d270\u0026Itemid\u003d33",
@@ -1564,7 +1972,7 @@
       "truong chinh"
     ]
   },
-  "hoi nghi dien hong 1285": {
+  "hoi nghi dien hong": {
     "ten": "Hội Nghị Diên Hồng (1285 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng"
@@ -1573,7 +1981,7 @@
       "le thanh tong"
     ]
   },
-  "hoi nghi gionevo ve dong duong 1954 - 1954": {
+  "hoi nghi gionevo ve dong duong": {
     "ten": "Hội nghị Giơnevơ về Đông Dương (1954 - 1954)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d305\u0026Itemid\u003d33",
@@ -1586,7 +1994,7 @@
       "pham van dong"
     ]
   },
-  "hoi nghi gionevo ve dong duong ket thuc thang loi 1954": {
+  "hoi nghi gionevo ve dong duong ket thuc thang loi": {
     "ten": "Hội nghị Giơnevơ về Đông Dương kết thúc thắng lợi (1954 )",
     "links": [
       "http://dangcongsan.vn/cpv/Modules/News/NewsDetail.aspx?co_id\u003d30684\u0026cn_id\u003d425786",
@@ -1605,7 +2013,7 @@
       "pham van dong"
     ]
   },
-  "hoi nghi lan thu nhat ban chap hanh trung uong dang cong san viet nam 1930 - 1930": {
+  "hoi nghi lan thu nhat ban chap hanh trung uong dang cong san viet nam": {
     "ten": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng Cộng Sản Việt Nam (1930 - 1930)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d249",
@@ -1617,7 +2025,7 @@
       "tran phu"
     ]
   },
-  "hoi nghi lan thu nhat viet nam thanh nien cach mang dong chi hoi 1929 - 1929": {
+  "hoi nghi lan thu nhat viet nam thanh nien cach mang dong chi hoi": {
     "ten": "Hội nghị lần thứ nhất Việt Nam thanh niên cách mạng đồng chí hội (1929 - 1929)",
     "links": [
       "http://baotanglichsu.vn/portal/vi/Tin-tuc/Theo-dong-lich-su/2013/05/3A9237EC/#",
@@ -1631,7 +2039,7 @@
       "tran van cung"
     ]
   },
-  "hoi nghi quan su cach mang bac ky duoc trieu tap 1945": {
+  "hoi nghi quan su cach mang bac ky duoc trieu tap": {
     "ten": "Hội nghị Quân sự cách mạng Bắc Kỳ được triệu tập (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d271",
@@ -1645,7 +2053,7 @@
       "van tien dung"
     ]
   },
-  "hoi nghi toan quoc cua dang cong san dong duong hop tai tan trao 1945 - 1945": {
+  "hoi nghi toan quoc cua dang cong san dong duong hop tai tan trao": {
     "ten": "Hội nghị Toàn quốc của Đảng Cộng sản Đông Dương họp tại Tân Trào (1945 - 1945)",
     "links": [
       "http://dangcongsan.vn/cpv/Modules/News/NewsDetail.aspx?co_id\u003d30651\u0026cn_id\u003d38622",
@@ -1661,7 +2069,7 @@
       "nguyen chi thanh"
     ]
   },
-  "hon 2000 dan tuong lam quan nhat nam khoi nghia chong chinh quyen do ho nha han 100": {
+  "hon 2000 dan tuong lam quan nhat nam khoi nghia chong chinh quyen do ho nha han": {
     "ten": "Hơn 2000 dân Tượng Lâm quận Nhật Nam khởi nghĩa chống chính quyền đô hộ nhà Hán (100 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d616\u0026Itemid\u003d33",
@@ -1672,7 +2080,7 @@
       "tuong lam"
     ]
   },
-  "hriver danh thanh ha noi lan thu hai, hoang dieu tuan tiet 1882": {
+  "hriver danh thanh ha noi lan thu hai, hoang dieu tuan tiet": {
     "ten": "HRiver đánh thành Hà Nội lần thứ hai, Hoàng Diệu tuẫn tiết (1882 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_th%C3%A0nh_H%C3%A0_N%E1%BB%99i_(1882)",
@@ -1684,7 +2092,7 @@
       "ha noi"
     ]
   },
-  "ket thuc chien tranh the gioi thu nhat 1918": {
+  "ket thuc chien tranh the gioi thu nhat": {
     "ten": "Kết thúc chiến tranh thế giới thứ nhất (1918 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d218",
@@ -1693,7 +2101,7 @@
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t"
     ]
   },
-  "khang chien chong quan nam han lan thu nhat 930 - 931": {
+  "khang chien chong quan nam han lan thu nhat": {
     "ten": "Kháng chiến chống quân Nam Hán lần thứ nhất (930 - 931)",
     "links": [
       "http://ldsgk.net/LS6B26H54.htm",
@@ -1707,7 +2115,7 @@
       "duong dinh nghe"
     ]
   },
-  "khang chien chong quan xam luoc tan -214 - -208": {
+  "khang chien chong quan xam luoc tan": {
     "ten": "Kháng chiến chống quân xâm lược Tần (-214 - -208)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d693\u0026Itemid\u003d35",
@@ -1717,7 +2125,7 @@
       "an duong vuong"
     ]
   },
-  "khang chien cua nhan dan ta chong quan xam luoc han 42 - 43": {
+  "khang chien cua nhan dan ta chong quan xam luoc han": {
     "ten": "Kháng chiến của nhân dân ta chống quân xâm lược Hán (42 - 43)",
     "links": [
       "http://www.baotanglichsu.vn/portal/vi/Tin-tuc/Nhan-vat-lich-su/2013/01/3A9234AD/"
@@ -1729,7 +2137,7 @@
       "hai ba trung"
     ]
   },
-  "khoang 1 van nam truoc: co van hoa hoa binh -10000": {
+  "khoang 1 van nam truoc: co van hoa hoa binh": {
     "ten": "Khoảng 1 vạn năm trước: Có văn hóa Hòa Bình (-10000 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/khoang-1-van-nam-truoc-co-van-hoa-hoa-binh-8299.html",
@@ -1737,7 +2145,7 @@
       "http://huc.edu.vn/chi-tiet/673/Chuyen-chua-biet-ve-nguoi-Viet-co.html"
     ]
   },
-  "khoang 10 van nam truoc: co su sinh song cua nguoi khon ngoan dau tien o viet nam -100000": {
+  "khoang 10 van nam truoc: co su sinh song cua nguoi khon ngoan dau tien o viet nam": {
     "ten": "Khoảng 10 vạn năm trước: Có sự sinh sống của Người khôn ngoan đầu tiên ở Việt Nam (-100000 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/khoang-10-van-nam-truoc-co-su-sinh-song-cua-nguoi-khon-ngoan-dau-tien-o-viet-nam-8295.html",
@@ -1748,7 +2156,7 @@
       "ninh binh"
     ]
   },
-  "khoang 14 van nam truoc: phat hien rang nguoi vuon o hang tham om quy chau, nghe an -14000": {
+  "khoang 14 van nam truoc: phat hien rang nguoi vuon o hang tham om": {
     "ten": "Khoảng 14 vạn năm trước: Phát hiện răng người vượn ở hang Thẩm Ồm (Quỳ Châu, Nghệ An) (-14000 )",
     "links": [
       "http://www.trungtamgiasuhanoigioi.edu.vn/thoi-co-dai-khoang-14-van-nam-truoc-phat-hien-rang-nguoi-vuon-o-hang-tham-om/",
@@ -1760,7 +2168,7 @@
       "nghe an"
     ]
   },
-  "khoang 2 van 1 nghin nam truoc: co van hoa son vi -21000": {
+  "khoang 2 van 1 nghin nam truoc: co van hoa son vi": {
     "ten": "Khoảng 2 vạn 1 nghìn năm trước: Có văn hóa Sơn Vi (-21000 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/khoang-2-van-1-nghin-nam-truoc-co-van-hoa-son-vi-8298.html",
@@ -1772,7 +2180,7 @@
       "lam ðong"
     ]
   },
-  "khoang 2 van 3 nghin nam truoc: co dau tich hau ky do da cu -23000": {
+  "khoang 2 van 3 nghin nam truoc: co dau tich hau ky do da cu": {
     "ten": "Khoảng 2 vạn 3 nghìn năm trước: Có dấu tích hậu kỳ đồ đá cũ (-23000 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d591\u0026Itemid\u003d33"
@@ -1781,7 +2189,7 @@
       "thai nguyen"
     ]
   },
-  "khoang 2 van 8 nghin nam truoc: co do da cua nguoi nguyen thuy -28000": {
+  "khoang 2 van 8 nghin nam truoc: co do da cua nguoi nguyen thuy": {
     "ten": "Khoảng 2 vạn 8 nghìn năm trước: Có đồ đá của Người nguyên thủy (-28000 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/khoang-2-van-8-nghin-nam-truoc-co-do-da-cua-nguoi-nguyen-thuy-8296.html",
@@ -1791,7 +2199,7 @@
       "lai chau"
     ]
   },
-  "khoang 2500 nam truoc - co van hoa sa huynh thuoc so ky do sat -2500": {
+  "khoang 2500 nam truoc - co van hoa sa huynh thuoc so ky do sat": {
     "ten": "Khoảng 2500 năm trước - Có văn hóa Sa Huỳnh thuộc sơ kỳ đồ sắt (-2500 )",
     "links": [
       "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Sa_Hu%E1%BB%B3nh",
@@ -1803,7 +2211,7 @@
       "nam trung bo"
     ]
   },
-  "khoang 2820 nam truoc: co van hoa dong son do dong phat trien ruc ro -2820": {
+  "khoang 2820 nam truoc: co van hoa dong son do dong phat trien ruc ro": {
     "ten": "Khoảng 2820 năm trước: Có văn hóa Đông Sơn Đồ đồng phát triển rực rỡ (-2820 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dcategory\u0026sectionid\u003d3\u0026id\u003d15\u0026Itemid\u003d33",
@@ -1815,7 +2223,7 @@
       "thanh hoa"
     ]
   },
-  "khoang 3045 nam truoc :co van hoa go mun, thuoc hau ky thoi dai dong thau -3070": {
+  "khoang 3045 nam truoc :co van hoa go mun, thuoc hau ky thoi dai dong thau": {
     "ten": "Khoảng 3045 năm trước :Có văn hóa Gò Mun, thuộc Hậu kỳ thời đại đồng thau (-3070 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d600\u0026Itemid\u003d33",
@@ -1825,7 +2233,7 @@
       "phu tho"
     ]
   },
-  "khoang 3045 nam truoc: co van hoa go mun, thuoc hau ky thoi dai dong thau -3045": {
+  "khoang 3045 nam truoc: co van hoa go mun, thuoc hau ky thoi dai dong thau": {
     "ten": "Khoảng 3045 năm trước: Có văn hóa Gò Mun, thuộc Hậu kỳ thời đại đồng thau (-3045 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d599\u0026Itemid\u003d33",
@@ -1838,7 +2246,7 @@
       "bac ninh"
     ]
   },
-  "khoang 4000 nam truoc :co van hoa phung nguyen, do dong xuat hien -4000": {
+  "khoang 4000 nam truoc :co van hoa phung nguyen, do dong xuat hien": {
     "ten": "Khoảng 4000 năm trước :Có văn hóa Phùng Nguyên, đồ đồng xuất hiện (-4000 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/khoang-4000-nam-truoc-co-van-hoa-phung-nguyen-do-dong-xuat-hien-8303.html",
@@ -1854,7 +2262,7 @@
       "phu tho"
     ]
   },
-  "khoang 6000 nam truoc: phat hien di chi da but – quynh van -6000": {
+  "khoang 6000 nam truoc: phat hien di chi da but – quynh van": {
     "ten": "Khoảng 6000 năm trước: Phát hiện di chỉ Đa Bút – Quỳnh Văn (-6000 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d595\u0026Itemid\u003d33",
@@ -1865,7 +2273,7 @@
       "thanh hoa"
     ]
   },
-  "khoang 8000 nam truoc: co van hoa bac son -8000": {
+  "khoang 8000 nam truoc: co van hoa bac son": {
     "ten": "Khoảng 8000 năm trước: Có văn hóa Bắc Sơn (-8000 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/khoang-8000-nam-truoc-co-van-hoa-bac-son-8300.html",
@@ -1876,7 +2284,7 @@
       "lang son"
     ]
   },
-  "khoang hon 4000 nam truoc: co van hoa hau ky da moi -4001": {
+  "khoang hon 4000 nam truoc: co van hoa hau ky da moi": {
     "ten": "Khoảng hơn 4000 năm trước: Có văn hóa hậu kỳ đá mới (-4001 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d596\u0026Itemid\u003d33",
@@ -1889,7 +2297,7 @@
       "lang son"
     ]
   },
-  "khoi nghia ba dinh 1886 - 1887": {
+  "khoi nghia ba dinh": {
     "ten": "Khởi nghĩa Ba Đình (1886 - 1887)",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Ba_%C4%90%C3%ACnh",
@@ -1903,17 +2311,18 @@
       "pham banh"
     ]
   },
-  "khoi nghia ba to 1945": {
-    "ten": "Khởi nghĩa Ba Tơ (1945 )",
+  "khoi nghia ba to": {
+    "dongMinh": "Đảng Cộng sản Việt Nam Đội du kích Cứu quốc quân Ba Tơ",
+    "doiPhuong": "Đế quốc Nhật Bản Cộng hòa Pháp",
+    "ketQua": "Chiến thắng Ba Tơ trở thành trung tâm của cao trào kháng Nhật ở miền Trung Việt Nam và là hạt nhân của các lực lượng vũ trang Liên khu V sau này",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "khoi nghia ba to",
+    "thoiGian": "1945",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1180\u0026Itemid\u003d33",
       "http://ubnd.quangngai.gov.vn/quangngai/tiengviet/Lichsu/5812802/",
       "http://www.baotanglichsu.vn/portal/vi/Tin-tuc/Theo-dong-lich-su/2013/03/3A9235F5/",
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Ba_T%C6%A1"
-    ],
-    "diaDiem": [
-      "ba to",
-      "quang ngai"
     ],
     "nhanVat": [
       "nguyen chanh",
@@ -1921,8 +2330,13 @@
       "nguyen don"
     ]
   },
-  "khoi nghia ba trieu 248": {
-    "ten": "Khởi nghĩa Bà Triệu (248 )",
+  "khoi nghia ba trieu": {
+    "dongMinh": "Lực lượng Bà Triệu ở Giao Châu",
+    "doiPhuong": "Nhà Đông Ngô",
+    "ketQua": "Thất bại Bà Triệu tự vẫn",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "khoi nghia ba trieu",
+    "thoiGian": "248",
     "links": [
       "http://lichsuvietnam.vn/home.php?Itemid\u003d5\u0026id\u003d1036\u0026option\u003dcom_content\u0026task\u003dview",
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d860\u0026Itemid\u003d5",
@@ -1931,14 +2345,11 @@
       "http://vnthoisu.bplaced.net/?p\u003d2397",
       "http://vinhanonline.com/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d510:ba-trieu-225-248\u0026Itemid\u003d200"
     ],
-    "diaDiem": [
-      "thanh hoa"
-    ],
     "nhanVat": [
       "ba trieu"
     ]
   },
-  "khoi nghia bac son 1940": {
+  "khoi nghia bac son": {
     "ten": "Khởi nghĩa Bắc Sơn (1940 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_B%E1%BA%AFc_S%C6%A1n",
@@ -1954,7 +2365,7 @@
       "tran dang ninh"
     ]
   },
-  "khoi nghia bai say 1885": {
+  "khoi nghia bai say": {
     "ten": "Khởi nghĩa Bãi Sậy (1885 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_B%C3%A3i_S%E1%BA%ADy",
@@ -1968,7 +2379,7 @@
       "nguyen thien thuat"
     ]
   },
-  "khoi nghia bay thua chong phap o an giang 1867 - 1873": {
+  "khoi nghia bay thua chong phap o an giang": {
     "ten": "Khởi nghĩa Bảy Thưa chống Pháp ở An Giang (1867 - 1873)",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_B%E1%BA%A3y_Th%C6%B0a",
@@ -1981,7 +2392,7 @@
       "tran van thanh"
     ]
   },
-  "khoi nghia cao ba quat 1854 - 1856": {
+  "khoi nghia cao ba quat": {
     "ten": "Khởi nghĩa Cao Bá Quát (1854 - 1856)",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_Cao_B%C3%A1_Qu%C3%A1t",
@@ -1998,7 +2409,7 @@
       "tu duc"
     ]
   },
-  "khoi nghia chang lia 1800": {
+  "khoi nghia chang lia": {
     "ten": "Khởi nghĩa chàng Lía (1800 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ch%C3%A0ng_L%C3%ADa",
@@ -2016,7 +2427,7 @@
     "ten": "khoi nghia chu dat",
     "thoiGian": "157 - 160"
   },
-  "khoi nghia cua nguyen trung truc 1861": {
+  "khoi nghia cua nguyen trung truc": {
     "ten": "Khởi nghĩa của Nguyễn Trung Trực (1861 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d187\u0026Itemid\u003d33",
@@ -2030,7 +2441,7 @@
       "nguyen trung truc"
     ]
   },
-  "khoi nghia cua truong dinh 1861": {
+  "khoi nghia cua truong dinh": {
     "ten": "Khởi nghĩa của Trương Định (1861 )",
     "links": [
       "http://www.tiengiang.gov.vn/xemtin.asp?idcha\u003d2589\u0026cap\u003d4\u0026id\u003d2604",
@@ -2047,7 +2458,7 @@
       "truong dinh"
     ]
   },
-  "khoi nghia gianh chinh quyen o ha noi va cac vung lan can 1945": {
+  "khoi nghia gianh chinh quyen o ha noi va cac vung lan can": {
     "ten": "Khởi nghĩa giành chính quyền ở Hà Nội và các vùng lân cận (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d278\u0026Itemid\u003d33",
@@ -2059,7 +2470,7 @@
       "ha noi"
     ]
   },
-  "khoi nghia gianh chinh quyen o thua thien hue 1945": {
+  "khoi nghia gianh chinh quyen o thua thien hue": {
     "ten": "Khởi nghĩa giành chính quyền ở Thừa Thiên Huế (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d279\u0026Itemid\u003d33",
@@ -2068,7 +2479,7 @@
       "http://www.qdnd.vn/qdndsite/vi-vn/61/43/chinh-tri/ngay-23-8-1945-khoi-nghia-gianh-chinh-quyen-tai-hue/121133.html"
     ]
   },
-  "khoi nghia gianh chinh quyen thang loi o sai gon 1945": {
+  "khoi nghia gianh chinh quyen thang loi o sai gon": {
     "ten": "Khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d280\u0026Itemid\u003d33",
@@ -2079,7 +2490,7 @@
       "ho chi minh"
     ]
   },
-  "khoi nghia hai ba trung bung no 40": {
+  "khoi nghia hai ba trung bung no": {
     "ten": "Khởi nghĩa Hai Bà Trưng bùng nổ (40 )",
     "links": [
       "http://www.namdinh.gov.vn/Home/NamDinh/NamDinhxuanay/2006/1130/Cuoc-khoi-nghia-Hai-Ba-Trung-tren-dat-Nam-Dinh.aspx",
@@ -2090,7 +2501,7 @@
       "hai ba trung"
     ]
   },
-  "khoi nghia hoang cong chat 1739 - 1769": {
+  "khoi nghia hoang cong chat": {
     "ten": "Khởi nghĩa Hoàng Công Chất (1739 - 1769)",
     "links": [
       "http://mactoc.com/newsdetail/92/thu-linh-nghia-quan-hoang-cong-chat-1739-1769.aspx",
@@ -2103,7 +2514,7 @@
       "hoang cong chat"
     ]
   },
-  "khoi nghia hung linh 1887 - 1892": {
+  "khoi nghia hung linh": {
     "ten": "Khởi nghĩa Hùng Lĩnh (1887 - 1892)",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_H%C3%B9ng_L%C4%A9nh",
@@ -2117,7 +2528,7 @@
       "tong duy tan"
     ]
   },
-  "khoi nghia huong khe 1885 - 1896": {
+  "khoi nghia huong khe": {
     "ten": "Khởi nghĩa Hương Khê (1885 - 1896)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d210\u0026Itemid\u003d33",
@@ -2138,7 +2549,7 @@
       "cao thang"
     ]
   },
-  "khoi nghia lam son 1418 - 1427": {
+  "khoi nghia lam son": {
     "ten": "Khởi nghĩa Lam Sơn (1418 - 1427)",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n",
@@ -2161,7 +2572,7 @@
       "le thai to"
     ]
   },
-  "khoi nghia le van khoi 1833 - 1835": {
+  "khoi nghia le van khoi": {
     "ten": "Khởi nghĩa Lê Văn Khôi (1833 - 1835)",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_L%C3%AA_V%C4%83n_Kh%C3%B4i",
@@ -2177,7 +2588,15 @@
       "le van duyet"
     ]
   },
-  "khoi nghia ly bi bung no 542": {
+  "khoi nghia ly bi": {
+    "dongMinh": "Lực lượng Lý Bí ở Giao Châu",
+    "doiPhuong": "Nhà Lương Lâm Ấp",
+    "ketQua": "Chiến thắng Lý Bí lên ngôi Nước Vạn Xuân và Nhà Tiền Lý thành lập Chấm dứt thời kỳ Bắc thuộc lần 2",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "khoi nghia ly bi",
+    "thoiGian": "542"
+  },
+  "khoi nghia ly bi bung no": {
     "ten": "Khởi nghĩa Lý Bí bùng nổ (542 )",
     "links": [
       "http://lichsuvietnam.vn/home.php?Itemid\u003d5\u0026id\u003d1036\u0026option\u003dcom_content\u0026task\u003dview",
@@ -2188,7 +2607,7 @@
       "ly nam de"
     ]
   },
-  "khoi nghia ly bi thang loi 543": {
+  "khoi nghia ly bi thang loi": {
     "ten": "Khới nghĩa Lý Bí thắng lợi (543 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d631",
@@ -2210,7 +2629,7 @@
     "ten": "khoi nghia ly tu tien - dinh kien",
     "thoiGian": "687"
   },
-  "khoi nghia mai thuc loan 713": {
+  "khoi nghia mai thuc loan": {
     "ten": "Khởi nghĩa Mai Thúc Loan (713 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d642\u0026Itemid\u003d33",
@@ -2223,7 +2642,7 @@
       "mai hac de"
     ]
   },
-  "khoi nghia nam ky 1940": {
+  "khoi nghia nam ky": {
     "ten": "Khởi nghĩa Nam Kỳ (1940 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Nam_K%E1%BB%B3_kh%E1%BB%9Fi_ngh%C4%A9a",
@@ -2232,7 +2651,7 @@
       "http://diepdoan.violet.vn/entry/show/entry_id/1451672/cat_id/320780"
     ]
   },
-  "khoi nghia nguyen danh phuong 1740 - 1751": {
+  "khoi nghia nguyen danh phuong": {
     "ten": "Khởi nghĩa Nguyễn Danh Phương (1740 - 1751)",
     "links": [
       "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Danh_Ph%C6%B0%C6%A1ng",
@@ -2246,7 +2665,7 @@
       "nguyen danh phuong"
     ]
   },
-  "khoi nghia nguyen huu cau 1471 - 1751": {
+  "khoi nghia nguyen huu cau": {
     "ten": "Khởi nghĩa Nguyễn Hữu Cầu (1471 - 1751)",
     "links": [
       "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_H%E1%BB%AFu_C%E1%BA%A7u",
@@ -2267,10 +2686,11 @@
     "dongMinh": "Lực lượng Hậu Trần",
     "doiPhuong": "Nhà Minh",
     "ketQua": "Thất bại Khởi nghĩa bị đàn áp",
+    "thoiKy": "",
     "ten": "khoi nghia nha hau tran",
     "thoiGian": "1407 - 1414"
   },
-  "khoi nghia nong dan tay son bung no 1771": {
+  "khoi nghia nong dan tay son bung no": {
     "ten": "Khởi nghĩa nông dân Tây Sơn bùng nổ (1771 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1319\u0026Itemid\u003d5",
@@ -2286,7 +2706,7 @@
       "nguyen hue"
     ]
   },
-  "khoi nghia o quan nhat nam 137": {
+  "khoi nghia o quan nhat nam": {
     "ten": "Khởi nghĩa ở quận Nhật Nam (137 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d617\u0026Itemid\u003d33",
@@ -2298,7 +2718,7 @@
       "cuu chan"
     ]
   },
-  "khoi nghia phan ba vanh 1821 - 1827": {
+  "khoi nghia phan ba vanh": {
     "ten": "Khởi nghĩa Phan Bá Vành (1821 - 1827)",
     "links": [
       "https://vi.wikipedia.org/wiki/Phan_B%C3%A1_V%C3%A0nh",
@@ -2313,8 +2733,13 @@
       "phan ba vanh"
     ]
   },
-  "khoi nghia phung hung 776 - 791": {
-    "ten": "Khởi nghĩa Phùng Hưng (776 - 791)",
+  "khoi nghia phung hung": {
+    "dongMinh": "Lực lượng Phùng Hưng ở An Nam",
+    "doiPhuong": "Nhà Đường",
+    "ketQua": "Thất bại Phùng Hưng mất sớm, sau con là Phùng An đầu hàng Nhà Đường",
+    "thoiKy": "Bắc thuộc lần 3 (602 - 905)",
+    "ten": "khoi nghia phung hung",
+    "thoiGian": "766 -791",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d643",
       "http://vietnamdefence.com/Home/quansuvietnam/khoinghiachientranh/Khoi-nghia-Phung-Hung-766791/20099/48721.vnd",
@@ -2324,7 +2749,15 @@
       "phung hung"
     ]
   },
-  "khoi nghia tran cao 1516": {
+  "khoi nghia tay son": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Lực lượng Tây Sơn",
+    "ketQua": "Thay đổi triều đại Quân Trịnh nam tiến Chúa Nguyễn bị tiêu diệt Nhà Tây Sơn thành lập ở Đàng Trong",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "khoi nghia tay son",
+    "thoiGian": "1771 - 1777"
+  },
+  "khoi nghia tran cao": {
     "ten": "Khởi Nghĩa Trần Cảo (1516 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_C%E1%BA%A3o_(t%C6%B0%E1%BB%9Bng_kh%E1%BB%9Fi_ngh%C4%A9a)",
@@ -2341,7 +2774,7 @@
       "mac dang dung"
     ]
   },
-  "khoi nghia tran tuan 1511": {
+  "khoi nghia tran tuan": {
     "ten": "Khởi Nghĩa Trần Tuân (1511 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Tu%C3%A2n"
@@ -2352,6 +2785,14 @@
       "trinh duy san"
     ]
   },
+  "khoi nghia trieu chi": {
+    "dongMinh": "Lực lượng Triệu Chỉ ở Quận Cửu Chân",
+    "doiPhuong": "Nhà Tây Tấn",
+    "ketQua": "Thất bại Khởi nghĩa bị đàn áp",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "khoi nghia trieu chi",
+    "thoiGian": "299"
+  },
   "khoi nghia truong dinh": {
     "dongMinh": "Lực lượng Trương Định ở Nam Kỳ",
     "doiPhuong": "Đế chế Pháp",
@@ -2360,8 +2801,13 @@
     "ten": "khoi nghia truong dinh",
     "thoiGian": "1859 - 1864"
   },
-  "khoi nghia yen bai 1930": {
-    "ten": "Khởi nghĩa Yên Bái (1930 )",
+  "khoi nghia yen bai": {
+    "dongMinh": "Việt Nam Quốc dân quân",
+    "doiPhuong": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "ketQua": "Thất bại Lực lượng khởi nghĩa bị đánh bại Đảng viên bị Pháp truy nã, giam cầm, lưu đày, hành quyết",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "khoi nghia yen bai",
+    "thoiGian": "1930",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d245\u0026Itemid\u003d33",
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Y%C3%AAn_B%C3%A1i",
@@ -2370,16 +2816,18 @@
       "http://www.baotanglichsu.vn/portal/vi/Tin-tuc/Theo-dong-lich-su/2013/02/3A923564/",
       "http://www.baotanglichsu.vn/portal/vi/Tin-tuc/Theo-dong-lich-su/2014/02/3A923D84/"
     ],
-    "diaDiem": [
-      "yen bai"
-    ],
     "nhanVat": [
       "nguyen thai hoc",
       "pho duc chinh"
     ]
   },
-  "khoi nghia yen the 1884 - 1913": {
-    "ten": "Khởi nghĩa Yên Thế (1884 - 1913)",
+  "khoi nghia yen the": {
+    "dongMinh": "Lực lượng Hoàng Hoa Thám ở Bắc Kỳ",
+    "doiPhuong": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "ketQua": "Thất bại Khởi nghĩa bị đàn áp",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "khoi nghia yen the",
+    "thoiGian": "1884 - 1913",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Y%C3%AAn_Th%E1%BA%BF",
       "http://www.nhandan.com.vn/chinhtri/tin-tuc-su-kien/item/22613602-ky-niem-130-nam-khoi-nghia-yen-the-1884-2014.html",
@@ -2388,9 +2836,6 @@
       "http://yenthe.vn/node/3372",
       "http://diepdoan.violet.vn/entry/show/entry_id/1012040"
     ],
-    "diaDiem": [
-      "yen the"
-    ],
     "nhanVat": [
       "phan boi chau",
       "phan chau trinh",
@@ -2398,7 +2843,7 @@
       "de nam"
     ]
   },
-  "khu giai phong viet bac duoc thanh lap tro thanh can cu dia chinh cua cach mang 1945": {
+  "khu giai phong viet bac duoc thanh lap tro thanh can cu dia chinh cua cach mang": {
     "ten": "Khu giải phóng Việt Bắc được thành lập trở thành căn cứ địa chính của cách mạng (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d272",
@@ -2411,7 +2856,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "khuc thua du khoi nghia gianh chinh quyen tu chu 905": {
+  "khuc thua du khoi nghia gianh chinh quyen tu chu": {
     "ten": "Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ (905 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d645\u0026Itemid\u003d33",
@@ -2425,7 +2870,15 @@
       "khuc hao"
     ]
   },
-  "kinh duong vuong len ngoi -2879 - 258": {
+  "khung hoang cuoi nha le so": {
+    "dongMinh": "Đại Việt thời Nhà Lê sơ",
+    "doiPhuong": "Các lực lượng cát cứ",
+    "ketQua": "Thay đổi ngôi vị Nhà Lê Sơ sụp đổ Nhà Mạc nắm quyền",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "khung hoang cuoi nha le so",
+    "thoiGian": "1516-1526"
+  },
+  "kinh duong vuong len ngoi": {
     "ten": "Kinh Dương Vương lên ngôi (-2879 - 258)",
     "links": [
       "https://vi.wikipedia.org/wiki/Kinh_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
@@ -2434,7 +2887,7 @@
       "thuan thanh"
     ]
   },
-  "ky hiep dinh so bo viet – phap 1946": {
+  "ky hiep dinh so bo viet – phap": {
     "ten": "Ký Hiệp định sơ bộ Việt – Pháp (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d288\u0026Itemid\u003d33",
@@ -2451,7 +2904,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ky niem ngay quoc te lao dong tren ca nuoc 1930": {
+  "ky niem ngay quoc te lao dong tren ca nuoc": {
     "ten": "Kỷ niệm ngày Quốc tế lao động trên cả nước (1930 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d247\u0026Itemid\u003d33",
@@ -2472,7 +2925,7 @@
       "https://baobinhthuan.com.vn/la-gi-ham-tan-thang-tu-nam-ay-6094.html"
     ]
   },
-  "lanh tu nguyen ai quoc tro ve nuoc, dat can cu tai pac bo 1941": {
+  "lanh tu nguyen ai quoc tro ve nuoc, dat can cu tai pac bo": {
     "ten": "Lãnh tụ Nguyễn Ái Quốc trờ về nước, đặt căn cứ tại Pác Bó (1941 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d262\u0026Itemid\u003d33",
@@ -2489,7 +2942,7 @@
       "hoang van thu"
     ]
   },
-  "lap quoc hoc vien va giang vo duong 1253": {
+  "lap quoc hoc vien va giang vo duong": {
     "ten": "Lập Quốc học viện và Giảng võ đường (1253 )",
     "links": [
       "http://thanglong.chinhphu.vn/Home/Thang-Long-thoi-Tran/200912/4612.vgp",
@@ -2499,7 +2952,7 @@
       "tran thai tong"
     ]
   },
-  "lap quoc tu giam o kinh do thang long 1076": {
+  "lap quoc tu giam o kinh do thang long": {
     "ten": "Lập Quốc tử giám ở kinh đô Thăng Long (1076 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BB%AD_gi%C3%A1m",
@@ -2510,7 +2963,7 @@
       "tran thanh tong"
     ]
   },
-  "le duy luong noi day pho le diet nguyen 1832 - 1838": {
+  "le duy luong noi day pho le diet nguyen": {
     "ten": "Lê Duy Lương nổi dậy phò Lê diệt Nguyễn (1832 - 1838)",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_L%C3%AA_Duy_L%C6%B0%C6%A1ng",
@@ -2520,7 +2973,7 @@
       "le duy luong"
     ]
   },
-  "le hoan danh bai quan tong 981": {
+  "le hoan danh bai quan tong": {
     "ten": "Lê Hoàn đánh bại quân Tống (981 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng_-_Vi%E1%BB%87t,_981",
@@ -2531,7 +2984,7 @@
       "le dai hanh"
     ]
   },
-  "le hoan len ngoi, lap nha tien le, dong do o hoa lu 980 - 1009": {
+  "le hoan len ngoi, lap nha tien le, dong do o hoa lu": {
     "ten": "Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư (980 - 1009)",
     "links": [
       "https://vi.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BA%A1i_H%C3%A0nh",
@@ -2548,7 +3001,7 @@
       "le dai hanh"
     ]
   },
-  "le loi len ngoi vua o dong do, dat lai quoc hieu la dai viet 1428": {
+  "le loi len ngoi vua o dong do, dat lai quoc hieu la dai viet": {
     "ten": "Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt (1428 )",
     "links": [
       "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%E1%BB%95",
@@ -2562,7 +3015,7 @@
       "le thai to"
     ]
   },
-  "le thanh tong cho bien soan va ban hanh bo luat hong duc 1483": {
+  "le thanh tong cho bien soan va ban hanh bo luat hong duc": {
     "ten": "Lê Thánh Tông cho biên soạn và ban hành bộ luật Hồng Đức (1483 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d675\u0026Itemid\u003d33",
@@ -2576,8 +3029,13 @@
       "le thanh tong"
     ]
   },
-  "loan 12 su quan 965 - 967": {
-    "ten": "Loạn 12 sứ quân (965 - 967)",
+  "loan 12 su quan": {
+    "dongMinh": "12 sứ quân",
+    "doiPhuong": "Lực lượng Đinh Bộ Lĩnh",
+    "ketQua": "Thay đổi triều đại Đinh Bộ Lĩnh thống nhất đất nước và lên ngôi Nước Đại Cồ Việt và Nhà Đinh thành lập",
+    "thoiKy": "Nhà Ngô (939 - 965)",
+    "ten": "loan 12 su quan",
+    "thoiGian": "965 - 968",
     "links": [
       "https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_12_s%E1%BB%A9_qu%C3%A2n",
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d650\u0026Itemid\u003d33"
@@ -2590,7 +3048,7 @@
       "ngo xuong xi"
     ]
   },
-  "loan chay voi doi vua tu duc 1866": {
+  "loan chay voi doi vua tu duc": {
     "ten": "Loạn chày vôi đời vua Tự Đức (1866 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_%C4%90o%C3%A0n_H%E1%BB%AFu_Tr%C6%B0ng",
@@ -2624,7 +3082,79 @@
     "ten": "loan duong tam kha",
     "thoiGian": "950"
   },
-  "lu gia giet ai vuong, cu thi va su gia nha han -112 - -111": {
+  "loan ho nung lan 1": {
+    "dongMinh": "Đại Cồ Việt thời Nhà Lý",
+    "doiPhuong": "Trường Sinh Quốc của Nùng Tồn Phúc",
+    "ketQua": "Chiến thắng Nùng Tồn Phúc bị tiêu diệt",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "loan ho nung lan 1",
+    "thoiGian": "1038 - 1041"
+  },
+  "loan ho nung lan 2": {
+    "dongMinh": "Đại Cồ Việt thời Nhà Lý",
+    "doiPhuong": "Đại Lịch, sau là Đại Nam của Nùng Trí Cao",
+    "ketQua": "Chiến thắng Nùng Trí Cao bị tiêu diệt",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "loan ho nung lan 2",
+    "thoiGian": "1048 - 1055"
+  },
+  "loan mac dang dung": {
+    "dongMinh": "Lực lượng Mạc Đăng Dung, Lê Cung Hoàng",
+    "doiPhuong": "Lực lượng Trịnh Tuy, Lê Chiêu Tông",
+    "ketQua": "Thay đổi ngôi vị và triều đại Mạc Đăng Dung đưa Lê Xuân lên ngôi Lê Chiêu Tông bị bắt giết, Lê Cung Hoàng sau bị phế Mạc Đăng Dung dẹp tan các quân nổi loạn và lên ngôi Nhà Mạc thành lập",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "loan mac dang dung",
+    "thoiGian": "1522 - 1526"
+  },
+  "loan quach boc": {
+    "dongMinh": "Đại Việt thời Nhà Lý",
+    "doiPhuong": "Lực lượng Quách Bốc",
+    "ketQua": "Chiến thắng Nổi loạn bị đánh dẹp Nhà Lý suy yếu",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "loan quach boc",
+    "thoiGian": "1209"
+  },
+  "loan tam vuong thoi ly": {
+    "dongMinh": "Lực lượng Lý Phật Mã",
+    "doiPhuong": "Lực lượng Đông Chinh Vương, Vũ Đức Vương, Dực Thánh Vương",
+    "ketQua": "Xác lập ngôi vị Lý Phật Mã lên ngôi Vũ Đức Vương bị giết Đông Chinh Vương và Dực Thánh Vương bỏ trốn",
+    "thoiKy": "Nhà Lý (1009 - 1225)",
+    "ten": "loan tam vuong thoi ly",
+    "thoiGian": "1028"
+  },
+  "loan tran cao": {
+    "dongMinh": "Đại Việt thời Nhà Lê sơ",
+    "doiPhuong": "Lực lượng Trần Cảo",
+    "ketQua": "Chiến thắng Trần Cảo bỏ chạy Trịnh Duy Sản tử trận Nhà Hậu Lê bắt đầu loạn lạc",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "loan tran cao",
+    "thoiGian": "1516 - 1521"
+  },
+  "loan tran tuan": {
+    "dongMinh": "Đại Việt thời Nhà Lê sơ",
+    "doiPhuong": "Lực lượng Trần Tuân",
+    "ketQua": "Chiến thắng Nổi loạn bị đánh dẹp Nhà Hậu Lê suy yếu",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "loan tran tuan",
+    "thoiGian": "1511 - 1512"
+  },
+  "loan trinh duy san": {
+    "dongMinh": "Lực lượng Lê Tương Dực",
+    "doiPhuong": "Lực lượng Trịnh Duy Sản, Lê Y",
+    "ketQua": "Thay đổi ngôi vị Lê Tương Dực bị phế Trịnh Duy Sản đưa Lê Y lên ngôi Nhà Hậu Lê suy yếu",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "loan trinh duy san",
+    "thoiGian": "1516"
+  },
+  "loan trinh tuy": {
+    "dongMinh": "Lực lượng Lê Chiêu Tông, Mạc Đăng Dung",
+    "doiPhuong": "Lực lượng Trịnh Tuy, Lê Bảng, Lê Do",
+    "ketQua": "Thay đổi ngôi vị Trịnh Tuy đưa Lê Bảng rồi Lê Do lên ngôi trong thời gian ngắn ngủi Mạc Đăng Dung trở thành quyền thần Lê Chiêu Tông sau bỏ sang phe Trịnh Tuy",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "loan trinh tuy",
+    "thoiGian": "1518 - 1522"
+  },
+  "lu gia giet ai vuong, cu thi va su gia nha han": {
     "ten": "Lữ Gia giết Ai Vương, Cù Thị và sứ giả nhà Hán (-112 - -111)",
     "links": [
       "- http://vi.wikipedia.org/wiki/L%E1%BB%AF_Gia"
@@ -2635,7 +3165,7 @@
       "thuat duong vuong"
     ]
   },
-  "luu bieu chong lai nha han 206": {
+  "luu bieu chong lai nha han": {
     "ten": "Lưu Biểu chống lại nhà Hán (206 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d621\u0026Itemid\u003d33",
@@ -2645,7 +3175,7 @@
       "giao chau"
     ]
   },
-  "ly cao tong duoc nha tong phong \"an nam quoc vuong\" 1186": {
+  "ly cao tong duoc nha tong phong \"an nam quoc vuong\"": {
     "ten": "Lý Cao Tông được nhà Tống phong \"An Nam quốc vương\" (1186 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_L%C3%BD",
@@ -2656,7 +3186,7 @@
       "ly cao tong"
     ]
   },
-  "ly cong uan len ngoi, lap ra nha ly 1009": {
+  "ly cong uan len ngoi, lap ra nha ly": {
     "ten": "Lý Công Uẩn lên ngôi, lập ra nhà Lý (1009 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1752\u0026Itemid\u003d70",
@@ -2672,7 +3202,7 @@
       "van hanh"
     ]
   },
-  "ly nam de giao binh quyen cho trieu quang phuc 546": {
+  "ly nam de giao binh quyen cho trieu quang phuc": {
     "ten": "Lý Nam Đế giao binh quyền cho Triệu Quang Phục (546 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d634\u0026Itemid\u003d33",
@@ -2687,7 +3217,7 @@
       "trieu viet vuong"
     ]
   },
-  "ly nam de mat tai dong khuat lao 548": {
+  "ly nam de mat tai dong khuat lao": {
     "ten": "Lý Nam Đế mất tại động Khuất Lão (548 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d636\u0026Itemid\u003d33",
@@ -2699,7 +3229,7 @@
       "trieu viet vuong"
     ]
   },
-  "ly phat tu gay han voi trieu viet vuong 555 - 571": {
+  "ly phat tu gay han voi trieu viet vuong": {
     "ten": "Lý Phật Tử gây hấn với Triệu Việt vương (555 - 571)",
     "links": [
       "https://vi.wikipedia.org/wiki/H%E1%BA%ADu_L%C3%BD_Nam_%C4%90%E1%BA%BF",
@@ -2710,14 +3240,14 @@
       "hau ly nam de"
     ]
   },
-  "ly phat tu khong chong duoc cuoc xam luoc cua giac, nuoc ta lai roi vao tay nha tuy 602 - 603": {
+  "ly phat tu khong chong duoc cuoc xam luoc cua giac, nuoc ta lai roi vao tay nha tuy": {
     "ten": "Lý Phật Tử không chống được cuộc xâm lược của giặc, nước ta lại rơi vào tay nhà Tùy (602 - 603)",
     "links": [],
     "nhanVat": [
       "hau ly nam de"
     ]
   },
-  "ly thai to doi do ve dai la, doi ten thanh thang long 1010": {
+  "ly thai to doi do ve dai la, doi ten thanh thang long": {
     "ten": "Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long (1010 )",
     "links": [
       "http://thanglong.gocom.vn/40038p1c29/ly-thai-to-voi-viec-dinh-do-o-thang-long.htm",
@@ -2733,7 +3263,7 @@
       "ly thai to"
     ]
   },
-  "ly thai tong mang quan danh chiem thanh 1044": {
+  "ly thai tong mang quan danh chiem thanh": {
     "ten": "Lý Thái Tông mang quân đánh Chiêm Thành (1044 )",
     "links": [
       "http://maxreading.com/sach-hay/su-kien-lich-su-viet-nam/1044-ly-thai-tong-dem-quan-danh-chiem-thanh-8363.html",
@@ -2746,7 +3276,7 @@
       "ly thai tong"
     ]
   },
-  "ly thuong kiet lanh dao khang chien chong tong thang loi 1077": {
+  "ly thuong kiet lanh dao khang chien chong tong thang loi": {
     "ten": "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi (1077 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d35\u0026id\u003d1764",
@@ -2763,7 +3293,7 @@
       "ly thanh tong"
     ]
   },
-  "ly truong nhan nam quyen tu tri o giao chau 468": {
+  "ly truong nhan nam quyen tu tri o giao chau": {
     "ten": "Lý Trường Nhân nắm quyền tự trị ở Giao Châu (468 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d627\u0026Itemid\u003d33",
@@ -2776,7 +3306,7 @@
       "ly truong nhan"
     ]
   },
-  "ma vien danh vao giao chi 42": {
+  "ma vien danh vao giao chi": {
     "ten": "Mã Viện đánh vào Giao Chỉ (42 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d613"
@@ -2788,7 +3318,7 @@
       "ma vien"
     ]
   },
-  "mac dang dung lat do nha le so, thanh lap nha mac 1527": {
+  "mac dang dung lat do nha le so, thanh lap nha mac": {
     "ten": "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc (1527 )",
     "links": [
       "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_%C4%90%C4%83ng_Dung",
@@ -2802,7 +3332,15 @@
       "mac thai tong"
     ]
   },
-  "mat tran viet minh duoc thanh lap 1941": {
+  "mat tran dong nam a trong the chien thu hai": {
+    "dongMinh": "Khối Đồng Minh: Vương quốc Liên hiệp Anh và Bắc Ireland Ấn Độ thuộc Anh Miến Điện thuộc Anh (đến 1942) Hoa Kỳ Trung Quốc Việt Minh",
+    "doiPhuong": "Phe Trục: Đế quốc Nhật Bản Đế quốc Việt Nam (từ 1945) Lào thuộc Nhật (từ 1945) Campuchia thuộc Nhật (từ 1945) Nhà nước Miến Điện (từ 1942) Quốc gia Pháp (đến 1944) Liên bang Đông Dương (đến 1945) Thái Lan",
+    "ketQua": "Khối Đồng minh chiến thắng Đế Quốc Nhật Bản đầu hàng",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "mat tran dong nam a trong the chien thu hai",
+    "thoiGian": "1941 - 1945"
+  },
+  "mat tran viet minh duoc thanh lap": {
     "ten": "Mặt trận Việt Minh được thành lập (1941 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Minh",
@@ -2818,7 +3356,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "minh mang len ngoi hoang de 1820": {
+  "minh mang len ngoi hoang de": {
     "ten": "Minh Mạng lên ngôi Hoàng Đế (1820 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1599\u0026Itemid\u003d5",
@@ -2831,13 +3369,13 @@
       "minh mang"
     ]
   },
-  "minh mang thanh lap quoc tu giam o kinh thanh hue 1821": {
+  "minh mang thanh lap quoc tu giam o kinh thanh hue": {
     "ten": "Minh Mạng thành lập Quốc tử giám ở kinh thành Huế (1821 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m_%28Hu%E1%BA%BF%29"
     ]
   },
-  "mo dau phong trao dong du cua duy tan hoi 1905": {
+  "mo dau phong trao dong du cua duy tan hoi": {
     "ten": "Mở đầu phong trào Đông du của Duy Tân hội (1905 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d214\u0026Itemid\u003d33",
@@ -2850,7 +3388,7 @@
       "cuong de"
     ]
   },
-  "my that bai trong cuoc hanh quan junction city cua quan my 1967 - 1967": {
+  "my that bai trong cuoc hanh quan junction city cua quan my": {
     "ten": "Mỹ thất bại trong cuộc hành quân Junction City của quân Mỹ (1967 - 1967)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Junction_City",
@@ -2861,7 +3399,7 @@
       "lo go - xa mat"
     ]
   },
-  "my to chuc cuong ep dong bao mien bac di cu vao nam 1954": {
+  "my to chuc cuong ep dong bao mien bac di cu vao nam": {
     "ten": "Mỹ tổ chức cưỡng ép đồng bào miền Bắc di cư vào Nam (1954 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d307\u0026Itemid\u003d33",
@@ -2869,7 +3407,15 @@
       "https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_di_c%C6%B0_Vi%E1%BB%87t_Nam_(1954)"
     ]
   },
-  "nam viet vuong dinh lien giet thai tu hang lang 979": {
+  "nam bo khang chien": {
+    "dongMinh": "Nhân dân Nam Bộ Việt Nam Dân chủ Cộng hòa Bộ đội Bình Xuyên Bộ đội Hòa Hảo Bộ đội Cao Đài Việt Nam Quốc dân Đảng",
+    "doiPhuong": "Chính phủ lâm thời Cộng hòa Pháp Liên bang Đông Dương Đế quốc Anh Ấn Độ thuộc Anh Đế quốc Nhật Bản",
+    "ketQua": "Thất bại Việt Minh và các nhóm chống Pháp rút vào chiến khu Pháp và Anh chiếm được Nam Bộ",
+    "thoiKy": "Việt Nam Dân chủ Cộng hòa (1945 - 1976)",
+    "ten": "nam bo khang chien",
+    "thoiGian": "1945 - 1946"
+  },
+  "nam viet vuong dinh lien giet thai tu hang lang": {
     "ten": "Nam Việt Vương Đinh Liễn giết Thái tử Hạng Lang (979 )",
     "links": [
       "http://maxreading.com/sach-hay/viet-su-giai-thoai/nam-viet-vuong-dinh-lien-giet-thai-tu-hang-lang-25990.html",
@@ -2883,14 +3429,22 @@
       "dinh hang lang"
     ]
   },
-  "nan doi nam at dau 1944 - 1945": {
+  "nan doi nam at dau": {
     "ten": "Nạn đói năm Ất Dậu (1944 - 1945)",
     "links": [
       "http://vnexpress.net/tin-tuc/thoi-su/nan-doi-lich-su-nam-at-dau-3130107.html",
       "https://vi.wikipedia.org/wiki/N%E1%BA%A1n_%C4%91%C3%B3i_n%C4%83m_%E1%BA%A4t_D%E1%BA%ADu,_1944-1945"
     ]
   },
-  "ngay nam bo khang chien 1945": {
+  "nan kieu binh": {
+    "dongMinh": "Đàng Ngoài thời Chúa Trịnh",
+    "doiPhuong": "Lính tam phủ Xứ Thanh - Xứ Nghệ",
+    "ketQua": "Chiến thắng Lính tam phủ tan rã Chúa Trịnh suy yếu",
+    "thoiKy": "Chúa Trịnh - Đàng Ngoài (1545 - 1787)",
+    "ten": "nan kieu binh",
+    "thoiGian": "1782 - 1786"
+  },
+  "ngay nam bo khang chien": {
     "ten": "Ngày Nam Bộ Kháng chiến (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d283\u0026Itemid\u003d33",
@@ -2900,14 +3454,14 @@
       "https://vi.wikipedia.org/wiki/Nam_B%E1%BB%99_kh%C3%A1ng_chi%E1%BA%BFn"
     ]
   },
-  "ngay quoc te lao dong 1886": {
+  "ngay quoc te lao dong": {
     "ten": "Ngày Quốc Tế Lao Động (1886 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1006\u0026Itemid\u003d33",
       "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Qu%E1%BB%91c_t%E1%BA%BF_Lao_%C4%91%E1%BB%99ng"
     ]
   },
-  "ngay quoc te phu nu 1910": {
+  "ngay quoc te phu nu": {
     "ten": "Ngày Quốc Tế Phụ Nữ (1910 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Qu%E1%BB%91c_t%E1%BA%BF_Ph%E1%BB%A5_n%E1%BB%AF",
@@ -2917,7 +3471,7 @@
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dcategory\u0026sectionid\u003d3\u0026id\u003d21\u0026Itemid\u003d33\u0026limit\u003d30\u0026limitstart\u003d30"
     ]
   },
-  "ngay sinh chu tich ho chi minh 1890": {
+  "ngay sinh chu tich ho chi minh": {
     "ten": "Ngày Sinh Chủ Tịch Hồ Chí Minh (1890 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1009\u0026Itemid\u003d33",
@@ -2933,14 +3487,14 @@
       "chu tich ho chi minh"
     ]
   },
-  "ngay sinh cua vile-nin 1870": {
+  "ngay sinh cua vile-nin": {
     "ten": "Ngày sinh của VILê-nin (1870 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1181\u0026Itemid\u003d33",
       "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin"
     ]
   },
-  "ngay thanh lap hoi lien hiep phu nu viet nam 1930": {
+  "ngay thanh lap hoi lien hiep phu nu viet nam": {
     "ten": "Ngày thành lập hội liên hiệp phụ nữ Việt Nam (1930 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1026\u0026Itemid\u003d33",
@@ -2954,7 +3508,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ngay thanh lap hoi nong dan viet nam 1930": {
+  "ngay thanh lap hoi nong dan viet nam": {
     "ten": "Ngày thành lập hội nông dân Việt Nam (1930 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1024\u0026Itemid\u003d33",
@@ -2966,7 +3520,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ngay thuong binh liet si 1947": {
+  "ngay thuong binh liet si": {
     "ten": "Ngày thương binh liệt sĩ (1947 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1014\u0026Itemid\u003d33",
@@ -2979,7 +3533,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ngay toan quoc chong my 1950": {
+  "ngay toan quoc chong my": {
     "ten": "Ngày toàn quốc chống Mỹ (1950 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d296\u0026Itemid\u003d33",
@@ -2997,7 +3551,7 @@
       "bao dai"
     ]
   },
-  "ngay toan quoc khang chien 1946": {
+  "ngay toan quoc khang chien": {
     "ten": "Ngày toàn quốc kháng chiến (1946 )",
     "links": [
       "http://www.bqllang.gov.vn/tin-tuc/tin-tong-hop/904-ch-t-ch-h-chi-minh-va-l-i-keu-g-i-toan-qu-c-khang-chi-n-l-i-h-ch-c-a-non-song.html",
@@ -3009,7 +3563,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "ngay truyen thong sinh vien hoc sinh viet nam 1950": {
+  "ngay truyen thong sinh vien hoc sinh viet nam": {
     "ten": "Ngày truyền thống sinh viên học sinh Việt Nam (1950 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d995\u0026Itemid\u003d33",
@@ -3025,7 +3579,7 @@
       "tran van on"
     ]
   },
-  "ngay truyen thong thanh nien xung phong 1950": {
+  "ngay truyen thong thanh nien xung phong": {
     "ten": "Ngày truyền thống thanh niên xung phong (1950 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1013\u0026Itemid\u003d33",
@@ -3038,7 +3592,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nghia quan tay son lat do chinh quyen chua nguyen o dang trong 1777": {
+  "nghia quan tay son lat do chinh quyen chua nguyen o dang trong": {
     "ten": "Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong (1777 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1319\u0026Itemid\u003d5",
@@ -3058,7 +3612,7 @@
       "gia long"
     ]
   },
-  "ngo quyen khoi nghia danh bai quan xam luoc nam han tren song bach dang 938": {
+  "ngo quyen khoi nghia danh bai quan xam luoc nam han tren song bach dang": {
     "ten": "Ngô Quyền khởi nghĩa đánh bại quân xâm lược Nam Hán trên sông Bạch Đằng (938 )",
     "links": [
       "Trận Bạch Đằng (938) http://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)",
@@ -3070,7 +3624,7 @@
       "song bach dang"
     ]
   },
-  "ngo quyen xung vuong, dong do o co loa 939": {
+  "ngo quyen xung vuong, dong do o co loa": {
     "ten": "Ngô Quyền xưng vương, đóng đô ở Cổ Loa (939 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n",
@@ -3084,7 +3638,7 @@
       "ngo quyen"
     ]
   },
-  "ngo xuong van danh lai duong tam kha 950": {
+  "ngo xuong van danh lai duong tam kha": {
     "ten": "Ngô Xương Văn đánh lại Dương Tam Kha (950 )",
     "links": [
       "http://maxreading.com/sach-hay/viet-su-giai-thoai/vi-sao-ho-ngo-mat-ngoi-25991.html",
@@ -3095,7 +3649,7 @@
       "ngo xuong ngap"
     ]
   },
-  "nguyen ai quoc den quang chau trung quoc 1924": {
+  "nguyen ai quoc den quang chau": {
     "ten": "Nguyễn Ái Quốc đến Quảng Châu (Trung Quốc) (1924 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d228\u0026Itemid\u003d33",
@@ -3106,7 +3660,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc den xiem thai lan 1928": {
+  "nguyen ai quoc den xiem": {
     "ten": "Nguyễn Ái Quốc đến Xiêm (Thái Lan) (1928 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d237\u0026Itemid\u003d33",
@@ -3120,7 +3674,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc gui ban yeu sach cua nhan dan viet toi hoi nghi vecxay 1919": {
+  "nguyen ai quoc gui ban yeu sach cua nhan dan viet toi hoi nghi vecxay": {
     "ten": "Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay (1919 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d220\u0026Itemid\u003d33",
@@ -3134,7 +3688,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc sang lien xo du hoi nghi quoc te nong dan 1923": {
+  "nguyen ai quoc sang lien xo du hoi nghi quoc te nong dan": {
     "ten": "Nguyễn Ái Quốc sang Liên Xô dự hội nghị Quốc tế Nông dân (1923 )",
     "links": [
       "http://www.baotanghochiminh.vn/TabId/495/ArticleId/670/PreTabId/465/Default.aspx",
@@ -3145,7 +3699,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc tham du dai hoi ii dang cong san phap 1922 - 1922": {
+  "nguyen ai quoc tham du dai hoi ii dang cong san phap": {
     "ten": "Nguyễn Ái Quốc tham dự Đại hội II Đảng Cộng sản Pháp (1922 - 1922)",
     "links": [
       "http://www.baotanghochiminh.vn/TabId/495/ArticleId/601/PreTabId/465/Default.aspx",
@@ -3157,7 +3711,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc tham du dai hoi lan thu 18 cua dang xa hoi phap 1920 - 1920": {
+  "nguyen ai quoc tham du dai hoi lan thu 18 cua dang xa hoi phap": {
     "ten": "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp (1920 - 1920)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d221\u0026Itemid\u003d33",
@@ -3169,7 +3723,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc tham du dai hoi lan thu v quoc te cong san hop tai matxcova 1924": {
+  "nguyen ai quoc tham du dai hoi lan thu v quoc te cong san hop tai matxcova": {
     "ten": "Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản họp tại Mátxcơva (1924 )",
     "links": [
       "http://www.baotanghochiminh.vn/TabId/495/ArticleId/702/PreTabId/465/Default.aspx",
@@ -3181,7 +3735,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "nguyen ai quoc thanh lap hoi viet nam cach mang thanh nien 1925": {
+  "nguyen ai quoc thanh lap hoi viet nam cach mang thanh nien": {
     "ten": "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên (1925 )",
     "links": [
       "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Vi%E1%BB%87t_Nam_C%C3%A1ch_m%E1%BA%A1ng_Thanh_ni%C3%AAn",
@@ -3194,7 +3748,7 @@
       "le hong son"
     ]
   },
-  "nguyen anh len ngoi, trieu dinh nha nguyen thanh lap 1802": {
+  "nguyen anh len ngoi, trieu dinh nha nguyen thanh lap": {
     "ten": "Nguyễn Ánh lên ngôi, triều đình nhà Nguyễn thành lập (1802 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Nh%C3%A0_Nguy%E1%BB%85n",
@@ -3211,7 +3765,7 @@
       "gia long"
     ]
   },
-  "nguyen tri phuong that thu tai dai don chi hoa 1861 - 1861": {
+  "nguyen tri phuong that thu tai dai don chi hoa": {
     "ten": "Nguyễn Tri Phương thất thủ tại Đại đồn Chí Hòa (1861 - 1861)",
     "links": [
       "http://diepdoan.violet.vn/entry/show/entry_id/1138804",
@@ -3225,7 +3779,7 @@
       "nguyen tri phuong"
     ]
   },
-  "nguyen truong to de cu hai phuong sach chong phap 1870": {
+  "nguyen truong to de cu hai phuong sach chong phap": {
     "ten": "Nguyễn Trường Tộ đề cử hai phương sách chống Pháp (1870 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d196\u0026Itemid\u003d33",
@@ -3239,7 +3793,7 @@
       "nguyen truong to"
     ]
   },
-  "nha duong doi giao chau thanh an nam do ho phu 679": {
+  "nha duong doi giao chau thanh an nam do ho phu": {
     "ten": "Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ (679 )",
     "links": [
       "https://vi.wikipedia.org/wiki/An_Nam_%C4%91%C3%B4_h%E1%BB%99_ph%E1%BB%A7",
@@ -3250,7 +3804,7 @@
       "giao chau"
     ]
   },
-  "nha han cu ma vien cung voi doan chi dem quan sang danh trung vuong -41": {
+  "nha han cu ma vien cung voi doan chi dem quan sang danh trung vuong": {
     "ten": "Nhà Hán cử Mã Viện cùng với Đoàn Chí đem quân sang đánh Trưng Vương (-41 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d612\u0026Itemid\u003d33"
@@ -3263,7 +3817,7 @@
       "ma vien"
     ]
   },
-  "nha han danh bai nha trieu, do ho au lac -111": {
+  "nha han danh bai nha trieu, do ho au lac": {
     "ten": "Nhà Hán đánh bại nhà Triệu, đô hộ Âu Lạc (-111 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d607"
@@ -3277,7 +3831,7 @@
       "trieu da"
     ]
   },
-  "nha han dat giao chi thanh giao chau 203": {
+  "nha han dat giao chi thanh giao chau": {
     "ten": "Nhà Hán đặt Giao Chỉ thành Giao Châu (203 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d620",
@@ -3292,7 +3846,7 @@
       "si tiep"
     ]
   },
-  "nha han lap giao chi bo -106": {
+  "nha han lap giao chi bo": {
     "ten": "Nhà Hán lập Giao Chỉ Bộ (-106 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d608",
@@ -3302,7 +3856,7 @@
       "giao chi"
     ]
   },
-  "nha han suy yeu nho giao bat dau du nhap vao nuoc ta 187": {
+  "nha han suy yeu nho giao bat dau du nhap vao nuoc ta": {
     "ten": "Nhà Hán suy yếu Nho giáo bắt đầu du nhập vào nước ta (187 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d618",
@@ -3316,7 +3870,7 @@
       "si tiep"
     ]
   },
-  "nha ho quan li dat nuoc, doi quoc hieu la dai ngu 1400 - 1407": {
+  "nha ho quan li dat nuoc, doi quoc hieu la dai ngu": {
     "ten": "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu (1400 - 1407)",
     "links": [
       "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Ngu",
@@ -3326,7 +3880,7 @@
       "ho quy ly"
     ]
   },
-  "nha luong chiem lai giao chau, ly nam de ve giu thanh gia ninh 545": {
+  "nha luong chiem lai giao chau, ly nam de ve giu thanh gia ninh": {
     "ten": "Nhà Lương chiếm lại Giao Châu, Lý Nam Đế về giữ thành Gia Ninh (545 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d633\u0026Itemid\u003d33",
@@ -3340,7 +3894,7 @@
       "ly nam de"
     ]
   },
-  "nha luong do ho 505 - 543": {
+  "nha luong do ho": {
     "ten": "Nhà Lương đô hộ (505 - 543)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d629\u0026Itemid\u003d33",
@@ -3350,7 +3904,7 @@
       "giao chau"
     ]
   },
-  "nha ly ban hanh bo luat hinh thu 1042": {
+  "nha ly ban hanh bo luat hinh thu": {
     "ten": "Nhà Lý ban hành bộ luật Hình thư (1042 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d655\u0026Itemid\u003d33",
@@ -3360,7 +3914,7 @@
       "ly thai tong"
     ]
   },
-  "nha ly doi ten nuoc thanh dai viet 1054": {
+  "nha ly doi ten nuoc thanh dai viet": {
     "ten": "Nhà Lý đổi tên nước thành Đại Việt (1054 )",
     "links": [
       "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
@@ -3371,7 +3925,7 @@
       "ly thanh tong"
     ]
   },
-  "nha ly lap van mieu tho khong tu 1070": {
+  "nha ly lap van mieu tho khong tu": {
     "ten": "Nhà Lý lập Văn Miếu thờ Khổng Tử (1070 )",
     "links": [
       "http://thantienvietnam.com/gioi-thieu/624-cac-vi-tien-hien-tien-nho-duoc-tong-tu-o-van-mieu-van-chi-cua-viet-nam-dao-giao-than-tien.html",
@@ -3383,7 +3937,7 @@
       "y lan"
     ]
   },
-  "nha ly mo khoa thi dau tien, le van thinh do dau 1075": {
+  "nha ly mo khoa thi dau tien, le van thinh do dau": {
     "ten": "Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu (1075 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD.",
@@ -3394,7 +3948,7 @@
       "le van thinh"
     ]
   },
-  "nha mac sup do 1592": {
+  "nha mac sup do": {
     "ten": "Nhà Mạc sụp đổ (1592 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Nh%C3%A0_M%E1%BA%A1c",
@@ -3414,7 +3968,7 @@
       "trinh tung"
     ]
   },
-  "nha ngo do ho nuoc au lac 210 - 280": {
+  "nha ngo do ho nuoc au lac": {
     "ten": "Nhà Ngô đô hộ nước Âu Lạc (210 - 280)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d623\u0026Itemid\u003d33",
@@ -3424,7 +3978,7 @@
       "giao chau"
     ]
   },
-  "nha nguyen sap xep lai don vi hanh chinh trong ca nuoc 1831 - 1832": {
+  "nha nguyen sap xep lai don vi hanh chinh trong ca nuoc": {
     "ten": "Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước (1831 - 1832)",
     "links": [
       "https://vi.wikipedia.org/wiki/H%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Nguy%E1%BB%85n",
@@ -3441,7 +3995,7 @@
       "minh mang"
     ]
   },
-  "nha nuoc lam ap duoc thanh lap 190": {
+  "nha nuoc lam ap duoc thanh lap": {
     "ten": "Nhà nước Lâm Ấp được thành lập (190 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d619",
@@ -3453,7 +4007,7 @@
       "tuong lam"
     ]
   },
-  "nha nuoc van lang ra doi -700": {
+  "nha nuoc van lang ra doi": {
     "ten": "Nhà nước Văn Lang ra đời (-700 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d602\u0026Itemid\u003d33",
@@ -3466,7 +4020,7 @@
       "dong bac"
     ]
   },
-  "nha tan do ho 280 - 420": {
+  "nha tan do ho": {
     "ten": "Nhà Tấn đô hộ (280 - 420)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d625\u0026Itemid\u003d33",
@@ -3479,7 +4033,7 @@
       "dao hoang"
     ]
   },
-  "nha te do ho 495 - 505": {
+  "nha te do ho": {
     "ten": "Nhà Tề đô hộ (495 - 505)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d628"
@@ -3491,7 +4045,7 @@
       "ly truong nhan"
     ]
   },
-  "nha tong do ho 420 - 479": {
+  "nha tong do ho": {
     "ten": "Nhà Tống đô hộ (420 - 479)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d626\u0026Itemid\u003d33"
@@ -3500,7 +4054,7 @@
       "giao chau"
     ]
   },
-  "nha yeu nuoc phan chau trinh qua doi 1926": {
+  "nha yeu nuoc phan chau trinh qua doi": {
     "ten": "Nhà yêu nước Phan Châu Trinh qua đời (1926 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d233\u0026Itemid\u003d33",
@@ -3511,7 +4065,7 @@
       "phan chau trinh"
     ]
   },
-  "nhan dan lang xa ven hai phong noi day chong phap 1883 - 1883": {
+  "nhan dan lang xa ven hai phong noi day chong phap": {
     "ten": "Nhân dân làng xã ven Hải Phòng nổi dậy chống Pháp (1883 - 1883)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d205\u0026Itemid\u003d33"
@@ -3521,7 +4075,7 @@
       "quang yen"
     ]
   },
-  "nhat dao chinh lat do phap tren toan dong duong 1945": {
+  "nhat dao chinh lat do phap tren toan dong duong": {
     "ten": "Nhật đảo chính lật đổ Pháp trên toàn Đông Dương (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d269",
@@ -3535,12 +4089,69 @@
       "lien bang dong duong"
     ]
   },
+  "noi chien campuchia": {
+    "dongMinh": "Chính phủ Liên hiệp Dân tộc Hoàng gia Campuchia Mặt trận Đoàn kết Dân tộc Campuchia Khmer Đỏ Khmer Giải phóng Việt Nam Dân chủ Cộng hòa Mặt trận Dân tộc Giải phóng miền Nam Việt Nam Viện trợ: Liên Xô Trung Quốc",
+    "doiPhuong": "Cộng hòa Khmer Hợp chúng quốc Hoa Kỳ Việt Nam Cộng hòa",
+    "ketQua": "Khmer Đỏ chiến thắng Campuchia Dân chủ thành lập Bắt đầu thời kỳ Diệt chủng Campuchia",
+    "thoiKy": "Chiến tranh Đông Dương lần 1 (1945 - 1954)",
+    "ten": "noi chien campuchia",
+    "thoiGian": "1968 - 1975"
+  },
+  "noi chien lao": {
+    "dongMinh": "Pathet Lào Lực lượng Trung lập Lào (1960-1962) Lực lượng Trung lập Yêu nước Lào (từ 1963) Việt Nam Dân chủ Cộng hòa Viện trợ: Liên Xô Trung Quốc",
+    "doiPhuong": "Vương quốc Lào Lực lượng Trung lập Lào (từ 1962) Hợp chúng quốc Hoa Kỳ Việt Nam Cộng hòa Thái Lan Viện trợ: Philippines Đài Loan",
+    "ketQua": "Pathet Lào chiến thắng Cộng hòa Dân chủ Nhân dân Lào thành lập",
+    "thoiKy": "Chiến tranh Đông Dương lần 1 (1945 - 1954)",
+    "ten": "noi chien lao",
+    "thoiGian": "1959 - 1975"
+  },
+  "noi day cao ba quat": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn",
+    "doiPhuong": "Lực lượng Cao Bá Quát",
+    "ketQua": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi day cao ba quat",
+    "thoiGian": "1854 - 1856"
+  },
+  "noi day cong san tai thai lan": {
+    "dongMinh": "Đảng Cộng sản Thái Lan Pathet Lào Khmer Đỏ (đến 1978) Hỗ trợ: Việt Nam Dân chủ Cộng hòa (đến 1976) Cộng hòa Xã hội Chủ nghĩa Việt Nam (từ 1976) Trung Quốc Đảng Cộng sản Malaya",
+    "doiPhuong": "Vương quốc Thái Lan Hợp chúng quốc Hoa Kỳ Hỗ trợ: Đài Loan (đến 1967) Malaysia",
+    "ketQua": "Đảng Cộng sản Thái Lan thất bại Phong trào cộng sản chấm dứt Hiệp định ân xá được ký kết",
+    "thoiKy": "Chiến tranh Đông Dương lần 1 (1945 - 1954)",
+    "ten": "noi day cong san tai thai lan",
+    "thoiGian": "1965 - 1983"
+  },
+  "noi day doan huu trung": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn",
+    "doiPhuong": "Lực lượng Đoàn Hữu Trưng",
+    "ketQua": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi day doan huu trung",
+    "thoiGian": "1866"
+  },
   "noi day fulro": {
     "dongMinh": "Việt Nam Cộng hòa Nhân dân Campuchia (từ 1979) Cộng hòa Dân chủ Nhân dân Lào Viện trợ: Liên Xô",
     "doiPhuong": "FULRO Mặt trận Giải phóng Cao Nguyên Mặt trận Giải phóng Chăm Pa Mặt trận Giải phóng Campuchia Hạ Mặt trận Giải phóng Campuchia Thượng Viện trợ: Trung Quốc Khmer Đỏ",
     "ketQua": "Chiến thắng FULRO đầu hàng và trao vũ khí cho Liên Hợp Quốc",
+    "thoiKy": "",
     "ten": "noi day fulro",
     "thoiGian": "1975 - 1992"
+  },
+  "noi day le duy luong": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn",
+    "doiPhuong": "Lực lượng Lê Duy Lương",
+    "ketQua": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi day le duy luong",
+    "thoiGian": "1832 - 1837"
+  },
+  "noi day nong van van": {
+    "dongMinh": "Việt Nam thời Nhà Nguyễn",
+    "doiPhuong": "Lực lượng Nông Văn Vân",
+    "ketQua": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi day nong van van",
+    "thoiGian": "1833 - 1835"
   },
   "noi day o da vach thoi nguyen": {
     "dongMinh": "Việt Nam thời Nhà Nguyễn",
@@ -3550,6 +4161,22 @@
     "ten": "noi day o da vach thoi nguyen",
     "thoiGian": "1803 - 1885"
   },
+  "noi day phan ba vanh": {
+    "dongMinh": "Việt Nam thời Nhà Nguyễn",
+    "doiPhuong": "Lực lượng Phan Bá Vành",
+    "ketQua": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi day phan ba vanh",
+    "thoiGian": "1821 - 1827"
+  },
+  "noi day ta van phung": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn",
+    "doiPhuong": "Lực lượng Tạ Văn Phụng",
+    "ketQua": "Chiến thắng Nổi dậy bị đánh dẹp",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi day ta van phung",
+    "thoiGian": "1861 - 1865"
+  },
   "noi day tay vu vuong": {
     "dongMinh": "Lực lượng Tây Vu Vương ở Quận Giao Chỉ và Quận Cửu Chân",
     "doiPhuong": "Nhà Đông Hán",
@@ -3558,7 +4185,63 @@
     "ten": "noi day tay vu vuong",
     "thoiGian": "111 TCN"
   },
-  "nuoc au lac bi quan trieu da xam chiem -179": {
+  "noi loan cao mien": {
+    "dongMinh": "Việt Nam thời Nhà Nguyễn Cao Miên thời Ang Chan II",
+    "doiPhuong": "Xiêm La thời Nhà Chakri Lực lượng Ang Snguon",
+    "ketQua": "Chiến thắng Ang Chan II giữ được ngôi vị Cao Miên suy yếu và lệ thuộc vào Việt Nam",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi loan cao mien",
+    "thoiGian": "1811 - 1812"
+  },
+  "noi loan duong thanh": {
+    "dongMinh": "Lực lượng Dương Thanh ở An Nam",
+    "doiPhuong": "Nhà Đường",
+    "ketQua": "Thất bại Dương Thanh bị bắt giết",
+    "thoiKy": "Bắc thuộc lần 3 (602 - 905)",
+    "ten": "noi loan duong thanh",
+    "thoiGian": "819 - 820"
+  },
+  "noi loan khuc thua du": {
+    "dongMinh": "Lực lượng Khúc Thừa Dụ ở Tĩnh Hải quân",
+    "doiPhuong": "Nhà Đường",
+    "ketQua": "Chiến thắng Nhà Đường phải chấp nhận Khúc Thừa Dụ làm Tiết độ sứ Họ Khúc xây dựng chính quyền tự chủ của người Việt Chấm dứt thời kỳ Bắc thuộc lần 3",
+    "thoiKy": "Bắc thuộc lần 3 (602 - 905)",
+    "ten": "noi loan khuc thua du",
+    "thoiGian": "905"
+  },
+  "noi loan luong thac": {
+    "dongMinh": "Lực lượng Lương Thạc ở Giao Châu",
+    "doiPhuong": "Nhà Đông Tấn",
+    "ketQua": "Thất bại Nổi loạn bị đánh dẹp",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "noi loan luong thac",
+    "thoiGian": "317 - 323"
+  },
+  "noi loan ly truong nhan": {
+    "dongMinh": "Lực lượng Lý Trường Nhân ở Giao Châu",
+    "doiPhuong": "Nhà Lưu Tống",
+    "ketQua": "Chiến thắng Nhà Lưu Tống chấp nhận phong Lý Trường Nhân làm Thứ sử",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "noi loan ly truong nhan",
+    "thoiGian": "468"
+  },
+  "noi loan nguoi thuong": {
+    "dongMinh": "Việt Nam Cộng hòa thời Quân quản Hỗ trợ: Hoa Kỳ",
+    "doiPhuong": "BAJARAKA (đến 1964) FULRO (từ 1964)",
+    "ketQua": "Chính phủ Việt Nam Cộng hòa chiến thắng Phiến quân BAJARAKA và FULRO bị tiêu diệt và đàn áp",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "noi loan nguoi thuong",
+    "thoiGian": "1964 - 1969"
+  },
+  "noi loan vieng chan": {
+    "dongMinh": "Viêng Chăn Champasak Việt Nam thời Nhà Nguyễn",
+    "doiPhuong": "Xiêm La thời Nhà Chakri",
+    "ketQua": "Thất bại Xiêm La kiểm soát Viêng Chăn",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "noi loan vieng chan",
+    "thoiGian": "1826 - 1828"
+  },
+  "nuoc au lac bi quan trieu da xam chiem": {
     "ten": "Nước Âu lạc bị quân Triệu Đà xâm chiếm (-179 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d606\u0026Itemid\u003d33",
@@ -3569,7 +4252,7 @@
       "an duong vuong"
     ]
   },
-  "nuoc au lac cua an duong vuong thanh lap -207": {
+  "nuoc au lac cua an duong vuong thanh lap": {
     "ten": "Nước Âu lạc của An Dương Vương thành lập (-207 )",
     "links": [
       "http://www.dulichtrongoi.com/userful-informations/Cac_vi_vua_trong_lich_su_Viet_Nam/An_Duong_Vuong.htm",
@@ -3584,7 +4267,7 @@
       "an duong vuong"
     ]
   },
-  "nuoc ta roi vao tay nha duong 618 - 905": {
+  "nuoc ta roi vao tay nha duong": {
     "ten": "Nước ta rơi vào tay nhà Đường (618 - 905)",
     "links": [
       "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_thu%E1%BB%99c_l%E1%BA%A7n_3",
@@ -3595,7 +4278,7 @@
       "giao chau"
     ]
   },
-  "nuoc van xuan thanh lap 544": {
+  "nuoc van xuan thanh lap": {
     "ten": "Nước Vạn Xuân thành lập (544 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d632\u0026Itemid\u003d33",
@@ -3605,7 +4288,7 @@
       "ly nam de"
     ]
   },
-  "pham hong thai muu sat toan quyen dong duong tai sa dien 1924": {
+  "pham hong thai muu sat toan quyen dong duong tai sa dien": {
     "ten": "Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện (1924 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_H%E1%BB%93ng_Th%C3%A1i",
@@ -3619,7 +4302,7 @@
       "le hong son"
     ]
   },
-  "phan boi chau va tang bat ho sang nhat 1905": {
+  "phan boi chau va tang bat ho sang nhat": {
     "ten": "Phan Bội Châu và Tăng Bạt Hổ sang Nhật (1905 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d213\u0026Itemid\u003d33",
@@ -3632,7 +4315,7 @@
       "dang tu kinh"
     ]
   },
-  "phap chiem thanh vinh long 1862 - 1862": {
+  "phap chiem thanh vinh long": {
     "ten": "Pháp chiếm thành Vĩnh Long (1862 - 1862)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_V%C4%A9nh_Long"
@@ -3644,7 +4327,7 @@
       "phan thanh gian"
     ]
   },
-  "phap cu phai vien den quan thu gia dinh dua ra ban du thao hoa uoc gom 11 dieu khoan 1860": {
+  "phap cu phai vien den quan thu gia dinh dua ra ban du thao hoa uoc gom 11 dieu khoan": {
     "ten": "Pháp cử phái viên đến quân thứ Gia Định đưa ra bản dự thảo Hòa ước gồm 11 điều khoản (1860 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d184\u0026Itemid\u003d33",
@@ -3656,7 +4339,7 @@
       "hue"
     ]
   },
-  "phap danh chiem bien hoa 1861 - 1862": {
+  "phap danh chiem bien hoa": {
     "ten": "Pháp đánh chiếm Biên Hòa (1861 - 1862)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Bi%C3%AAn_H%C3%B2a_%281861-1862%29"
@@ -3665,7 +4348,7 @@
       "gia dinh"
     ]
   },
-  "phap danh chiem dinh tuong 1861 - 1861": {
+  "phap danh chiem dinh tuong": {
     "ten": "Pháp đánh chiếm Định Tường (1861 - 1861)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%8Bnh_T%C6%B0%E1%BB%9Dng_%281861%29",
@@ -3680,7 +4363,7 @@
       "nguyen cong nhan"
     ]
   },
-  "phap danh thanh bac ninh 1884 - 1884": {
+  "phap danh thanh bac ninh": {
     "ten": "Pháp đánh thành Bắc Ninh (1884 - 1884)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%AFc_Ninh_(1884)"
@@ -3689,7 +4372,7 @@
       "bac ninh"
     ]
   },
-  "phap doi trieu dinh hue giao ca ba tinh mien tay nam ky cho phap 1866": {
+  "phap doi trieu dinh hue giao ca ba tinh mien tay nam ky cho phap": {
     "ten": "Pháp đòi triều đình Huế giao cả ba tỉnh miền Tây Nam Kỳ cho Pháp (1866 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d192\u0026Itemid\u003d33",
@@ -3703,7 +4386,7 @@
       "phan thanh gian"
     ]
   },
-  "phap gianh quyen bao ho nam ky 1858 - 1862": {
+  "phap gianh quyen bao ho nam ky": {
     "ten": "Pháp giành quyền bảo hộ Nam kỳ (1858 - 1862)",
     "links": [
       "http://loigiaihay.com/hiep-uoc-nham-tuat-giua-phap-va-trieu-c86a11319.html",
@@ -3719,7 +4402,7 @@
       "tu duc"
     ]
   },
-  "phap ky hiep uoc thoa thuan cho phat xit nhat su dung lanh tho bac ky vao nhung muc dich quan su nhat dua quan vao dong duong 1940": {
+  "phap ky hiep uoc thoa thuan cho phat xit nhat su dung lanh tho bac ky vao nhung muc dich quan su nhat dua quan vao dong duong": {
     "ten": "Pháp ký hiệp ước thỏa thuận cho phát xít Nhật sử dụng lãnh thổ Bắc Kỳ vào những mục đích quân sự Nhật đưa quân vào Đông Dương (1940 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d258\u0026Itemid\u003d33",
@@ -3729,7 +4412,7 @@
       "lien bang dong duong"
     ]
   },
-  "phap tuyen bo toan bo 6 tinh nam ky la lanh dia cua phap 1867": {
+  "phap tuyen bo toan bo 6 tinh nam ky la lanh dia cua phap": {
     "ten": "Pháp tuyên bố toàn bộ 6 tỉnh Nam Kỳ là lãnh địa của Pháp (1867 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d193\u0026Itemid\u003d33",
@@ -3739,7 +4422,7 @@
       "phan thanh gian"
     ]
   },
-  "phat xit nhat tuyen bo dau hang phe dong minh 1945": {
+  "phat xit nhat tuyen bo dau hang phe dong minh": {
     "ten": "Phát xít Nhật tuyên bố đầu hàng phe Đồng minh (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d276\u0026Itemid\u003d33",
@@ -3748,8 +4431,13 @@
       "http://tinhdoan.angiang.gov.vn/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3j3oBBLczdTEwOLMAMLA08Tb6cwN8sgAz9XQ_2CbEdFABQHBaw!/?WCM_GLOBAL_CONTEXT\u003d/wps/wcm/connect/tinhdoan/tinhdoanag/sinhhoatchidoan/thang8/px+nhat+dau+hang+dong+minh"
     ]
   },
-  "phong trao can vuong 1885 - 1896": {
-    "ten": "Phong trào Cần Vương (1885 - 1896)",
+  "phong trao can vuong": {
+    "dongMinh": "Triều đình kháng chiến Hàm Nghi Lực lượng Phan Đình Phùng ở Trung Kỳ Lực lượng Đinh Công Tráng ở Trung Kỳ Lực lượng Mai Xuân Thưởng ở Trung Kỳ Lực lượng Tống Duy Tân ở Trung Kỳ Lực lượng Nguyễn Thiện Thuật ở Bắc Kỳ Lực lượng Đốc Ngữ ở Bắc Kỳ Lực lượng Đèo Văn Trị ở Bắc Kỳ",
+    "doiPhuong": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "ketQua": "Thất bại Hàm Nghi bị bắt Phong trào tan rã",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "phong trao can vuong",
+    "thoiGian": "1885 - 1896",
     "links": [
       "https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_C%E1%BA%A7n_V%C6%B0%C6%A1ng",
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d365",
@@ -3763,7 +4451,15 @@
       "ham nghi"
     ]
   },
-  "phong trao dong du 1905 - 1908": {
+  "phong trao chong suu thue trung ky": {
+    "dongMinh": "Nhân dân Trung Kỳ",
+    "doiPhuong": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "ketQua": "Thất bại Phong trào bị dập tắt",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "phong trao chong suu thue trung ky",
+    "thoiGian": "1908"
+  },
+  "phong trao dong du": {
     "ten": "Phong trào Đông Du (1905 - 1908)",
     "links": [
       "https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_%C4%90%C3%B4ng_Du",
@@ -3780,7 +4476,23 @@
       "phan boi chau"
     ]
   },
-  "phong trao “don goda” 1937": {
+  "phong trao hoi kin nam ky": {
+    "dongMinh": "Lực lượng Phan Xích Long ở Nam Kỳ",
+    "doiPhuong": "Liên bang Đông Dương",
+    "ketQua": "Thất bại Phong trào bị dập tắt",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "phong trao hoi kin nam ky",
+    "thoiGian": "1913 - 1916"
+  },
+  "phong trao quang phuc quan": {
+    "dongMinh": "Việt Nam Quang phục Hội Việt Nam Quang Phục quân",
+    "doiPhuong": "Cộng hòa Pháp Liên bang Đông Dương Nhà Nguyễn",
+    "ketQua": "Thất bại Phong trào bị dập tắt",
+    "thoiKy": "Pháp thuộc (1858 - 1945)",
+    "ten": "phong trao quang phuc quan",
+    "thoiGian": "1913 - 1925"
+  },
+  "phong trao “don goda”": {
     "ten": "Phong trào “Đón Gôđa” (1937 )",
     "links": [
       "http://123.30.190.43:8080/tiengviet/tulieuvankien/tulieuvedang/details.asp?topic\u003d168\u0026subtopic\u003d463\u0026leader_topic\u003d981\u0026id\u003dBT27121238530",
@@ -3792,7 +4504,7 @@
       "hue"
     ]
   },
-  "quan lam son giai phong nghe an 1424": {
+  "quan lam son giai phong nghe an": {
     "ten": "Quân Lam Sơn giải phóng Nghệ An (1424 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_gi%E1%BA%A3i_ph%C3%B3ng_Ngh%E1%BB%87_An",
@@ -3810,7 +4522,7 @@
       "nguyen chich"
     ]
   },
-  "quan lam son giai phong tan binh, thuan hoa va tien quan ra bac 1425 - 1426": {
+  "quan lam son giai phong tan binh, thuan hoa va tien quan ra bac": {
     "ten": "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc (1425 - 1426)",
     "links": [
       "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n",
@@ -3830,7 +4542,7 @@
       "le ngan"
     ]
   },
-  "quan phap danh chiem tinh thanh gia dinh 1859 - 1859": {
+  "quan phap danh chiem tinh thanh gia dinh": {
     "ten": "Quân Pháp đánh chiếm tỉnh thành Gia Định (1859 - 1859)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_th%C3%A0nh_Gia_%C4%90%E1%BB%8Bnh,_1859",
@@ -3844,7 +4556,7 @@
       "ban dao son tra"
     ]
   },
-  "quan thanh xam luoc nuoc ta 1788": {
+  "quan thanh xam luoc nuoc ta": {
     "ten": "Quân Thanh xâm lược nước ta (1788 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d684\u0026Itemid\u003d33",
@@ -3866,7 +4578,7 @@
       "dang tien dong"
     ]
   },
-  "quang trung dot ngot qua doi 1792": {
+  "quang trung dot ngot qua doi": {
     "ten": "Quang Trung đột ngột qua đời (1792 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87",
@@ -3878,7 +4590,7 @@
       "nguyen hue"
     ]
   },
-  "quoc hieu dai nam 1838": {
+  "quoc hieu dai nam": {
     "ten": "Quốc hiệu Đại Nam (1838 )",
     "links": [
       "http://www.baobinhdinh.com.vn/viewer.aspx?macm\u003d26\u0026macmp\u003d26\u0026mabb\u003d7944",
@@ -3890,7 +4602,7 @@
       "minh mang"
     ]
   },
-  "quoc hoi khoa i hop ky dau tien 1946": {
+  "quoc hoi khoa i hop ky dau tien": {
     "ten": "Quốc hội khóa I họp kỳ đầu tiên (1946 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_I",
@@ -3900,7 +4612,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "quoc hoi khoa i ky hop thu hai thong qua hien phap nuoc viet nam dan chu cong hoa 1946": {
+  "quoc hoi khoa i ky hop thu hai thong qua hien phap nuoc viet nam dan chu cong hoa": {
     "ten": "Quốc hội khóa I kỳ họp thứ hai thông qua Hiến pháp nuớc Việt Nam dân chủ cộng hòa (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d291\u0026Itemid\u003d33",
@@ -3911,7 +4623,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "quoc khanh nuoc cong hoa xa hoi chu nghia viet nam 1945": {
+  "quoc khanh nuoc cong hoa xa hoi chu nghia viet nam": {
     "ten": "Quốc khánh nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1018\u0026Itemid\u003d33",
@@ -3925,13 +4637,21 @@
       "chu tich ho chi minh"
     ]
   },
-  "quoc te cong san gui thu cho cac nhom cong san o dong duong ve van de thanh lap mot dang cong san dong duong 1929": {
+  "quoc te cong san gui thu cho cac nhom cong san o dong duong ve van de thanh lap mot dang cong san dong duong": {
     "ten": "Quốc tế Cộng sản gửi thư cho các nhóm cộng sản ở Đông Dương về vấn đề thành lập một đảng cộng sản Đông Dương (1929 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d242\u0026Itemid\u003d33"
     ]
   },
-  "tac pham “duong kach menh” cua nguyen ai quoc duoc xuat ban 1927": {
+  "su kien song tu dong": {
+    "dongMinh": "Việt Nam Cộng hòa thời Đệ Nhị",
+    "doiPhuong": "Cộng hòa Philippines",
+    "ketQua": "Thất bại Philippines chiếm đảo Song Tử Đông và Song Tử Tây ở Trường Sa",
+    "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
+    "ten": "su kien song tu dong",
+    "thoiGian": "1968"
+  },
+  "tac pham “duong kach menh” cua nguyen ai quoc duoc xuat ban": {
     "ten": "Tác phẩm “Đường Kách mệnh” của Nguyễn Ái Quốc được xuất bản (1927 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d234\u0026Itemid\u003d33",
@@ -3945,7 +4665,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "tan cong thanh hung hoa 1884 - 1884": {
+  "tan cong thanh hung hoa": {
     "ten": "Tấn công thành Hưng Hóa (1884 - 1884)",
     "links": [
       "https://danhlamphutho.blogspot.com/2011/07/thanh-hung-hoa.html",
@@ -3955,7 +4675,7 @@
       "hung hoa"
     ]
   },
-  "tan viet cach mang dang ra doi 1928": {
+  "tan viet cach mang dang ra doi": {
     "ten": "Tân Việt cách mạng Đảng ra đời (1928 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d236\u0026Itemid\u003d33",
@@ -3974,7 +4694,7 @@
       "tran phu"
     ]
   },
-  "tay son lat do chinh quyen ho trinh 1786": {
+  "tay son lat do chinh quyen ho trinh": {
     "ten": "Tây Sơn lật đổ chính quyền họ Trịnh (1786 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d682\u0026Itemid\u003d33",
@@ -3997,7 +4717,7 @@
       "nguyen huu chinh"
     ]
   },
-  "tham an nguyen trai  - 1942": {
+  "tham an nguyen trai": {
     "ten": "Thảm án Nguyễn Trãi ( - 1942)",
     "links": [
       "https://trankimlan.wordpress.com/2011/09/09/nguy%E1%BB%85n-trai-v%E1%BB%A5-an-l%E1%BB%87-chi-vien-t%E1%BB%A9c-v%E1%BB%A5-an-v%C6%B0%E1%BB%9Dn-v%E1%BA%A3i-la-v%E1%BB%A5-an-ma-nguy%E1%BB%85n-trai-b%E1%BB%8B-vu-oan-va-b%E1%BB%8B-tru-di-tam-t/",
@@ -4008,7 +4728,7 @@
       "nguyen thi lo"
     ]
   },
-  "tham sat go dai 1966": {
+  "tham sat go dai": {
     "ten": "Thảm sát Gò Dài (1966 )",
     "links": [
       "http://vnexpress.net/tin-tuc/thoi-su/binh-dinh-tuong-niem-vu-tham-sat-go-dai-2956119.html",
@@ -4019,14 +4739,14 @@
       "tay vinh"
     ]
   },
-  "thanh giong danh giac ngoai xam -2879 - -258": {
+  "thanh giong danh giac ngoai xam": {
     "ten": "Thánh Gióng đánh giặc ngoại xâm (-2879 - -258)",
     "links": [
       "Từ điển bách khoa Tri thức quốc phòng toàn dân.-H.: Chính trị Quốc gia, 2002. http://vietnamdefence.com/Home/quansuvietnam/khoinghiachientranh/Thanh-Giong-danh-giac-ngoai-xam/20099/48713.vnd",
       "Truyền thuyết Thánh Gióng https://www.youtube.com/watch?v\u003d14MzHcTwROM"
     ]
   },
-  "thanh lap chi bo cong san dau tien 1929": {
+  "thanh lap chi bo cong san dau tien": {
     "ten": "Thành lập Chi bộ Cộng sản đầu tiên (1929 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d238\u0026Itemid\u003d33",
@@ -4044,7 +4764,7 @@
       "tran van cung"
     ]
   },
-  "thanh lap doan thanh nien cong san ho chi minh 1931": {
+  "thanh lap doan thanh nien cong san ho chi minh": {
     "ten": "THÀNH LẬP ĐOÀN THANH NIÊN CỘNG SẢN HỒ CHÍ MINH (1931 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1004\u0026Itemid\u003d33",
@@ -4065,7 +4785,7 @@
       "nguyen viet xuan"
     ]
   },
-  "thanh lap doi du kich bac son 1941": {
+  "thanh lap doi du kich bac son": {
     "ten": "Thành lập đội du kích Bắc Sơn (1941 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d263\u0026Itemid\u003d33",
@@ -4083,7 +4803,7 @@
       "phung chi kien"
     ]
   },
-  "thanh lap doi thieu nien tien phong ho chi minh 1941": {
+  "thanh lap doi thieu nien tien phong ho chi minh": {
     "ten": "THÀNH LẬP ĐỘI THIẾU NIÊN TIỀN PHONG HỒ CHÍ MINH (1941 )",
     "links": [
       "http://tinhdoanbinhthuan.vn/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d271:ngay-thanh-lp-i-thiu-nien-tin-phong-h-chi-minh\u0026catid\u003d139:nhng-ngay-l-ln-trong-nm\u0026Itemid\u003d253",
@@ -4094,7 +4814,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "thanh lap dong duong cong san dang 1929": {
+  "thanh lap dong duong cong san dang": {
     "ten": "Thành lập Đông Dương Cộng sản Đảng (1929 )",
     "links": [
       "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_D%C6%B0%C6%A1ng_C%E1%BB%99ng_s%E1%BA%A3n_%C4%90%E1%BA%A3ng",
@@ -4109,7 +4829,7 @@
       "nguyen phong sac"
     ]
   },
-  "thanh lap hoi phuc viet 1925": {
+  "thanh lap hoi phuc viet": {
     "ten": "Thành lập Hội Phục Việt (1925 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d232",
@@ -4122,7 +4842,7 @@
       "le van huan"
     ]
   },
-  "thanh lap hoi van hoa cuu quoc 1943": {
+  "thanh lap hoi van hoa cuu quoc": {
     "ten": "Thành lập Hội Văn hóa cứu quốc (1943 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d266\u0026Itemid\u003d33",
@@ -4135,7 +4855,7 @@
       "hue"
     ]
   },
-  "thanh lap quan doi nhan dan viet nam, ngay quoc phong toan dan 1944": {
+  "thanh lap quan doi nhan dan viet nam, ngay quoc phong toan dan": {
     "ten": "Thành lập quân đội nhân dân Việt Nam, ngày quốc phòng toàn dân (1944 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d1031",
@@ -4148,7 +4868,7 @@
       "vo nguyen giap"
     ]
   },
-  "thanh lap quoc te cong san 1919": {
+  "thanh lap quoc te cong san": {
     "ten": "Thành lập Quốc Tế Cộng Sản (1919 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d219\u0026Itemid\u003d33",
@@ -4156,7 +4876,7 @@
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dcategory\u0026sectionid\u003d3\u0026id\u003d21\u0026Itemid\u003d33\u0026limit\u003d30\u0026limitstart\u003d30"
     ]
   },
-  "thanh lap to chuc tam tam xa tai quang chau trung quoc 1923": {
+  "thanh lap to chuc tam tam xa tai quang chau trung quoc": {
     "ten": "Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc (1923 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d224",
@@ -4172,7 +4892,7 @@
       "le hong son"
     ]
   },
-  "thanh lap tong lien doan lao dong viet nam 1929": {
+  "thanh lap tong lien doan lao dong viet nam": {
     "ten": "Thành lập Tổng Liên đoàn Lao động Việt Nam (1929 )",
     "links": [
       "http://tinhdoanbinhthuan.vn/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d286:ngay-thanh-lp-tng-lien-oan-lao-ng-vit-nam\u0026catid\u003d139:nhng-ngay-l-ln-trong-nm",
@@ -4185,14 +4905,14 @@
       "chu tich ho chi minh"
     ]
   },
-  "thanh lap tong lien doan lao dong viet nam nay la tong cong doan viet nam 1946": {
+  "thanh lap tong lien doan lao dong viet nam nay la tong cong doan viet nam": {
     "ten": "Thành lập Tổng liên đoàn lao động Việt Nam nay là Tổng công đoàn Việt Nam (1946 )",
     "links": [
       "https://vi.wikipedia.org/wiki/T%E1%BB%95ng_Li%C3%AAn_%C4%91o%C3%A0n_Lao_%C4%91%E1%BB%99ng_Vi%E1%BB%87t_Nam",
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1186\u0026Itemid\u003d33"
     ]
   },
-  "thanh lap viet nam nghia doan 1925": {
+  "thanh lap viet nam nghia doan": {
     "ten": "Thành lập Việt Nam nghĩa đoàn (1925 )",
     "links": [
       "http://baotanglichsu.vn/portal/vi/Tin-tuc/Theo-dong-lich-su/2014/01/3A923D4E/",
@@ -4206,7 +4926,7 @@
       "ton quang phiet"
     ]
   },
-  "thanh lap “viet nam quang phuc hoi” 1912": {
+  "thanh lap “viet nam quang phuc hoi”": {
     "ten": "Thành lập “Việt Nam Quang phục hội” (1912 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Quang_ph%E1%BB%A5c_H%E1%BB%99i",
@@ -4220,7 +4940,7 @@
       "phan boi chau"
     ]
   },
-  "thoi ki le – mac va cuoc chien tranh nam – bac trieu 1543 - 1592": {
+  "thoi ki le – mac va cuoc chien tranh nam – bac trieu": {
     "ten": "Thời kì Lê – Mạc và cuộc chiến tranh Nam – Bắc triều (1543 - 1592)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%C3%AA-M%E1%BA%A1c",
@@ -4236,7 +4956,7 @@
       "nguyen kim"
     ]
   },
-  "thuc dan phap danh chiem sai gon nhan dan nam bo dung len chong thuc dan phap tro lai xam luoc 1945": {
+  "thuc dan phap danh chiem sai gon nhan dan nam bo dung len chong thuc dan phap tro lai xam luoc": {
     "ten": "Thực dân Pháp đánh chiếm Sài Gòn Nhân dân Nam Bộ đứng lên chống thực dân Pháp trở lại xâm lược (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d283\u0026Itemid\u003d33",
@@ -4251,7 +4971,7 @@
       "cho lon"
     ]
   },
-  "thuc dan phap mo dau cuoc xam luoc viet nam 1858": {
+  "thuc dan phap mo dau cuoc xam luoc viet nam": {
     "ten": "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam (1858 )",
     "links": [
       "http://www1.thuathienhue.gov.vn/portal_ge/Views/LevDetail.aspx?OneID\u003d7\u0026TwoID\u003d58",
@@ -4269,7 +4989,7 @@
       "nguyen tri phuong"
     ]
   },
-  "thuc dan phap no sung xam luoc viet nam tai ban dao son tra – da nang 1858 - 1858": {
+  "thuc dan phap no sung xam luoc viet nam tai ban dao son tra – da nang": {
     "ten": "Thực dân Pháp nổ súng xâm lược Việt Nam tại bán đảo Sơn Trà – Đà Nẵng (1858 - 1858)",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d687\u0026Itemid\u003d33",
@@ -4279,7 +4999,7 @@
       "da nang"
     ]
   },
-  "thuc dan phap tan cong thanh ha noi lan thu nhat 1873": {
+  "thuc dan phap tan cong thanh ha noi lan thu nhat": {
     "ten": "Thực dân Pháp tấn công thành Hà Nội lần thứ nhất (1873 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d197\u0026Itemid\u003d33",
@@ -4293,7 +5013,23 @@
       "nguyen tri phuong"
     ]
   },
-  "to bao “nguoi cung kho” ra so dau tien tai pari do nguyen ai quoc lam chu nhiem 1922": {
+  "tieu tru giac khach o bac ky": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn Nhà Thanh Quân Cờ Đen (từ 1870)",
+    "doiPhuong": "Quân Cờ Đen (đến 1870) Quân Cờ Vàng Quân Cờ Trắng",
+    "ketQua": "Chiến thắng Quân Cờ Đen theo hàng Nhà Nguyễn Quân Cờ Trắng và Quân Cờ Vàng bị tiêu diệt",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "tieu tru giac khach o bac ky",
+    "thoiGian": "1865 - 1875"
+  },
+  "tieu tru hai tac tau o": {
+    "dongMinh": "Đại Nam thời Nhà Nguyễn Nhà Thanh Vương quốc Anh",
+    "doiPhuong": "Hải Tặc Trung Hoa",
+    "ketQua": "Chiến thắng Các tàu chiến hải tặc bị đánh tan",
+    "thoiKy": "Nhà Nguyễn - giai đoạn độc lập (1802 - 1884)",
+    "ten": "tieu tru hai tac tau o",
+    "thoiGian": "1849"
+  },
+  "to bao “nguoi cung kho” ra so dau tien tai pari do nguyen ai quoc lam chu nhiem": {
     "ten": "Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm (1922 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d222\u0026Itemid\u003d33",
@@ -4305,7 +5041,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "to dinh lam thai thu giao chi 34": {
+  "to dinh lam thai thu giao chi": {
     "ten": "Tô Định làm Thái thú Giao Chỉ (34 )",
     "links": [
       "https://vi.wikipedia.org/wiki/T%C3%B4_%C4%90%E1%BB%8Bnh",
@@ -4318,7 +5054,7 @@
       "to dinh"
     ]
   },
-  "toan quoc khang chien 1946": {
+  "toan quoc khang chien": {
     "ten": "Toàn quốc kháng chiến (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d292\u0026Itemid\u003d33",
@@ -4334,7 +5070,7 @@
       "vo nguyen giap"
     ]
   },
-  "ton that thuyet dem quan tan cong toa kham su phap o hue, mo dau phong trao can vuong 1885": {
+  "ton that thuyet dem quan tan cong toa kham su phap o hue, mo dau phong trao can vuong": {
     "ten": "Tôn Thất Thuyết đem quân tấn công tòa Khâm sứ Pháp ở Huế, mở đầu phong trào Cần Vương (1885 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d208\u0026Itemid\u003d33",
@@ -4350,7 +5086,7 @@
       "tran xuan soan"
     ]
   },
-  "tong khoi nghia thang 8 nam 1945 1945": {
+  "tong khoi nghia thang 8 nam 1945": {
     "ten": "Tổng khởi nghĩa tháng 8 năm 1945 (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1017\u0026Itemid\u003d33",
@@ -4368,14 +5104,14 @@
       "vo nguyen giap"
     ]
   },
-  "tong thong phap ky sac lenh thanh lap hoi dong thuoc dia nam ky 1880": {
+  "tong thong phap ky sac lenh thanh lap hoi dong thuoc dia nam ky": {
     "ten": "Tổng thống Pháp ký Sắc lệnh thành lập Hội đồng thuộc địa Nam Kỳ (1880 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d201\u0026Itemid\u003d33",
       "https://vi.wikipedia.org/wiki/H%E1%BB%99i_%C4%91%E1%BB%93ng_Thu%E1%BB%99c_%C4%91%E1%BB%8Ba_Nam_K%E1%BB%B3"
     ]
   },
-  "tong thong phap ra sac lenh chinh thuc thanh lap thanh pho sai gon 1877": {
+  "tong thong phap ra sac lenh chinh thuc thanh lap thanh pho sai gon": {
     "ten": "Tổng thống Pháp ra sắc lệnh chính thức thành lập thành phố Sài Gòn (1877 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d200",
@@ -4388,7 +5124,7 @@
       "ho chi minh"
     ]
   },
-  "tong tien cong va noi day mau than 1968 - 1968": {
+  "tong tien cong va noi day mau than": {
     "ten": "Tổng tiến công và nổi dậy Mậu Thân (1968 - 1968)",
     "links": [
       "http://www.qdnd.vn/qdndsite/vi-vn/61/43/nhung-moc-son-lich-su/tong-tien-cong-va-noi-day-xuan-mau-than-1968-don-quyet-dinh-danh-bai-chien-luoc-chien-tranh-cuc-bo/334866.html",
@@ -4400,7 +5136,7 @@
       "thua thien-hue"
     ]
   },
-  "tong tuyen cu bau cu quoc hoi dau tien sau thang loi cach mang thang tam 1945 1946": {
+  "tong tuyen cu bau cu quoc hoi dau tien sau thang loi cach mang thang tam 1945": {
     "ten": "Tổng tuyển cử bầu cử Quốc hội đầu tiên sau thắng lợi Cách mạng tháng Tám 1945 (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d286\u0026Itemid\u003d33",
@@ -4412,7 +5148,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "tong tuyen cu bau quoc hoi dau tien cua nuoc viet nam dan chu cong hoa 1946": {
+  "tong tuyen cu bau quoc hoi dau tien cua nuoc viet nam dan chu cong hoa": {
     "ten": "Tổng tuyển cử bầu quốc hội đầu tiên của nước Việt Nam dân chủ cộng hòa (1946 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d994\u0026Itemid\u003d33",
@@ -4425,7 +5161,7 @@
       "chu tich ho chi minh"
     ]
   },
-  "tran bac le 1884": {
+  "tran bac le": {
     "ten": "Trận Bắc Lệ (1884 )",
     "links": [
       "http://tailieu.vn/doc/viet-nam-su-luoc-phan-26-258120.html"
@@ -4438,7 +5174,7 @@
       "huy quang"
     ]
   },
-  "tran ban keo 1954": {
+  "tran ban keo": {
     "ten": "Trận Bản Kéo (1954 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A3n_K%C3%A9o",
@@ -4450,7 +5186,7 @@
       "ban keo"
     ]
   },
-  "tran cang eo danh bai ham doi chau au 1643": {
+  "tran cang eo danh bai ham doi chau au": {
     "ten": "Trận Cảng Eo đánh bại hạm đội Châu Âu (1643 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_c%E1%BA%A3ng_Eo_1643",
@@ -4465,7 +5201,7 @@
       "nguyen phuc tan"
     ]
   },
-  "tran canh len ngoi vua, nha tran thanh lap 1226": {
+  "tran canh len ngoi vua, nha tran thanh lap": {
     "ten": "Trần Cảnh lên ngôi vua, nhà Trần thành lập (1226 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng",
@@ -4477,7 +5213,7 @@
       "tran thai tong"
     ]
   },
-  "tran cau giay ha noi pgacnie bi giet 1873": {
+  "tran cau giay": {
     "ten": "Trận Cầu Giấy (Hà Nội) PGacniê bị giết (1873 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d198\u0026Itemid\u003d33",
@@ -4493,7 +5229,7 @@
       "tran dinh tuc"
     ]
   },
-  "tran chi lang – xuong giang 1427 - 1427": {
+  "tran chi lang – xuong giang": {
     "ten": "Trận Chi Lăng – Xương Giang (1427 - 1427)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Chi_L%C4%83ng_%E2%80%93_X%C6%B0%C6%A1ng_Giang",
@@ -4518,7 +5254,7 @@
       "dinh liet"
     ]
   },
-  "tran chien o dam thi nai 1801 - 1801": {
+  "tran chien o dam thi nai": {
     "ten": "Trận chiến ở đầm Thị Nại (1801 - 1801)",
     "links": [
       "Địa chí Bình Định, http://www.dostbinhdinh.org.vn/diachibd/Lichsu/ChuongIII_Cuocchien101-109.htm",
@@ -4533,7 +5269,7 @@
       "gia long"
     ]
   },
-  "tran chien vi xuyen 1984": {
+  "tran chien vi xuyen": {
     "ten": "Trận chiến Vị Xuyên (1984 )",
     "links": [
       "http://vnexpress.net/tin-tuc/thoi-su/hang-nghin-chien-si-thuong-vong-ngay-cao-diem-tran-chien-vi-xuyen-3022565.html",
@@ -4556,7 +5292,7 @@
       "le trong tan"
     ]
   },
-  "tran danh cam sa giua quan trinh va quan tay son 1775": {
+  "tran danh cam sa giua quan trinh va quan tay son": {
     "ten": "Trận đánh Cẩm Sa giữa quân Trịnh và quân Tây Sơn (1775 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_C%E1%BA%A9m_Sa",
@@ -4570,7 +5306,7 @@
       "nguyen nhac"
     ]
   },
-  "tran danh da cang 1424": {
+  "tran danh da cang": {
     "ten": "Trận đánh Đa Căng (1424 )",
     "links": [
       "http://www.vnmilitaryhistory.net/index.php?topic\u003d11671.0"
@@ -4582,7 +5318,7 @@
       "le thai to"
     ]
   },
-  "tran danh thung lung ia drang 1965 - 1965": {
+  "tran danh thung lung ia drang": {
     "ten": "Trận đánh thung lũng Ia Drăng (1965 - 1965)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Ia_%C4%90r%C4%83ng",
@@ -4596,7 +5332,7 @@
       "dang vu hiep"
     ]
   },
-  "tran doi a1 1954 - 1954": {
+  "tran doi a1": {
     "ten": "Trận đồi A1 (1954 - 1954)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%91%E1%BB%93i_A1",
@@ -4612,7 +5348,7 @@
       "nguyen huu an"
     ]
   },
-  "tran doi c1 1954 - 1954": {
+  "tran doi c1": {
     "ten": "Trận đồi C1 (1954 - 1954)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%91%E1%BB%93i_C1",
@@ -4629,7 +5365,7 @@
       "vu lang"
     ]
   },
-  "tran doi doc lap 1954 - 1954": {
+  "tran doi doc lap": {
     "ten": "Trận đồi Độc Lập (1954 - 1954)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%91%E1%BB%93i_%C4%90%E1%BB%99c_L%E1%BA%ADp",
@@ -4643,7 +5379,7 @@
       "di tich doi doc lap"
     ]
   },
-  "tran ham tu 1285": {
+  "tran ham tu": {
     "ten": "Trận Hàm Tử (1285 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d1246\u0026Itemid\u003d5",
@@ -4660,7 +5396,7 @@
       "tran quoc toan"
     ]
   },
-  "tran him lam 1954": {
+  "tran him lam": {
     "ten": "Trận Him Lam (1954 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Him_Lam",
@@ -4678,7 +5414,7 @@
       "hoang cam"
     ]
   },
-  "tran hong cum 1954 - 1954": {
+  "tran hong cum": {
     "ten": "Trận Hồng Cúm (1954 - 1954)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_H%E1%BB%93ng_C%C3%BAm",
@@ -4690,7 +5426,7 @@
       "hong cum"
     ]
   },
-  "tran luy thay 1672 - 1672": {
+  "tran luy thay": {
     "ten": "Trận Lũy Thầy (1672 - 1672)",
     "links": [
       "http://quangbinhquan.net/quang-binh/dao-duy-tu-voi-buoc-ngoat-lich-su-cua-xu-dang-trong.html/3",
@@ -4705,7 +5441,15 @@
       "dao duy tu"
     ]
   },
-  "tran ta may - lang vay 1968 - 1968": {
+  "tran phai khat, na ngan": {
+    "dongMinh": "Việt Minh",
+    "doiPhuong": "Quốc gia Pháp",
+    "ketQua": "Chiến thắng Việt Minh chiến thắng",
+    "thoiKy": "Nhật thuộc (1940 - 1945)",
+    "ten": "tran phai khat, na ngan",
+    "thoiGian": "1944"
+  },
+  "tran ta may - lang vay": {
     "ten": "Trận Tà Mây - Làng Vây (1968 - 1968)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_L%C3%A0ng_V%C3%A2y",
@@ -4715,7 +5459,7 @@
       "lang vay"
     ]
   },
-  "tran tot dong – chuc dong 1426 - 1426": {
+  "tran tot dong – chuc dong": {
     "ten": "Trận Tốt Động – Chúc Động (1426 - 1426)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_T%E1%BB%91t_%C4%90%E1%BB%99ng_%E2%80%93_Ch%C3%BAc_%C4%90%E1%BB%99ng",
@@ -4737,7 +5481,7 @@
       "le thai to"
     ]
   },
-  "tran tran ninh giua quan tay son va quan nha nguyen 1802": {
+  "tran tran ninh giua quan tay son va quan nha nguyen": {
     "ten": "Trận Trấn Ninh giữa quân Tây Sơn và quân Nhà Nguyễn (1802 )",
     "links": [
       "http://www.baobinhdinh.com.vn/568/2003/12/7721/",
@@ -4752,7 +5496,7 @@
       "bui thi xuan"
     ]
   },
-  "tran van don 1288": {
+  "tran van don": {
     "ten": "Trận Vân Đồn (1288 )",
     "links": [
       "http://www.truclamyentu.info/tlls_lichsuvietnamnganxua/chienthangovandon.htm",
@@ -4766,7 +5510,7 @@
       "tran khanh du"
     ]
   },
-  "tran xuan loc 1975 - 1975": {
+  "tran xuan loc": {
     "ten": "Trận Xuân Lộc (1975 - 1975)",
     "links": [
       "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Xu%C3%A2n_L%E1%BB%99c"
@@ -4780,7 +5524,55 @@
     "ten": "tranh chap ngoi vi thoi dinh",
     "thoiGian": "979"
   },
-  "trieu dinh cu nguyen tri phuong vao nam chi huy quan thu gia dinh, to chuc danh phap 1860": {
+  "tranh chap ngoi vi thoi le so lan 1": {
+    "dongMinh": "Lực lượng Lê Nghi Dân",
+    "doiPhuong": "Lực lượng Nguyễn Xí, Đinh Liệt, Lê Lăng",
+    "ketQua": "Thay đổi ngôi vị Lê Nghi Dân bị phế Các đại thần tôn Lê Tư Thành lên ngôi",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "tranh chap ngoi vi thoi le so lan 1",
+    "thoiGian": "1450"
+  },
+  "tranh chap ngoi vi thoi le so lan 2": {
+    "dongMinh": "Lực lượng Lê Uy Mục",
+    "doiPhuong": "Lực lượng Lê Oanh",
+    "ketQua": "Thay đổi ngôi vị Lê Uy Mục bị phế Lê Oanh lên ngôi",
+    "thoiKy": "Nhà Hậu Lê - giai đoạn Lê sơ (1428 - 1527)",
+    "ten": "tranh chap ngoi vi thoi le so lan 2",
+    "thoiGian": "1509"
+  },
+  "tranh chap ngoi vi thoi mac": {
+    "dongMinh": "Lực lượng Mạc Phúc Nguyên",
+    "doiPhuong": "Lực lượng Mạc Chính Trung",
+    "ketQua": "Xác lập ngôi vị Mạc Phúc Nguyên lên ngôi Mạc Chính Trung bỏ chạy sang Trung Quốc Nhà Mạc suy yếu",
+    "thoiKy": "Nhà Mạc (1527 - 1677)",
+    "ten": "tranh chap ngoi vi thoi mac",
+    "thoiGian": "1546 - 1547"
+  },
+  "tranh chap ngoi vi thoi tien le lan 1": {
+    "dongMinh": "Lực lượng Lê Long Việt",
+    "doiPhuong": "Lực lượng Lê Long Tích",
+    "ketQua": "Xác lập ngôi vị Lê Long Việt lên ngôi Lê Long Tích bị giết",
+    "thoiKy": "Nhà Tiền Lê (981 - 1009)",
+    "ten": "tranh chap ngoi vi thoi tien le lan 1",
+    "thoiGian": "1005"
+  },
+  "tranh chap ngoi vi thoi tien le lan 2": {
+    "dongMinh": "Lực lượng Lê Ngọa Triều",
+    "doiPhuong": "Lực lượng Lê Long Cân, Lê Long Kính, Lê Long Đinh",
+    "ketQua": "Xác lập ngôi vị Lê Ngọa Triều giữ được ngôi vị Lê Long Kính bị giết Lê Long Cân và Lê Long Đinh đầu hàng",
+    "thoiKy": "Nhà Tiền Lê (981 - 1009)",
+    "ten": "tranh chap ngoi vi thoi tien le lan 2",
+    "thoiGian": "1005"
+  },
+  "tranh chap ngoi vi thoi tran": {
+    "dongMinh": "Lực lượng Dương Nhật Lễ",
+    "doiPhuong": "Lực lượng Trần Phủ",
+    "ketQua": "Dương Nhật Lễ Thất bại Dương Nhật Lễ bị phế Trần Phủ lên ngôi",
+    "thoiKy": "Nhà Trần (1226 - 1400)",
+    "ten": "tranh chap ngoi vi thoi tran",
+    "thoiGian": "1369 - 1370"
+  },
+  "trieu dinh cu nguyen tri phuong vao nam chi huy quan thu gia dinh, to chuc danh phap": {
     "ten": "Triều đình cử Nguyễn Tri Phương vào Nam chỉ huy quân thứ Gia Định, tổ chức đánh Pháp (1860 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d185\u0026Itemid\u003d33",
@@ -4794,7 +5586,7 @@
       "nguyen tri phuong"
     ]
   },
-  "trieu dinh hue cu phai doan sang phap thuong luong chuoc lai ba tinh mien dong nam ky 1863": {
+  "trieu dinh hue cu phai doan sang phap thuong luong chuoc lai ba tinh mien dong nam ky": {
     "ten": "Triều đình Huế cử phái đòan sang Pháp thương lượng chuộc lại ba tỉnh miền Đông Nam Kỳ (1863 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d189\u0026Itemid\u003d33",
@@ -4810,7 +5602,7 @@
       "phan thanh gian"
     ]
   },
-  "trieu dinh hue goi thu cho soai phu phap o gia dinh xin phap tra lai 6 tinh nam ky 1870": {
+  "trieu dinh hue goi thu cho soai phu phap o gia dinh xin phap tra lai 6 tinh nam ky": {
     "ten": "Triều đình Huế gởi thư cho Soái phủ Pháp ở Gia Định xin Pháp trả lại 6 tỉnh Nam Kỳ (1870 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d195\u0026Itemid\u003d33"
@@ -4820,7 +5612,7 @@
       "hue"
     ]
   },
-  "trieu dinh ra lenh cam nhan dan ba tinh mien tay nam ky chieu mo nghia binh chong phap 1865": {
+  "trieu dinh ra lenh cam nhan dan ba tinh mien tay nam ky chieu mo nghia binh chong phap": {
     "ten": "Triều đình ra lệnh cấm nhân dân ba tỉnh miền Tây Nam Kỳ chiêu mộ nghĩa binh chống Pháp (1865 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d191\u0026Itemid\u003d33",
@@ -4835,20 +5627,20 @@
       "tu duc"
     ]
   },
-  "trieu dinh ra lenh giam sat chat che hoat dong cua cac giao si phuong tay 1868": {
+  "trieu dinh ra lenh giam sat chat che hoat dong cua cac giao si phuong tay": {
     "ten": "Triều đình ra lệnh giám sát chặt chẽ hoạt động của các giáo sĩ phương Tây (1868 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d194\u0026Itemid\u003d33"
     ]
   },
-  "trieu dinh to chuc hoi nghi cac trieu than de dua ra phuong luoc chong giac phap 1859": {
+  "trieu dinh to chuc hoi nghi cac trieu than de dua ra phuong luoc chong giac phap": {
     "ten": "Triều đình tổ chức hội nghị các triều thần để đưa ra phương lược chống giặc Pháp (1859 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d183\u0026Itemid\u003d33",
       "http://hoangphuong59.violet.vn/entry/show/entry_id/3174881/cat_id/2832692"
     ]
   },
-  "trieu quang phuc dong quan o dam da trach 547": {
+  "trieu quang phuc dong quan o dam da trach": {
     "ten": "Triệu Quang Phục đóng quân ở đầm Dạ Trạch (547 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d635\u0026Itemid\u003d33",
@@ -4864,7 +5656,7 @@
       "trieu viet vuong"
     ]
   },
-  "trieu quang phuc gianh lai doc lap 550": {
+  "trieu quang phuc gianh lai doc lap": {
     "ten": "Triệu Quang Phục giành lại độc lập (550 )",
     "links": [
       "http://vietnamdefence.com/Home/quansuvietnam/danhnhanquansuVN/Trieu-Quang-Phuc----571--nguoi-ke-thua-xuat-sac-su-nghiep-cua-Ly-Bon/200910/48818.vnd",
@@ -4884,7 +5676,7 @@
     "ten": "trinh-nguyen phan tranh lan 1",
     "thoiGian": "1627"
   },
-  "trung quoc dieu quan chuan bi tranh chap viet nam voi phap 1882": {
+  "trung quoc dieu quan chuan bi tranh chap viet nam voi phap": {
     "ten": "Trung Quốc điều quân chuẩn bị tranh chấp Việt Nam với Pháp (1882 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d203\u0026Itemid\u003d33"
@@ -4893,7 +5685,7 @@
       "tu duc"
     ]
   },
-  "uy ban chi huy lam thoi khu giai phong ra menh lenh khoi nghia 1945": {
+  "uy ban chi huy lam thoi khu giai phong ra menh lenh khoi nghia": {
     "ten": "Ủy ban Chỉ huy lâm thời Khu Giải phóng ra mệnh lệnh khởi nghĩa (1945 )",
     "links": [
       "http://www.na.gov.vn/sach_qh/vkqhtoantap_1/nam1945/1945_3.html",
@@ -4901,7 +5693,7 @@
       "http://www.baomoi.com/Uy-ban-chi-huy-lam-thoi-Khu-giai-phong-Viet-Bac-phat-lenh-khoi-nghia/121/4701271.epi"
     ]
   },
-  "uy ban khoi nghia toan quoc ra “quan lenh so 1” phat lenh khoi nghia 1945": {
+  "uy ban khoi nghia toan quoc ra “quan lenh so 1” phat lenh khoi nghia": {
     "ten": "Ủy ban khởi nghĩa toàn quốc ra “Quân lệnh số 1” phát lệnh khởi nghĩa (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d275",
@@ -4912,7 +5704,7 @@
       "truong chinh"
     ]
   },
-  "viet nam quoc dan dang ra doi 1927": {
+  "viet nam quoc dan dang ra doi": {
     "ten": "Việt Nam Quốc dân đảng ra đời (1927 )",
     "links": [
       "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Qu%E1%BB%91c_d%C3%A2n_%C4%90%E1%BA%A3ng",
@@ -4923,7 +5715,31 @@
       "nguyen thai hoc"
     ]
   },
-  "vua bao dai thoai vi 1945": {
+  "vu cuop tau mt orkim harmony": {
+    "dongMinh": "Việt Nam Malaysia Úc",
+    "doiPhuong": "Hải tặc Indonesia",
+    "ketQua": "Chiến thắng Thủy thủ đoàn được giải cứu Các tên hải tặc bị bắt",
+    "thoiKy": "",
+    "ten": "vu cuop tau mt orkim harmony",
+    "thoiGian": "2015"
+  },
+  "vu cuop tau mt zafirah": {
+    "dongMinh": "Việt Nam",
+    "doiPhuong": "Hải tặc Indonesia",
+    "ketQua": "Chiến thắng Thủy thủ đoàn được giải cứu Các tên hải tặc bị bắt",
+    "thoiKy": "",
+    "ten": "vu cuop tau mt zafirah",
+    "thoiGian": "2012"
+  },
+  "vu ha gian khoan hai duong 981": {
+    "dongMinh": "Việt Nam",
+    "doiPhuong": "Trung Quốc",
+    "ketQua": "Chiến thắng Trung Quốc rút giàn khoan khỏi vùng biển tranh chấp",
+    "thoiKy": "",
+    "ten": "vu ha gian khoan hai duong 981",
+    "thoiGian": "2014"
+  },
+  "vua bao dai thoai vi": {
     "ten": "Vua Bảo Đại thoái vị (1945 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026Itemid\u003d33\u0026id\u003d281",
@@ -4935,7 +5751,7 @@
       "bao dai"
     ]
   },
-  "vua ham nghi bi phap bat 1888": {
+  "vua ham nghi bi phap bat": {
     "ten": "Vua Hàm Nghi bị Pháp bắt (1888 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d211\u0026Itemid\u003d33",
@@ -4947,7 +5763,7 @@
       "ham nghi"
     ]
   },
-  "vua quang trung dai pha quan thanh 1789": {
+  "vua quang trung dai pha quan thanh": {
     "ten": "Vua Quang Trung đại phá quân Thanh (1789 )",
     "links": [
       "http://www.lichsuvietnam.vn/home.php?option\u003dcom_content\u0026task\u003dview\u0026id\u003d684\u0026Itemid\u003d33",
@@ -4969,7 +5785,7 @@
       "vo dinh tu"
     ]
   },
-  "xiem la tan cong dai nam 1833 - 1834": {
+  "xiem la tan cong dai nam": {
     "ten": "Xiêm La tấn công Đại Nam (1833 - 1834)",
     "links": [
       "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t%E2%80%93Xi%C3%AAm_(1833-1834)",
@@ -4977,7 +5793,7 @@
       "http://nguoisaigon.org/diendan/archive/index.php/t-1165.html"
     ]
   },
-  "xo viet-nghe tinh 1930 - 1931": {
+  "xo viet-nghe tinh": {
     "ten": "Xô Viết-Nghệ Tĩnh (1930 - 1931)",
     "links": [
       "https://vi.wikipedia.org/wiki/X%C3%B4_Vi%E1%BA%BFt_Ngh%E1%BB%87_T%C4%A9nh",
@@ -4986,6 +5802,62 @@
       "http://ldsgk.net/LS9B19H32.htm"
     ]
   },
+  "xung dot bien gioi viet nam-campuchia": {
+    "dongMinh": "Việt Nam",
+    "doiPhuong": "Campuchia Dân chủ (Nhiều người gọi là Khmer Đỏ",
+    "ketQua": "Chiến thắng Quân Campuchia bị đẩy lùi Bắt đầu Chiến tranh biên giới Tây Nam",
+    "thoiKy": "",
+    "ten": "xung dot bien gioi viet nam-campuchia",
+    "thoiGian": "1975 - 1978"
+  },
+  "xung dot cong ty dong an ha lan voi dang trong": {
+    "dongMinh": "Đàng Trong thời Chúa Nguyễn",
+    "doiPhuong": "Công ty Đông Ấn Hà Lan",
+    "ketQua": "Chiến thắng Hạm đội Công ty Đông Ấn Hà Lan bị đánh tan",
+    "thoiKy": "Chúa Nguyễn - Đàng Trong (1558 - 1777)",
+    "ten": "xung dot cong ty dong an ha lan voi dang trong",
+    "thoiGian": "1643"
+  },
+  "xung dot dang phai viet nam dan chu cong hoa": {
+    "dongMinh": "Việt Nam Độc lập Đồng minh Đảng Lao động Việt Nam Đảng Xã hội Việt Nam Đảng Dân chủ Việt Nam Thanh niên Tiền phong Việt Nam Vệ quốc đoàn Hội Phật giáo Cứu quốc Hội Cao Đài Cứu quốc Hội Công giáo Cứu quốc Nhóm Bình Xuyên chống Pháp",
+    "doiPhuong": "Mặt trận Quốc dân Đảng Việt Nam Quốc dân Đảng Đại Việt Quốc dân Đảng Đại Việt Dân chính Đảng Mặt trận Thống nhất Quốc gia Liên hiệp Việt Nam Cách mệnh Đồng minh Hội Việt Nam Dân chúng Liên đoàn Việt Nam Dân chủ Xã hội Đảng Liên đoàn Công giáo Việt Nam Mặt trận Quốc gia Liên hiệp Hòa Hảo Cao Đài Nhóm Bình Xuyên theo Pháp Hỗ trợ: Trung Hoa Dân Quốc Pháp",
+    "ketQua": "Chiến thắng Các tổ chức chống đối Việt Minh bị đánh dẹp",
+    "thoiKy": "Việt Nam Dân chủ Cộng hòa (1945 - 1976)",
+    "ten": "xung dot dang phai viet nam dan chu cong hoa",
+    "thoiGian": "1945 - 1947"
+  },
+  "xung dot dong tan-lam ap lan 1": {
+    "dongMinh": "Nhà Đông Tấn",
+    "doiPhuong": "Lâm Ấp",
+    "ketQua": "Nhà Đông Tấn chiến thắng Lâm Ấp bị tàn phá",
+    "thoiKy": "Bắc thuộc lần 2 (43 - 541)",
+    "ten": "xung dot dong tan-lam ap lan 1",
+    "thoiGian": "351 - 359"
+  },
+  "xung dot duong-hoan vuong lan 1": {
+    "dongMinh": "Nhà Đường",
+    "doiPhuong": "Hoàn Vương",
+    "ketQua": "Nhà Đường thất bại Quân Hoàn Vương chiếm được một phần An Nam",
+    "thoiKy": "Bắc thuộc lần 3 (602 - 905)",
+    "ten": "xung dot duong-hoan vuong lan 1",
+    "thoiGian": "803"
+  },
+  "xung dot duong-java": {
+    "dongMinh": "Nhà Đường",
+    "doiPhuong": "Java",
+    "ketQua": "Nhà Đường chiến thắng Nhà Đường tái chiếm An Nam",
+    "thoiKy": "Bắc thuộc lần 3 (602 - 905)",
+    "ten": "xung dot duong-java",
+    "thoiGian": "767"
+  },
+  "xung dot duong-nam chieu lan 1": {
+    "dongMinh": "Nhà Đường",
+    "doiPhuong": "Nam Chiếu",
+    "ketQua": "Nhà Đường chiến thắng Quân Nam Chiếu bị đẩy lùi",
+    "thoiKy": "Bắc thuộc lần 3 (602 - 905)",
+    "ten": "xung dot duong-nam chieu lan 1",
+    "thoiGian": "860 - 861"
+  },
   "xung dot giao phai quoc gia viet nam": {
     "dongMinh": "Các nhóm ủng hộ Thủ tướng Ngô Đình Diệm Ủy ban Cách mạng Quốc gia Đảng Cần lao Nhân vị Việt Nam Quân đội Quốc gia Việt Nam Hỗ trợ: Hoa Kỳ",
     "doiPhuong": "Các nhóm ủng hộ Quốc trưởng Bảo Đại Mặt trận Thống nhứt Toàn lực Quốc gia Bình Xuyên Hòa Hảo Cao Đài Đại Việt Quốc dân Đảng Việt Nam Quốc dân Đảng Hỗ trợ: Pháp",
@@ -4993,5 +5865,29 @@
     "thoiKy": "Chiến tranh Đông Dương lần 2 (1955 - 1975)",
     "ten": "xung dot giao phai quoc gia viet nam",
     "thoiGian": "1955"
+  },
+  "xung dot nguyen hue-nguyen nhac": {
+    "dongMinh": "Lực lượng Nguyễn Huệ ở Phú Xuân",
+    "doiPhuong": "Lực lượng Nguyễn Nhạc ở Quy Nhơn",
+    "ketQua": "Bất phân thắng bại Nguyễn Nhạc và Nguyễn Huệ giảng hòa Nguyễn Nhạc cho phép Nguyễn Huệ cai quản phía bắc",
+    "thoiKy": "Nhà Tây Sơn (1778 - 1802)",
+    "ten": "xung dot nguyen hue-nguyen nhac",
+    "thoiGian": "1787"
+  },
+  "xung dot tai lao": {
+    "dongMinh": "Cộng hòa Dân chủ Nhân dân Lào Người H\u0027Mông thân chính phủ Việt Nam Viện trợ: Liên Xô (đến 1978)",
+    "doiPhuong": "Người H\u0027Mông nổi loạn ở Thái Lan và Lào Nhóm cánh hữu nổi loạn: Mặt trận Thống nhất Giải phóng Lào (từ 1980) Nhóm bảo hoàng nổi loạn: Mặt trận Giải phóng Dân tộc Lào Chính phủ Dân chủ Hoàng gia Lào (1982) Viện trợ: Trung Quốc (đến 1988) Khmer Đỏ (đến 1999) Hoa Kỳ (đến 1990) Thái Lan (đến 1990) Chính phủ Lưu vong Hoàng gia Lào",
+    "ketQua": "Lào chiến thắng Nổi loạn bị dẹp",
+    "thoiKy": "",
+    "ten": "xung dot tai lao",
+    "thoiGian": "1975 - 2007"
+  },
+  "xung dot viet-trung": {
+    "dongMinh": "Việt Nam",
+    "doiPhuong": "Bất phân thắng bại: Giao tranh tại một số khu vực biên giới nhưng không bùng phát thành chiến tranh lớn. Hai nước bình thường hóa quan hệ vào cuối năm 1991.",
+    "ketQua": "Trung Quốc chiếm giữ một số vị trí trên biên giới thuộc Việt Nam rồi rút đi Trung Quốc chiếm giữ một số đảo tại Quần đảo Trường Sa",
+    "thoiKy": "",
+    "ten": "xung dot viet-trung",
+    "thoiGian": "1979 - 1991"
   }
 }
