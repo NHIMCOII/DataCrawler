@@ -18,11 +18,6 @@ public class DiSan extends DiaDiem {
         // TODO Auto-generated constructor stub
     }
 
-    public DiSan(String ten, String lichSu, String khuVuc, String namThanhLap, String dienTich, String moTa) {
-        super(ten, lichSu, khuVuc, namThanhLap, dienTich);
-        this.moTa = moTa;
-    }
-
     public static Map getInfo_Wiki() throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
@@ -67,9 +62,5 @@ public class DiSan extends DiaDiem {
             return v1;
         }
         return result;
-    }
-
-    public String getMoTa() {
-        return moTa;
     }
 }

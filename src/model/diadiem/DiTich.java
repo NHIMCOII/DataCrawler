@@ -22,14 +22,6 @@ public class DiTich extends DiaDiem {
 		// TODO Auto-generated constructor stub
 	}
 
-	public DiTich(String ten, String lichSu, String khuVuc, String namThanhLap, String dienTich, String viTri, String loai,
-				  String namCongNhan) {
-		super(ten, lichSu, khuVuc, namThanhLap, dienTich);
-		this.viTri = viTri;
-		this.loai = loai;
-		this.namCongNhan = namCongNhan;
-	}
-
 	public static Map getInfo_Wiki() throws IOException {
 		System.setProperty("http.proxyhost", "127.0.0.1");
 		System.setProperty("http.proxyport", "8080");
@@ -85,7 +77,6 @@ public class DiTich extends DiaDiem {
 
 	public static DiTich mergeRule(Object oldVal, Object newVal) {
 		DiTich result = (DiTich) DiaDiem.mergeRule(newVal, oldVal);
-
 		if (oldVal instanceof DiTich) {
 			DiTich v2 = (DiTich) newVal;
 			DiTich v1 = (DiTich) DiaDiem.mergeRule(oldVal, newVal);
@@ -102,18 +93,4 @@ public class DiTich extends DiaDiem {
 		}
 		return result;
 	}
-
-	public String getViTri() {
-		return viTri;
-	}
-
-	public String getLoai() {
-		return loai;
-	}
-
-	public String getNamCongNhan() {
-		return namCongNhan;
-	}
-
-
 }

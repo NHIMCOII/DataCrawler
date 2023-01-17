@@ -26,38 +26,6 @@ public class DiaDiem {
 	public DiaDiem() {
 		// TODO Auto-generated constructor stub
 	}
-	public DiaDiem(String ten, String lichSu, String khuVuc, String namThanhLap, String dienTich) {
-		this.ten = ten;
-		this.lichSu = lichSu;
-		this.khuVuc = khuVuc;
-		this.namThanhLap = namThanhLap;
-		this.dienTich = dienTich;
-	}
-
-	public String getTen() {
-		return ten;
-	}
-	public String getLichSu() {
-		return lichSu;
-	}
-	public String getKhuVuc() {
-		return khuVuc;
-	}
-	public String getNamThanhLap() {
-		return namThanhLap;
-	}
-	public String getDienTich() {
-		return dienTich;
-	}
-	public ArrayList<String> getLinks() {
-		return links;
-	}
-	public ArrayList<String> getSuKien() {
-		return suKien;
-	}
-	public ArrayList<String> getNhanVat() {
-		return nhanVat;
-	}
 
 	public static Map getInfo_TVLS(ArrayList<String> urls) throws IOException {
 		System.setProperty("http.proxyhost", "127.0.0.1");

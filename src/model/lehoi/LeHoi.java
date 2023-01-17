@@ -5,61 +5,38 @@ import java.util.ArrayList;
 public class LeHoi {
 
 
-    protected String lichSu;            //Nguon goc
-    protected String moTa;                //Tong quan di tich
-    protected String luatLe;
-    protected String sachThamKhao;
+    protected String ten;
+    protected String ngayAmLich;
+    protected String viTri;
+    protected String moTa;
+    protected String lanDauToChuc;
     protected ArrayList<String> links = new ArrayList<>();
+    protected ArrayList<String> nhanVat = new ArrayList<>();
 
 
     public LeHoi() {
         // TODO Auto-generated constructor stub
     }
 
-    public LeHoi(String lichSu, String moTa, String luatLe, String sachThamKhao) {
-        super();
-        this.lichSu = lichSu;
-        this.moTa = moTa;
-        this.luatLe = luatLe;
-        this.sachThamKhao = sachThamKhao;
-    }
-
     public static LeHoi mergeRule(Object oldVal, Object newVal) {
         LeHoi v1 = (LeHoi) oldVal;
         LeHoi v2 = (LeHoi) newVal;
-        if (v1.lichSu == null || v1.lichSu.equals("?")) {
-            v1.lichSu = v2.lichSu;
+        if (v1.ten == null || v1.ten.equals("?")) {
+            v1.ten = v2.ten;
+        }
+        if (v1.ngayAmLich == null || v1.ngayAmLich.equals("?")) {
+            v1.ngayAmLich = v2.ngayAmLich;
+        }
+        if (v1.viTri == null || v1.viTri.equals("?")) {
+            v1.viTri = v2.viTri;
         }
         if (v1.moTa == null || v1.moTa.equals("?")) {
             v1.moTa = v2.moTa;
         }
-        if (v1.luatLe == null || v1.luatLe.equals("?")) {
-            v1.luatLe = v2.luatLe;
-        }
-        if (v1.sachThamKhao == null || v1.sachThamKhao.equals("?")) {
-            v1.sachThamKhao = v2.sachThamKhao;
+        if (v1.lanDauToChuc == null || v1.lanDauToChuc.equals("?")) {
+            v1.lanDauToChuc = v2.lanDauToChuc;
         }
         return v1;
-    }
-
-    public String getLichSu() {
-        return lichSu;
-    }
-
-    public String getMoTa() {
-        return moTa;
-    }
-
-    public String getLuatLe() {
-        return luatLe;
-    }
-
-    public String getSachThamKhao() {
-        return sachThamKhao;
-    }
-
-    public ArrayList<String> getLinks() {
-        return links;
     }
 
     public void addLink(String link) {

@@ -22,15 +22,6 @@ public class ChienTranh extends SuKien {
         // TODO Auto-generated constructor stub
     }
 
-    public ChienTranh(String ten, String thoiGian, String dienBien, String dongMinh,
-                      String doiPhuong, String ketQua, String thoiKy) {
-        super(ten, thoiGian, dienBien);
-        this.dongMinh = dongMinh;
-        this.doiPhuong = doiPhuong;
-        this.ketQua = ketQua;
-        this.thoiKy = thoiKy;
-    }
-
     public static Map getInfo_Wiki() throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
@@ -107,21 +98,5 @@ public class ChienTranh extends SuKien {
             return v1;
         }
         return result;
-    }
-
-    public String getDongMinh() {
-        return dongMinh;
-    }
-
-    public String getDoiPhuong() {
-        return doiPhuong;
-    }
-
-    public String getKetQua() {
-        return ketQua;
-    }
-
-    public String getThoiKy() {
-        return thoiKy;
     }
 }
