@@ -49,7 +49,8 @@ public class LeHoi {
             }
             LeHoi leHoi = new LeHoi();
             leHoi.ten = row.selectFirst("td:nth-of-type(3)").text();
-            leHoi.addLink("https://vi.wikipedia.org/wiki/Lễ_hội_Việt_Nam?fbclid=IwAR1gxFOGLW4GwPTdXeBnmpG9j1F1j1u1gaCovn9B68iewJIorwYElXiYVmk#Lễ_hội_lớn_các_tỉnh_thành");
+            leHoi.addLink("https://vi.wikipedia.org/wiki/Lễ_hội_Việt_Nam?" +
+                    "fbclid=IwAR1gxFOGLW4GwPTdXeBnmpG9j1F1j1u1gaCovn9B68iewJIorwYElXiYVmk#Lễ_hội_lớn_các_tỉnh_thành");
             result = row.selectFirst("td:nth-of-type(1)");
             if (result != null) {
                 if (!result.text().equals("")) {
@@ -82,6 +83,74 @@ public class LeHoi {
             }
 
             m.put(NormalizeTool.normalizeKey(leHoi.ten), leHoi);
+        }
+        return m;
+    }
+
+    public static Map getInfoFromBestPrice() throws IOException {
+        System.setProperty("http.proxyhost", "127.0.0.1");
+        System.setProperty("http.proxyport", "8080");
+
+        Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+        final Document doc = Jsoup
+                .connect("https://www.bestprice.vn/blog/diem-den-8/ha-noi-2/" +
+                        "tong-hop-cac-le-hoi-o-ha-noi-dac-sac-nhat_26-4777.html")
+                .ignoreContentType(true)
+                .timeout(0)
+                .get();
+        Element content = doc.selectFirst("div[class=content-article margin-top-15]");
+        Elements infos = content.select("h2");
+        for (int i = 0; i < infos.size(); i++) {
+            LeHoi leHoi = new LeHoi();
+            if (infos.get(i) != null) {
+                leHoi.ten = infos.get(i).text();
+                Element paragraph = infos.get(i).nextElementSibling();
+                String moTa = "";
+                while (!paragraph.attr("class").equals("text-center")) {
+                    if (paragraph.tag().toString().equals("p")) {
+                        moTa = moTa.concat(paragraph.text());
+                        paragraph = paragraph.nextElementSibling();
+                    }
+                    if (paragraph.tag().toString().equals("ul")) {
+                        Elements infoos = paragraph.select("li");
+                        leHoi.viTri = infoos.get(0).text();
+                        leHoi.ngayAmLich = infoos.get(1).text();
+                        break;
+                    }
+                }
+                leHoi.moTa = moTa;
+                leHoi.addLink("https://www.bestprice.vn/blog/diem-den-8/ha-noi-2/" +
+                        "tong-hop-cac-le-hoi-o-ha-noi-dac-sac-nhat_26-4777.html");
+            }
+            m.put(NormalizeTool.normalizeKey(leHoi.ten), leHoi);
+        }
+        return m;
+    }
+
+    public static Map getInfoFromGov() throws IOException {
+        System.setProperty("http.proxyhost", "127.0.0.1");
+        System.setProperty("http.proxyport", "8080");
+
+        Map m = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+
+        for (int i = 0; i < 2; i++) {
+            final Document doc = Jsoup
+                    .connect("https://phutho.gov.vn/vi/thanhpholehoi/cac-le-hoi?page=" + i)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            Elements infos = doc.select("div[class=col-12 has-left-menu post-item]");
+            for (int j = 0; j < infos.size(); j++) {
+                LeHoi leHoi = new LeHoi();
+                Element infoos = infos.get(j).selectFirst("div[class=content]");
+                leHoi.ten = infoos.selectFirst("div[class=pt-post__title]").text();
+                leHoi.addLink("phutho.gov.vn" + infoos.selectFirst("div[class=pt-post__title]")
+                        .selectFirst("a").attr("href"));
+                leHoi.ngayAmLich = infoos.selectFirst("div[class=pt-post__datetime]").text();
+                leHoi.moTa = infoos.selectFirst("div[class=pt-post__summary]").text();
+                m.put(NormalizeTool.normalizeKey(leHoi.ten), leHoi);
+            }
         }
         return m;
     }
