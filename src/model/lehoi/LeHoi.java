@@ -147,7 +147,6 @@ public class LeHoi {
                 leHoi.ten = infoos.selectFirst("div[class=pt-post__title]").text();
                 leHoi.addLink("phutho.gov.vn" + infoos.selectFirst("div[class=pt-post__title]")
                         .selectFirst("a").attr("href"));
-                leHoi.ngayAmLich = infoos.selectFirst("div[class=pt-post__datetime]").text();
                 leHoi.moTa = infoos.selectFirst("div[class=pt-post__summary]").text();
                 m.put(NormalizeTool.normalizeKey(leHoi.ten), leHoi);
             }

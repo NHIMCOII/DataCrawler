@@ -81,11 +81,8 @@ public class ThoiKy {
             ThoiKy thoiKy = new ThoiKy();
             thoiKy.addLink(url);
             for (Element suKien : curr.select("h3.card-title")) {
-                thoiKy.addSuKien(NormalizeTool.normalizeKey(
-                        SeperateTool.separateKeyWithoutQuotation(
-                                suKien.text()
-                        )
-                    )
+                thoiKy.addSuKien(
+                        suKien.text()
                 );
             }
             thoiKy.ten = curr.selectFirst("h1").text();
