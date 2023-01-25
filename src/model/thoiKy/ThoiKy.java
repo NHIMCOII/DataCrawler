@@ -44,16 +44,16 @@ public class ThoiKy {
             thoiKy.addLink(url);
 //            byte arr[] = doc.selectFirst(".subheading-category").text().getBytes("UTF-8");
 //            String value = new String(arr, "UTF-8");
-            thoiKy.ten = curr.selectFirst(".subheading-category").text();
+            thoiKy.ten = curr.selectFirst("h1").text();
             thoiKy.moTa = curr.selectFirst(".clearfix.category-desc").text();
 
             do {
-                for (Element item : curr.select("div.items-leading > div:not(.advertise-box)")) {
-                    TrieuDai trieuDai = new TrieuDai(item.selectFirst(".page-header > h2 > a").text(), item.select("p:not(.readmore)").text());
-                    trieuDai.addLink("https://nguoikesu.com" + item.selectFirst(".page-header > h2 > a").attr("href"));
+                for (Element item : curr.select(".item-content")) {
+                    TrieuDai trieuDai = new TrieuDai(item.selectFirst("h2").text(), item.select("p:not(.readmore)").text());
+                    trieuDai.addLink("https://nguoikesu.com" + item.selectFirst("h2 a").attr("href"));
                     thoiKy.addTrieuDai(trieuDai);
                 }
-                result = curr.selectFirst("li.pagination-next > a");
+                result = curr.selectFirst("li.page-item > a:has(span.icon-angle-right)");
                 if (result != null) {
                     curr = Jsoup.connect("https://nguoikesu.com" + result.attr("href"))
                             .ignoreContentType(true)
