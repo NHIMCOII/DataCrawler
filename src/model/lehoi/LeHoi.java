@@ -179,9 +179,7 @@ public class LeHoi {
         if (this.nhanVat == null) {
             this.nhanVat = new ArrayList<>();
         }
-        for (String item : nhanVat) {
-            this.nhanVat.add(NormalizeTool.normalizeKey(item));
-        }
+        this.nhanVat.addAll(nhanVat);
     }
 
     public void addLink(String link) {

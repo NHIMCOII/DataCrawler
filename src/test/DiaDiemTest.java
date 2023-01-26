@@ -14,7 +14,7 @@ import java.nio.file.Paths;
 import java.util.Map;
 
 public class DiaDiemTest {
-    public static void main(String[] args) throws IOException {
+    public static void parseJSONDiaDiem () throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map m = DiaDiem.getInfo_TVLS(Diadiem_Links.getDiaDiem_TVLS());
         Map m1 = DiaDiem.getInfo_Wiki();
@@ -36,5 +36,9 @@ public class DiaDiemTest {
         Writer writer = Files.newBufferedWriter(Paths.get("DiaDiem.json"));
         gson.toJson(m, writer);
         writer.close();
+    }
+
+    public static void main(String[] args) throws IOException {
+        parseJSONDiaDiem();
     }
 }
