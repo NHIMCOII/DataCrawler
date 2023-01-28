@@ -131,4 +131,53 @@ public class SuKien {
         }
         nhanVat.add(nhanvat);
     }
+
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	}
+
+	public String getThoiGian() {
+		return thoiGian;
+	}
+
+	public void setThoiGian(String thoiGian) {
+		this.thoiGian = thoiGian;
+	}
+
+	public String getDienBien() {
+		return dienBien;
+	}
+
+	public void setDienBien(String dienBien) {
+		this.dienBien = dienBien;
+	}
+
+	public ArrayList<String> getLinks() {
+		return links;
+	}
+
+	public void setLinks(ArrayList<String> links) {
+		this.links = links;
+	}
+
+	public ArrayList<String> getDiaDiem() {
+		return diaDiem;
+	}
+
+	public void setDiaDiem(ArrayList<String> diaDiem) {
+		this.diaDiem = diaDiem;
+	}
+
+	public ArrayList<String> getNhanVat() {
+		return nhanVat;
+	}
+
+	public void setNhanVat(ArrayList<String> nhanVat) {
+		this.nhanVat = nhanVat;
+	}
+    
 }

@@ -34,4 +34,35 @@ public class TrieuDai {
         }
         links.add(link);
     }
+
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	}
+
+	public String getMoTa() {
+		return moTa;
+	}
+
+	public void setMoTa(String moTa) {
+		this.moTa = moTa;
+	}
+
+	public ArrayList<String> getLinks() {
+		return links;
+	}
+
+	public void setLinks(ArrayList<String> links) {
+		this.links = links;
+	}
+
+	public String get(String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+    
+    
 }

@@ -13,25 +13,25 @@ public class NormalizeTool extends Tool {
     }
 
     public static String normalizeKeyThoiKyFromThuVienLichSu(String s) {
-        if (s.equals("tu chu")) {
+        if (s.equals("tu chu")== true) {
             s = "thoi ky xay nen tu chu";
         }
-        if (s.equals("bac thuoc lan 3")) {
+        else if (s.equals("bac thuoc lan 3")== true) {
             s = "bac thuoc lan iii";
         }
-        if (s.equals("nha tien ly - ly nam de")) {
+        else if (s.equals("nha tien ly - ly nam de")== true) {
             s = "nha ly \u0026 nha trieu";
         }
-        if (s.equals("bac thuoc lan 2 va khoi nghia ba trieu")) {
+        else if (s.equals("bac thuoc lan 2 va khoi nghia ba trieu")== true) {
             s = "bac thuoc lan ii";
         }
-        if (s.equals("hai ba trung")) {
+        else if (s.equals("hai ba trung")== true) {
             s = "trung nu vuong";
         }
-        if (s.equals("khang chien chong my")) {
+        else if (s.equals("khang chien chong my")== true) {
             s = "viet nam dan chu cong hoa";
         }
-        if (s.equals("bac thuoc lan 4")) {
+        else if (s.equals("bac thuoc lan 4")== true) {
             s = "bac thuoc lan iv";
         }
         return s;

@@ -175,4 +175,79 @@ public class DiaDiem {
         }
         nhanVat.add(nhanvat);
     }
+
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	}
+
+	public String getLichSu() {
+		return lichSu;
+	}
+
+	public void setLichSu(String lichSu) {
+		this.lichSu = lichSu;
+	}
+
+	public String getKhuVuc() {
+		return khuVuc;
+	}
+
+	public void setKhuVuc(String khuVuc) {
+		this.khuVuc = khuVuc;
+	}
+
+	public String getNamThanhLap() {
+		return namThanhLap;
+	}
+
+	public void setNamThanhLap(String namThanhLap) {
+		this.namThanhLap = namThanhLap;
+	}
+
+	public String getDienTich() {
+		return dienTich;
+	}
+
+	public void setDienTich(String dienTich) {
+		this.dienTich = dienTich;
+	}
+
+	public ArrayList<String> getLinks() {
+		return links;
+	}
+
+	public void setLinks(ArrayList<String> links) {
+		this.links = links;
+	}
+
+	public ArrayList<String> getSuKien() {
+		return suKien;
+	}
+
+	public void setSuKien(ArrayList<String> suKien) {
+		this.suKien = suKien;
+	}
+
+	public ArrayList<String> getNhanVat() {
+		return nhanVat;
+	}
+
+	public void setNhanVat(ArrayList<String> nhanVat) {
+		this.nhanVat = nhanVat;
+	}
+	
+	public void output() {
+		System.out.println("Ten " + getTen());
+		System.out.println("Lich su: " + getLichSu());
+		System.out.println("Khu vuc: " + getKhuVuc());
+		System.out.println("Nam thanh lap: " +  getNamThanhLap());
+		System.out.println("Dien tich: " + getDienTich());
+		System.out.println("links: " + getLinks());
+		System.out.println("Su kien: " + getSuKien());
+		System.out.println("Nhan vat: " + getNhanVat());
+	}
 }

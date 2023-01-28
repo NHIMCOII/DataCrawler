@@ -1,8 +1,8 @@
 package dataCrawler.links;
 
-import org.jsoup.Jsoup;
+/*import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
+import org.jsoup.select.Elements;*/
 
 import java.io.IOException;
 import java.text.Normalizer;
@@ -26,9 +26,9 @@ public class Diadiem_Links {
         System.setProperty("http.proxyhost", "127.0.0.1");
         System.setProperty("http.proxyport", "8080");
 
-        String url = "https://thuvienlichsu.com/dia-diem?page=1";
+       // String url = "https://thuvienlichsu.com/dia-diem?page=1";
 
-        for (int i = 1; i <= 10; i++) {
+        /*for (int i = 1; i <= 10; i++) {
             Document document = Jsoup.connect(url)
                     .ignoreContentType(true)
                     .timeout(0)
@@ -45,7 +45,7 @@ public class Diadiem_Links {
             }
             url = url.replace(Integer.toString(i), Integer.toString(i + 1));
         }
-    }
+    }*/
 
     public static String removeAccent(String s) {
         String temp = Normalizer.normalize(s, Normalizer.Form.NFD);

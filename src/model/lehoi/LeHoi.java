@@ -191,4 +191,58 @@ public class LeHoi {
         }
         links.add(link);
     }
+
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	}
+
+	public String getNgayAmLich() {
+		return ngayAmLich;
+	}
+
+	public void setNgayAmLich(String ngayAmLich) {
+		this.ngayAmLich = ngayAmLich;
+	}
+
+	public String getViTri() {
+		return viTri;
+	}
+
+	public void setViTri(String viTri) {
+		this.viTri = viTri;
+	}
+
+	public String getMoTa() {
+		return moTa;
+	}
+
+	public void setMoTa(String moTa) {
+		this.moTa = moTa;
+	}
+
+	public String getLanDauToChuc() {
+		return lanDauToChuc;
+	}
+
+	public void setLanDauToChuc(String lanDauToChuc) {
+		this.lanDauToChuc = lanDauToChuc;
+	}
+
+	public ArrayList<String> getLinks() {
+		return links;
+	}
+
+	public void setLinks(ArrayList<String> links) {
+		this.links = links;
+	}
+
+	public ArrayList<String> getNhanVat() {
+		return nhanVat;
+	}
+    
+    
 }

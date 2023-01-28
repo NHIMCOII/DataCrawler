@@ -332,4 +332,192 @@ public class NhanVat {
     protected void setCuocDoi(Map m) {
         this.cuocDoi = m;
     }
+
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	}
+
+	public String getTenKhac() {
+		return tenKhac;
+	}
+
+	public void setTenKhac(String tenKhac) {
+		this.tenKhac = tenKhac;
+	}
+
+	public String getThoiKy() {
+		return thoiKy;
+	}
+
+	public void setThoiKy(String thoiKy) {
+		this.thoiKy = thoiKy;
+	}
+
+	public String getSinh() {
+		return sinh;
+	}
+
+	public void setSinh(String sinh) {
+		this.sinh = sinh;
+	}
+
+	public String getMat() {
+		return mat;
+	}
+
+	public void setMat(String mat) {
+		this.mat = mat;
+	}
+
+	public String getAnTang() {
+		return anTang;
+	}
+
+	public void setAnTang(String anTang) {
+		this.anTang = anTang;
+	}
+
+	public String getChucVu() {
+		return chucVu;
+	}
+
+	public void setChucVu(String chucVu) {
+		this.chucVu = chucVu;
+	}
+
+	public String getThanPhu() {
+		return thanPhu;
+	}
+
+	public void setThanPhu(String thanPhu) {
+		this.thanPhu = thanPhu;
+	}
+
+	public String getThanMau() {
+		return thanMau;
+	}
+
+	public void setThanMau(String thanMau) {
+		this.thanMau = thanMau;
+	}
+
+	public String getPhoiNgau() {
+		return phoiNgau;
+	}
+
+	public void setPhoiNgau(String phoiNgau) {
+		this.phoiNgau = phoiNgau;
+	}
+
+	public String getTonGiao() {
+		return tonGiao;
+	}
+
+	public void setTonGiao(String tonGiao) {
+		this.tonGiao = tonGiao;
+	}
+
+	public String getNguyenNhanMat() {
+		return nguyenNhanMat;
+	}
+
+	public void setNguyenNhanMat(String nguyenNhanMat) {
+		this.nguyenNhanMat = nguyenNhanMat;
+	}
+
+	public String getQueQuan() {
+		return queQuan;
+	}
+
+	public void setQueQuan(String queQuan) {
+		this.queQuan = queQuan;
+	}
+
+	public String getDangPhai() {
+		return dangPhai;
+	}
+
+	public void setDangPhai(String dangPhai) {
+		this.dangPhai = dangPhai;
+	}
+
+	public String getNoiO() {
+		return noiO;
+	}
+
+	public void setNoiO(String noiO) {
+		this.noiO = noiO;
+	}
+
+	public String getDanToc() {
+		return danToc;
+	}
+
+	public void setDanToc(String danToc) {
+		this.danToc = danToc;
+	}
+
+	public String getHocvan() {
+		return hocvan;
+	}
+
+	public void setHocvan(String hocvan) {
+		this.hocvan = hocvan;
+	}
+
+	public String getImage() {
+		return image;
+	}
+
+	public void setImage(String image) {
+		this.image = image;
+	}
+
+	public String getMoTa() {
+		return moTa;
+	}
+
+	public void setMoTa(String moTa) {
+		this.moTa = moTa;
+	}
+
+	public ArrayList<String> getVo() {
+		return vo;
+	}
+
+	public void setVo(ArrayList<String> vo) {
+		this.vo = vo;
+	}
+
+	public ArrayList<String> getHauDue() {
+		return hauDue;
+	}
+
+	public void setHauDue(ArrayList<String> hauDue) {
+		this.hauDue = hauDue;
+	}
+
+	public ArrayList<String> getNhanVatCungThoiKy() {
+		return nhanVatCungThoiKy;
+	}
+
+	public void setNhanVatCungThoiKy(ArrayList<String> nhanVatCungThoiKy) {
+		this.nhanVatCungThoiKy = nhanVatCungThoiKy;
+	}
+
+	public ArrayList<String> getLinks() {
+		return links;
+	}
+
+	public void setLinks(ArrayList<String> links) {
+		this.links = links;
+	}
+
+	public Map getCuocDoi() {
+		return cuocDoi;
+	}
 }
