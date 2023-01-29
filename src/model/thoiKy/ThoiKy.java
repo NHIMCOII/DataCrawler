@@ -42,6 +42,7 @@ public class ThoiKy {
 			thoiKy.addLink(url);
 //            byte arr[] = doc.selectFirst(".subheading-category").text().getBytes("UTF-8");
 //            String value = new String(arr, "UTF-8");
+<<<<<<< HEAD
 			thoiKy.ten = curr.selectFirst(".subheading-category").text();
 			thoiKy.moTa = curr.selectFirst(".clearfix.category-desc").text();
 
@@ -62,6 +63,29 @@ public class ThoiKy {
 		}
 		return m;
 	}
+=======
+            thoiKy.ten = curr.selectFirst("h1").text();
+            thoiKy.moTa = curr.selectFirst(".clearfix.category-desc").text();
+
+            do {
+                for (Element item : curr.select(".item-content")) {
+                    TrieuDai trieuDai = new TrieuDai(item.selectFirst("h2").text(), item.select("p:not(.readmore)").text());
+                    trieuDai.addLink("https://nguoikesu.com" + item.selectFirst("h2 a").attr("href"));
+                    thoiKy.addTrieuDai(trieuDai);
+                }
+                result = curr.selectFirst("li.page-item > a:has(span.icon-angle-right)");
+                if (result != null) {
+                    curr = Jsoup.connect("https://nguoikesu.com" + result.attr("href"))
+                            .ignoreContentType(true)
+                            .timeout(0)
+                            .get();
+                }
+            } while (result != null);
+            m.put(NormalizeTool.normalizeKey(thoiKy.ten), thoiKy);
+        }
+        return m;
+    }
+>>>>>>> 54562fa2834f22d8092180ca408875bb67cb45f7
 
 	public static Map getInfoFromThuVienLichSu(ArrayList<String> urls) throws IOException {
 		System.setProperty("http.proxyhost", "127.0.0.1");
@@ -71,6 +95,7 @@ public class ThoiKy {
 
 		for (String url : urls) {
 //            System.out.println(url);
+<<<<<<< HEAD
 			Document curr = Jsoup.connect(url).ignoreContentType(true).timeout(0).get();
 			ThoiKy thoiKy = new ThoiKy();
 			thoiKy.addLink(url);
@@ -78,6 +103,20 @@ public class ThoiKy {
 				thoiKy.addSuKien(NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(suKien.text())));
 			}
 			thoiKy.ten = curr.selectFirst("h1").text();
+=======
+            Document curr = Jsoup.connect(url)
+                    .ignoreContentType(true)
+                    .timeout(0)
+                    .get();
+            ThoiKy thoiKy = new ThoiKy();
+            thoiKy.addLink(url);
+            for (Element suKien : curr.select("h3.card-title")) {
+                thoiKy.addSuKien(
+                        suKien.text()
+                );
+            }
+            thoiKy.ten = curr.selectFirst("h1").text();
+>>>>>>> 54562fa2834f22d8092180ca408875bb67cb45f7
 
 			m.put(NormalizeTool.normalizeKeyThoiKyFromThuVienLichSu(
 					NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(thoiKy.ten))), thoiKy);

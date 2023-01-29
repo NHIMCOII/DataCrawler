@@ -62,11 +62,7 @@ public class DiaDiem {
 						}
 						for(Element link: links) {
 							diadiem.addSuKien(
-									NormalizeTool.normalizeKey(
-											SeperateTool.separateKeyWithoutQuotation(
-													link.select("h4[class=card-title]").text()
-											)
-									)
+									link.select("h4[class=card-title]").text()
 							);
 						}
 					}
@@ -75,11 +71,7 @@ public class DiaDiem {
 						diadiem.nhanVat = new ArrayList<>();
 						for(Element link: links) {
 							diadiem.addNhanVat(
-									NormalizeTool.normalizeKey(
-											SeperateTool.separateKeyWithoutQuotation(
-													link.select("h4[class=card-title]").text()
-											)
-									)
+									link.select("h4[class=card-title]").text()
 							);
 
 						}

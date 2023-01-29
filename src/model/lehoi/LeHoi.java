@@ -147,7 +147,6 @@ public class LeHoi {
                 leHoi.ten = infoos.selectFirst("div[class=pt-post__title]").text();
                 leHoi.addLink("phutho.gov.vn" + infoos.selectFirst("div[class=pt-post__title]")
                         .selectFirst("a").attr("href"));
-                leHoi.ngayAmLich = infoos.selectFirst("div[class=pt-post__datetime]").text();
                 leHoi.moTa = infoos.selectFirst("div[class=pt-post__summary]").text();
                 m.put(NormalizeTool.normalizeKey(leHoi.ten), leHoi);
             }
@@ -180,9 +179,7 @@ public class LeHoi {
         if (this.nhanVat == null) {
             this.nhanVat = new ArrayList<>();
         }
-        for (String item : nhanVat) {
-            this.nhanVat.add(NormalizeTool.normalizeKey(item));
-        }
+        this.nhanVat.addAll(nhanVat);
     }
 
     public void addLink(String link) {

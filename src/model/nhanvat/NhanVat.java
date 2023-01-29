@@ -199,11 +199,7 @@ public class NhanVat {
             }
             for (Element character : doc.select("div.divide-tag:nth-of-type(6) h4.card-title")) {
                 nhanVat.addNhanVatCungThoiKy(
-                        NormalizeTool.normalizeKey(
-                                SeperateTool.separateKeyWithoutQuotation(
-                                    character.text()
-                            )
-                        )
+                        character.text()
                 );
             }
 

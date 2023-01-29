@@ -16,10 +16,6 @@ public class ThoiKy_Links {
 
     public static ArrayList<String> getThoiKy_nguoikesu() throws IOException {
         ThoiKy_Links.setThoiKy_nguoikesu();
-        int size = thoiKy_nguoikesu.size();
-        for (int i = size - 1; i > size / 2 - 1; i--) {
-            thoiKy_nguoikesu.remove(i);
-        }
 //        printLinks(thoiKy_nguoikesu);
         return thoiKy_nguoikesu;
     }
@@ -40,7 +36,7 @@ public class ThoiKy_Links {
                 .ignoreContentType(true)
                 .timeout(0)
                 .get();
-        for (Element link : doc.select("div.jm-module-content.clearfix ul.jm-red.list-categories.title-star-ms li.level-0 > a[href]")) {
+        for (Element link : doc.select(".module-inner .module-ct ul.mod-articlescategories > li > a[href]")) {
             thoiKy_nguoikesu.add("https://nguoikesu.com" + link.attr("href"));
         }
     }

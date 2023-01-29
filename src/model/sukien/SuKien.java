@@ -59,10 +59,7 @@ public class SuKien {
                         }
                         for (Element link : links) {
                             suKien.addDiaDiem(
-                                    NormalizeTool.normalizeKey(
-                                        SeperateTool.separateKeyWithoutQuotation(
-                                            link.select("h3[class=card-title]").text())
-                                    )
+                                    link.select("h3[class=card-title]").text()
                             );
                         }
                     } else if (header.text().equals("Nhân vật liên quan")) {
@@ -70,10 +67,7 @@ public class SuKien {
                         suKien.nhanVat = new ArrayList<>();
                         for (Element link : links) {
                             suKien.addNhanVat(
-                                    NormalizeTool.normalizeKey(
-                                            SeperateTool.separateKeyWithoutQuotation(
-                                                    link.select("h4[class=card-title]").text())
-                                    )
+                                    link.select("h4[class=card-title]").text()
                             );
 
                         }
