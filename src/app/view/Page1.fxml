@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Controller">
+    <children>
+        <Pane prefHeight="500.0" prefWidth="750.0">
+            <children>
+                <AnchorPane layoutX="248.0" layoutY="236.0" prefHeight="200.0" prefWidth="200.0">
+                    <children>
+                        <Button fx:id="btnSearch" layoutX="-15.0" layoutY="119.0" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 2em;" text="Search">
+                            <graphic>
+                                <TextField style="-fx-background-radius: 2em;" />
+                            </graphic>
+                        </Button>
+                    </children>
+                </AnchorPane>
+                <AnchorPane layoutX="324.0" layoutY="43.0" prefHeight="262.0" prefWidth="211.0">
+                    <children>
+                        <ToolBar layoutX="-158.0" layoutY="24.0" prefHeight="127.0" prefWidth="439.0" style="-fx-background-color: white;">
+                            <items>
+                                <Button fx:id="btnDiaDiem" mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Địa điểm" />
+                                <Button fx:id="btnLeHoi" mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Lễ hội" />
+                                <Button fx:id="btnNhanVat" mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Nhân vật" />
+                                <Button fx:id="btnSuKien" mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Sự kiện" />
+                                <Button fx:id="btnThoiKy" mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Thời kỳ" />
+                            </items>
+                            <opaqueInsets>
+                            </opaqueInsets>
+                        </ToolBar>
+                    </children>
+                </AnchorPane>
+            </children>
+        </Pane>
+    </children>
+</AnchorPane>
