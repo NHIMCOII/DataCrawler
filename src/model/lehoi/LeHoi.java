@@ -24,7 +24,43 @@ public class LeHoi {
     protected ArrayList<String> links = new ArrayList<>();
     protected ArrayList<String> nhanVat;
 
+    public String getTen() {
+        return ten;
+    }
 
+    public String getNgayAmLich() {
+        return ngayAmLich;
+    }
+
+    public String getViTri() {
+        return viTri;
+    }
+
+    public String getMoTa() {
+        return moTa;
+    }
+
+    public String getLanDauToChuc() {
+        return lanDauToChuc;
+    }
+
+    public ArrayList<String> getLinks() {
+        return links;
+    }
+
+    public ArrayList<String> getNhanVat() {
+        return nhanVat;
+    }
+
+    public String getTypeModel(){
+        return "Lễ Hội";
+    }
+    public String getDescription(){
+        if(this.moTa != null)
+            return this.moTa;
+        else
+            return ("Ngày âm lịch: " + ngayAmLich + "\n" + "Vị trí: " + viTri + "Lần đầu tổ chức: " + lanDauToChuc);
+    }
     public LeHoi() {
         // TODO Auto-generated constructor stub
     }

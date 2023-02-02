@@ -40,7 +40,112 @@ public class NhanVat {
     protected ArrayList<String> nhanVatCungThoiKy;
     protected ArrayList<String> links = new ArrayList<>();
 
+    public String getTen() {
+        return ten;
+    }
 
+    public String getTenKhac() {
+        return tenKhac;
+    }
+
+    public String getThoiKy() {
+        return thoiKy;
+    }
+
+    public String getSinh() {
+        return sinh;
+    }
+
+    public String getMat() {
+        return mat;
+    }
+
+    public String getAnTang() {
+        return anTang;
+    }
+
+    public String getChucVu() {
+        return chucVu;
+    }
+
+    public String getThanPhu() {
+        return thanPhu;
+    }
+
+    public String getThanMau() {
+        return thanMau;
+    }
+
+    public String getPhoiNgau() {
+        return phoiNgau;
+    }
+
+    public String getTonGiao() {
+        return tonGiao;
+    }
+
+    public String getNguyenNhanMat() {
+        return nguyenNhanMat;
+    }
+
+    public String getQueQuan() {
+        return queQuan;
+    }
+
+    public String getDangPhai() {
+        return dangPhai;
+    }
+
+    public String getNoiO() {
+        return noiO;
+    }
+
+    public String getDanToc() {
+        return danToc;
+    }
+
+    public String getHocvan() {
+        return hocvan;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public Map getCuocDoi() {
+        return cuocDoi;
+    }
+
+    public String getMoTa() {
+        return moTa;
+    }
+
+    public ArrayList<String> getVo() {
+        return vo;
+    }
+
+    public ArrayList<String> getHauDue() {
+        return hauDue;
+    }
+
+    public ArrayList<String> getNhanVatCungThoiKy() {
+        return nhanVatCungThoiKy;
+    }
+
+    public ArrayList<String> getLinks() {
+        return links;
+    }
+
+    public String getTypeModel(){
+        return "Nhân vật";
+    }
+
+    public String getDescription(){
+        if(this.moTa != null)
+            return this.moTa;
+        else
+            return ("Sinh: " + sinh + "\n" + "Mất: " + mat + "\n" + "Dân tộc: " + danToc + "\n" + "Chức vụ: " + chucVu);
+    }
     public NhanVat() {
     }
 

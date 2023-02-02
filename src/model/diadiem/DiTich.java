@@ -18,7 +18,28 @@ public class DiTich extends DiaDiem {
 	protected String loai;
 	protected String namCongNhan;
 
+	public String getViTri() {
+		return viTri;
+	}
 
+	public String getLoai() {
+		return loai;
+	}
+
+	public String getNamCongNhan() {
+		return namCongNhan;
+	}
+
+	public String getTypeModel(){
+		return "Địa điểm";
+	}
+
+	public String getDescription(){
+		if(this.lichSu != null)
+			return this.lichSu;
+		else
+			return ("Năm công nhận: " + namCongNhan + "\n" + "Loại : " + loai + "\n" + "Vị trí : " + viTri);
+	}
 	public DiTich() {
 		// TODO Auto-generated constructor stub
 	}

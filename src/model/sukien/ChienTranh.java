@@ -20,6 +20,25 @@ public class ChienTranh extends SuKien {
     protected String ketQua;
     protected String thoiKy;
 
+    public String getDongMinh() {
+        return dongMinh;
+    }
+
+    public String getDoiPhuong() {
+        return doiPhuong;
+    }
+
+    public String getKetQua() {
+        return ketQua;
+    }
+
+    public String getThoiKy() {
+        return thoiKy;
+    }
+
+    public String getDescription(){
+        return ("Thời kỳ: " + thoiKy + "\n" + "Kết quả: " + ketQua );
+    }
     public ChienTranh() {
         // TODO Auto-generated constructor stub
     }

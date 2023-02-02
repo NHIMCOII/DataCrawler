@@ -23,6 +23,40 @@ public class ChuTichNuoc extends NhanVat {
     protected ArrayList<String> giaQuyen;
     protected ArrayList<String> truongLop;
 
+    public String getNhiemKyBatDau() {
+        return nhiemKyBatDau;
+    }
+
+    public String getNhiemKyKetThuc() {
+        return nhiemKyKetThuc;
+    }
+
+    public String getThoiGianTaiNhiem() {
+        return thoiGianTaiNhiem;
+    }
+
+    public String getGhiChu() {
+        return ghiChu;
+    }
+
+    public String getChuKy() {
+        return chuKy;
+    }
+
+    public String getWebsite() {
+        return website;
+    }
+
+    public ArrayList<String> getGiaQuyen() {
+        return giaQuyen;
+    }
+
+    public ArrayList<String> getTruongLop() {
+        return truongLop;
+    }
+    public String getDescription(){
+        return ("Nhiệm kỳ bắt đầu: " + nhiemKyBatDau + "\n" + "Nhiệm kỳ kết thúc: " + nhiemKyKetThuc + "\n" + "Thời gian tái nhiệm: " + thoiGianTaiNhiem + "\n" + "Ghi chú: " + ghiChu);
+    }
     public ChuTichNuoc() {
         super();
     }

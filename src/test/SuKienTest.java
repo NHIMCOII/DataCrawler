@@ -16,11 +16,11 @@ public class SuKienTest {
     public static void main(String[] args) throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map m = SuKien.getInfo_TVLS(Sukien_Links.getSuKien_TVLS());
-        Map m1 = ChienTranh.getInfo_Wiki();
-
-        m1.forEach((key, value) -> m.merge(key, value, (oldVal, newVal) -> {
-            return ChienTranh.mergeRule(oldVal, newVal);
-        }));
+//        Map m1 = ChienTranh.getInfo_Wiki();
+//
+//        m1.forEach((key, value) -> m.merge(key, value, (oldVal, newVal) -> {
+//            return ChienTranh.mergeRule(oldVal, newVal);
+//        }));
 
         Writer writer = Files.newBufferedWriter(Paths.get("SuKien.json"));
         gson.toJson(m, writer);

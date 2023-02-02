@@ -6,15 +6,22 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+
 import java.io.File;
 import java.nio.file.Files;
+
+import model.diadiem.DiTich;
+import model.lehoi.LeHoi;
+import model.nhanvat.NhanVat;
+import model.nhanvat.Vua;
+import model.sukien.ChienTranh;
+import model.sukien.SuKien;
+import model.thoiKy.ThoiKy;
 import util.SeperateTool;
+
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.Map.Entry;
-import java.util.TreeMap;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -27,74 +34,74 @@ import util.NormalizeTool;
 public class Main extends Application {
 
     private double x, y;
-    public static List<DiaDiem> output = new ArrayList<>();
-    public static ArrayList<DiaDiem> view = new ArrayList<>();
-    public static void searchDiaDiem(String key) {
+    public static Map<String, Object> mapThoiKy = new LinkedHashMap<>();
+    public static Map<String, Object> mapLeHoi = new TreeMap<>();
+    public static Map<String, Object> mapNhanVat = new TreeMap<>();
+    public static Map<String, Object> mapSuKien = new TreeMap<>();
+    public static Map<String, Object> mapDiaDiem = new TreeMap<>();
+    public static Object detail;
 
-
+    public void readFile() {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-        String result;
+        String pathThoiKy, pathLeHoi, pathDiaDiem, pathSuKien, pathNhanVat;
+        String thoiKy = new File("").getAbsolutePath();
+        thoiKy = thoiKy.concat("\\src\\data\\ThoiKy.json");
+        String leHoi = new File("").getAbsolutePath();
+        leHoi = leHoi.concat("\\src\\data\\LeHoi.json");
         String diaDiem = new File("").getAbsolutePath();
-        System.out.println(diaDiem);
         diaDiem = diaDiem.concat("\\src\\data\\DiaDiem.json");
-        System.out.println("nnnnnn");
+        String suKien = new File("").getAbsolutePath();
+        suKien = suKien.concat("\\src\\data\\SuKien.json");
+        String nhanVat = new File("").getAbsolutePath();
+        nhanVat = nhanVat.concat("\\src\\data\\NhanVat.json");
         try {
-            result = new String(Files.readAllBytes(Paths.get(diaDiem)));
-            System.out.println("nnnnnn");
-            Map<String, DiaDiem> mapDiaDiem = new Gson().fromJson(result, new TypeToken<TreeMap<String, DiaDiem>>() {
+            pathThoiKy = new String(Files.readAllBytes(Paths.get(thoiKy)));
+            mapThoiKy = new Gson().fromJson(pathThoiKy,
+                    new TypeToken<LinkedHashMap<String, ThoiKy>>() {
+                    }.getType());
+
+            pathLeHoi = new String(Files.readAllBytes(Paths.get(leHoi)));
+            mapLeHoi = new Gson().fromJson(pathLeHoi, new TypeToken<TreeMap<String, LeHoi>>() {
             }.getType());
 
-            // view all
-            for (Entry<String, DiaDiem> diaDiemEntry : mapDiaDiem.entrySet()) {
-                String keyEntry = diaDiemEntry.getKey();
-                DiaDiem valueEntry = diaDiemEntry.getValue();
-                view.add(valueEntry);
-            }
+            pathDiaDiem = new String(Files.readAllBytes(Paths.get(diaDiem)));
+            mapDiaDiem = new Gson().fromJson(pathDiaDiem,
+                    new TypeToken<TreeMap<String, DiTich>>() {
+                    }.getType());
 
-            String search;
-            if (key.contains("(")) {
-                String KeyWithoutQuotation = SeperateTool.separateKeyWithoutQuotation(key);
-                search = NormalizeTool.normalizeKey(KeyWithoutQuotation);
-//			} else if (key.contains("-")) {
-//				String KeyWithoutHyphen = SeperateTool.separateKeyWithoutHyphen(key);
-//				search = NormalizeTool.normalizeKey(KeyWithoutHyphen);
-            } else {
-                search = NormalizeTool.normalizeKey(key);
-            }
+            pathSuKien = new String(Files.readAllBytes(Paths.get(suKien)));
+            mapSuKien = new Gson().fromJson(pathSuKien, new TypeToken<TreeMap<String, ChienTranh>>() {
+            }.getType());
 
-            // tìm kiếm toàn phần
-            if (mapDiaDiem.containsKey(search)) {
-                DiaDiem tk = (DiaDiem) mapDiaDiem.get(search);
-                output.add(tk);
-
-            }
+            pathNhanVat = new String(Files.readAllBytes(Paths.get(nhanVat)));
+            mapNhanVat = new Gson().fromJson(pathNhanVat,
+                    new TypeToken<TreeMap<String, Vua>>() {
+                    }.getType());
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-
-
     }
 
     @Override
     public void start(Stage primaryStage) throws Exception {
+        readFile();
         Parent root = FXMLLoader.load(getClass().getResource("./view/Page1.fxml"));
         primaryStage.setScene(new Scene(root));
         //set stage borderless
         primaryStage.initStyle(StageStyle.DECORATED);
 
         //drag it here
-        root.setOnMousePressed(event -> {
-            x = event.getSceneX();
-            y = event.getSceneY();
-        });
-        root.setOnMouseDragged(event -> {
-
-            primaryStage.setX(event.getScreenX() - x);
-            primaryStage.setY(event.getScreenY() - y);
-
-        });
+//        root.setOnMousePressed(event -> {
+//            x = event.getSceneX();
+//            y = event.getSceneY();
+//        });
+//        root.setOnMouseDragged(event -> {
+//
+//            primaryStage.setX(event.getScreenX() - x);
+//            primaryStage.setY(event.getScreenY() - y);
+//
+//        });
         primaryStage.show();
     }
 

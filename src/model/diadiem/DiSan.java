@@ -15,8 +15,20 @@ import java.util.TreeMap;
 public class DiSan extends DiaDiem {
     protected String moTa;
 
+    public String getMoTa() {
+        return moTa;
+    }
+
     public DiSan() {
         // TODO Auto-generated constructor stub
+    }
+
+    public String getTypeModel(){
+        return "Địa điểm";
+    }
+    @Override
+    public String getDescription(){
+        return this.moTa;
     }
 
     public static Map getInfo_Wiki() throws IOException {

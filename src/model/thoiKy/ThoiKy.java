@@ -20,6 +20,33 @@ public class ThoiKy {
     protected ArrayList<String> sukien;
     protected ArrayList<String> links = new ArrayList<>();
 
+    public String getTen() {
+        return ten;
+    }
+
+    public String getMoTa() {
+        return moTa;
+    }
+
+    public ArrayList<TrieuDai> getTrieuDai() {
+        return trieuDai;
+    }
+
+    public ArrayList<String> getSukien() {
+        return sukien;
+    }
+
+    public ArrayList<String> getLinks() {
+        return links;
+    }
+
+    public String getTypeModel(){
+        return "Thời kỳ";
+    }
+
+    public String getDescription(){
+        return ("Mô tả: " + moTa );
+    }
     public ThoiKy() {
     }
 

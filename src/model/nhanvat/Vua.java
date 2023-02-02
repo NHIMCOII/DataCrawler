@@ -25,7 +25,41 @@ public class Vua extends NhanVat {
     protected String mieuHieu;
     protected ArrayList<String> tuocHieu;
 
+    public String getTriVi() {
+        return triVi;
+    }
 
+    public String getTienNhiem() {
+        return tienNhiem;
+    }
+
+    public String getKeNhiem() {
+        return keNhiem;
+    }
+
+    public String getNienHieu() {
+        return nienHieu;
+    }
+
+    public String getTonHieu() {
+        return tonHieu;
+    }
+
+    public String getThuyHieu() {
+        return thuyHieu;
+    }
+
+    public String getMieuHieu() {
+        return mieuHieu;
+    }
+
+    public ArrayList<String> getTuocHieu() {
+        return tuocHieu;
+    }
+
+    public String getDescription(){
+        return ("Tôn hiệu: " + tonHieu + "\n" + "Trị vì: " + triVi + "\n" + "Kế nhiệm: " + keNhiem);
+    }
     public Vua() {
         super();
     }

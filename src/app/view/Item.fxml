@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.*?>
 <?import java.lang.*?>
 <?import java.util.*?>
 <?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<HBox alignment="CENTER_LEFT" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="225.0" prefWidth="749" style="-fx-border-color: gray;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.ControllerItem">
-    <children>
-        <VBox fx:id="description" prefHeight="200.0" prefWidth="582.0">
-            <padding>
-            </padding></VBox>
-        <Button mnemonicParsing="false" prefHeight="33.0" prefWidth="75.0" style="-fx-background-radius: 2em;" text="View">
-        </Button>
-    </children>
-</HBox>
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="250.0" prefWidth="1480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.ItemController">
+   <children>
+      <Button fx:id="btn" mnemonicParsing="false" onAction="#handleBtn" prefHeight="250.0" prefWidth="1480.0">
+         <graphic>
+            <VBox fx:id="description" prefHeight="200.0" prefWidth="100.0" />
+         </graphic>
+      </Button>
+   </children>
+</Pane>

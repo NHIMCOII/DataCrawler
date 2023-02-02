@@ -7,6 +7,22 @@ public class TrieuDai {
     protected String moTa;
     protected ArrayList<String> links = new ArrayList<>();
 
+    public String getTen() {
+        return ten;
+    }
+
+    public String getMoTa() {
+        return moTa;
+    }
+
+    public ArrayList<String> getLinks() {
+        return links;
+    }
+
+    public String getDescription(){
+        return ("Mô tả: " + moTa );
+    }
+
     public TrieuDai() {
     }
 

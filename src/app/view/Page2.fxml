@@ -6,30 +6,30 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Controller">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page2Controller">
     <children>
-        <Pane prefHeight="500.0" prefWidth="750.0" style="-fx-background-color: white;">
+        <Pane prefHeight="1000.0" prefWidth="1500.0" style="-fx-background-color: white;">
             <children>
-                <ScrollPane layoutX="15.0" layoutY="199.0" prefHeight="287.0" prefWidth="720.0">
+                <ScrollPane layoutX="15.0" layoutY="199.0" prefHeight="800.0" prefWidth="1480.0">
                     <content>
                         <VBox fx:id="items" prefHeight="90.0" prefWidth="703.0" />
                     </content>
                 </ScrollPane>
                 <ToolBar layoutX="22.0" layoutY="51.0" prefHeight="55.0" prefWidth="658.0" style="-fx-background-color: white;">
                     <items>
-                        <Button mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Địa điểm" />
-                        <Button mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Lễ hội" />
-                        <Button mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Nhân vật" />
-                        <Button mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Sự kiện" />
-                        <Button mnemonicParsing="false" style="-fx-background-radius: 1em;" text="Thời kỳ" />
-                        <Button fx:id="btn2" mnemonicParsing="false" style="-fx-background-radius: 2em;" text="Search">
+                        <Button fx:id="btnDiaDiem" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Địa điểm" />
+                        <Button fx:id="btnLeHoi" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Lễ hội" />
+                        <Button fx:id="btnNhanVat" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Nhân vật" />
+                        <Button fx:id="btnSuKien" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Sự kiện" />
+                        <Button fx:id="btnThoiKy" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Thời kỳ" />
+                        <Button fx:id="btnSearch" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 2em;" text="Search">
                             <graphic>
-                                <TextField style="-fx-background-radius: 2em;" />
+                                <TextField fx:id="searchBar" style="-fx-background-radius: 2em;" />
                             </graphic>
                         </Button>
                     </items>
                 </ToolBar>
-                <Button fx:id="btnBack" layoutX="34.0" layoutY="7.0" mnemonicParsing="false" text="Back" />
+                <Button fx:id="btnBack" layoutX="34.0" layoutY="7.0" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
 
             </children>
         </Pane>

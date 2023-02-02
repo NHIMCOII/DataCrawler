@@ -22,7 +22,37 @@ public class SuKien {
     protected ArrayList<String> diaDiem;
     protected ArrayList<String> nhanVat;
 
+    public String getTen() {
+        return ten;
+    }
 
+    public String getThoiGian() {
+        return thoiGian;
+    }
+
+    public String getDienBien() {
+        return dienBien;
+    }
+
+    public ArrayList<String> getLinks() {
+        return links;
+    }
+
+    public ArrayList<String> getDiaDiem() {
+        return diaDiem;
+    }
+
+    public ArrayList<String> getNhanVat() {
+        return nhanVat;
+    }
+
+    public String getTypeModel(){
+        return "Sự kiện";
+    }
+
+    public String getDescription(){
+        return ("Thời gian: " + thoiGian + "\n" + "Diễn biến: " + dienBien);
+    }
     public SuKien() {
         // TODO Auto-generated constructor stub
     }
@@ -43,8 +73,8 @@ public class SuKien {
             if (info.size() != 0) {
                 Elements headers = document.getElementsByClass("header-edge");
                 for (Element header : headers) {
-                    if (suKien.dienBien == null && header.text().equals(" Diễn biễn lịch sử ")) {
-                        suKien.dienBien = header.parent().selectFirst("div[class=card-body]").text();
+                    if (header.text().contains("Diễn biễn lịch sử")) {
+                        suKien.dienBien = header.parent().nextElementSibling().text();
                     } else if (header.text().equals("Tài liệu tham khảo")) {
                         suKien.links = new ArrayList<>();
                         Elements links = header.parents().first().nextElementSiblings()

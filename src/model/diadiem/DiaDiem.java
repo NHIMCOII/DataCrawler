@@ -24,7 +24,47 @@ public class DiaDiem {
 	protected ArrayList<String> links;
 	protected ArrayList<String> suKien;
 	protected ArrayList<String> nhanVat;
-	
+	public String getLichSu() {
+		return lichSu;
+	}
+
+	public String getKhuVuc() {
+		return khuVuc;
+	}
+
+	public String getNamThanhLap() {
+		return namThanhLap;
+	}
+
+	public String getDienTich() {
+		return dienTich;
+	}
+
+	public String getTen() {
+		return ten;
+	}
+
+	public ArrayList<String> getLinks() {
+		return links;
+	}
+
+	public ArrayList<String> getSuKien() {
+		return suKien;
+	}
+
+	public ArrayList<String> getNhanVat() {
+		return nhanVat;
+	}
+
+	public String getTypeModel(){
+		return "Địa điểm";
+	}
+	public String getDescription(){
+		if(this.lichSu != null)
+			return this.lichSu;
+		else
+			return ("Năm thành lập: " + namThanhLap + "\n" + "Khu vực: " + khuVuc + "\n" + "Diện tích: " + dienTich);
+	}
 	public DiaDiem() {
 		// TODO Auto-generated constructor stub
 	}
