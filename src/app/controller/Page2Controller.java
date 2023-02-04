@@ -74,7 +74,7 @@ public class Page2Controller implements Initializable {
         }
         if (event.getSource() == btnDiaDiem) {
             SearchKey.result.clear();
-            SearchDiaDiem.search(searchBar.getText().toString());
+            SearchMap.searchDiaDiem();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnDiaDiem.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -82,7 +82,7 @@ public class Page2Controller implements Initializable {
         }
         if (event.getSource() == btnLeHoi) {
             SearchKey.result.clear();
-            SearchLeHoi.search(searchBar.getText().toString());
+            SearchMap.searchLeHoi();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnLeHoi.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -90,7 +90,7 @@ public class Page2Controller implements Initializable {
         }
         if (event.getSource() == btnNhanVat) {
             SearchKey.result.clear();
-            SearchNhanVat.search(searchBar.getText().toString());
+            SearchMap.searchNhanVat();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnNhanVat.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -98,7 +98,7 @@ public class Page2Controller implements Initializable {
         }
         if (event.getSource() == btnSuKien) {
             SearchKey.result.clear();
-            SearchSuKien.search(searchBar.getText().toString());
+            SearchMap.searchSuKien();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSuKien.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -106,7 +106,7 @@ public class Page2Controller implements Initializable {
         }
         if (event.getSource() == btnThoiKy) {
             SearchKey.result.clear();
-            SearchThoiKy.search(searchBar.getText().toString());
+            SearchMap.searchThoiKy();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnThoiKy.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -124,55 +124,6 @@ public class Page2Controller implements Initializable {
         for (int i = 0; i < nodes.length; i++) {
             try {
                 output = SearchKey.result.get(i);
-//                ItemController item = new ItemController();
-//                item.listResult = output;
-//                if(SearchKey.result.get(i) instanceof DiTich) {
-//                    listResult.clear();
-//                    DiaDiem output = (DiaDiem) SearchKey.result.get(i);
-//                    ItemController item = new ItemController();
-//                            item.listResult = output;
-//                }
-//                    if(((DiTich) output).getLoai() == null){
-//                        listResult.add((DiaDiem) output);
-//                        listResult.add(((DiaDiem) output).getDescription());
-//                    } else {
-//                        listResult.add(((DiTich) output).getTypeModel());
-//                        listResult.add(((DiTich) output).getDescription());
-//                    }
-//                }else if(SearchKey.result.get(i) instanceof Vua) {
-//                    listResult.clear();
-//                    NhanVat output = (NhanVat) SearchKey.result.get(i);
-//                    result = output.getTen();
-//                    if(((Vua) output).getTriVi() == null || ((Vua) output).getNienHieu() == null){
-//                        listResult.add(((NhanVat) output).getTypeModel());
-//                        listResult.add(((NhanVat) output).getDescription());
-//                    } else {
-//                        listResult.add(((Vua) output).getTypeModel());
-//                        listResult.add(((Vua) output).getDescription());
-//                    }
-//                } else if(SearchKey.result.get(i) instanceof LeHoi){
-//                    listResult.clear();
-//                    LeHoi output = (LeHoi) SearchKey.result.get(i);
-//                    result = output.getTen();
-//                    listResult.add(((LeHoi) output).getTypeModel());
-//                    listResult.add(((LeHoi) output).getDescription());
-//                } else if(SearchKey.result.get(i) instanceof ChienTranh){
-//                    listResult.clear();
-//                    SuKien output = (SuKien) SearchKey.result.get(i);
-//                    result = output.getTen();
-//                    if(((ChienTranh) output).getKetQua() == null || ((ChienTranh) output).getDongMinh() == null){
-//                        listResult.add(((SuKien) output).getTypeModel());
-//                        listResult.add(((SuKien) output).getDescription());
-//                    } else {
-//                        listResult.add(((ChienTranh) output).getTypeModel());
-//                        listResult.add(((ChienTranh) output).getDescription());
-//                    }
-//                } else if(SearchKey.result.get(i) instanceof ThoiKy){
-//                    listResult.clear();
-//                    result = ((ThoiKy) SearchKey.result.get(i)).getTen();
-//                    listResult.add(((ThoiKy) SearchKey.result.get(i)).getTypeModel());
-//                    listResult.add(((ThoiKy) SearchKey.result.get(i)).getDescription());
-//                }
                 nodes[i] = FXMLLoader.load(getClass().getResource("../view/Item.fxml"));
             } catch (IOException e) {
                 // TODO Auto-generated catch block

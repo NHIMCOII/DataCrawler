@@ -10,37 +10,39 @@ import util.NormalizeTool;
 
 public class SearchKey {
     public static ArrayList<Object> result = new ArrayList<>();
+    public static Object object = new Object();
 
     public static void search(String key) {
 
-            String search;
-            search = NormalizeTool.normalizeKey(key);
+        String search;
+        search = NormalizeTool.normalizeKey(key);
 
-            // toàn phần
-            toanPhan(Main.mapThoiKy, search);
-            toanPhan(Main.mapNhanVat, search);
-            toanPhan(Main.mapSuKien, search);
-            toanPhan(Main.mapDiaDiem, search);
-            toanPhan(Main.mapLeHoi, search);
+        // toàn phần
+        toanPhan(Main.mapThoiKy, search);
+        toanPhan(Main.mapNhanVat, search);
+        toanPhan(Main.mapSuKien, search);
+        toanPhan(Main.mapDiaDiem, search);
+        toanPhan(Main.mapLeHoi, search);
 
-            // 1 phan
-            motPhan(Main.mapNhanVat, search);
-            motPhan(Main.mapSuKien, search);
-            motPhan(Main.mapDiaDiem, search);
-            motPhan(Main.mapLeHoi, search);
-            motPhan(Main.mapThoiKy, search);
-            System.out.println(result.size());
+        // 1 phan
+        motPhan(Main.mapNhanVat, search);
+        motPhan(Main.mapSuKien, search);
+        motPhan(Main.mapDiaDiem, search);
+        motPhan(Main.mapLeHoi, search);
+        motPhan(Main.mapThoiKy, search);
+        System.out.println(result.size());
 
     }
 
 
     public static Object searchForValue(Map<String, Object> map, String search) {
-            return map.get(search);
+        return map.get(search);
     }
 
     public static void toanPhan(Map<String, Object> map, String search) {
         if (map.containsKey(search)) {
             result.add(map.get(search));
+            object = map.get(search);
         }
     }
 

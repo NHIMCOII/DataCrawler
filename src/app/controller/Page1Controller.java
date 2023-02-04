@@ -15,7 +15,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
-public class Page1Controller implements Initializable{
+public class Page1Controller implements Initializable {
 
     @FXML
     Button btn1, btn2, btnBack;
@@ -42,46 +42,47 @@ public class Page1Controller implements Initializable{
     private TextField searchBar;
 
     protected static ArrayList<Object> kq = new ArrayList<>();
-    public void handleBtn(ActionEvent event) throws Exception{
-        if(event.getSource() == btnSearch) {
+
+    public void handleBtn(ActionEvent event) throws Exception {
+        if (event.getSource() == btnSearch) {
             SearchKey.search(searchBar.getText().toString());
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-            Stage window = (Stage)btnSearch.getScene().getWindow();
+            Stage window = (Stage) btnSearch.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
-        if(event.getSource() == btnDiaDiem) {
-            SearchDiaDiem.search(searchBar.getText().toString());
+        if (event.getSource() == btnDiaDiem) {
+            SearchMap.searchDiaDiem();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-            Stage window = (Stage)btnDiaDiem.getScene().getWindow();
+            Stage window = (Stage) btnDiaDiem.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
-        if(event.getSource() == btnLeHoi) {
-            SearchLeHoi.search(searchBar.getText().toString());
+        if (event.getSource() == btnLeHoi) {
+            SearchMap.searchLeHoi();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-            Stage window = (Stage)btnLeHoi.getScene().getWindow();
+            Stage window = (Stage) btnLeHoi.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
-        if(event.getSource() == btnNhanVat) {
-            SearchNhanVat.search(searchBar.getText().toString());
+        if (event.getSource() == btnNhanVat) {
+            SearchMap.searchNhanVat();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-            Stage window = (Stage)btnNhanVat.getScene().getWindow();
+            Stage window = (Stage) btnNhanVat.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
-        if(event.getSource() == btnSuKien) {
-            SearchSuKien.search(searchBar.getText().toString());
+        if (event.getSource() == btnSuKien) {
+            SearchMap.searchSuKien();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-            Stage window = (Stage)btnSuKien.getScene().getWindow();
+            Stage window = (Stage) btnSuKien.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
-        if(event.getSource() == btnThoiKy) {
-            SearchThoiKy.search(searchBar.getText().toString());
+        if (event.getSource() == btnThoiKy) {
+            SearchMap.searchThoiKy();
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-            Stage window = (Stage)btnThoiKy.getScene().getWindow();
+            Stage window = (Stage) btnThoiKy.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }

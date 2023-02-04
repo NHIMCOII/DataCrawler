@@ -23,13 +23,10 @@ public class DiSan extends DiaDiem {
         // TODO Auto-generated constructor stub
     }
 
-    public String getTypeModel(){
+    public String getTypeModel() {
         return "Địa điểm";
     }
-    @Override
-    public String getDescription(){
-        return this.moTa;
-    }
+
 
     public static Map getInfo_Wiki() throws IOException {
         System.setProperty("http.proxyhost", "127.0.0.1");

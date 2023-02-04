@@ -52,15 +52,17 @@ public class LeHoi {
         return nhanVat;
     }
 
-    public String getTypeModel(){
+    public String getTypeModel() {
         return "Lễ Hội";
     }
-    public String getDescription(){
-        if(this.moTa != null)
+
+    public String getDescriptionLeHoi() {
+        if (this.moTa != null)
             return this.moTa;
         else
             return ("Ngày âm lịch: " + ngayAmLich + "\n" + "Vị trí: " + viTri + "Lần đầu tổ chức: " + lanDauToChuc);
     }
+
     public LeHoi() {
         // TODO Auto-generated constructor stub
     }

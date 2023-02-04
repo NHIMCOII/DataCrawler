@@ -136,16 +136,17 @@ public class NhanVat {
         return links;
     }
 
-    public String getTypeModel(){
+    public String getTypeModel() {
         return "Nhân vật";
     }
 
-    public String getDescription(){
-        if(this.moTa != null)
+    public String getDescriptionNhanvat() {
+        if (this.moTa != null)
             return this.moTa;
         else
             return ("Sinh: " + sinh + "\n" + "Mất: " + mat + "\n" + "Dân tộc: " + danToc + "\n" + "Chức vụ: " + chucVu);
     }
+
     public NhanVat() {
     }
 
