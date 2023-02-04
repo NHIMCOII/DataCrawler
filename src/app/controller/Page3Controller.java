@@ -27,20 +27,20 @@ import java.net.URL;
 import java.util.*;
 
 public class Page3Controller implements Initializable {
+    public static ArrayList<String> list = new ArrayList<>();
+    public static ArrayList<TrieuDai> listTrieuDai = new ArrayList<>();
+    public static Map<String, String> map = new LinkedHashMap<>();
+    public static String title = "";
     public Button btnBack3;
+    public Object obj = new Object();
+    Text text = new Text();
+    Node[] node = new Node[5];
     @FXML
     private VBox information;
     @FXML
     private VBox basicInfo;
     @FXML
     private Text name;
-    public Object obj = new Object();
-    Text text = new Text();
-    Node[] node = new Node[5];
-    public static ArrayList<String> list = new ArrayList<>();
-    public static ArrayList<TrieuDai> listTrieuDai = new ArrayList<>();
-    public static Map<String, String> map = new LinkedHashMap<>();
-    public static String title = "";
 
     public void handleBtn(ActionEvent event) throws Exception {
         if (event.getSource() == btnBack3) {
@@ -370,7 +370,7 @@ public class Page3Controller implements Initializable {
             }
         } else if (obj instanceof ThoiKy) {
             name.setText(((ThoiKy) obj).getTen());
-            list.add(((TrieuDai) obj).getMoTa());
+            list.add(((ThoiKy) obj).getMoTa());
             if (list != null) {
                 title = "Mô tả";
                 information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
