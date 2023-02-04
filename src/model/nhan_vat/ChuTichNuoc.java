@@ -1,4 +1,4 @@
-package model.nhanvat;
+package model.nhan_vat;
 
 
 import org.jsoup.Jsoup;
@@ -6,7 +6,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import util.NormalizeTool;
-import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -54,9 +53,11 @@ public class ChuTichNuoc extends NhanVat {
     public ArrayList<String> getTruongLop() {
         return truongLop;
     }
-    public String getDescription(){
+
+    public String getDescription() {
         return ("Nhiệm kỳ bắt đầu: " + nhiemKyBatDau + "\n" + "Nhiệm kỳ kết thúc: " + nhiemKyKetThuc + "\n" + "Thời gian tái nhiệm: " + thoiGianTaiNhiem + "\n" + "Ghi chú: " + ghiChu);
     }
+
     public ChuTichNuoc() {
         super();
     }

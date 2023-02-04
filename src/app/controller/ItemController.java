@@ -1,12 +1,9 @@
 package app.controller;
 
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.ResourceBundle;
 
 import app.Main;
-import app.search.SearchKey;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -14,21 +11,17 @@ import javafx.fxml.Initializable;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.control.TextArea;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-import model.diadiem.DiSan;
-import model.diadiem.DiTich;
-import model.diadiem.DiaDiem;
-import model.lehoi.LeHoi;
-import model.nhanvat.NhanVat;
-import model.nhanvat.Vua;
-import model.sukien.ChienTranh;
-import model.sukien.SuKien;
-import model.thoiKy.ThoiKy;
-import util.NormalizeTool;
-import util.Tool;
+import model.dia_diem.DiTich;
+import model.dia_diem.DiaDiem;
+import model.le_hoi.LeHoi;
+import model.nhan_vat.NhanVat;
+import model.nhan_vat.Vua;
+import model.su_kien.ChienTranh;
+import model.su_kien.SuKien;
+import model.thoi_ky.ThoiKy;
 
 public class ItemController implements Initializable {
 
@@ -56,13 +49,11 @@ public class ItemController implements Initializable {
                 description.getChildren().add(new Text("Type: " + ((DiTich) listResult).getTypeModel() + "\n\nDescription: "));
                 text = new Text(((DiTich) listResult).getDescriptionDiTich());
                 description.getChildren().add(text);
-                btn.setId("DiTich");
             } else {
                 description.getChildren().add(new Text(((DiaDiem) listResult).getTen()));
                 description.getChildren().add(new Text("Type: " + ((DiaDiem) listResult).getTypeModel() + "\n\nDescription: "));
                 text = new Text(((DiaDiem) listResult).getDescriptionDiaDiem());
                 description.getChildren().add(text);
-                btn.setId("DiaDiem");
             }
         } else if (listResult instanceof Vua) {
             if (((Vua) listResult).getTriVi() != null) {
@@ -102,6 +93,5 @@ public class ItemController implements Initializable {
         text.setWrappingWidth(1400);
         text.setStyle("-fx-font-size: 10pt");
         description.setStyle("-fx-padding: 30; -fx-font-size: 14pt");
-//        btn.setId(NormalizeTool.normalizeKey(Page2Controller.listResult.get(0)).replace(' ', '_'));
     }
 }

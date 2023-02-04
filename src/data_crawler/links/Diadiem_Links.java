@@ -1,4 +1,4 @@
-package dataCrawler.links;
+package data_crawler.links;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -36,7 +36,7 @@ public class Diadiem_Links {
             Elements elms = document.getElementsByClass("col-md-4");
             for (int j = 0; j < elms.size(); j++) {
                 Elements elm_a = elms.get(j).getElementsByTag("a");
-                if(elm_a.attr("href").equals("")) {
+                if (elm_a.attr("href").equals("")) {
                     continue;
                 }
                 String link = "https://thuvienlichsu.com" + elm_a.attr("href");

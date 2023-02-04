@@ -30,7 +30,6 @@ public class SearchKey {
         motPhan(Main.mapDiaDiem, search);
         motPhan(Main.mapLeHoi, search);
         motPhan(Main.mapThoiKy, search);
-        System.out.println(result.size());
 
     }
 

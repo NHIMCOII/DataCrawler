@@ -2,10 +2,10 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import model.diadiem.DiSan;
-import model.diadiem.DiTich;
-import model.diadiem.DiaDiem;
-import dataCrawler.links.Diadiem_Links;
+import model.dia_diem.DiSan;
+import model.dia_diem.DiTich;
+import model.dia_diem.DiaDiem;
+import data_crawler.links.Diadiem_Links;
 
 import java.io.IOException;
 import java.io.Writer;
@@ -14,7 +14,7 @@ import java.nio.file.Paths;
 import java.util.Map;
 
 public class DiaDiemTest {
-    public static void parseJSONDiaDiem () throws IOException {
+    public static void parseJSONDiaDiem() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map m = DiaDiem.getInfo_TVLS(Diadiem_Links.getDiaDiem_TVLS());
         Map m1 = DiaDiem.getInfo_Wiki();

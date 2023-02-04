@@ -1,4 +1,4 @@
-package dataCrawler.links;
+package data_crawler.links;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -36,7 +36,7 @@ public class Sukien_Links {
                     .select("div[class=col-md-8]");
             for (int j = 0; j < cards.size(); j++) {
                 Element card_link = cards.get(j).getElementsByTag("a").first();
-                if(card_link == null) {
+                if (card_link == null) {
                     continue;
                 }
                 String link = "https://m.thuvienlichsu.com" + card_link.attr("href");

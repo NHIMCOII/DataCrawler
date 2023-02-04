@@ -1,21 +1,21 @@
-package dataCrawler;
+package data_crawler;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import dataCrawler.links.Diadiem_Links;
-import dataCrawler.links.Nhanvat_Links;
-import dataCrawler.links.Sukien_Links;
-import dataCrawler.links.ThoiKy_Links;
-import model.diadiem.DiSan;
-import model.diadiem.DiTich;
-import model.diadiem.DiaDiem;
-import model.lehoi.LeHoi;
-import model.nhanvat.ChuTichNuoc;
-import model.nhanvat.NhanVat;
-import model.nhanvat.Vua;
-import model.sukien.ChienTranh;
-import model.sukien.SuKien;
-import model.thoiKy.ThoiKy;
+import data_crawler.links.Diadiem_Links;
+import data_crawler.links.Nhanvat_Links;
+import data_crawler.links.Sukien_Links;
+import data_crawler.links.ThoiKy_Links;
+import model.dia_diem.DiSan;
+import model.dia_diem.DiTich;
+import model.dia_diem.DiaDiem;
+import model.le_hoi.LeHoi;
+import model.nhan_vat.ChuTichNuoc;
+import model.nhan_vat.NhanVat;
+import model.nhan_vat.Vua;
+import model.su_kien.ChienTranh;
+import model.su_kien.SuKien;
+import model.thoi_ky.ThoiKy;
 
 import java.io.IOException;
 import java.io.Writer;
@@ -24,7 +24,7 @@ import java.nio.file.Paths;
 import java.util.Map;
 
 public class DataCrawler {
-    public static void parseJSONDiaDiem () throws IOException {
+    public static void parseJSONDiaDiem() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map m = DiaDiem.getInfo_TVLS(Diadiem_Links.getDiaDiem_TVLS());
         Map m1 = DiaDiem.getInfo_Wiki();
@@ -48,7 +48,7 @@ public class DataCrawler {
         writer.close();
     }
 
-    public static void parseJSONNhanVat () throws IOException {
+    public static void parseJSONNhanVat() throws IOException {
         try {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             Map m1 = NhanVat.getInfoFromThuVienLichSu(Nhanvat_Links.getNhanVat_thuvienlichsu());
@@ -76,7 +76,7 @@ public class DataCrawler {
         }
     }
 
-    public static void parseJSONSuKien () throws IOException {
+    public static void parseJSONSuKien() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         Map m = SuKien.getInfo_TVLS(Sukien_Links.getSuKien_TVLS());
         Map m1 = ChienTranh.getInfo_Wiki();
@@ -90,7 +90,7 @@ public class DataCrawler {
         writer.close();
     }
 
-    public static void parseJSONThoiKy () throws IOException {
+    public static void parseJSONThoiKy() throws IOException {
         try {
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             Map m1 = ThoiKy.getInfoFromNguoiKeSu(ThoiKy_Links.getThoiKy_nguoikesu());
@@ -107,7 +107,7 @@ public class DataCrawler {
         }
     }
 
-    public static void parseJSONLeHoi () throws IOException {
+    public static void parseJSONLeHoi() throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
         Map m1 = LeHoi.getInfoFromWiki();

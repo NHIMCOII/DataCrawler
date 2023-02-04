@@ -2,10 +2,10 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import model.nhanvat.ChuTichNuoc;
-import model.nhanvat.NhanVat;
-import model.nhanvat.Vua;
-import dataCrawler.links.Nhanvat_Links;
+import model.nhan_vat.ChuTichNuoc;
+import model.nhan_vat.NhanVat;
+import model.nhan_vat.Vua;
+import data_crawler.links.Nhanvat_Links;
 
 import java.io.Writer;
 import java.nio.file.Files;

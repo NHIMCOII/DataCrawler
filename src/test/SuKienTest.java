@@ -2,9 +2,8 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import dataCrawler.links.Sukien_Links;
-import model.sukien.ChienTranh;
-import model.sukien.SuKien;
+import data_crawler.links.Sukien_Links;
+import model.su_kien.SuKien;
 
 import java.io.IOException;
 import java.io.Writer;

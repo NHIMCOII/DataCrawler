@@ -2,9 +2,7 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import model.diadiem.DiTich;
-import model.diadiem.DiaDiem;
-import model.lehoi.LeHoi;
+import model.le_hoi.LeHoi;
 
 import java.io.IOException;
 import java.io.Writer;

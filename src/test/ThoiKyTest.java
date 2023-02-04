@@ -2,8 +2,8 @@ package test;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import model.thoiKy.ThoiKy;
-import dataCrawler.links.ThoiKy_Links;
+import model.thoi_ky.ThoiKy;
+import data_crawler.links.ThoiKy_Links;
 
 import java.io.Writer;
 import java.nio.file.Files;

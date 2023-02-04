@@ -1,4 +1,4 @@
-package dataCrawler.links;
+package data_crawler.links;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

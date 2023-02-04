@@ -10,25 +10,18 @@ import javafx.stage.StageStyle;
 import java.io.File;
 import java.nio.file.Files;
 
-import model.diadiem.DiTich;
-import model.lehoi.LeHoi;
-import model.nhanvat.NhanVat;
-import model.nhanvat.Vua;
-import model.sukien.ChienTranh;
-import model.sukien.SuKien;
-import model.thoiKy.ThoiKy;
-import util.SeperateTool;
+import model.dia_diem.DiTich;
+import model.le_hoi.LeHoi;
+import model.nhan_vat.Vua;
+import model.su_kien.ChienTranh;
+import model.thoi_ky.ThoiKy;
 
 import java.nio.file.Paths;
 import java.util.*;
-import java.util.Map.Entry;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-
-import model.diadiem.DiaDiem;
-import util.NormalizeTool;
 
 
 public class Main extends Application {
@@ -40,6 +33,7 @@ public class Main extends Application {
     public static Map<String, Object> mapSuKien = new TreeMap<>();
     public static Map<String, Object> mapDiaDiem = new TreeMap<>();
     public static Object detail;
+    public static String tempTitle = "";
 
     public void readFile() {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();

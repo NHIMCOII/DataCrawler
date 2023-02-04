@@ -1,4 +1,4 @@
-package model.thoiKy;
+package model.thoi_ky;
 
 import java.util.ArrayList;
 
@@ -19,8 +19,8 @@ public class TrieuDai {
         return links;
     }
 
-    public String getDescription(){
-        return ("Mô tả: " + moTa );
+    public String getDescription() {
+        return ("Mô tả: " + moTa);
     }
 
     public TrieuDai() {

@@ -1,13 +1,11 @@
-package model.diadiem;
+package model.dia_diem;
 
 
-import dataCrawler.links.Diadiem_Links;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import util.NormalizeTool;
-import util.Tool;
 
 import java.io.IOException;
 import java.util.Map;

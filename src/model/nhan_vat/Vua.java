@@ -1,11 +1,10 @@
-package model.nhanvat;
+package model.nhan_vat;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import util.NormalizeTool;
-import util.Tool;
 
 import java.io.IOException;
 import java.util.ArrayList;
