@@ -7,11 +7,13 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.LinkController">
+<Pane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="app.controller.LinkController">
     <children>
-        <Button fx:id="linkBtn" minHeight="40.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="500.0">
+        <Button fx:id="linkBtn" minHeight="40.0" mnemonicParsing="false" onAction="#handleBtnLink" prefHeight="40.0"
+                prefWidth="500.0">
             <graphic>
-                <Text fx:id="linkText" strokeType="OUTSIDE" strokeWidth="0.0" />
+                <Text fx:id="linkText" strokeType="OUTSIDE" strokeWidth="0.0"/>
             </graphic>
         </Button>
     </children>

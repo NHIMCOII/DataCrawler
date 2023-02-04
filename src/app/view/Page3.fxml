@@ -8,33 +8,34 @@
 <?import javafx.scene.layout.*?>
 
 <ScrollPane prefHeight="800.0" prefWidth="1500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page3Controller">
-   <content>
-      <VBox fx:id="information" prefHeight="800.0" prefWidth="1500.0">
-         <children>
-            <Pane minHeight="100.0" prefHeight="100.0" prefWidth="1500.0">
-               <children>
-                  <Text fx:id="name" layoutX="21.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" />
-               </children>
-            </Pane>
-            <Pane minHeight="100.0" prefHeight="100.0" prefWidth="1500.0" style="-fx-background-color: gray;">
-               <children>
-                  <Text layoutX="736.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Thông tin">
-                     <font>
-                        <Font size="25.0" />
-                     </font>
-                  </Text>
-               </children>
-            </Pane>
-            <Pane minHeight="400.0" prefHeight="400.0" prefWidth="1503.0">
-               <children>
-                  <ScrollPane prefHeight="400.0" prefWidth="1500.0">
-                     <content>
-                        <VBox fx:id="basicInfo" prefHeight="200.0" prefWidth="1500.0" />
-                     </content>
-                  </ScrollPane>
-               </children>
-            </Pane>
-         </children>
-      </VBox>
-   </content>
-  </ScrollPane>
+    <content>
+        <VBox fx:id="information" prefHeight="800.0" prefWidth="1500.0">
+            <children>
+                <Button fx:id="btnBack3" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
+                <Pane minHeight="100.0" prefHeight="100.0" prefWidth="1500.0">
+                    <children>
+                        <Text fx:id="name" layoutX="21.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                    </children>
+                </Pane>
+                <Pane minHeight="100.0" prefHeight="100.0" prefWidth="1500.0" style="-fx-background-color: gray;">
+                    <children>
+                        <Text layoutX="736.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Thông tin">
+                            <font>
+                                <Font size="25.0" />
+                            </font>
+                        </Text>
+                    </children>
+                </Pane>
+                <Pane minHeight="400.0" prefHeight="400.0" prefWidth="1503.0">
+                    <children>
+                        <ScrollPane prefHeight="400.0" prefWidth="1500.0">
+                            <content>
+                                <VBox fx:id="basicInfo" maxHeight="1.7976931348623157E308" prefHeight="200.0" prefWidth="1500.0" spacing="20.0" />
+                            </content>
+                        </ScrollPane>
+                    </children>
+                </Pane>
+            </children>
+        </VBox>
+    </content>
+</ScrollPane>

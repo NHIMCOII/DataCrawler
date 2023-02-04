@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.text.*?>
 <?import java.lang.*?>
 <?import java.util.*?>
 <?import javafx.scene.*?>
@@ -30,6 +31,7 @@
                     </items>
                 </ToolBar>
                 <Button fx:id="btnBack" layoutX="34.0" layoutY="7.0" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
+            <Text fx:id="number" layoutX="45.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" />
 
             </children>
         </Pane>

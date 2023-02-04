@@ -12,6 +12,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
+import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import model.diadiem.DiSan;
 import model.diadiem.DiTich;
@@ -32,6 +33,7 @@ import java.util.ResourceBundle;
 
 public class Page2Controller implements Initializable {
 
+    public Text number;
     @FXML
     private Button btnDiaDiem;
 
@@ -134,6 +136,7 @@ public class Page2Controller implements Initializable {
     }
 
     public void initialize(URL location, ResourceBundle resources) {
+        number.setText(String.valueOf(SearchKey.result.size()));
         search();
     }
 }

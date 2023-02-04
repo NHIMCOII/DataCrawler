@@ -18,9 +18,6 @@ import javafx.stage.Stage;
 public class Page1Controller implements Initializable {
 
     @FXML
-    Button btn1, btn2, btnBack;
-
-    @FXML
     private Button btnDiaDiem;
 
     @FXML
