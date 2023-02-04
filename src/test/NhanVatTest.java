@@ -20,7 +20,7 @@ public class NhanVatTest {
             Map m2 = Vua.getInfoFromWiki(Nhanvat_Links.getVua_wiki());
             Map m3 = NhanVat.getInfoFromNguoiKeSu(Nhanvat_Links.getNhanVat_nguoikesu());
             Map m4 = ChuTichNuoc.getInfoFromWiki(Nhanvat_Links.getChuTichNuoc_wiki());
-//            // m2 or newVal must e instance of m1
+            // m2 or newVal must e instance of m1
             m2.forEach((key, value) -> m1.merge(key, value, (oldVal, newVal) -> {
                 return Vua.mergeRule(oldVal, newVal);
             }));

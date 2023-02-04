@@ -25,41 +25,6 @@ public class Vua extends NhanVat {
     protected String mieuHieu;
     protected ArrayList<String> tuocHieu;
 
-    public String getTriVi() {
-        return triVi;
-    }
-
-    public String getTienNhiem() {
-        return tienNhiem;
-    }
-
-    public String getKeNhiem() {
-        return keNhiem;
-    }
-
-    public String getNienHieu() {
-        return nienHieu;
-    }
-
-    public String getTonHieu() {
-        return tonHieu;
-    }
-
-    public String getThuyHieu() {
-        return thuyHieu;
-    }
-
-    public String getMieuHieu() {
-        return mieuHieu;
-    }
-
-    public ArrayList<String> getTuocHieu() {
-        return tuocHieu;
-    }
-
-    public String getDescription(){
-        return ("Tôn hiệu: " + tonHieu + "\n" + "Trị vì: " + triVi + "\n" + "Kế nhiệm: " + keNhiem);
-    }
     public Vua() {
         super();
     }
@@ -122,7 +87,11 @@ public class Vua extends NhanVat {
                     if (row.selectFirst("th:contains(Hậu phi)") != null || row.selectFirst("th:contains(Thê thiếp)") != null || row.selectFirst("th:contains(Vợ)") != null || row.selectFirst("th:contains(Hoàng hậu)") != null) {
                         results = row.select("li");
                         if (results.size() == 0 && row.selectFirst("td") != null) {
-                            vua.addVo(row.selectFirst("td").text());
+                            results = row.select("a");
+                            for (Element vo : results) {
+                                vua.addVo(vo.text());
+                            }
+//                            vua.addVo(row.selectFirst("td").text());
                         } else {
                             for (Element vo : results) {
                                 vua.addVo(vo.text());
@@ -132,7 +101,11 @@ public class Vua extends NhanVat {
                     if (row.selectFirst("th:contains(Hậu duệ)") != null) {
                         results = row.select("li");
                         if (results.size() == 0 && row.selectFirst("td") != null) {
-                            vua.addHauDue(row.selectFirst("td").text());
+                            results = row.select("a");
+                            for (Element hauDue : results) {
+                                vua.addHauDue(hauDue.text());
+                            }
+//                            vua.addHauDue(row.selectFirst("td").text());
                         } else {
                             for (Element hauDue : results) {
                                 vua.addHauDue(hauDue.text());
@@ -226,6 +199,42 @@ public class Vua extends NhanVat {
             return v1;
         }
         return result;
+    }
+
+    public String getTriVi() {
+        return triVi;
+    }
+
+    public String getTienNhiem() {
+        return tienNhiem;
+    }
+
+    public String getKeNhiem() {
+        return keNhiem;
+    }
+
+    public String getNienHieu() {
+        return nienHieu;
+    }
+
+    public String getTonHieu() {
+        return tonHieu;
+    }
+
+    public String getThuyHieu() {
+        return thuyHieu;
+    }
+
+    public String getMieuHieu() {
+        return mieuHieu;
+    }
+
+    public ArrayList<String> getTuocHieu() {
+        return tuocHieu;
+    }
+
+    public String getDescription() {
+        return ("Tôn hiệu: " + tonHieu + "\n" + "Trị vì: " + triVi + "\n" + "Kế nhiệm: " + keNhiem);
     }
 
     protected void addTuocHieu(String item) {

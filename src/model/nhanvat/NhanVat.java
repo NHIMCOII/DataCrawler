@@ -40,112 +40,6 @@ public class NhanVat {
     protected ArrayList<String> nhanVatCungThoiKy;
     protected ArrayList<String> links = new ArrayList<>();
 
-    public String getTen() {
-        return ten;
-    }
-
-    public String getTenKhac() {
-        return tenKhac;
-    }
-
-    public String getThoiKy() {
-        return thoiKy;
-    }
-
-    public String getSinh() {
-        return sinh;
-    }
-
-    public String getMat() {
-        return mat;
-    }
-
-    public String getAnTang() {
-        return anTang;
-    }
-
-    public String getChucVu() {
-        return chucVu;
-    }
-
-    public String getThanPhu() {
-        return thanPhu;
-    }
-
-    public String getThanMau() {
-        return thanMau;
-    }
-
-    public String getPhoiNgau() {
-        return phoiNgau;
-    }
-
-    public String getTonGiao() {
-        return tonGiao;
-    }
-
-    public String getNguyenNhanMat() {
-        return nguyenNhanMat;
-    }
-
-    public String getQueQuan() {
-        return queQuan;
-    }
-
-    public String getDangPhai() {
-        return dangPhai;
-    }
-
-    public String getNoiO() {
-        return noiO;
-    }
-
-    public String getDanToc() {
-        return danToc;
-    }
-
-    public String getHocvan() {
-        return hocvan;
-    }
-
-    public String getImage() {
-        return image;
-    }
-
-    public Map getCuocDoi() {
-        return cuocDoi;
-    }
-
-    public String getMoTa() {
-        return moTa;
-    }
-
-    public ArrayList<String> getVo() {
-        return vo;
-    }
-
-    public ArrayList<String> getHauDue() {
-        return hauDue;
-    }
-
-    public ArrayList<String> getNhanVatCungThoiKy() {
-        return nhanVatCungThoiKy;
-    }
-
-    public ArrayList<String> getLinks() {
-        return links;
-    }
-
-    public String getTypeModel(){
-        return "Nhân vật";
-    }
-
-    public String getDescription(){
-        if(this.moTa != null)
-            return this.moTa;
-        else
-            return ("Sinh: " + sinh + "\n" + "Mất: " + mat + "\n" + "Dân tộc: " + danToc + "\n" + "Chức vụ: " + chucVu);
-    }
     public NhanVat() {
     }
 
@@ -239,7 +133,11 @@ public class NhanVat {
                     if (row.selectFirst("th:contains(Hậu phi)") != null || row.selectFirst("th:contains(Thê thiếp)") != null || row.selectFirst("th:contains(Vợ)") != null || row.selectFirst("th:contains(Hoàng hậu)") != null || row.selectFirst("th:contains(Phi tần)") != null) {
                         results = row.select("li");
                         if (results.size() == 0 && row.selectFirst("td") != null) {
-                            nhanVat.addVo(row.selectFirst("td").text());
+                            results = row.select("a");
+                            for (Element vo : results) {
+                                nhanVat.addVo(vo.text());
+                            }
+//                            nhanVat.addVo(row.selectFirst("td").text());
                         } else {
                             for (Element vo : results) {
                                 nhanVat.addVo(vo.text());
@@ -249,7 +147,11 @@ public class NhanVat {
                     if (row.selectFirst("th:contains(Hậu duệ)") != null || row.selectFirst("th:contains(Con cái)") != null) {
                         results = row.select("li");
                         if (results.size() == 0 && row.selectFirst("td") != null) {
-                            nhanVat.addHauDue(row.selectFirst("td").text());
+                            results = row.select("a");
+                            for (Element hauDue : results) {
+                                nhanVat.addHauDue(hauDue.text());
+                            }
+//                            nhanVat.addHauDue(row.selectFirst("td").text());
                         } else {
                             for (Element hauDue : results) {
                                 nhanVat.addHauDue(hauDue.text());
@@ -287,7 +189,7 @@ public class NhanVat {
             }
             Map<String, String> info = new LinkedHashMap<>();
             Boolean check = false;
-            for (Element milestone : doc.select("div.divide-tag:nth-of-type(3) table tr")) {
+            for (Element milestone : doc.select("div.divide-tag:nth-of-type(4) table tr")) {
                 if (milestone.selectFirst("td") != null) {
                     info.put(milestone.selectFirst("td:nth-of-type(1)").text(), milestone.selectFirst("td:nth-of-type(3)").text());
                     check = true;
@@ -297,12 +199,12 @@ public class NhanVat {
                 nhanVat.setCuocDoi(info);
             }
 
-            nhanVat.moTa = doc.select("div.divide-tag:nth-of-type(4)").text();
+            nhanVat.moTa = doc.select("div.divide-tag:nth-of-type(5) div.card-body").text();
 
-            for (Element link : doc.select("div.divide-tag:nth-of-type(5) a")) {
+            for (Element link : doc.select("div.divide-tag:nth-of-type(6) a")) {
                 nhanVat.addLink(link.attr("href"));
             }
-            for (Element character : doc.select("div.divide-tag:nth-of-type(6) h4.card-title")) {
+            for (Element character : doc.select("div.divide-tag:nth-of-type(8) h4.card-title")) {
                 nhanVat.addNhanVatCungThoiKy(
                         character.text()
                 );
@@ -393,6 +295,117 @@ public class NhanVat {
         return v1;
     }
 
+    public String getTen() {
+        return ten;
+    }
+
+    public String getTenKhac() {
+        return tenKhac;
+    }
+
+    public String getThoiKy() {
+        return thoiKy;
+    }
+
+    public String getSinh() {
+        return sinh;
+    }
+
+    public String getMat() {
+        return mat;
+    }
+
+    public String getAnTang() {
+        return anTang;
+    }
+
+    public String getChucVu() {
+        return chucVu;
+    }
+
+    public String getThanPhu() {
+        return thanPhu;
+    }
+
+    public String getThanMau() {
+        return thanMau;
+    }
+
+    public String getPhoiNgau() {
+        return phoiNgau;
+    }
+
+    public String getTonGiao() {
+        return tonGiao;
+    }
+
+    public String getNguyenNhanMat() {
+        return nguyenNhanMat;
+    }
+
+    public String getQueQuan() {
+        return queQuan;
+    }
+
+    public String getDangPhai() {
+        return dangPhai;
+    }
+
+    public String getNoiO() {
+        return noiO;
+    }
+
+    public String getDanToc() {
+        return danToc;
+    }
+
+    public String getHocvan() {
+        return hocvan;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public Map getCuocDoi() {
+        return cuocDoi;
+    }
+
+    protected void setCuocDoi(Map m) {
+        this.cuocDoi = m;
+    }
+
+    public String getMoTa() {
+        return moTa;
+    }
+
+    public ArrayList<String> getVo() {
+        return vo;
+    }
+
+    public ArrayList<String> getHauDue() {
+        return hauDue;
+    }
+
+    public ArrayList<String> getNhanVatCungThoiKy() {
+        return nhanVatCungThoiKy;
+    }
+
+    public ArrayList<String> getLinks() {
+        return links;
+    }
+
+    public String getTypeModel() {
+        return "Nhân vật";
+    }
+
+    public String getDescription() {
+        if (this.moTa != null)
+            return this.moTa;
+        else
+            return ("Sinh: " + sinh + "\n" + "Mất: " + mat + "\n" + "Dân tộc: " + danToc + "\n" + "Chức vụ: " + chucVu);
+    }
+
     protected void addLink(String link) {
         if (links.contains(link)) {
             return;
@@ -428,9 +441,5 @@ public class NhanVat {
             return;
         }
         hauDue.add(item);
-    }
-
-    protected void setCuocDoi(Map m) {
-        this.cuocDoi = m;
     }
 }
