@@ -233,7 +233,7 @@ public class Vua extends NhanVat {
         return tuocHieu;
     }
 
-    public String getDescription() {
+    public String getDescriptionVua() {
         return ("Tôn hiệu: " + tonHieu + "\n" + "Trị vì: " + triVi + "\n" + "Kế nhiệm: " + keNhiem);
     }
 

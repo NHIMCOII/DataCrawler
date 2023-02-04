@@ -295,6 +295,13 @@ public class NhanVat {
         return v1;
     }
 
+    public String getDescriptionNhanvat() {
+        if (this.moTa != null)
+            return this.moTa;
+        else
+            return ("Sinh: " + sinh + "\n" + "Mất: " + mat + "\n" + "Dân tộc: " + danToc + "\n" + "Chức vụ: " + chucVu);
+    }
+
     public String getTen() {
         return ten;
     }

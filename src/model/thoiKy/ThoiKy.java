@@ -40,13 +40,14 @@ public class ThoiKy {
         return links;
     }
 
-    public String getTypeModel(){
+    public String getTypeModel() {
         return "Thời kỳ";
     }
 
-    public String getDescription(){
-        return ("Mô tả: " + moTa );
+    public String getDescriptionThoiKy() {
+        return ("Mô tả: " + moTa);
     }
+
     public ThoiKy() {
     }
 

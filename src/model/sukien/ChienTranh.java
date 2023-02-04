@@ -36,9 +36,10 @@ public class ChienTranh extends SuKien {
         return thoiKy;
     }
 
-    public String getDescription(){
-        return ("Thời kỳ: " + thoiKy + "\n" + "Kết quả: " + ketQua );
+    public String getDescriptionChienTranh() {
+        return ("Thời kỳ: " + thoiKy + "\n" + "Kết quả: " + ketQua);
     }
+
     public ChienTranh() {
         // TODO Auto-generated constructor stub
     }

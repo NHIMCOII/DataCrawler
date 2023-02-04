@@ -27,7 +27,6 @@ public class Test {
         }.getType());
         if (SearchKey.searchForValue(mapDiaDiem, "vinh ha long") instanceof DiSan) {
             DiSan diSan = (DiSan) SearchKey.searchForValue(mapDiaDiem, "vinh ha long");
-            System.out.println(diSan.getDescription());
         }
     }
 }

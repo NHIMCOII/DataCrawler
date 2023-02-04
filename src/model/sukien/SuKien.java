@@ -46,13 +46,14 @@ public class SuKien {
         return nhanVat;
     }
 
-    public String getTypeModel(){
+    public String getTypeModel() {
         return "Sự kiện";
     }
 
-    public String getDescription(){
+    public String getDescriptionSuKien() {
         return ("Thời gian: " + thoiGian + "\n" + "Diễn biến: " + dienBien);
     }
+
     public SuKien() {
         // TODO Auto-generated constructor stub
     }
