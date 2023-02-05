@@ -31,6 +31,7 @@ public class Page3Controller implements Initializable {
     public static ArrayList<TrieuDai> listTrieuDai = new ArrayList<>();
     public static Map<String, String> map = new LinkedHashMap<>();
     public static String title = "";
+    public static Object details;
     public Button btnBack3;
     public Object obj = new Object();
     Text text = new Text();
@@ -414,7 +415,7 @@ public class Page3Controller implements Initializable {
     public void initialize(URL location, ResourceBundle resources) {
         name.setStyle("-fx-padding: 50; -fx-font-size: 25pt");
         try {
-            printItem(Main.detail);
+            printItem(details);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

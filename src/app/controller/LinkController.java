@@ -41,27 +41,20 @@ public class LinkController implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-//        linkText.setText(BoxDetailController.boxContent);
-//        if (this.linkTitle.equals("Nhân vật")) {
-//            SearchKey.result.clear();
-//            SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-//            Main.detail = SearchKey.object;
-//        }
-//        if (this.linkTitle.equals("Nhân vật cùng thời kỳ")) {
-//            SearchKey.result.clear();
-//            SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-//            Main.detail = SearchKey.object;
-//        }
-//        if (this.linkTitle.equals("Sự kiện")) {
-//            SearchKey.result.clear();
-//            SearchKey.toanPhan(Main.mapSuKien, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-//            Main.detail = SearchKey.object;
-//        }
-//        if (this.linkTitle.equals("Địa điểm")) {
-//            SearchKey.result.clear();
-//            SearchKey.toanPhan(Main.mapDiaDiem, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-//            Main.detail = SearchKey.object;
-//        }
+        linkText.setText(BoxDetailController.boxContent);
+        if (this.linkTitle.equals("Nhân vật")) {
+            Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+        }
+        if (this.linkTitle.equals("Nhân vật cùng thời kỳ")) {
+            Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+        }
+        if (this.linkTitle.equals("Sự kiện")) {
+            Page3Controller.details = SearchKey.toanPhan(Main.mapSuKien, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+
+        }
+        if (this.linkTitle.equals("Địa điểm")) {
+            Page3Controller.details = SearchKey.toanPhan(Main.mapDiaDiem, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+        }
     }
 
 }

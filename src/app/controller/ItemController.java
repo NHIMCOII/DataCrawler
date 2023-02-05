@@ -26,6 +26,7 @@ import model.thoi_ky.ThoiKy;
 public class ItemController implements Initializable {
 
     public static Object ITEM;
+    public Object item;
     Text text = new Text();
     @FXML
     private VBox description = new VBox();
@@ -34,7 +35,7 @@ public class ItemController implements Initializable {
 
     public void handleBtn(ActionEvent event) throws Exception {
         if (event.getSource() == btn) {
-            Main.detail = ITEM;
+            Page3Controller.details = item;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page3.fxml"));
             Stage window = (Stage) btn.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -43,6 +44,7 @@ public class ItemController implements Initializable {
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
+        item = ITEM;
         if (ITEM instanceof DiTich) {
             if (((DiTich) ITEM).getLoai() != null) {
                 description.getChildren().add(new Text(((DiTich) ITEM).getTen()));
