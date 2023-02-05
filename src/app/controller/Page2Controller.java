@@ -113,15 +113,15 @@ public class Page2Controller implements Initializable {
     }
 
     public void addNodes(ArrayList<Object> results) {
-        for (int i = 0; i < nodes.length; i++) {
+        for (int i = 0; i < searchResults.size(); i++) {
+            ItemController.ITEM = results.get(i);
             try {
-                ItemController itemController = new ItemController();
-                itemController.item = results.get(i);
-                items.getChildren().add(FXMLLoader.load(getClass().getResource("../view/Item.fxml")));
+                nodes[i] = FXMLLoader.load(getClass().getResource("../view/Item.fxml"));
             } catch (IOException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
+            items.getChildren().add(nodes[i]);
         }
     }
 
