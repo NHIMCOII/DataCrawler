@@ -9,29 +9,51 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page2Controller">
     <children>
-        <Pane prefHeight="1000.0" prefWidth="1500.0" style="-fx-background-color: white;">
+        <Pane prefHeight="850.0" prefWidth="1800.0" style="-fx-background-color: white;">
             <children>
-                <ScrollPane layoutX="15.0" layoutY="199.0" prefHeight="800.0" prefWidth="1480.0">
+                  <Button fx:id="btnDiaDiem" layoutX="15.0" layoutY="72.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Địa điểm">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                  <Button fx:id="btnLeHoi" layoutX="533.0" layoutY="72.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Lễ hội">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                  <Button fx:id="btnNhanVat" layoutX="145.0" layoutY="72.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Nhân vật">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                  <Button fx:id="btnSuKien" layoutX="404.0" layoutY="72.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Sự kiện">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                  <Button fx:id="btnThoiKy" layoutX="275.0" layoutY="72.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Thời kỳ">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                <ScrollPane hbarPolicy="NEVER" layoutX="15.0" layoutY="199.0" prefHeight="635.0" prefWidth="1770.0">
                     <content>
                         <VBox fx:id="items" prefHeight="90.0" prefWidth="703.0" />
                     </content>
                 </ScrollPane>
-                <ToolBar layoutX="22.0" layoutY="51.0" prefHeight="55.0" prefWidth="658.0" style="-fx-background-color: white;">
-                    <items>
-                        <Button fx:id="btnDiaDiem" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Địa điểm" />
-                        <Button fx:id="btnLeHoi" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Lễ hội" />
-                        <Button fx:id="btnNhanVat" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Nhân vật" />
-                        <Button fx:id="btnSuKien" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Sự kiện" />
-                        <Button fx:id="btnThoiKy" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Thời kỳ" />
-                        <Button fx:id="btnSearch" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 2em;" text="Search">
-                            <graphic>
-                                <TextField fx:id="searchBar" style="-fx-background-radius: 2em;" />
-                            </graphic>
-                        </Button>
-                    </items>
-                </ToolBar>
-                <Button fx:id="btnBack" layoutX="34.0" layoutY="7.0" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
-            <Text fx:id="number" layoutX="45.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                <Button fx:id="btnBack" layoutX="20.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
+            <Text fx:id="number" layoutX="45.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0">
+               <font>
+                  <Font size="20.0" />
+               </font></Text>
+                  <Button fx:id="btnSearch" layoutX="1156.0" layoutY="70.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="600.0" style="-fx-background-radius: 2em;" text="Search">
+                      <graphic>
+                          <TextField fx:id="searchBar" prefWidth="500.0" style="-fx-background-radius: 2em;" />
+                      </graphic>
+               <font>
+                  <Font size="20.0" />
+               </font>
+                  </Button>
 
             </children>
         </Pane>

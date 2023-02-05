@@ -11,6 +11,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+import model.nhan_vat.NhanVat;
 import util.NormalizeTool;
 import util.SeperateTool;
 
@@ -44,6 +45,7 @@ public class LinkController implements Initializable {
         linkText.setText(BoxDetailController.boxContent);
         if (this.linkTitle.equals("Nhân vật")) {
             Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+//            linkText.setText(((NhanVat) Page3Controller.details).getTen());
         }
         if (this.linkTitle.equals("Nhân vật cùng thời kỳ")) {
             Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));

@@ -30,7 +30,7 @@ public class BoxDetailController implements Initializable {
     public void initialize(URL location, ResourceBundle resources) {
         title.setText(Page3Controller.title);
         if (Page3Controller.list != null) {
-            if (Page3Controller.title.equals("Links") || Page3Controller.title.equals("Vợ") || Page3Controller.title.equals("Hậu duệ") || Page3Controller.title.equals("Lịch sử") || Page3Controller.title.equals("Mô tả") || Page3Controller.title.equals("Diễn biến")) {
+            if (Page3Controller.title.equals("Links") || Page3Controller.title.equals("Vợ") || Page3Controller.title.equals("Hậu duệ") || Page3Controller.title.equals("Lịch sử") || Page3Controller.title.equals("Mô tả") || Page3Controller.title.equals("Diễn biến") || Page3Controller.title.equals("Thông tin")) {
                 for (String listText : Page3Controller.list) {
                     text = new Text(listText);
                     box.getChildren().add(text);
