@@ -9,10 +9,10 @@ import app.Main;
 import util.NormalizeTool;
 
 public class SearchKey {
-    private static ArrayList<Object> RESULTS = new ArrayList<>();
+    private static ArrayList<Object> RESULTS;
 
-    public static void search(String key) {
-
+    public static ArrayList<Object> search(String key) {
+        RESULTS = new ArrayList<>();
         String search;
         search = NormalizeTool.normalizeKey(key);
 
@@ -29,7 +29,7 @@ public class SearchKey {
         motPhan(Main.mapDiaDiem, search);
         motPhan(Main.mapLeHoi, search);
         motPhan(Main.mapThoiKy, search);
-
+        return RESULTS;
     }
 
     public static Object toanPhan(Map<String, Object> map, String search) {

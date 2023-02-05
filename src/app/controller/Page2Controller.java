@@ -49,14 +49,13 @@ public class Page2Controller implements Initializable {
     private VBox description = new VBox();
 
     public void handleBtn(ActionEvent event) throws Exception {
-//        if (event.getSource() == btnSearch) {
-//            SearchKey.result.clear();
-//            SearchKey.search(searchBar.getText().toString());
-//            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
-//            Stage window = (Stage) btnSearch.getScene().getWindow();
-//            window.setScene(new Scene(root));
-//
-//        }
+        if (event.getSource() == btnSearch) {
+            searchResults = SearchKey.search(searchBar.getText().toString());
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnSearch.getScene().getWindow();
+            window.setScene(new Scene(root));
+
+        }
         if (event.getSource() == btnDiaDiem) {
             if (SearchMap.DIA_DIEM == null) {
                 SearchMap.DIA_DIEM = SearchMap.searchMap(Main.mapDiaDiem);
@@ -107,12 +106,11 @@ public class Page2Controller implements Initializable {
             window.setScene(new Scene(root));
 
         }
-//        if (event.getSource() == btnBack) {
-//            Parent root = FXMLLoader.load(getClass().getResource("../view/Page1.fxml"));
-//            Stage window = (Stage) btnBack.getScene().getWindow();
-//            window.setScene(new Scene(root));
-////            SearchKey.result.clear();
-//        }
+        if (event.getSource() == btnBack) {
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page1.fxml"));
+            Stage window = (Stage) btnBack.getScene().getWindow();
+            window.setScene(new Scene(root));
+        }
     }
 
     public void search(ArrayList<Object> results) {

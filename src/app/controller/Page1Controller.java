@@ -35,7 +35,7 @@ public class Page1Controller implements Initializable {
 
     public void handleBtn(ActionEvent event) throws Exception {
         if (event.getSource() == btnSearch) {
-            SearchKey.search(searchBar.getText().toString());
+            Page2Controller.searchResults = SearchKey.search(searchBar.getText().toString());
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSearch.getScene().getWindow();
             window.setScene(new Scene(root));
