@@ -13,18 +13,16 @@ import java.util.Map;
 import java.util.ResourceBundle;
 
 public class BoxDetailController implements Initializable {
-    @FXML
-    private VBox box;
-
-    @FXML
-    private Text title;
     public static String boxContent = "";
     public static String boxTitle = "";
-
     public static String key = null;
     public static String value = null;
     public String titleTrieudai = null;
     Text text = new Text();
+    @FXML
+    private VBox box;
+    @FXML
+    private Text title;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
@@ -39,8 +37,9 @@ public class BoxDetailController implements Initializable {
                 for (int i = 0; i < Page3Controller.list.size(); i++) {
                     try {
                         boxContent = Page3Controller.list.get(i);
-                        LinkController link = new LinkController();
-                        link.setLinkTitle(title.getText());
+//                        LinkController link = new LinkController();
+//                        link.setLinkTitle(title.getText());
+                        LinkController.LINK_TITLE = title.getText();
                         box.getChildren().add(FXMLLoader.load(getClass().getResource("../view/Link.fxml")));
                     } catch (IOException e) {
                         throw new RuntimeException(e);

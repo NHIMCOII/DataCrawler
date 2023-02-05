@@ -21,6 +21,7 @@ import java.util.ResourceBundle;
 public class LinkController implements Initializable {
 
     public static String link = "";
+    public static String LINK_TITLE;
     public Object linkList = new Object();
     @FXML
     private Text linkText;
@@ -34,6 +35,22 @@ public class LinkController implements Initializable {
 
     public void handleBtnLink(ActionEvent event) throws Exception {
         if (event.getSource() == linkBtn) {
+            Page3Controller.TAG = linkTitle;
+
+            if (this.linkTitle.equals("Nhân vật")) {
+                Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+//            linkText.setText(((NhanVat) Page3Controller.details).getTen());
+            }
+            if (this.linkTitle.equals("Nhân vật cùng thời kỳ")) {
+                Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+            }
+            if (this.linkTitle.equals("Sự kiện")) {
+                Page3Controller.details = SearchKey.toanPhan(Main.mapSuKien, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+
+            }
+            if (this.linkTitle.equals("Địa điểm")) {
+                Page3Controller.details = SearchKey.toanPhan(Main.mapDiaDiem, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
+            }
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page3.fxml"));
             Stage window = (Stage) linkBtn.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
@@ -42,21 +59,8 @@ public class LinkController implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
+        linkTitle = LINK_TITLE;
         linkText.setText(BoxDetailController.boxContent);
-        if (this.linkTitle.equals("Nhân vật")) {
-            Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-//            linkText.setText(((NhanVat) Page3Controller.details).getTen());
-        }
-        if (this.linkTitle.equals("Nhân vật cùng thời kỳ")) {
-            Page3Controller.details = SearchKey.toanPhan(Main.mapNhanVat, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-        }
-        if (this.linkTitle.equals("Sự kiện")) {
-            Page3Controller.details = SearchKey.toanPhan(Main.mapSuKien, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-
-        }
-        if (this.linkTitle.equals("Địa điểm")) {
-            Page3Controller.details = SearchKey.toanPhan(Main.mapDiaDiem, NormalizeTool.normalizeKey(SeperateTool.separateKeyWithoutQuotation(linkText.getText().toString())));
-        }
     }
 
 }

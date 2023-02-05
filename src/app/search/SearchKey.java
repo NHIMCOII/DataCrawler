@@ -9,10 +9,11 @@ import app.Main;
 import util.NormalizeTool;
 
 public class SearchKey {
-    private static ArrayList<Object> RESULTS;
+    private static ArrayList<Object> RESULTS = new ArrayList<>();
+    ;
 
     public static ArrayList<Object> search(String key) {
-        RESULTS = new ArrayList<>();
+        RESULTS.clear();
         String search;
         search = NormalizeTool.normalizeKey(key);
 
