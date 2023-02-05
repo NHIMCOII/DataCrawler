@@ -1,6 +1,8 @@
 package app.controller;
 
 import app.Main;
+import app.search.SearchKey;
+import app.search.SearchMap;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -9,6 +11,7 @@ import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
@@ -27,6 +30,7 @@ import java.net.URL;
 import java.util.*;
 
 public class Page3Controller implements Initializable {
+    public static ArrayList<Object> searchResults = new ArrayList<>();
     public static ArrayList<String> list = new ArrayList<>();
     public static ArrayList<TrieuDai> listTrieuDai = new ArrayList<>();
     public static Map<String, String> map = new LinkedHashMap<>();
@@ -36,15 +40,82 @@ public class Page3Controller implements Initializable {
     public Button btnBack3;
     public Object obj = new Object();
     Text text = new Text();
-    Node[] node = new Node[5];
     @FXML
     private VBox information;
     @FXML
-    private VBox basicInfo;
-    @FXML
     private Text name;
+    @FXML
+    private Button btnDiaDiem;
+
+    @FXML
+    private Button btnSearch;
+    @FXML
+    private Button btnThoiKy;
+    @FXML
+    private Button btnLeHoi;
+    @FXML
+    private Button btnSuKien;
+
+    @FXML
+    private Button btnNhanVat;
+
+
+    @FXML
+    private TextField searchBar;
+
 
     public void handleBtn(ActionEvent event) throws Exception {
+        if (event.getSource() == btnSearch) {
+            searchResults = SearchKey.search(searchBar.getText().toString());
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnSearch.getScene().getWindow();
+            window.setScene(new Scene(root, 1800, 850));
+        }
+        if (event.getSource() == btnDiaDiem) {
+            if (SearchMap.DIA_DIEM == null) {
+                SearchMap.DIA_DIEM = SearchMap.searchMap(Main.mapDiaDiem);
+            }
+            searchResults = SearchMap.DIA_DIEM;
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnDiaDiem.getScene().getWindow();
+            window.setScene(new Scene(root, 1800, 850));
+        }
+        if (event.getSource() == btnLeHoi) {
+            if (SearchMap.LE_HOI == null) {
+                SearchMap.LE_HOI = SearchMap.searchMap(Main.mapLeHoi);
+            }
+            searchResults = SearchMap.LE_HOI;
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnLeHoi.getScene().getWindow();
+            window.setScene(new Scene(root, 1800, 850));
+        }
+        if (event.getSource() == btnNhanVat) {
+            if (SearchMap.NHAN_VAT == null) {
+                SearchMap.NHAN_VAT = SearchMap.searchMap(Main.mapNhanVat);
+            }
+            searchResults = SearchMap.NHAN_VAT;
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnNhanVat.getScene().getWindow();
+            window.setScene(new Scene(root, 1800, 850));
+        }
+        if (event.getSource() == btnSuKien) {
+            if (SearchMap.SU_KIEN == null) {
+                SearchMap.SU_KIEN = SearchMap.searchMap(Main.mapSuKien);
+            }
+            searchResults = SearchMap.SU_KIEN;
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnSuKien.getScene().getWindow();
+            window.setScene(new Scene(root, 1800, 850));
+        }
+        if (event.getSource() == btnThoiKy) {
+            if (SearchMap.THOI_KY == null) {
+                SearchMap.THOI_KY = SearchMap.searchMap(Main.mapThoiKy);
+            }
+            searchResults = SearchMap.THOI_KY;
+            Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
+            Stage window = (Stage) btnThoiKy.getScene().getWindow();
+            window.setScene(new Scene(root, 1800, 850));
+        }
         if (event.getSource() == btnBack3) {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnBack3.getScene().getWindow();
@@ -81,16 +152,12 @@ public class Page3Controller implements Initializable {
                 list = ((DiTich) obj).getNhanVat();
                 if (list != null) {
                     title = "Nhân vật";
-//                    LinkController link = new LinkController();
-//                    link.linkTitle = title;
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
                     list.clear();
                 }
                 list = ((DiTich) obj).getSuKien();
                 if (list != null) {
                     title = "Sự kiện";
-//                    LinkController link = new LinkController();
-//                    link.linkTitle = title;
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
                     list.clear();
                 }
@@ -122,16 +189,12 @@ public class Page3Controller implements Initializable {
                 list = ((DiaDiem) obj).getNhanVat();
                 if (list != null) {
                     title = "Nhân vật";
-//                    LinkController link = new LinkController();
-//                    link.linkTitle = title;
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
                     list.clear();
                 }
                 list = ((DiaDiem) obj).getSuKien();
                 if (list != null) {
                     title = "Sự kiện";
-//                    LinkController link = new LinkController();
-//                    link.linkTitle = title;
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
                     list.clear();
                 }
@@ -231,7 +294,7 @@ public class Page3Controller implements Initializable {
                 if (((NhanVat) obj).getThanMau() != null) list.add(((NhanVat) obj).getThanMau());
                 if (((NhanVat) obj).getNguyenNhanMat() != null)
                     list.add(((NhanVat) obj).getNguyenNhanMat());
-                if (((Vua) obj).getAnTang() != null) list.add(((NhanVat) obj).getAnTang());
+                if (((NhanVat) obj).getAnTang() != null) list.add(((NhanVat) obj).getAnTang());
                 if (list != null) {
                     title = "Thông tin";
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
@@ -348,14 +411,14 @@ public class Page3Controller implements Initializable {
                 }
             } else {
                 name.setText(((SuKien) obj).getTen());
-                if (((ChienTranh) obj).getThoiGian() != null)
-                    list.add(((ChienTranh) obj).getThoiGian());
+                if (((SuKien) obj).getThoiGian() != null)
+                    list.add(((SuKien) obj).getThoiGian());
                 if (list != null) {
                     title = "Thông tin";
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
                     list.clear();
                 }
-                list.add(((ChienTranh) obj).getDienBien());
+                list.add(((SuKien) obj).getDienBien());
                 if (list != null) {
                     title = "Diễn biến";
                     information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));

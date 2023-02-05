@@ -7,7 +7,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane maxHeight="500.0" minHeight="100.0" prefWidth="1800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.BoxDetailController">
+<Pane maxHeight="500.0" minHeight="100.0" prefHeight="500.0" prefWidth="1800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.BoxDetailController">
    <children>
         <Pane layoutX="400.0" prefHeight="100.0" prefWidth="1000.0" style="-fx-background-color: gray;">
             <children>

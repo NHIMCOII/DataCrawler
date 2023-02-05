@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.image.*?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.text.*?>
 <?import java.lang.*?>
@@ -48,6 +49,11 @@
                   <Insets />
                </opaqueInsets>
             </Button>
+            <ImageView fitHeight="302.0" fitWidth="824.0" layoutX="488.0" layoutY="288.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../Downloads/history.png" />
+               </image>
+            </ImageView>
             </children>
         </Pane>
     </children>

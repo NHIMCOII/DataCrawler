@@ -120,7 +120,7 @@ public class Page2Controller implements Initializable {
     }
 
     public void initialize(URL location, ResourceBundle resources) {
-        number.setText(String.valueOf(searchResults.size()));
+        number.setText("Số kết quả: " + String.valueOf(searchResults.size()));
         addNodes(searchResults);
     }
 }

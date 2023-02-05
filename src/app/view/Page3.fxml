@@ -12,7 +12,7 @@
    <children>
       <ScrollPane hbarPolicy="NEVER" layoutY="239.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="613.0" prefWidth="1800.0">
           <content>
-              <VBox fx:id="information" alignment="CENTER" prefHeight="736.0" prefWidth="1800.0" spacing="500.0" />
+              <VBox fx:id="information" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="1800.0" />
           </content>
       </ScrollPane>
       <Pane maxHeight="-Infinity" minHeight="-Infinity" prefHeight="127.0" prefWidth="1800.0">
@@ -43,7 +43,7 @@
                   <Font size="20.0" />
                </font>
             </Button>
-            <Button fx:id="btnSearch" layoutX="1102.0" layoutY="66.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="600.0" style="-fx-background-radius: 2em;" text="Search">
+            <Button fx:id="btnSearch" layoutX="1128.0" layoutY="67.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="600.0" style="-fx-background-radius: 2em;" text="Search">
                <font>
                   <Font size="20.0" />
                </font>
@@ -53,14 +53,17 @@
             </Button>
          </children>
       </Pane>
-          <Pane layoutX="-3.0" layoutY="136.0" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="103.0" prefWidth="1500.0">
+          <Pane layoutX="-3.0" layoutY="136.0" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="103.0" prefWidth="1800.0">
               <children>
-                  <Text fx:id="name" layoutX="382.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="737.0">
+                  <Text fx:id="name" layoutX="532.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="737.0">
                <font>
                   <Font size="20.0" />
                </font>
             </Text>
               </children>
+         <padding>
+            <Insets bottom="20.0" />
+         </padding>
           </Pane>
    </children>
 </Pane>
