@@ -414,6 +414,7 @@ public class Page3Controller implements Initializable {
     public void initialize(URL location, ResourceBundle resources) {
         name.setStyle("-fx-padding: 50; -fx-font-size: 25pt");
         try {
+            list = new ArrayList<>();
             printItem(details);
         } catch (IOException e) {
             throw new RuntimeException(e);
