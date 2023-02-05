@@ -8,12 +8,11 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
 <Pane prefHeight="850.0" prefWidth="1800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page3Controller">
    <children>
-      <ScrollPane hbarPolicy="NEVER" layoutY="207.0" prefHeight="645.0" prefWidth="1800.0">
+      <ScrollPane hbarPolicy="NEVER" layoutY="207.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="645.0" prefWidth="1800.0">
           <content>
-              <VBox fx:id="information" alignment="CENTER" prefHeight="800.0" prefWidth="1800.0" />
+              <VBox fx:id="information" alignment="CENTER" prefHeight="800.0" prefWidth="1800.0" spacing="500.0" />
           </content>
       </ScrollPane>
       <Pane maxHeight="-Infinity" minHeight="-Infinity" prefHeight="127.0" prefWidth="1800.0">

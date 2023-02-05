@@ -7,8 +7,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-  <Pane prefHeight="850.0" prefWidth="1800.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page2Controller">
+<Pane prefHeight="850.0" prefWidth="1800.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page2Controller">
       <children>
             <Button fx:id="btnDiaDiem" layoutX="15.0" layoutY="72.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Địa điểm">
          <font>
@@ -43,7 +42,7 @@
       </Text>
           <ScrollPane hbarPolicy="NEVER" layoutX="15.0" layoutY="199.0" prefHeight="635.0" prefWidth="1770.0">
               <content>
-                  <VBox fx:id="items" prefHeight="200.0" prefWidth="1770.0" />
+                  <VBox fx:id="items" prefHeight="200.0" prefWidth="1770.0" spacing="300.0" />
               </content>
           </ScrollPane>
             <Button fx:id="btnSearch" layoutX="1156.0" layoutY="70.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="600.0" style="-fx-background-radius: 2em;" text="Search">
