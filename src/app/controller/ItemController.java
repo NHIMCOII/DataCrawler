@@ -38,7 +38,8 @@ public class ItemController implements Initializable {
             Page3Controller.details = item;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page3.fxml"));
             Stage window = (Stage) btn.getScene().getWindow();
-            window.setScene(new Scene(root));
+            window.setScene(new Scene(root, 1800, 850));
+            window.setMaximized(true);
         }
     }
 

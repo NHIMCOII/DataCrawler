@@ -7,11 +7,11 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane maxHeight="400.0" maxWidth="-Infinity" minHeight="100.0" minWidth="-Infinity" prefWidth="1770.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.ItemController">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="1770.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.ItemController">
    <children>
       <Button fx:id="btn" maxHeight="400.0" maxWidth="-Infinity" minHeight="100.0" minWidth="-Infinity" mnemonicParsing="false" onAction="#handleBtn" prefWidth="1770.0">
          <graphic>
-            <VBox fx:id="description" />
+            <VBox fx:id="description" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="200.0" prefWidth="1770.0" />
          </graphic>
       </Button>
    </children>

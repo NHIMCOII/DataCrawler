@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.*?>
 <?import javafx.scene.text.*?>
 <?import java.lang.*?>
 <?import java.util.*?>
@@ -7,24 +8,60 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<ScrollPane prefHeight="800.0" prefWidth="1500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page3Controller">
-    <content>
-        <VBox fx:id="information" prefHeight="800.0" prefWidth="1500.0">
-            <children>
-            <Pane prefHeight="50.0">
-               <children>
-                      <Button fx:id="btnBack3" layoutX="14.0" layoutY="10.0" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
-               </children>
-            </Pane>
-                <Pane minHeight="100.0" prefHeight="100.0" prefWidth="1500.0">
-                    <children>
-                        <Text fx:id="name" layoutX="21.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0">
-                     <font>
-                        <Font size="25.0" />
-                     </font></Text>
-                    </children>
-                </Pane>
-            </children>
-        </VBox>
-    </content>
-</ScrollPane>
+
+<Pane prefHeight="850.0" prefWidth="1800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page3Controller">
+   <children>
+      <ScrollPane hbarPolicy="NEVER" layoutY="207.0" prefHeight="645.0" prefWidth="1800.0">
+          <content>
+              <VBox fx:id="information" alignment="CENTER" prefHeight="800.0" prefWidth="1800.0" />
+          </content>
+      </ScrollPane>
+      <Pane maxHeight="-Infinity" minHeight="-Infinity" prefHeight="127.0" prefWidth="1800.0">
+         <children>
+                <Button fx:id="btnBack3" layoutX="14.0" layoutY="10.0" mnemonicParsing="false" onAction="#handleBtn" text="Back" />
+            <Button fx:id="btnThoiKy" layoutX="315.0" layoutY="69.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Thời kỳ">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnSuKien" layoutX="444.0" layoutY="69.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Sự kiện">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnNhanVat" layoutX="186.0" layoutY="69.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Nhân vật">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnDiaDiem" layoutX="57.0" layoutY="69.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Địa điểm">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnLeHoi" layoutX="573.0" layoutY="69.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Lễ hội">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnSearch" layoutX="1102.0" layoutY="66.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="600.0" style="-fx-background-radius: 2em;" text="Search">
+               <font>
+                  <Font size="20.0" />
+               </font>
+               <graphic>
+                  <TextField fx:id="searchBar" prefWidth="500.0" style="-fx-background-radius: 2em;" />
+               </graphic>
+            </Button>
+         </children>
+      </Pane>
+          <Pane layoutX="-3.0" layoutY="136.0" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="71.0" prefWidth="1500.0">
+              <children>
+                  <Text fx:id="name" layoutX="382.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="737.0">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+              </children>
+          </Pane>
+   </children>
+</Pane>
