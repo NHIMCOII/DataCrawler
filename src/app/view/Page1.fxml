@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
 <?import java.lang.*?>
 <?import java.util.*?>
 <?import javafx.scene.*?>
@@ -8,32 +10,44 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.Page1Controller">
     <children>
-        <Pane prefHeight="500.0" prefWidth="750.0">
+        <Pane prefHeight="850.0" prefWidth="1800.0">
             <children>
-                <AnchorPane layoutX="248.0" layoutY="236.0" prefHeight="200.0" prefWidth="200.0">
-                    <children>
-                        <Button fx:id="btnSearch" layoutX="-15.0" layoutY="119.0" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 2em;" text="Search">
-                            <graphic>
-                                <TextField fx:id="searchBar" style="-fx-background-radius: 2em;" />
-                            </graphic>
-                        </Button>
-                    </children>
-                </AnchorPane>
-                <AnchorPane layoutX="324.0" layoutY="43.0" prefHeight="262.0" prefWidth="211.0">
-                    <children>
-                        <ToolBar layoutX="-158.0" layoutY="24.0" prefHeight="127.0" prefWidth="439.0" style="-fx-background-color: white;">
-                            <items>
-                                <Button fx:id="btnDiaDiem" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Địa điểm" />
-                                <Button fx:id="btnLeHoi" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Lễ hội" />
-                                <Button fx:id="btnNhanVat" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Nhân vật" />
-                                <Button fx:id="btnSuKien" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Sự kiện" />
-                                <Button fx:id="btnThoiKy" mnemonicParsing="false" onAction="#handleBtn" style="-fx-background-radius: 1em;" text="Thời kỳ" />
-                            </items>
-                            <opaqueInsets>
-                            </opaqueInsets>
-                        </ToolBar>
-                    </children>
-                </AnchorPane>
+                  <Button fx:id="btnSearch" layoutX="650.0" layoutY="588.0" mnemonicParsing="false" onAction="#handleBtn" prefWidth="500.0" style="-fx-background-radius: 2em;" text="Search">
+                      <graphic>
+                          <TextField fx:id="searchBar" prefHeight="40.0" prefWidth="400.0" style="-fx-background-radius: 2em;" />
+                      </graphic>
+               <font>
+                  <Font size="20.0" />
+               </font>
+                  </Button>
+                    <Button fx:id="btnThoiKy" layoutX="840.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Thời kỳ">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                    <Button fx:id="btnDiaDiem" layoutX="578.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Địa điểm">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                    <Button fx:id="btnLeHoi" layoutX="1102.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Lễ hội">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                    <Button fx:id="btnNhanVat" layoutX="708.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Nhân vật">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+                    <Button fx:id="btnSuKien" layoutX="971.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleBtn" prefHeight="40.0" prefWidth="120.0" text="Sự kiện">
+               <font>
+                  <Font size="20.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Button>
             </children>
         </Pane>
     </children>
