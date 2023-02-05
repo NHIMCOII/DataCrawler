@@ -9,8 +9,7 @@ import app.Main;
 import util.NormalizeTool;
 
 public class SearchKey {
-    public static ArrayList<Object> result = new ArrayList<>();
-    public static Object object = new Object();
+    private static ArrayList<Object> RESULTS = new ArrayList<>();
 
     public static void search(String key) {
 
@@ -33,24 +32,20 @@ public class SearchKey {
 
     }
 
-
-    public static Object searchForValue(Map<String, Object> map, String search) {
-        return map.get(search);
-    }
-
-    public static void toanPhan(Map<String, Object> map, String search) {
+    public static Object toanPhan(Map<String, Object> map, String search) {
         if (map.containsKey(search)) {
-            result.add(map.get(search));
-            object = map.get(search);
+            RESULTS.add(map.get(search));
+            return map.get(search);
         }
+        return null;
     }
 
     public static void motPhan(Map<String, Object> map, String search) {
         for (Entry<String, Object> entry : map.entrySet()) {
             String keyEntry = entry.getKey();
             Object valueEntry = entry.getValue();
-            if (keyEntry.contains(search) && !result.contains(valueEntry)) {
-                result.add(valueEntry);
+            if (keyEntry.contains(search) && !RESULTS.contains(valueEntry)) {
+                RESULTS.add(valueEntry);
             }
         }
     }

@@ -4,6 +4,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
 
+import app.Main;
 import app.search.*;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -14,31 +15,23 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
+import model.dia_diem.DiaDiem;
 
 public class Page1Controller implements Initializable {
-
     @FXML
     private Button btnDiaDiem;
-
     @FXML
     private Button btnSearch;
-
     @FXML
     private Button btnLeHoi;
-
     @FXML
     private Button btnThoiKy;
-
     @FXML
     private Button btnSuKien;
-
     @FXML
     private Button btnNhanVat;
-
     @FXML
     private TextField searchBar;
-
-    protected static ArrayList<Object> kq = new ArrayList<>();
 
     public void handleBtn(ActionEvent event) throws Exception {
         if (event.getSource() == btnSearch) {
@@ -49,35 +42,40 @@ public class Page1Controller implements Initializable {
 
         }
         if (event.getSource() == btnDiaDiem) {
-            SearchMap.searchDiaDiem();
+            Page2Controller.searchResults = SearchMap.searchMap(Main.mapDiaDiem);
+            SearchMap.DIA_DIEM = Page2Controller.searchResults;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnDiaDiem.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
         if (event.getSource() == btnLeHoi) {
-            SearchMap.searchLeHoi();
+            Page2Controller.searchResults = SearchMap.searchMap(Main.mapLeHoi);
+            SearchMap.NHAN_VAT = Page2Controller.searchResults;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnLeHoi.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
         if (event.getSource() == btnNhanVat) {
-            SearchMap.searchNhanVat();
+            Page2Controller.searchResults = SearchMap.searchMap(Main.mapNhanVat);
+            SearchMap.NHAN_VAT = Page2Controller.searchResults;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnNhanVat.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
         if (event.getSource() == btnSuKien) {
-            SearchMap.searchSuKien();
+            Page2Controller.searchResults = SearchMap.searchMap(Main.mapSuKien);
+            SearchMap.SU_KIEN = Page2Controller.searchResults;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSuKien.getScene().getWindow();
             window.setScene(new Scene(root));
 
         }
         if (event.getSource() == btnThoiKy) {
-            SearchMap.searchThoiKy();
+            Page2Controller.searchResults = SearchMap.searchMap(Main.mapThoiKy);
+            SearchMap.THOI_KY = Page2Controller.searchResults;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnThoiKy.getScene().getWindow();
             window.setScene(new Scene(root));
@@ -86,7 +84,5 @@ public class Page1Controller implements Initializable {
     }
 
     public void initialize(URL location, ResourceBundle resources) {
-
-
     }
 }

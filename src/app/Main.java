@@ -25,8 +25,6 @@ import com.google.gson.reflect.TypeToken;
 
 
 public class Main extends Application {
-
-    private double x, y;
     public static Map<String, Object> mapThoiKy = new LinkedHashMap<>();
     public static Map<String, Object> mapLeHoi = new TreeMap<>();
     public static Map<String, Object> mapNhanVat = new TreeMap<>();
@@ -35,9 +33,11 @@ public class Main extends Application {
     public static Object detail;
     public static String tempTitle = "";
 
-    public void readFile() {
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+    public static void main(String[] args) {
+        launch(args);
+    }
 
+    public void readFile() {
         String pathThoiKy, pathLeHoi, pathDiaDiem, pathSuKien, pathNhanVat;
         String thoiKy = new File("").getAbsolutePath();
         thoiKy = thoiKy.concat("\\src\\data\\ThoiKy.json");
@@ -49,6 +49,7 @@ public class Main extends Application {
         suKien = suKien.concat("\\src\\data\\SuKien.json");
         String nhanVat = new File("").getAbsolutePath();
         nhanVat = nhanVat.concat("\\src\\data\\NhanVat.json");
+
         try {
             pathThoiKy = new String(Files.readAllBytes(Paths.get(thoiKy)));
             mapThoiKy = new Gson().fromJson(pathThoiKy,
@@ -97,10 +98,5 @@ public class Main extends Application {
 //
 //        });
         primaryStage.show();
-    }
-
-
-    public static void main(String[] args) {
-        launch(args);
     }
 }
