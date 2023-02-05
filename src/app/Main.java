@@ -82,8 +82,8 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception {
         readFile();
         Parent root = FXMLLoader.load(getClass().getResource("./view/Page1.fxml"));
-        primaryStage.setScene(new Scene(root));
-        //set stage borderless
+        primaryStage.setScene(new Scene(root, 1800, 850));
+        primaryStage.setMaximized(true);
         primaryStage.initStyle(StageStyle.DECORATED);
 
         //drag it here

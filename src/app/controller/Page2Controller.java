@@ -23,7 +23,6 @@ import java.util.ResourceBundle;
 public class Page2Controller implements Initializable {
 
     public static String result = "";
-    public static Object output = new Object();
     public static ArrayList<Object> searchResults = new ArrayList<>();
     public Text number;
     public Node[] nodes = new Node[searchResults.size()];
@@ -113,21 +112,21 @@ public class Page2Controller implements Initializable {
         }
     }
 
-    public void search(ArrayList<Object> results) {
+    public void addNodes(ArrayList<Object> results) {
         for (int i = 0; i < nodes.length; i++) {
             try {
-                output = results.get(i);
-                nodes[i] = FXMLLoader.load(getClass().getResource("../view/Item.fxml"));
+                ItemController itemController = new ItemController();
+                itemController.item = results.get(i);
+                items.getChildren().add(FXMLLoader.load(getClass().getResource("../view/Item.fxml")));
             } catch (IOException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
-            items.getChildren().add(nodes[i]);
         }
     }
 
     public void initialize(URL location, ResourceBundle resources) {
         number.setText(String.valueOf(searchResults.size()));
-        search(searchResults);
+        addNodes(searchResults);
     }
 }

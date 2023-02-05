@@ -54,17 +54,22 @@ public class Page3Controller implements Initializable {
         if (obj instanceof DiTich) {
             if (((DiTich) obj).getLoai() != null) {
                 if (((DiTich) obj).getViTri() != null)
-                    basicInfo.getChildren().add((new Text("Vị trí: " + ((DiTich) obj).getViTri())));
+                    list.add("Vị trí: " + ((DiTich) obj).getViTri());
                 if (((DiTich) obj).getLoai() != null)
-                    basicInfo.getChildren().add((new Text("Loại: " + ((DiTich) obj).getLoai())));
+                    list.add("Loại: " + ((DiTich) obj).getLoai());
                 if (((DiTich) obj).getNamCongNhan() != null)
-                    basicInfo.getChildren().add((new Text("Năm công nhận: " + ((DiTich) obj).getNamCongNhan())));
+                    list.add("Năm công nhận: " + ((DiTich) obj).getNamCongNhan());
                 if (((DiTich) obj).getKhuVuc() != null)
-                    basicInfo.getChildren().add((new Text("Khu vực: " + ((DiTich) obj).getKhuVuc())));
+                    list.add("Khu vực: " + ((DiTich) obj).getKhuVuc());
                 if (((DiTich) obj).getDienTich() != null)
-                    basicInfo.getChildren().add((new Text("Diện tích: " + ((DiTich) obj).getDienTich())));
+                    list.add("Diện tích: " + ((DiTich) obj).getDienTich());
                 if (((DiTich) obj).getNamThanhLap() != null)
-                    basicInfo.getChildren().add((new Text("Năm thành lập: " + ((DiTich) obj).getNamThanhLap())));
+                    list.add("Năm thành lập: " + ((DiTich) obj).getNamThanhLap());
+                if (list != null) {
+                    title = "Thông tin";
+                    information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
+                    list.clear();
+                }
                 list.add(((DiTich) obj).getLichSu());
                 if (list != null) {
                     title = "Lịch sử";
@@ -96,11 +101,16 @@ public class Page3Controller implements Initializable {
             } else {
                 name.setText(((DiaDiem) obj).getTen());
                 if (((DiaDiem) obj).getKhuVuc() != null)
-                    basicInfo.getChildren().add((new Text("Khu vực: " + ((DiaDiem) obj).getKhuVuc())));
+                    list.add("Khu vực: " + ((DiaDiem) obj).getKhuVuc());
                 if (((DiaDiem) obj).getDienTich() != null)
-                    basicInfo.getChildren().add((new Text("Diện tích: " + ((DiaDiem) obj).getDienTich())));
+                    list.add("Diện tích: " + ((DiaDiem) obj).getDienTich());
                 if (((DiaDiem) obj).getNamThanhLap() != null)
-                    basicInfo.getChildren().add((new Text("Năm thành lập: " + ((DiaDiem) obj).getNamThanhLap())));
+                    list.add("Năm thành lập: " + ((DiaDiem) obj).getNamThanhLap());
+                if (list != null) {
+                    title = "Thông tin";
+                    information.getChildren().add(FXMLLoader.load(getClass().getResource("../view/boxDetail.fxml")));
+                    list.clear();
+                }
                 list.add(((DiaDiem) obj).getLichSu());
                 if (list != null) {
                     title = "Lịch sử";

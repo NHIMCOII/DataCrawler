@@ -29,69 +29,72 @@ public class ItemController implements Initializable {
     private VBox description = new VBox();
     @FXML
     private Button btn;
-    public Object listResult = new Object();
+    public Object item = new Object();
     Text text = new Text();
 
     public void handleBtn(ActionEvent event) throws Exception {
         if (event.getSource() == btn) {
-            Main.detail = listResult;
+            Main.detail = item;
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page3.fxml"));
             Stage window = (Stage) btn.getScene().getWindow();
             window.setScene(new Scene(root));
         }
     }
 
-    public void initialize(URL location, ResourceBundle resources) {
-        listResult = Page2Controller.output;
-        if (listResult instanceof DiTich) {
-            if (((DiTich) listResult).getLoai() != null) {
-                description.getChildren().add(new Text(((DiTich) listResult).getTen()));
-                description.getChildren().add(new Text("Type: " + ((DiTich) listResult).getTypeModel() + "\n\nDescription: "));
-                text = new Text(((DiTich) listResult).getDescriptionDiTich());
+    public ItemController() {
+        if (item instanceof DiTich) {
+            if (((DiTich) item).getLoai() != null) {
+                description.getChildren().add(new Text(((DiTich) item).getTen()));
+                description.getChildren().add(new Text("Type: " + ((DiTich) item).getTypeModel() + "\n\nDescription: "));
+                text = new Text(((DiTich) item).getDescriptionDiTich());
                 description.getChildren().add(text);
             } else {
-                description.getChildren().add(new Text(((DiaDiem) listResult).getTen()));
-                description.getChildren().add(new Text("Type: " + ((DiaDiem) listResult).getTypeModel() + "\n\nDescription: "));
-                text = new Text(((DiaDiem) listResult).getDescriptionDiaDiem());
+                description.getChildren().add(new Text(((DiaDiem) item).getTen()));
+                description.getChildren().add(new Text("Type: " + ((DiaDiem) item).getTypeModel() + "\n\nDescription: "));
+                text = new Text(((DiaDiem) item).getDescriptionDiaDiem());
                 description.getChildren().add(text);
             }
-        } else if (listResult instanceof Vua) {
-            if (((Vua) listResult).getTriVi() != null) {
-                description.getChildren().add(new Text(((Vua) listResult).getTen()));
-                description.getChildren().add(new Text("Type: " + ((Vua) listResult).getTypeModel() + "\n\nDescription: "));
-                text = new Text(((Vua) listResult).getDescriptionVua());
+        } else if (item instanceof Vua) {
+            if (((Vua) item).getTriVi() != null) {
+                description.getChildren().add(new Text(((Vua) item).getTen()));
+                description.getChildren().add(new Text("Type: " + ((Vua) item).getTypeModel() + "\n\nDescription: "));
+                text = new Text(((Vua) item).getDescriptionVua());
                 description.getChildren().add(text);
             } else {
-                description.getChildren().add(new Text(((NhanVat) listResult).getTen()));
-                description.getChildren().add(new Text("Type: " + ((NhanVat) listResult).getTypeModel() + "\n\nDescription: "));
-                text = new Text(((NhanVat) listResult).getDescriptionNhanvat());
+                description.getChildren().add(new Text(((NhanVat) item).getTen()));
+                description.getChildren().add(new Text("Type: " + ((NhanVat) item).getTypeModel() + "\n\nDescription: "));
+                text = new Text(((NhanVat) item).getDescriptionNhanvat());
                 description.getChildren().add(text);
             }
-        } else if (listResult instanceof LeHoi) {
-            description.getChildren().add(new Text(((LeHoi) listResult).getTen()));
-            description.getChildren().add(new Text("Type: " + ((LeHoi) listResult).getTypeModel() + "\n\nDescription: "));
-            text = new Text(((LeHoi) listResult).getDescriptionLeHoi());
+        } else if (item instanceof LeHoi) {
+            description.getChildren().add(new Text(((LeHoi) item).getTen()));
+            description.getChildren().add(new Text("Type: " + ((LeHoi) item).getTypeModel() + "\n\nDescription: "));
+            text = new Text(((LeHoi) item).getDescriptionLeHoi());
             description.getChildren().add(text);
-        } else if (listResult instanceof ChienTranh) {
-            if (((ChienTranh) listResult).getKetQua() != null || ((ChienTranh) listResult).getDongMinh() != null) {
-                description.getChildren().add(new Text(((ChienTranh) listResult).getTen()));
-                description.getChildren().add(new Text("Type: " + ((ChienTranh) listResult).getTypeModel() + "\n\nDescription: "));
-                text = new Text(((ChienTranh) listResult).getDescriptionChienTranh());
+        } else if (item instanceof ChienTranh) {
+            if (((ChienTranh) item).getKetQua() != null || ((ChienTranh) item).getDongMinh() != null) {
+                description.getChildren().add(new Text(((ChienTranh) item).getTen()));
+                description.getChildren().add(new Text("Type: " + ((ChienTranh) item).getTypeModel() + "\n\nDescription: "));
+                text = new Text(((ChienTranh) item).getDescriptionChienTranh());
                 description.getChildren().add(text);
             } else {
-                description.getChildren().add(new Text(((SuKien) listResult).getTen()));
-                description.getChildren().add(new Text("Type: " + ((SuKien) listResult).getTypeModel() + "\n\nDescription: "));
-                text = new Text(((SuKien) listResult).getDescriptionSuKien());
+                description.getChildren().add(new Text(((SuKien) item).getTen()));
+                description.getChildren().add(new Text("Type: " + ((SuKien) item).getTypeModel() + "\n\nDescription: "));
+                text = new Text(((SuKien) item).getDescriptionSuKien());
                 description.getChildren().add(text);
             }
-        } else if (listResult instanceof ThoiKy) {
-            description.getChildren().add(new Text(((ThoiKy) listResult).getTen()));
-            description.getChildren().add(new Text("Type: " + ((ThoiKy) listResult).getTypeModel() + "\n\nDescription: "));
-            text = new Text(((ThoiKy) listResult).getDescriptionThoiKy());
+        } else if (item instanceof ThoiKy) {
+            description.getChildren().add(new Text(((ThoiKy) item).getTen()));
+            description.getChildren().add(new Text("Type: " + ((ThoiKy) item).getTypeModel() + "\n\nDescription: "));
+            text = new Text(((ThoiKy) item).getDescriptionThoiKy());
             description.getChildren().add(text);
         }
         text.setWrappingWidth(1400);
         text.setStyle("-fx-font-size: 10pt");
         description.setStyle("-fx-padding: 30; -fx-font-size: 14pt");
+    }
+
+    public void initialize(URL location, ResourceBundle resources) {
+
     }
 }
