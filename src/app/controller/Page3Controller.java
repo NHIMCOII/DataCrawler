@@ -32,6 +32,7 @@ public class Page3Controller implements Initializable {
     public static Map<String, String> map = new LinkedHashMap<>();
     public static String title = "";
     public static Object details;
+    public static String TAG;
     public Button btnBack3;
     public Object obj = new Object();
     Text text = new Text();
