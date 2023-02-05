@@ -37,7 +37,6 @@ public class LinkController implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page3.fxml"));
             Stage window = (Stage) linkBtn.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
     }
 

@@ -53,7 +53,6 @@ public class Page2Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSearch.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnDiaDiem) {
             if (SearchMap.DIA_DIEM == null) {
@@ -63,7 +62,6 @@ public class Page2Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnDiaDiem.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnLeHoi) {
             if (SearchMap.LE_HOI == null) {
@@ -73,7 +71,6 @@ public class Page2Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnLeHoi.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnNhanVat) {
             if (SearchMap.NHAN_VAT == null) {
@@ -83,7 +80,6 @@ public class Page2Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnNhanVat.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnSuKien) {
             if (SearchMap.SU_KIEN == null) {
@@ -93,7 +89,6 @@ public class Page2Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSuKien.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnThoiKy) {
             if (SearchMap.THOI_KY == null) {
@@ -103,13 +98,11 @@ public class Page2Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnThoiKy.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnBack) {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page1.fxml"));
             Stage window = (Stage) btnBack.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
     }
 

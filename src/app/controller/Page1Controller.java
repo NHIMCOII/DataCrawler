@@ -39,7 +39,6 @@ public class Page1Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSearch.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnDiaDiem) {
             Page2Controller.searchResults = SearchMap.searchMap(Main.mapDiaDiem);
@@ -47,7 +46,6 @@ public class Page1Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnDiaDiem.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnLeHoi) {
             Page2Controller.searchResults = SearchMap.searchMap(Main.mapLeHoi);
@@ -55,7 +53,6 @@ public class Page1Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnLeHoi.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnNhanVat) {
             Page2Controller.searchResults = SearchMap.searchMap(Main.mapNhanVat);
@@ -63,7 +60,6 @@ public class Page1Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnNhanVat.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnSuKien) {
             Page2Controller.searchResults = SearchMap.searchMap(Main.mapSuKien);
@@ -71,7 +67,6 @@ public class Page1Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnSuKien.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
         if (event.getSource() == btnThoiKy) {
             Page2Controller.searchResults = SearchMap.searchMap(Main.mapThoiKy);
@@ -79,7 +74,6 @@ public class Page1Controller implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnThoiKy.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
     }
 

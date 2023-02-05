@@ -11,6 +11,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
@@ -27,6 +28,7 @@ public class ItemController implements Initializable {
 
     public static Object ITEM;
     public Object item;
+    public Pane pane;
     Text text = new Text();
     @FXML
     private VBox description = new VBox();
@@ -39,7 +41,6 @@ public class ItemController implements Initializable {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page3.fxml"));
             Stage window = (Stage) btn.getScene().getWindow();
             window.setScene(new Scene(root, 1800, 850));
-            window.setMaximized(true);
         }
     }
 
@@ -70,6 +71,8 @@ public class ItemController implements Initializable {
                 text = new Text(((NhanVat) ITEM).getDescriptionNhanvat());
                 description.getChildren().add(text);
             }
+            btn.setPrefHeight(400);
+            pane.setPrefHeight(400);
         } else if (ITEM instanceof LeHoi) {
             description.getChildren().add(new Text(((LeHoi) ITEM).getTen()));
             description.getChildren().add(new Text("Type: " + ((LeHoi) ITEM).getTypeModel() + "\n\nDescription: "));
@@ -93,7 +96,7 @@ public class ItemController implements Initializable {
             text = new Text(((ThoiKy) ITEM).getDescriptionThoiKy());
             description.getChildren().add(text);
         }
-        text.setWrappingWidth(1400);
+        text.setWrappingWidth(1500);
         text.setStyle("-fx-font-size: 10pt");
         description.setStyle("-fx-padding: 30; -fx-font-size: 14pt");
     }

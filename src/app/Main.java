@@ -83,7 +83,6 @@ public class Main extends Application {
         readFile();
         Parent root = FXMLLoader.load(getClass().getResource("./view/Page1.fxml"));
         primaryStage.setScene(new Scene(root, 1800, 850));
-        primaryStage.setMaximized(true);
         primaryStage.initStyle(StageStyle.DECORATED);
 
         //drag it here

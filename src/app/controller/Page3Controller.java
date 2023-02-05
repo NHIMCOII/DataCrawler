@@ -47,7 +47,7 @@ public class Page3Controller implements Initializable {
         if (event.getSource() == btnBack3) {
             Parent root = FXMLLoader.load(getClass().getResource("../view/Page2.fxml"));
             Stage window = (Stage) btnBack3.getScene().getWindow();
-            window.setScene(new Scene(root));
+            window.setScene(new Scene(root, 1800, 850));
         }
     }
 

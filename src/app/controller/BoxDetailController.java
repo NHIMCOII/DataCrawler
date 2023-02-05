@@ -63,6 +63,6 @@ public class BoxDetailController implements Initializable {
                 box.getChildren().add(new Text("  Link: " + Page3Controller.listTrieuDai.get(i).getLinks() + "\n"));
             }
         }
-        text.setWrappingWidth(400);
+        text.setWrappingWidth(1000);
     }
 }
