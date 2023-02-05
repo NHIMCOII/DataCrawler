@@ -7,19 +7,18 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-<Pane prefWidth="1800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.BoxDetailController">
+<Pane maxHeight="500.0" minHeight="100.0" prefWidth="1800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.BoxDetailController">
    <children>
         <Pane layoutX="400.0" prefHeight="100.0" prefWidth="1000.0" style="-fx-background-color: gray;">
             <children>
-                <Text fx:id="title" layoutX="222.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="556.0">
+                <Text fx:id="title" layoutX="222.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="556.0">
                     <font>
                         <Font size="20.0" />
                     </font>
                 </Text>
             </children>
         </Pane>
-        <ScrollPane layoutX="400.0" layoutY="100.0" maxHeight="500.0" maxWidth="-Infinity" minHeight="100.0" minWidth="-Infinity" prefHeight="300.0" prefWidth="1000.0">
+        <ScrollPane hbarPolicy="NEVER" layoutX="400.0" layoutY="100.0" maxHeight="500.0" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="1000.0">
             <content>
                 <VBox fx:id="box" maxHeight="1.7976931348623157E308" prefWidth="1500.0" />
             </content>
